@@ -1,0 +1,159 @@
+{
+  "assembly": "outputs\\microduck-cuerpo-suave-v15\\fabricacion-v15\\KIT_V15_R2_FABRICACION\\ASSEMBLY_FABRICACION_CANDIDATO_V15.json",
+  "assembly_sha256": "d1e061923094f4cd2fcfbbeb800a2daeffc9b78ee9077f8575ebd8b72b0ccbb4",
+  "baseline": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/FINAL_ASSEMBLY_V15.json",
+  "baseline_sha256": "cd52b2ff9fdf53c357115a0c20570acd62b48e0d0ecc6cb703950698f3191264",
+  "groups": [
+    {
+      "group": "body_shell",
+      "original_bounds_mm": [
+        [
+          -78.0,
+          -44.11013371123233,
+          113.48958464918252
+        ],
+        [
+          43.0,
+          44.11013371123233,
+          170.95023480168356
+        ]
+      ],
+      "final_bounds_mm": [
+        [
+          -78.0,
+          -44.11013371123233,
+          113.48958464918252
+        ],
+        [
+          43.0,
+          44.11013453827939,
+          170.95023480168356
+        ]
+      ],
+      "checks": [
+        {
+          "view": "TOP_XY",
+          "original_mm2": 8951.352977142276,
+          "final_mm2": 8971.432381505569,
+          "lost_mm2": 0.0010876473223133676,
+          "added_mm2": 20.080492008065818
+        },
+        {
+          "view": "SIDE_XZ",
+          "original_mm2": 6142.053340347428,
+          "final_mm2": 6164.772196270802,
+          "lost_mm2": 0.9888248558919113,
+          "added_mm2": 23.70768078203404
+        },
+        {
+          "view": "FRONT_YZ",
+          "original_mm2": 4471.876704832801,
+          "final_mm2": 4526.623368826481,
+          "lost_mm2": 0.00013882502066039915,
+          "added_mm2": 54.74680279074403
+        }
+      ]
+    },
+    {
+      "group": "complete_head",
+      "original_bounds_mm": [
+        [
+          -47.50105667114258,
+          -45.881492614746094,
+          214.03772157783607
+        ],
+        [
+          75.18905639648438,
+          46.031328049242276,
+          274.4340515136719
+        ]
+      ],
+      "final_bounds_mm": [
+        [
+          -47.50105667114258,
+          -45.881492614746094,
+          214.03772157783607
+        ],
+        [
+          75.18905639648438,
+          46.031328049242276,
+          274.4340515136719
+        ]
+      ],
+      "checks": [
+        {
+          "view": "TOP_XY",
+          "original_mm2": 9862.51259225078,
+          "final_mm2": 9862.462829346157,
+          "lost_mm2": 0.04990020469333009,
+          "added_mm2": 0.00013725401125239123
+        },
+        {
+          "view": "SIDE_XZ",
+          "original_mm2": 6176.875712424723,
+          "final_mm2": 6176.874894261042,
+          "lost_mm2": 0.0008558557975475167,
+          "added_mm2": 3.7601217629051886e-05
+        },
+        {
+          "view": "FRONT_YZ",
+          "original_mm2": 4748.368670851359,
+          "final_mm2": 4748.368215457854,
+          "lost_mm2": 0.0005238310835533888,
+          "added_mm2": 6.843697488612133e-05
+        }
+      ]
+    },
+    {
+      "group": "whole_robot_printed_parts",
+      "original_bounds_mm": [
+        [
+          -78.0,
+          -73.20477294921875,
+          2.8179263019868444
+        ],
+        [
+          75.18905639648438,
+          73.20475006103516,
+          274.4340515136719
+        ]
+      ],
+      "final_bounds_mm": [
+        [
+          -78.0,
+          -73.20477279585509,
+          2.81792682718142
+        ],
+        [
+          75.18905639648438,
+          73.20474998134819,
+          274.4340515136719
+        ]
+      ],
+      "checks": [
+        {
+          "view": "TOP_XY",
+          "original_mm2": 17001.510986483983,
+          "final_mm2": 17017.176040102797,
+          "lost_mm2": 0.025323681118311986,
+          "added_mm2": 15.69037721787482
+        },
+        {
+          "view": "SIDE_XZ",
+          "original_mm2": 17838.278399978408,
+          "final_mm2": 18154.01739016009,
+          "lost_mm2": 54.051251483704846,
+          "added_mm2": 369.7902415623838
+        },
+        {
+          "view": "FRONT_YZ",
+          "original_mm2": 20444.89945275619,
+          "final_mm2": 20874.639656443254,
+          "lost_mm2": 0.5077994155290088,
+          "added_mm2": 430.2480031949325
+        }
+      ]
+    }
+  ],
+  "scope": "Orthographic outer outlines with internal holes filled; functional neck opening, service seams and internal mechanical changes are separately documented. Not equality of all surface triangles."
+}

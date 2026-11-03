@@ -1,0 +1,2979 @@
+{
+  "schema": "V15_ACTUAL_15_CASES_MG_AND_EAR_TOOL_PATHS",
+  "source_assembly_file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/KIT_V15_R2_FABRICACION/ASSEMBLY_FABRICACION_CANDIDATO_V15.json",
+  "source_assembly_sha256": "d1e061923094f4cd2fcfbbeb800a2daeffc9b78ee9077f8575ebd8b72b0ccbb4",
+  "target_PRINTs": {
+    "0": "12CASE_TORSO_CONTINUO",
+    "1": "12CASE_TORSO_CONTINUO",
+    "2": "V7_TAPA_BRAZO_00",
+    "3": "V7_MOD_UPPER_LEG_LEFT",
+    "4": "V7_MOD_UPPER_LEG_LEFT",
+    "5": "V7_MOD_LEG",
+    "6": "V7_MOD_NECK",
+    "7": "V7_MOD_NECK",
+    "8": "V7_TAPA_BRAZO_10",
+    "9": "V15_SERVICE_FRONT_JAW_SOFT",
+    "10": "V7_HEADCORE_ANCLADO",
+    "11": "V7_TAPA_BRAZO_01",
+    "12": "V7_MOD_UPPER_LEG_RIGHT",
+    "13": "V7_MOD_UPPER_LEG_RIGHT",
+    "14": "V7_MOD_LEG_2"
+  },
+  "checks": [
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 0,
+      "component": "V7_SRC_V4_MD_00_eje_metal",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 0,
+      "component": "V7_SRC_V4_MD_00_MG90S_CUERPO",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 0,
+      "component": "V7_SRC_V4_MD_00_pestana",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 0,
+      "component": "V7_SRC_V4_MD_00_pestana.001",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 0,
+      "component": "V7_SRC_V4_MD_00_tapa",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 0,
+      "component": "V7_SRC_V4_MD_00_tornillo_tapa",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 0,
+      "component": "V7_SRC_V4_MD_00_tornillo_tapa.001",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 0,
+      "component": "V7_SRC_V4_MD_00_tornillo_tapa.002",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 0,
+      "component": "V7_SRC_V4_MD_00_tornillo_tapa.003",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 0,
+      "component": "V7_SRC_V4_MD_00_torre_auxiliar",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 0,
+      "component": "V7_SRC_V4_MD_00_torre_salida",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 0,
+      "ear": "F",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 0,
+      "ear": "F",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 0,
+      "ear": "F",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 0,
+      "ear": "F",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 0,
+      "ear": "R",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 0,
+      "ear": "R",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 0,
+      "ear": "R",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 0,
+      "ear": "R",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 1,
+      "component": "V7_SRC_V4_MD_01_eje_metal",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        -0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 1,
+      "component": "V7_SRC_V4_MD_01_MG90S_CUERPO",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        -0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 1,
+      "component": "V7_SRC_V4_MD_01_pestana",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        -0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 1,
+      "component": "V7_SRC_V4_MD_01_pestana.001",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        -0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 1,
+      "component": "V7_SRC_V4_MD_01_tapa",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        -0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 1,
+      "component": "V7_SRC_V4_MD_01_tornillo_tapa",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        -0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 1,
+      "component": "V7_SRC_V4_MD_01_tornillo_tapa.001",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        -0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 1,
+      "component": "V7_SRC_V4_MD_01_tornillo_tapa.002",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        -0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 1,
+      "component": "V7_SRC_V4_MD_01_tornillo_tapa.003",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        -0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 1,
+      "component": "V7_SRC_V4_MD_01_torre_auxiliar",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        -0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 1,
+      "component": "V7_SRC_V4_MD_01_torre_salida",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "translation_world_mm": [
+        0.0,
+        -0.0,
+        -120.0
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 1,
+      "ear": "F",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 1,
+      "ear": "F",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 1,
+      "ear": "F",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 1,
+      "ear": "F",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 1,
+      "ear": "R",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 1,
+      "ear": "R",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 1,
+      "ear": "R",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 1,
+      "ear": "R",
+      "target_PRINT": "12CASE_TORSO_CONTINUO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 2,
+      "component": "V7_SRC_V4_MD_02_eje_metal",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "translation_world_mm": [
+        119.99999999999893,
+        0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 2,
+      "component": "V7_SRC_V4_MD_02_MG90S_CUERPO",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "translation_world_mm": [
+        119.99999999999893,
+        0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 2,
+      "component": "V7_SRC_V4_MD_02_pestana",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "translation_world_mm": [
+        119.99999999999893,
+        0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 2,
+      "component": "V7_SRC_V4_MD_02_pestana.001",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "translation_world_mm": [
+        119.99999999999893,
+        0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 2,
+      "component": "V7_SRC_V4_MD_02_tapa",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "translation_world_mm": [
+        119.99999999999893,
+        0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 2,
+      "component": "V7_SRC_V4_MD_02_tornillo_tapa",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "translation_world_mm": [
+        119.99999999999893,
+        0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 2,
+      "component": "V7_SRC_V4_MD_02_tornillo_tapa.001",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "translation_world_mm": [
+        119.99999999999893,
+        0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 2,
+      "component": "V7_SRC_V4_MD_02_tornillo_tapa.002",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "translation_world_mm": [
+        119.99999999999893,
+        0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 2,
+      "component": "V7_SRC_V4_MD_02_tornillo_tapa.003",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "translation_world_mm": [
+        119.99999999999893,
+        0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 2,
+      "component": "V7_SRC_V4_MD_02_torre_auxiliar",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "translation_world_mm": [
+        119.99999999999893,
+        0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 2,
+      "component": "V7_SRC_V4_MD_02_torre_salida",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "translation_world_mm": [
+        119.99999999999893,
+        0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 2,
+      "ear": "F",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 2,
+      "ear": "F",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 2,
+      "ear": "F",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 2,
+      "ear": "F",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 2,
+      "ear": "R",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 2,
+      "ear": "R",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 2,
+      "ear": "R",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 2,
+      "ear": "R",
+      "target_PRINT": "V7_TAPA_BRAZO_00",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 3,
+      "component": "V7_SRC_V4_MD_03_eje_metal",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        1.2893285186113455e-05,
+        -119.54336357174583,
+        10.45869140730439
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 3,
+      "component": "V7_SRC_V4_MD_03_MG90S_CUERPO",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        1.2893285186113455e-05,
+        -119.54336357174583,
+        10.45869140730439
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 3,
+      "component": "V7_SRC_V4_MD_03_pestana",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        1.2893285186113455e-05,
+        -119.54336357174583,
+        10.45869140730439
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 3,
+      "component": "V7_SRC_V4_MD_03_pestana.001",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        1.2893285186113455e-05,
+        -119.54336357174583,
+        10.45869140730439
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 3,
+      "component": "V7_SRC_V4_MD_03_tapa",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        1.2893285186113455e-05,
+        -119.54336357174583,
+        10.45869140730439
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 3,
+      "component": "V7_SRC_V4_MD_03_tornillo_tapa",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        1.2893285186113455e-05,
+        -119.54336357174583,
+        10.45869140730439
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 3,
+      "component": "V7_SRC_V4_MD_03_tornillo_tapa.001",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        1.2893285186113455e-05,
+        -119.54336357174583,
+        10.45869140730439
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 3,
+      "component": "V7_SRC_V4_MD_03_tornillo_tapa.002",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        1.2893285186113455e-05,
+        -119.54336357174583,
+        10.45869140730439
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 3,
+      "component": "V7_SRC_V4_MD_03_tornillo_tapa.003",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        1.2893285186113455e-05,
+        -119.54336357174583,
+        10.45869140730439
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 3,
+      "component": "V7_SRC_V4_MD_03_torre_auxiliar",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        1.2893285186113455e-05,
+        -119.54336357174583,
+        10.45869140730439
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 3,
+      "component": "V7_SRC_V4_MD_03_torre_salida",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        1.2893285186113455e-05,
+        -119.54336357174583,
+        10.45869140730439
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 3,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 3,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 3,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 3,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 3,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 3,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 3,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 3,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 4,
+      "component": "V7_SRC_V4_MD_04_eje_metal",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        -1.5686490699853968e-06,
+        -119.54336420831387,
+        10.45868413130544
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 4,
+      "component": "V7_SRC_V4_MD_04_MG90S_CUERPO",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        -1.5686490699853968e-06,
+        -119.54336420831387,
+        10.45868413130544
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 4,
+      "component": "V7_SRC_V4_MD_04_pestana",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        -1.5686490699853968e-06,
+        -119.54336420831387,
+        10.45868413130544
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 4,
+      "component": "V7_SRC_V4_MD_04_pestana.001",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        -1.5686490699853968e-06,
+        -119.54336420831387,
+        10.45868413130544
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 4,
+      "component": "V7_SRC_V4_MD_04_tapa",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        -1.5686490699853968e-06,
+        -119.54336420831387,
+        10.45868413130544
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 4,
+      "component": "V7_SRC_V4_MD_04_tornillo_tapa",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        -1.5686490699853968e-06,
+        -119.54336420831387,
+        10.45868413130544
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 4,
+      "component": "V7_SRC_V4_MD_04_tornillo_tapa.001",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        -1.5686490699853968e-06,
+        -119.54336420831387,
+        10.45868413130544
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 4,
+      "component": "V7_SRC_V4_MD_04_tornillo_tapa.002",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        -1.5686490699853968e-06,
+        -119.54336420831387,
+        10.45868413130544
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 4,
+      "component": "V7_SRC_V4_MD_04_tornillo_tapa.003",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        -1.5686490699853968e-06,
+        -119.54336420831387,
+        10.45868413130544
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 4,
+      "component": "V7_SRC_V4_MD_04_torre_auxiliar",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        -1.5686490699853968e-06,
+        -119.54336420831387,
+        10.45868413130544
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 4,
+      "component": "V7_SRC_V4_MD_04_torre_salida",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "translation_world_mm": [
+        -1.5686490699853968e-06,
+        -119.54336420831387,
+        10.45868413130544
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 4,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 4,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 4,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 4,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 4,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 4,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 4,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 4,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_LEFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 5,
+      "component": "V7_SRC_V4_MD_05_eje_metal",
+      "target_PRINT": "V7_MOD_LEG",
+      "translation_world_mm": [
+        -1.9949556487203274e-05,
+        119.54336479821822,
+        -10.458677388643538
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 5,
+      "component": "V7_SRC_V4_MD_05_MG90S_CUERPO",
+      "target_PRINT": "V7_MOD_LEG",
+      "translation_world_mm": [
+        -1.9949556487203274e-05,
+        119.54336479821822,
+        -10.458677388643538
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 5,
+      "component": "V7_SRC_V4_MD_05_pestana",
+      "target_PRINT": "V7_MOD_LEG",
+      "translation_world_mm": [
+        -1.9949556487203274e-05,
+        119.54336479821822,
+        -10.458677388643538
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 5,
+      "component": "V7_SRC_V4_MD_05_pestana.001",
+      "target_PRINT": "V7_MOD_LEG",
+      "translation_world_mm": [
+        -1.9949556487203274e-05,
+        119.54336479821822,
+        -10.458677388643538
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 5,
+      "component": "V7_SRC_V4_MD_05_tapa",
+      "target_PRINT": "V7_MOD_LEG",
+      "translation_world_mm": [
+        -1.9949556487203274e-05,
+        119.54336479821822,
+        -10.458677388643538
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 5,
+      "component": "V7_SRC_V4_MD_05_tornillo_tapa",
+      "target_PRINT": "V7_MOD_LEG",
+      "translation_world_mm": [
+        -1.9949556487203274e-05,
+        119.54336479821822,
+        -10.458677388643538
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 5,
+      "component": "V7_SRC_V4_MD_05_tornillo_tapa.001",
+      "target_PRINT": "V7_MOD_LEG",
+      "translation_world_mm": [
+        -1.9949556487203274e-05,
+        119.54336479821822,
+        -10.458677388643538
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 5,
+      "component": "V7_SRC_V4_MD_05_tornillo_tapa.002",
+      "target_PRINT": "V7_MOD_LEG",
+      "translation_world_mm": [
+        -1.9949556487203274e-05,
+        119.54336479821822,
+        -10.458677388643538
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 5,
+      "component": "V7_SRC_V4_MD_05_tornillo_tapa.003",
+      "target_PRINT": "V7_MOD_LEG",
+      "translation_world_mm": [
+        -1.9949556487203274e-05,
+        119.54336479821822,
+        -10.458677388643538
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 5,
+      "component": "V7_SRC_V4_MD_05_torre_auxiliar",
+      "target_PRINT": "V7_MOD_LEG",
+      "translation_world_mm": [
+        -1.9949556487203274e-05,
+        119.54336479821822,
+        -10.458677388643538
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 5,
+      "component": "V7_SRC_V4_MD_05_torre_salida",
+      "target_PRINT": "V7_MOD_LEG",
+      "translation_world_mm": [
+        -1.9949556487203274e-05,
+        119.54336479821822,
+        -10.458677388643538
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 5,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_LEG",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 5,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_LEG",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 5,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_LEG",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 5,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_LEG",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 5,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_LEG",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 5,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_LEG",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 5,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_LEG",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 5,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_LEG",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 6,
+      "component": "V7_SRC_V4_MD_06_eje_metal",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        -5.51441168237026e-06,
+        119.9999999999958,
+        3.127378122692843e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 6,
+      "component": "V7_SRC_V4_MD_06_MG90S_CUERPO",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        -5.51441168237026e-06,
+        119.9999999999958,
+        3.127378122692843e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 6,
+      "component": "V7_SRC_V4_MD_06_pestana",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        -5.51441168237026e-06,
+        119.9999999999958,
+        3.127378122692843e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 6,
+      "component": "V7_SRC_V4_MD_06_pestana.001",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        -5.51441168237026e-06,
+        119.9999999999958,
+        3.127378122692843e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 6,
+      "component": "V7_SRC_V4_MD_06_tapa",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        -5.51441168237026e-06,
+        119.9999999999958,
+        3.127378122692843e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 6,
+      "component": "V7_SRC_V4_MD_06_tornillo_tapa",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        -5.51441168237026e-06,
+        119.9999999999958,
+        3.127378122692843e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 6,
+      "component": "V7_SRC_V4_MD_06_tornillo_tapa.001",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        -5.51441168237026e-06,
+        119.9999999999958,
+        3.127378122692843e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 6,
+      "component": "V7_SRC_V4_MD_06_tornillo_tapa.002",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        -5.51441168237026e-06,
+        119.9999999999958,
+        3.127378122692843e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 6,
+      "component": "V7_SRC_V4_MD_06_tornillo_tapa.003",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        -5.51441168237026e-06,
+        119.9999999999958,
+        3.127378122692843e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 6,
+      "component": "V7_SRC_V4_MD_06_torre_auxiliar",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        -5.51441168237026e-06,
+        119.9999999999958,
+        3.127378122692843e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 6,
+      "component": "V7_SRC_V4_MD_06_torre_salida",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        -5.51441168237026e-06,
+        119.9999999999958,
+        3.127378122692843e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 6,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 6,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 6,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 6,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 6,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 6,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 6,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 6,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 7,
+      "component": "V7_SRC_V4_MD_07_eje_metal",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        5.514411682370447e-06,
+        119.99999999999987,
+        9.723391851496054e-07
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 7,
+      "component": "V7_SRC_V4_MD_07_MG90S_CUERPO",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        5.514411682370447e-06,
+        119.99999999999987,
+        9.723391851496054e-07
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 7,
+      "component": "V7_SRC_V4_MD_07_pestana",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        5.514411682370447e-06,
+        119.99999999999987,
+        9.723391851496054e-07
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 7,
+      "component": "V7_SRC_V4_MD_07_pestana.001",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        5.514411682370447e-06,
+        119.99999999999987,
+        9.723391851496054e-07
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 7,
+      "component": "V7_SRC_V4_MD_07_tapa",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        5.514411682370447e-06,
+        119.99999999999987,
+        9.723391851496054e-07
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 7,
+      "component": "V7_SRC_V4_MD_07_tornillo_tapa",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        5.514411682370447e-06,
+        119.99999999999987,
+        9.723391851496054e-07
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 7,
+      "component": "V7_SRC_V4_MD_07_tornillo_tapa.001",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        5.514411682370447e-06,
+        119.99999999999987,
+        9.723391851496054e-07
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 7,
+      "component": "V7_SRC_V4_MD_07_tornillo_tapa.002",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        5.514411682370447e-06,
+        119.99999999999987,
+        9.723391851496054e-07
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 7,
+      "component": "V7_SRC_V4_MD_07_tornillo_tapa.003",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        5.514411682370447e-06,
+        119.99999999999987,
+        9.723391851496054e-07
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 7,
+      "component": "V7_SRC_V4_MD_07_torre_auxiliar",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        5.514411682370447e-06,
+        119.99999999999987,
+        9.723391851496054e-07
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 7,
+      "component": "V7_SRC_V4_MD_07_torre_salida",
+      "target_PRINT": "V7_MOD_NECK",
+      "translation_world_mm": [
+        5.514411682370447e-06,
+        119.99999999999987,
+        9.723391851496054e-07
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 7,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 7,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 7,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 7,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 7,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 7,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 7,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 7,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_NECK",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 8,
+      "component": "V7_SRC_V4_MD_08_eje_metal",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "translation_world_mm": [
+        -3.5762782601980167e-06,
+        -1.6123059989323555e-05,
+        -119.99999999999888
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 8,
+      "component": "V7_SRC_V4_MD_08_MG90S_CUERPO",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "translation_world_mm": [
+        -3.5762782601980167e-06,
+        -1.6123059989323555e-05,
+        -119.99999999999888
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 8,
+      "component": "V7_SRC_V4_MD_08_pestana",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "translation_world_mm": [
+        -3.5762782601980167e-06,
+        -1.6123059989323555e-05,
+        -119.99999999999888
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 8,
+      "component": "V7_SRC_V4_MD_08_pestana.001",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "translation_world_mm": [
+        -3.5762782601980167e-06,
+        -1.6123059989323555e-05,
+        -119.99999999999888
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 8,
+      "component": "V7_SRC_V4_MD_08_tapa",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "translation_world_mm": [
+        -3.5762782601980167e-06,
+        -1.6123059989323555e-05,
+        -119.99999999999888
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 8,
+      "component": "V7_SRC_V4_MD_08_tornillo_tapa",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "translation_world_mm": [
+        -3.5762782601980167e-06,
+        -1.6123059989323555e-05,
+        -119.99999999999888
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 8,
+      "component": "V7_SRC_V4_MD_08_tornillo_tapa.001",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "translation_world_mm": [
+        -3.5762782601980167e-06,
+        -1.6123059989323555e-05,
+        -119.99999999999888
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 8,
+      "component": "V7_SRC_V4_MD_08_tornillo_tapa.002",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "translation_world_mm": [
+        -3.5762782601980167e-06,
+        -1.6123059989323555e-05,
+        -119.99999999999888
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 8,
+      "component": "V7_SRC_V4_MD_08_tornillo_tapa.003",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "translation_world_mm": [
+        -3.5762782601980167e-06,
+        -1.6123059989323555e-05,
+        -119.99999999999888
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 8,
+      "component": "V7_SRC_V4_MD_08_torre_auxiliar",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "translation_world_mm": [
+        -3.5762782601980167e-06,
+        -1.6123059989323555e-05,
+        -119.99999999999888
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 8,
+      "component": "V7_SRC_V4_MD_08_torre_salida",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "translation_world_mm": [
+        -3.5762782601980167e-06,
+        -1.6123059989323555e-05,
+        -119.99999999999888
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 8,
+      "ear": "F",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 8,
+      "ear": "F",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 8,
+      "ear": "F",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 8,
+      "ear": "F",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 8,
+      "ear": "R",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 8,
+      "ear": "R",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 8,
+      "ear": "R",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 8,
+      "ear": "R",
+      "target_PRINT": "V7_TAPA_BRAZO_10",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 9,
+      "component": "V7_SRC_V4_MD_09_eje_metal",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "translation_world_mm": [
+        1.612306488851165e-05,
+        119.99999999999784,
+        1.612306488851165e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 9,
+      "component": "V7_SRC_V4_MD_09_MG90S_CUERPO",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "translation_world_mm": [
+        1.612306488851165e-05,
+        119.99999999999784,
+        1.612306488851165e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 9,
+      "component": "V7_SRC_V4_MD_09_pestana",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "translation_world_mm": [
+        1.612306488851165e-05,
+        119.99999999999784,
+        1.612306488851165e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 9,
+      "component": "V7_SRC_V4_MD_09_pestana.001",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "translation_world_mm": [
+        1.612306488851165e-05,
+        119.99999999999784,
+        1.612306488851165e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 9,
+      "component": "V7_SRC_V4_MD_09_tapa",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "translation_world_mm": [
+        1.612306488851165e-05,
+        119.99999999999784,
+        1.612306488851165e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 9,
+      "component": "V7_SRC_V4_MD_09_tornillo_tapa",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "translation_world_mm": [
+        1.612306488851165e-05,
+        119.99999999999784,
+        1.612306488851165e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 9,
+      "component": "V7_SRC_V4_MD_09_tornillo_tapa.001",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "translation_world_mm": [
+        1.612306488851165e-05,
+        119.99999999999784,
+        1.612306488851165e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 9,
+      "component": "V7_SRC_V4_MD_09_tornillo_tapa.002",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "translation_world_mm": [
+        1.612306488851165e-05,
+        119.99999999999784,
+        1.612306488851165e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 9,
+      "component": "V7_SRC_V4_MD_09_tornillo_tapa.003",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "translation_world_mm": [
+        1.612306488851165e-05,
+        119.99999999999784,
+        1.612306488851165e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 9,
+      "component": "V7_SRC_V4_MD_09_torre_auxiliar",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "translation_world_mm": [
+        1.612306488851165e-05,
+        119.99999999999784,
+        1.612306488851165e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 9,
+      "component": "V7_SRC_V4_MD_09_torre_salida",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "translation_world_mm": [
+        1.612306488851165e-05,
+        119.99999999999784,
+        1.612306488851165e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 9,
+      "ear": "F",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 9,
+      "ear": "F",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 9,
+      "ear": "F",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 9,
+      "ear": "F",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 9,
+      "ear": "R",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 9,
+      "ear": "R",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 9,
+      "ear": "R",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 9,
+      "ear": "R",
+      "target_PRINT": "V15_SERVICE_FRONT_JAW_SOFT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 10,
+      "component": "V7_SRC_V4_MD_10_eje_metal",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "translation_world_mm": [
+        119.99999999999784,
+        -1.612305571185903e-05,
+        1.612305571185903e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 10,
+      "component": "V7_SRC_V4_MD_10_MG90S_CUERPO",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "translation_world_mm": [
+        119.99999999999784,
+        -1.612305571185903e-05,
+        1.612305571185903e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 10,
+      "component": "V7_SRC_V4_MD_10_pestana",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "translation_world_mm": [
+        119.99999999999784,
+        -1.612305571185903e-05,
+        1.612305571185903e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 10,
+      "component": "V7_SRC_V4_MD_10_pestana.001",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "translation_world_mm": [
+        119.99999999999784,
+        -1.612305571185903e-05,
+        1.612305571185903e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 10,
+      "component": "V7_SRC_V4_MD_10_tapa",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "translation_world_mm": [
+        119.99999999999784,
+        -1.612305571185903e-05,
+        1.612305571185903e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 10,
+      "component": "V7_SRC_V4_MD_10_tornillo_tapa",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "translation_world_mm": [
+        119.99999999999784,
+        -1.612305571185903e-05,
+        1.612305571185903e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 10,
+      "component": "V7_SRC_V4_MD_10_tornillo_tapa.001",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "translation_world_mm": [
+        119.99999999999784,
+        -1.612305571185903e-05,
+        1.612305571185903e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 10,
+      "component": "V7_SRC_V4_MD_10_tornillo_tapa.002",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "translation_world_mm": [
+        119.99999999999784,
+        -1.612305571185903e-05,
+        1.612305571185903e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 10,
+      "component": "V7_SRC_V4_MD_10_tornillo_tapa.003",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "translation_world_mm": [
+        119.99999999999784,
+        -1.612305571185903e-05,
+        1.612305571185903e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 10,
+      "component": "V7_SRC_V4_MD_10_torre_auxiliar",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "translation_world_mm": [
+        119.99999999999784,
+        -1.612305571185903e-05,
+        1.612305571185903e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 10,
+      "component": "V7_SRC_V4_MD_10_torre_salida",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "translation_world_mm": [
+        119.99999999999784,
+        -1.612305571185903e-05,
+        1.612305571185903e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 10,
+      "ear": "F",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 10,
+      "ear": "F",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 10,
+      "ear": "F",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 10,
+      "ear": "F",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 10,
+      "ear": "R",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 10,
+      "ear": "R",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 10,
+      "ear": "R",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 10,
+      "ear": "R",
+      "target_PRINT": "V7_HEADCORE_ANCLADO",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 11,
+      "component": "V7_SRC_V4_MD_11_eje_metal",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "translation_world_mm": [
+        119.99999999999893,
+        -0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 11,
+      "component": "V7_SRC_V4_MD_11_MG90S_CUERPO",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "translation_world_mm": [
+        119.99999999999893,
+        -0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 11,
+      "component": "V7_SRC_V4_MD_11_pestana",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "translation_world_mm": [
+        119.99999999999893,
+        -0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 11,
+      "component": "V7_SRC_V4_MD_11_pestana.001",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "translation_world_mm": [
+        119.99999999999893,
+        -0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 11,
+      "component": "V7_SRC_V4_MD_11_tapa",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "translation_world_mm": [
+        119.99999999999893,
+        -0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 11,
+      "component": "V7_SRC_V4_MD_11_tornillo_tapa",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "translation_world_mm": [
+        119.99999999999893,
+        -0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 11,
+      "component": "V7_SRC_V4_MD_11_tornillo_tapa.001",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "translation_world_mm": [
+        119.99999999999893,
+        -0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 11,
+      "component": "V7_SRC_V4_MD_11_tornillo_tapa.002",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "translation_world_mm": [
+        119.99999999999893,
+        -0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 11,
+      "component": "V7_SRC_V4_MD_11_tornillo_tapa.003",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "translation_world_mm": [
+        119.99999999999893,
+        -0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 11,
+      "component": "V7_SRC_V4_MD_11_torre_auxiliar",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "translation_world_mm": [
+        119.99999999999893,
+        -0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 11,
+      "component": "V7_SRC_V4_MD_11_torre_salida",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "translation_world_mm": [
+        119.99999999999893,
+        -0.0,
+        -1.6123068299114487e-05
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 11,
+      "ear": "F",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 11,
+      "ear": "F",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 11,
+      "ear": "F",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 11,
+      "ear": "F",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 11,
+      "ear": "R",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 11,
+      "ear": "R",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 11,
+      "ear": "R",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 11,
+      "ear": "R",
+      "target_PRINT": "V7_TAPA_BRAZO_01",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 12,
+      "component": "V7_SRC_V4_MD_12_eje_metal",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.8912073253108654e-05,
+        119.54336138263872,
+        10.458716428845621
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 12,
+      "component": "V7_SRC_V4_MD_12_MG90S_CUERPO",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.8912073253108654e-05,
+        119.54336138263872,
+        10.458716428845621
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 12,
+      "component": "V7_SRC_V4_MD_12_pestana",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.8912073253108654e-05,
+        119.54336138263872,
+        10.458716428845621
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 12,
+      "component": "V7_SRC_V4_MD_12_pestana.001",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.8912073253108654e-05,
+        119.54336138263872,
+        10.458716428845621
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 12,
+      "component": "V7_SRC_V4_MD_12_tapa",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.8912073253108654e-05,
+        119.54336138263872,
+        10.458716428845621
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 12,
+      "component": "V7_SRC_V4_MD_12_tornillo_tapa",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.8912073253108654e-05,
+        119.54336138263872,
+        10.458716428845621
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 12,
+      "component": "V7_SRC_V4_MD_12_tornillo_tapa.001",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.8912073253108654e-05,
+        119.54336138263872,
+        10.458716428845621
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 12,
+      "component": "V7_SRC_V4_MD_12_tornillo_tapa.002",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.8912073253108654e-05,
+        119.54336138263872,
+        10.458716428845621
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 12,
+      "component": "V7_SRC_V4_MD_12_tornillo_tapa.003",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.8912073253108654e-05,
+        119.54336138263872,
+        10.458716428845621
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 12,
+      "component": "V7_SRC_V4_MD_12_torre_auxiliar",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.8912073253108654e-05,
+        119.54336138263872,
+        10.458716428845621
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 12,
+      "component": "V7_SRC_V4_MD_12_torre_salida",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.8912073253108654e-05,
+        119.54336138263872,
+        10.458716428845621
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 12,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 12,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 12,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 12,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 12,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 12,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 12,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 12,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 13,
+      "component": "V7_SRC_V4_MD_13_eje_metal",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.911842905606485e-05,
+        119.54336448770982,
+        10.458680937752808
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 13,
+      "component": "V7_SRC_V4_MD_13_MG90S_CUERPO",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.911842905606485e-05,
+        119.54336448770982,
+        10.458680937752808
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 13,
+      "component": "V7_SRC_V4_MD_13_pestana",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.911842905606485e-05,
+        119.54336448770982,
+        10.458680937752808
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 13,
+      "component": "V7_SRC_V4_MD_13_pestana.001",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.911842905606485e-05,
+        119.54336448770982,
+        10.458680937752808
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 13,
+      "component": "V7_SRC_V4_MD_13_tapa",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.911842905606485e-05,
+        119.54336448770982,
+        10.458680937752808
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 13,
+      "component": "V7_SRC_V4_MD_13_tornillo_tapa",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.911842905606485e-05,
+        119.54336448770982,
+        10.458680937752808
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 13,
+      "component": "V7_SRC_V4_MD_13_tornillo_tapa.001",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.911842905606485e-05,
+        119.54336448770982,
+        10.458680937752808
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 13,
+      "component": "V7_SRC_V4_MD_13_tornillo_tapa.002",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.911842905606485e-05,
+        119.54336448770982,
+        10.458680937752808
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 13,
+      "component": "V7_SRC_V4_MD_13_tornillo_tapa.003",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.911842905606485e-05,
+        119.54336448770982,
+        10.458680937752808
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 13,
+      "component": "V7_SRC_V4_MD_13_torre_auxiliar",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.911842905606485e-05,
+        119.54336448770982,
+        10.458680937752808
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 13,
+      "component": "V7_SRC_V4_MD_13_torre_salida",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "translation_world_mm": [
+        -2.911842905606485e-05,
+        119.54336448770982,
+        10.458680937752808
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 13,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 13,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 13,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 13,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 13,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 13,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 13,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 13,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_UPPER_LEG_RIGHT",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 14,
+      "component": "V7_SRC_V4_MD_14_eje_metal",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "translation_world_mm": [
+        5.439671231423631e-07,
+        -119.54336635075103,
+        -10.458659643096103
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 14,
+      "component": "V7_SRC_V4_MD_14_MG90S_CUERPO",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "translation_world_mm": [
+        5.439671231423631e-07,
+        -119.54336635075103,
+        -10.458659643096103
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 14,
+      "component": "V7_SRC_V4_MD_14_pestana",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "translation_world_mm": [
+        5.439671231423631e-07,
+        -119.54336635075103,
+        -10.458659643096103
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 14,
+      "component": "V7_SRC_V4_MD_14_pestana.001",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "translation_world_mm": [
+        5.439671231423631e-07,
+        -119.54336635075103,
+        -10.458659643096103
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 14,
+      "component": "V7_SRC_V4_MD_14_tapa",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "translation_world_mm": [
+        5.439671231423631e-07,
+        -119.54336635075103,
+        -10.458659643096103
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 14,
+      "component": "V7_SRC_V4_MD_14_tornillo_tapa",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "translation_world_mm": [
+        5.439671231423631e-07,
+        -119.54336635075103,
+        -10.458659643096103
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 14,
+      "component": "V7_SRC_V4_MD_14_tornillo_tapa.001",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "translation_world_mm": [
+        5.439671231423631e-07,
+        -119.54336635075103,
+        -10.458659643096103
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 14,
+      "component": "V7_SRC_V4_MD_14_tornillo_tapa.002",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "translation_world_mm": [
+        5.439671231423631e-07,
+        -119.54336635075103,
+        -10.458659643096103
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 14,
+      "component": "V7_SRC_V4_MD_14_tornillo_tapa.003",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "translation_world_mm": [
+        5.439671231423631e-07,
+        -119.54336635075103,
+        -10.458659643096103
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 14,
+      "component": "V7_SRC_V4_MD_14_torre_auxiliar",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "translation_world_mm": [
+        5.439671231423631e-07,
+        -119.54336635075103,
+        -10.458659643096103
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "BARE_SERVO_ENTRY",
+      "motor_index": 14,
+      "component": "V7_SRC_V4_MD_14_torre_salida",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "translation_world_mm": [
+        5.439671231423631e-07,
+        -119.54336635075103,
+        -10.458659643096103
+      ],
+      "intersection_mm3": 0.0
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 14,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 14,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 14,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 14,
+      "ear": "F",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_SHAFT",
+      "motor_index": 14,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_HEAD",
+      "motor_index": 14,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_WASHER",
+      "motor_index": 14,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    },
+    {
+      "kind": "M1p6_DRIVER_OD3",
+      "motor_index": 14,
+      "ear": "R",
+      "target_PRINT": "V7_MOD_LEG_2",
+      "intersection_mm3": 0.0,
+      "path": "Complete native+Z120mm, other-body assembly absent; ownmainPRINT fixedADDS present"
+    }
+  ],
+  "blockers": [],
+  "status": "PASS_NOMINAL_BENCH_STAGE",
+  "method": "Conservative exact convex translation hull of every bare servo component and full native shaft/head/washer/tool cylinders; full120mm path, no sparse pose assertion",
+  "assembly_stage": {
+    "separate_service_hatches_removed": true,
+    "new_separate_radial_half_clamps_removed": true,
+    "same_owner_fused_housing_material_included": true,
+    "opposite_body_couplers_bearings_and_cosmetics_not_mounted_yet": true,
+    "D36_physical_group_already_installed_for00_01": true,
+    "horn_and_OEM_center_screw_installed_after_bare_servo": true,
+    "26_embedded_nuts_require_separate_final_print_pause_proof": true
+  },
+  "full_robot_DAG_acyclicity_proved_here": false,
+  "lot_fit_or_torque_certified": false,
+  "seconds": 2.687999999994645
+}

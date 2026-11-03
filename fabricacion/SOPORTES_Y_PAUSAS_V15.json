@@ -1,0 +1,650 @@
+{
+  "schema": "v15-nut-pauses-versus-diagnostic-support-beads/1",
+  "assembly_sha256": "d1e061923094f4cd2fcfbbeb800a2daeffc9b78ee9077f8575ebd8b72b0ccbb4",
+  "tests": [
+    {
+      "part": "V7_MOD_UPPER_LEG_LEFT",
+      "id": "P03",
+      "nut": "V7_HW_MG03_R_NUT",
+      "pause_after_model_layer": 116,
+      "pause_Z_mm": 23.200001083164764,
+      "corridor_bbox_gcode_mm": [
+        [
+          105.61478316221404,
+          115.87625269794185,
+          21.709003098965987
+        ],
+        [
+          109.30982875202467,
+          119.07625720524956,
+          33.200001083164764
+        ]
+      ],
+      "support_beads_printed_before_pause": 6357,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_MOD_UPPER_LEG_LEFT",
+      "id": "P03",
+      "nut": "V7_HW_MG04_F_NUT",
+      "pause_after_model_layer": 116,
+      "pause_Z_mm": 23.200001083164764,
+      "corridor_bbox_gcode_mm": [
+        [
+          108.76230192100347,
+          70.95161492432504,
+          21.709009511767484
+        ],
+        [
+          111.96230536205773,
+          74.64665841160439,
+          33.200001083164764
+        ]
+      ],
+      "support_beads_printed_before_pause": 6357,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_MOD_UPPER_LEG_LEFT",
+      "id": "P03",
+      "nut": "V7_HW_MG04_R_NUT",
+      "pause_after_model_layer": 116,
+      "pause_Z_mm": 23.200001083164764,
+      "corridor_bbox_gcode_mm": [
+        [
+          108.76229899630367,
+          98.95163234828067,
+          21.709008913788985
+        ],
+        [
+          111.96230243735796,
+          102.64667631239747,
+          33.200001083164764
+        ]
+      ],
+      "support_beads_printed_before_pause": 6357,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_MOD_UPPER_LEG_LEFT",
+      "id": "P03",
+      "nut": "V15_HW_SERVICE_MG03_0_NUT",
+      "pause_after_model_layer": 121,
+      "pause_Z_mm": 24.200001165409546,
+      "corridor_bbox_gcode_mm": [
+        [
+          110.95290874852184,
+          108.97624314126318,
+          22.50900382021388
+        ],
+        [
+          115.57171581771058,
+          112.97624871257682,
+          34.200001165409546
+        ]
+      ],
+      "support_beads_printed_before_pause": 6557,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_MOD_UPPER_LEG_LEFT",
+      "id": "P03",
+      "nut": "V15_HW_SERVICE_MG04_0_NUT",
+      "pause_after_model_layer": 121,
+      "pause_Z_mm": 24.200001165409546,
+      "corridor_bbox_gcode_mm": [
+        [
+          114.86230435286583,
+          104.28975439886645,
+          22.509008396471817
+        ],
+        [
+          118.86230859357217,
+          108.90855943675308,
+          34.200001165409546
+        ]
+      ],
+      "support_beads_printed_before_pause": 6557,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_MOD_UPPER_LEG_LEFT",
+      "id": "P03",
+      "nut": "V15_HW_SERVICE_MG04_1_NUT",
+      "pause_after_model_layer": 121,
+      "pause_Z_mm": 24.200001165409546,
+      "corridor_bbox_gcode_mm": [
+        [
+          101.86229156398662,
+          104.28975568964337,
+          22.509009018716473
+        ],
+        [
+          105.86229580469293,
+          108.90856072752999,
+          34.200001165409546
+        ]
+      ],
+      "support_beads_printed_before_pause": 6557,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_MOD_LEG",
+      "id": "P04",
+      "nut": "V7_HW_MG05_R_NUT",
+      "pause_after_model_layer": 115,
+      "pause_Z_mm": 23.00000040967229,
+      "corridor_bbox_gcode_mm": [
+        [
+          96.9991259281409,
+          98.39999749832528,
+          21.509026652590705
+        ],
+        [
+          100.69417136320129,
+          101.6000010010089,
+          33.00000040967229
+        ]
+      ],
+      "support_beads_printed_before_pause": 13162,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_MOD_NECK",
+      "id": "P06",
+      "nut": "V7_HW_MG06_R_NUT",
+      "pause_after_model_layer": 115,
+      "pause_Z_mm": 23.0,
+      "corridor_bbox_gcode_mm": [
+        [
+          92.87039206774433,
+          96.61706612057206,
+          21.409015868820845
+        ],
+        [
+          96.56543573621325,
+          99.81706926151908,
+          33.0
+        ]
+      ],
+      "support_beads_printed_before_pause": 18650,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_MOD_NECK",
+      "id": "P06",
+      "nut": "V7_HW_MG07_R_NUT",
+      "pause_after_model_layer": 115,
+      "pause_Z_mm": 23.0,
+      "corridor_bbox_gcode_mm": [
+        [
+          104.6703818247736,
+          96.61706428732123,
+          21.40901716836606
+        ],
+        [
+          108.36542516497691,
+          99.81706742826826,
+          33.0
+        ]
+      ],
+      "support_beads_printed_before_pause": 18650,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_MOD_UPPER_LEG_RIGHT",
+      "id": "P11",
+      "nut": "V7_HW_MG12_R_NUT",
+      "pause_after_model_layer": 116,
+      "pause_Z_mm": 23.200000449574247,
+      "corridor_bbox_gcode_mm": [
+        [
+          105.61477591016796,
+          80.92372896054952,
+          21.70901886356755
+        ],
+        [
+          109.30982097934628,
+          84.12373308496429,
+          33.20000044957425
+        ]
+      ],
+      "support_beads_printed_before_pause": 6396,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_MOD_UPPER_LEG_RIGHT",
+      "id": "P11",
+      "nut": "V7_HW_MG13_R_NUT",
+      "pause_after_model_layer": 116,
+      "pause_Z_mm": 23.200000449574247,
+      "corridor_bbox_gcode_mm": [
+        [
+          108.76229516388756,
+          97.35331868087572,
+          21.70902180097032
+        ],
+        [
+          111.96229905961778,
+          101.04836407662211,
+          33.20000044957425
+        ]
+      ],
+      "support_beads_printed_before_pause": 6396,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_MOD_UPPER_LEG_RIGHT",
+      "id": "P11",
+      "nut": "V15_HW_SERVICE_MG12_1_NUT",
+      "pause_after_model_layer": 121,
+      "pause_Z_mm": 24.200000643651848,
+      "corridor_bbox_gcode_mm": [
+        [
+          110.9529011927892,
+          87.02373676084747,
+          22.5090196249655
+        ],
+        [
+          115.57170760747206,
+          91.0237418540136,
+          34.20000064365185
+        ]
+      ],
+      "support_beads_printed_before_pause": 6588,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_MOD_UPPER_LEG_RIGHT",
+      "id": "P11",
+      "nut": "V15_HW_SERVICE_MG13_0_NUT",
+      "pause_after_model_layer": 121,
+      "pause_Z_mm": 24.200000643651848,
+      "corridor_bbox_gcode_mm": [
+        [
+          101.86228663491374,
+          91.0914315740508,
+          22.509021974827537
+        ],
+        [
+          105.86229144302303,
+          95.71023839556587,
+          34.20000064365185
+        ]
+      ],
+      "support_beads_printed_before_pause": 6588,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_MOD_UPPER_LEG_RIGHT",
+      "id": "P11",
+      "nut": "V15_HW_SERVICE_MG13_1_NUT",
+      "pause_after_model_layer": 121,
+      "pause_Z_mm": 24.200000643651848,
+      "corridor_bbox_gcode_mm": [
+        [
+          114.86230038968458,
+          91.091433988259,
+          22.509024081569823
+        ],
+        [
+          118.86230519779383,
+          95.71024080977406,
+          34.20000064365185
+        ]
+      ],
+      "support_beads_printed_before_pause": 6588,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_MOD_LEG_2",
+      "id": "P12",
+      "nut": "V7_HW_MG14_R_NUT",
+      "pause_after_model_layer": 115,
+      "pause_Z_mm": 22.999999871129145,
+      "corridor_bbox_gcode_mm": [
+        [
+          96.99912560902658,
+          98.39999880832849,
+          21.509023840520594
+        ],
+        [
+          100.69417018524153,
+          101.60000269770441,
+          32.99999987112915
+        ]
+      ],
+      "support_beads_printed_before_pause": 13182,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_TAPA_BRAZO_00",
+      "id": "P14",
+      "nut": "V7_HW_MG02_F_NUT",
+      "pause_after_model_layer": 100,
+      "pause_Z_mm": 20.0,
+      "corridor_bbox_gcode_mm": [
+        [
+          81.7774423668949,
+          98.39999767068808,
+          18.509013135270905
+        ],
+        [
+          85.47248812605083,
+          101.60000077012965,
+          30.0
+        ]
+      ],
+      "support_beads_printed_before_pause": 9028,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_TAPA_BRAZO_01",
+      "id": "P15",
+      "nut": "V7_HW_MG11_F_NUT",
+      "pause_after_model_layer": 100,
+      "pause_Z_mm": 20.0,
+      "corridor_bbox_gcode_mm": [
+        [
+          81.7774423668949,
+          98.39999845027921,
+          18.509013135270905
+        ],
+        [
+          85.47248812605083,
+          101.60000154972079,
+          30.0
+        ]
+      ],
+      "support_beads_printed_before_pause": 9010,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "V7_TAPA_BRAZO_10",
+      "id": "P23",
+      "nut": "V7_HW_MG08_R_NUT",
+      "pause_after_model_layer": 100,
+      "pause_Z_mm": 20.0,
+      "corridor_bbox_gcode_mm": [
+        [
+          109.69124278085032,
+          99.60001275777543,
+          18.50901071631933
+        ],
+        [
+          113.38628725491068,
+          102.80001704036923,
+          30.0
+        ]
+      ],
+      "support_beads_printed_before_pause": 12650,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "12CASE_TORSO_CONTINUO",
+      "id": "P44",
+      "nut": "V7_HW_MG00_F_NUT",
+      "pause_after_model_layer": 225,
+      "pause_Z_mm": 45.0,
+      "corridor_bbox_gcode_mm": [
+        [
+          83.10247051834085,
+          115.89999765868899,
+          43.459229389582
+        ],
+        [
+          86.79751345993077,
+          119.10000075813056,
+          55.0
+        ]
+      ],
+      "support_beads_printed_before_pause": 91950,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "12CASE_TORSO_CONTINUO",
+      "id": "P44",
+      "nut": "V7_HW_MG00_R_NUT",
+      "pause_after_model_layer": 225,
+      "pause_Z_mm": 45.0,
+      "corridor_bbox_gcode_mm": [
+        [
+          111.10248386978128,
+          115.89999765868899,
+          43.459229389582
+        ],
+        [
+          114.79752728820858,
+          119.10000075813056,
+          55.0
+        ]
+      ],
+      "support_beads_printed_before_pause": 91950,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "12CASE_TORSO_CONTINUO",
+      "id": "P44",
+      "nut": "V7_HW_MG01_F_NUT",
+      "pause_after_model_layer": 225,
+      "pause_Z_mm": 45.0,
+      "corridor_bbox_gcode_mm": [
+        [
+          83.10247051834085,
+          80.89999765868899,
+          43.459229389582
+        ],
+        [
+          86.79751345993077,
+          84.10000075813056,
+          55.0
+        ]
+      ],
+      "support_beads_printed_before_pause": 91950,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "12CASE_TORSO_CONTINUO",
+      "id": "P44",
+      "nut": "V7_HW_MG01_R_NUT",
+      "pause_after_model_layer": 225,
+      "pause_Z_mm": 45.0,
+      "corridor_bbox_gcode_mm": [
+        [
+          111.10248386978128,
+          80.89999765868899,
+          43.459229389582
+        ],
+        [
+          114.79752728820858,
+          84.10000075813056,
+          55.0
+        ]
+      ],
+      "support_beads_printed_before_pause": 91950,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "12CASE_TORSO_CONTINUO",
+      "id": "P44",
+      "nut": "V15_HW_SERVICE_MG00_0_NUT",
+      "pause_after_model_layer": 230,
+      "pause_Z_mm": 46.0,
+      "corridor_bbox_gcode_mm": [
+        [
+          115.94060554679521,
+          122.0000034999442,
+          44.25922931805624
+        ],
+        [
+          120.55940990272872,
+          126.00000731464146,
+          56.0
+        ]
+      ],
+      "support_beads_printed_before_pause": 92046,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "12CASE_TORSO_CONTINUO",
+      "id": "P44",
+      "nut": "V15_HW_SERVICE_MG00_1_NUT",
+      "pause_after_model_layer": 230,
+      "pause_Z_mm": 46.0,
+      "corridor_bbox_gcode_mm": [
+        [
+          115.94060554679521,
+          127.50000874515294,
+          44.25922931805624
+        ],
+        [
+          120.55940990272872,
+          131.5000125598502,
+          56.0
+        ]
+      ],
+      "support_beads_printed_before_pause": 92046,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "12CASE_TORSO_CONTINUO",
+      "id": "P44",
+      "nut": "V15_HW_SERVICE_MG01_0_NUT",
+      "pause_after_model_layer": 230,
+      "pause_Z_mm": 46.0,
+      "corridor_bbox_gcode_mm": [
+        [
+          115.94060554679521,
+          73.99999110217809,
+          44.25922931805624
+        ],
+        [
+          120.55940990272872,
+          77.99999491687535,
+          56.0
+        ]
+      ],
+      "support_beads_printed_before_pause": 92046,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    },
+    {
+      "part": "12CASE_TORSO_CONTINUO",
+      "id": "P44",
+      "nut": "V15_HW_SERVICE_MG01_1_NUT",
+      "pause_after_model_layer": 230,
+      "pause_Z_mm": 46.0,
+      "corridor_bbox_gcode_mm": [
+        [
+          115.94060554679521,
+          68.49998585696935,
+          44.25922931805624
+        ],
+        [
+          120.55940990272872,
+          72.49998967166661,
+          56.0
+        ]
+      ],
+      "support_beads_printed_before_pause": 92046,
+      "conservative_support_box_overlaps": 0,
+      "overlap_bounds": [],
+      "clear": true
+    }
+  ],
+  "tested_nuts": 26,
+  "all_corridors_clear_of_support_bead_boxes": true,
+  "input_sha256": {
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/KIT_V15_R2_FABRICACION/DIAGNOSTICO_NO_IMPRIMIR_GCODE/P03.gcode": "5aad04ef999a022807d3bb421ecb73f2f220c0f75e4d0132d694d335042aac6d",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG03_R_NUT_ff04c823eaac.npz": "b5fbe7dddf50df0cebe15bfd489bc4da6d933dffc6a518228f7fc5913e9ad3d0",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG04_F_NUT_48474776e447.npz": "a672e31f7913f5ac58081f33b4b8c65d7074b0adad70f2ebf79d107b44d08524",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG04_R_NUT_9e0aa627695d.npz": "dde14a0b5e5d67c26db1cdc8264c9fcef8b2ad0f3436dc854fb8f3ef921d5132",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/service-split-candidates-R2/V15_HW_SERVICE_MG03_0_NUT.npz": "9ae1707d29a26d3ef9c60a2b72c2e7a965cc6e59ca139fcefcebb2841d0b77a7",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/service-split-candidates-R2/V15_HW_SERVICE_MG04_0_NUT.npz": "b6cf1d5ea408eb4500f9a1a8e339f67317ca5b1d4d3bce9f6a90c3e85f8dd6f2",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/service-split-candidates-R2/V15_HW_SERVICE_MG04_1_NUT.npz": "4a408da11974cac4814ab1791fdbaa2b872cb3ce1ce3f8866efe548cdd2484a7",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/KIT_V15_R2_FABRICACION/DIAGNOSTICO_NO_IMPRIMIR_GCODE/P04.gcode": "fa9597f990c95f1af0341c0ab850eee8e40597f1ece715b6e902896b83587d19",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG05_R_NUT_fd539d4e93eb.npz": "d7e6644cec63535599165a2999cd9f9c4cacd7dc112c19ff1779f4d7efac71bc",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/KIT_V15_R2_FABRICACION/DIAGNOSTICO_NO_IMPRIMIR_GCODE/P06.gcode": "a5baf2737f47b4ea7739af54a64a968a3e44519a58bede5429d16a582ec75373",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG06_R_NUT_a8eb7c1e08fa.npz": "e92de95d826f4fbf58ecf052d5b9dd8c7a82d7abe22c258d35511e708f60048f",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG07_R_NUT_f4bc1596a184.npz": "bdc0b4466da2b7876756491967811c0fc80acbb456c3117a2fb5e422213ba755",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/KIT_V15_R2_FABRICACION/DIAGNOSTICO_NO_IMPRIMIR_GCODE/P11.gcode": "2f7bee09b5bc35ef7bef94e7c4f6c7a354978c2fbd4f88edb6d75731ac73b746",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG12_R_NUT_18684b1d6c27.npz": "060b2739443916d0da9c10445c3433c5469a3fe2b0ecd1100e5250df231d16ec",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG13_R_NUT_d057059e8d2f.npz": "bcab6784201c4bc0884e12203fd8b938cae7e6fa5ff37a59be0da394bddb93c3",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/service-split-candidates-R2/V15_HW_SERVICE_MG12_1_NUT.npz": "875b1e4a0773cac2f48cee484b8734e762e25f30dadd48d35fe887ac2bb7acd7",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/service-split-candidates-R2/V15_HW_SERVICE_MG13_0_NUT.npz": "6894861d39efce08efd06c3f68db9b9a0e554e1b32df2fcc556c3ed29245f80f",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/service-split-candidates-R2/V15_HW_SERVICE_MG13_1_NUT.npz": "991529dcb1f3c3cd7c8e6c55ec03e13933726e9edd3f1dad71cb0b3e3ddc66d7",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/KIT_V15_R2_FABRICACION/DIAGNOSTICO_NO_IMPRIMIR_GCODE/P12.gcode": "8aea45c1b09e6d90ed0d19f61a37a5b4ea37a22b7be9d957a0d0bf1066b7b3e4",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG14_R_NUT_7796ab806f5f.npz": "09fe4c90293a12a6a63964ab3c0a164a8142562fb505a3d773ca5ef492b67048",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/KIT_V15_R2_FABRICACION/DIAGNOSTICO_NO_IMPRIMIR_GCODE/P14.gcode": "c2f373e7b16159e90da4cd976c445bc17f46c3b5ac1c9b4b0270a1b12164a8d7",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG02_F_NUT_9b9871bf24f5.npz": "dce0f9523ce55548aed24500c05037aee8ddbc4e29284d9fcb67cdb040e9ae4a",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/KIT_V15_R2_FABRICACION/DIAGNOSTICO_NO_IMPRIMIR_GCODE/P15.gcode": "e1509d2138c09d02a857da4707897618255e28d7f01ac997e9e7ccf348155ed1",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG11_F_NUT_1473c0ba58f0.npz": "eddead2efe09cdbb5280b9399c76c06265f41e5a24e5013c8caf480a68d9e28b",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/KIT_V15_R2_FABRICACION/DIAGNOSTICO_NO_IMPRIMIR_GCODE/P23.gcode": "d0bfdc0a1f2ec595f2ce657f09d59b10b2bc72f855d03d93e90b14761013749e",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG08_R_NUT_8f94b73607be.npz": "7d03e26441dea3331c19049ccc5be4dc43bd73ad49d805846659d23eef972d57",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/KIT_V15_R2_FABRICACION/DIAGNOSTICO_NO_IMPRIMIR_GCODE/P44.gcode": "6062a2e14d0884038eed3b59b0db168d47cab1b12d6931f8b65e9bc0133c28c3",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG00_F_NUT_b017a1719bfa.npz": "f5b5b427339b3b808cf6024d12a68d0bf115d4b3533f1c2e59b0b81330478b8e",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG00_R_NUT_d546d72e3f13.npz": "9deb897845269d0747a53ec004f092435c6637a6c1c642e85549d961a12b2531",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG01_F_NUT_7f07ba18b2d1.npz": "9f8044766628c7ee4a0c65fcca266d91bcd803b32f12a90ab9172be4d376450b",
+    "evidencia-local/Jarvis/outputs/microduck-fabricacion-v7/consolidated/V7_HW_MG01_R_NUT_c2606f455ec4.npz": "07767aa178d8bd364422c534ccc5f198da4b2e091cfcaf5049b2dcd48220f60f",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/service-trunk-outboard-R7/V15_HW_SERVICE_MG00_0_NUT.npz": "27cc69fe4b1b654e184808649c628ec4601f53f7a7f51c9ae6825bf622931c3e",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/service-trunk-outboard-R7/V15_HW_SERVICE_MG00_1_NUT.npz": "15e44b530f1bb87e550b8ca4e75b6cc144a5108de01b99499c64377460243320",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/service-trunk-outboard-R7/V15_HW_SERVICE_MG01_0_NUT.npz": "e9d7eb8bef3d6b63cb30be0a30340d9bdc2ced4d425df440283113b4cb4438cf",
+    "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/service-trunk-outboard-R7/V15_HW_SERVICE_MG01_1_NUT.npz": "55bf825ef36c283f97e6bb80885ec8df8b0befe0e099397fc9cd9b96501bb3ff"
+  },
+  "physical_fit_verified": false,
+  "printer_pause_command_not_assumed": true,
+  "limits": [
+    "Diagnostic0.4nozzle/0.2layers, buildplate-only supports and dont-support-bridges on pause parts.",
+    "Real nozzle, nut dimensions, parked-head clearance and support removal require first-unit check.",
+    "No universal printerGCODE is supplied."
+  ]
+}

@@ -1,0 +1,16 @@
+﻿wire_label,PCA9685_channel,joint,physical_mesh_index,servo_home_deg,measured_pulse_home_us,measured_direction_sign,measured_horn_offset_deg,measured_safe_min_deg,measured_safe_max_deg,actual_unit_identified,enabled
+S00,0,left_hip_yaw,0,90.0,,,,,,False,False
+S01,1,left_hip_roll,2,90.0,,,,,,False,False
+S02,2,left_hip_pitch,4,90.0,,,,,,False,False
+S03,3,left_knee,3,90.0,,,,,,False,False
+S04,4,left_ankle,5,90.0,,,,,,False,False
+S05,5,neck_pitch,6,90.0,,,,,,False,False
+S06,6,head_pitch,7,90.0,,,,,,False,False
+S07,7,head_yaw,8,90.0,,,,,,False,False
+S08,8,head_roll,10,90.0,,,,,,False,False
+S09,9,right_hip_yaw,1,90.0,,,,,,False,False
+S10,10,right_hip_roll,11,90.0,,,,,,False,False
+S11,11,right_hip_pitch,13,90.0,,,,,,False,False
+S12,12,right_knee,12,90.0,,,,,,False,False
+S13,13,right_ankle,14,90.0,,,,,,False,False
+S14,14,jaw,9,90.0,,,,,,False,False

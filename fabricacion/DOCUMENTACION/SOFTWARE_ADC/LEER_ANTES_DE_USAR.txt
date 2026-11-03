@@ -1,0 +1,6 @@
+Biblioteca de monitorización; no configura GPIO ni habilita motores por sí sola. No desplegada en una Raspberry física.
+Mantener PCA.OE HIGH antes de configure() y ante cualquier excepción o aviso.
+La inicialización deshabilita el comparador, verifica los dos umbrales y la configuración, espera 20 ms antes de permitir sample().
+TI ADS1115 Rev E: t=1/DR y variación DR ±10%; 20 ms cubre la primera conversión a 128 SPS.
+Fuente: https://www.ti.com/lit/ds/symlink/ads1115.pdf secciones 5.5, 7.3.6 y registro de conversión.
+Los tests simulan registros, tiempos y fallos; no prueban el divisor, GPIO, driver PNP ni corte HP reales. Validar en banco antes de conectar actuadores.

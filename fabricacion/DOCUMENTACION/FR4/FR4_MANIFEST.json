@@ -1,0 +1,682 @@
+{
+  "schema": "MICRODUCK_V15_CUSTOM_FR4_MECHANICAL_TEMPLATES",
+  "status": "PASS_DRILL_OUTLINE_AND_3D_CAD_CONGRUENCE",
+  "boards": [
+    {
+      "id": "BM_FR4",
+      "title": "BM: FR4 para JST B3B-XH-A",
+      "source_name": "V15_BM_CUSTOM_FR4",
+      "width": 8.0,
+      "height": 9.8,
+      "thickness": 1.6,
+      "origin": [
+        -50.925,
+        30.4,
+        154.9
+      ],
+      "U": [
+        1,
+        0,
+        0
+      ],
+      "V": [
+        0,
+        0,
+        1
+      ],
+      "N": [
+        0,
+        1,
+        0
+      ],
+      "component_face": "-Y",
+      "copper_face": "+Y (vista posterior espejada)",
+      "outline": [
+        [
+          0,
+          0
+        ],
+        [
+          8,
+          0
+        ],
+        [
+          8,
+          9.8
+        ],
+        [
+          0,
+          9.8
+        ],
+        [
+          0,
+          8.5
+        ],
+        [
+          0.7,
+          8.5
+        ],
+        [
+          0.7,
+          6.9
+        ],
+        [
+          0,
+          6.9
+        ]
+      ],
+      "holes": [
+        {
+          "id": "JST_PIN1",
+          "u": 3.475,
+          "v": 2.45,
+          "d": 1.0,
+          "use": "NC aislado"
+        },
+        {
+          "id": "JST_PIN2",
+          "u": 3.475,
+          "v": 4.95,
+          "d": 1.0,
+          "use": "BM central"
+        },
+        {
+          "id": "JST_PIN3",
+          "u": 3.475,
+          "v": 7.45,
+          "d": 1.0,
+          "use": "NC aislado"
+        }
+      ],
+      "notes": [
+        "3 x diam1.00; paso2.50. Pin2 central = PCM.BM.",
+        "Pin1 y pin3: NO CONECTAR, aislar individualmente.",
+        "Muesca izquierda0.70 x1.60, desde v6.90 hasta8.50.",
+        "Cobre en reverso+Y; usar la guia espejada independiente."
+      ],
+      "source_row": {
+        "name": "V15_BM_CUSTOM_FR4",
+        "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/HARNESS/bm-header/assembly-r2/V15_BM_CUSTOM_FR4.npz",
+        "sha256": "1618aa282a5bdd0dfec6d611504226c438532bdfe1f878061bdd4f85aafbc09a",
+        "role": "REFERENCE",
+        "body": "trunk_base",
+        "units": "world mm",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "bounds_mm": [
+          [
+            -50.925,
+            30.4,
+            154.9
+          ],
+          [
+            -42.925,
+            32.0,
+            164.7
+          ]
+        ],
+        "bounds_world_mm": [
+          [
+            -50.925,
+            30.4,
+            154.9
+          ],
+          [
+            -42.925,
+            32.0,
+            164.7
+          ]
+        ],
+        "QA": {
+          "coordinate_bad_edges": 0,
+          "coordinate_orientation_bad_edges": 0,
+          "collapsed_faces": 0,
+          "exact_zero_area_faces": 0,
+          "positive_solid_components": 1,
+          "total_boundary_components": 1,
+          "negative_closed_cavity_components": 0,
+          "zero_volume_components": 0,
+          "negative_cavities_closed_and_contained": true,
+          "negative_cavity_containment_checks": [],
+          "volume_mm3": 119.90226581729021,
+          "passed": true
+        },
+        "material": "customFR4 1.6",
+        "color": [
+          0.1,
+          0.35,
+          0.1,
+          1
+        ],
+        "source_stage": "V15_BM_STAGE_ASSEMBLY_FINAL",
+        "custom_made": true
+      },
+      "files": [
+        {
+          "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/BM_FR4_CORTE_TALADRO_1a1.svg",
+          "sha256": "0b915d702318dff18c57caa0ac001d03f3d370635bc36ff7fe17dc065ea90837"
+        },
+        {
+          "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/BM_FR4_CORTE_TALADRO_mm.dxf",
+          "sha256": "50ed58b3c9477cd0c7c7a8296c55720034e5a16f1847b85858298433af687c7f"
+        },
+        {
+          "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/BM_FR4_COBRE_POSTERIOR_ESPEJADO.svg",
+          "sha256": "3e02848096741967b10c8b9043c5584e8b6a0d83f8056c37c90ce27c65671422"
+        },
+        {
+          "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/BM_FR4_TALADROS.csv",
+          "sha256": "d3166b6b3516cca06d9518934b3535ffdb2ddc6052850a2f6f7ec5fefbb98ece"
+        }
+      ]
+    },
+    {
+      "id": "MINI_FR4",
+      "title": "MINI: soporte FR4 del portafusible01530007Z",
+      "source_name": "V15_FUSE_FR4_CARRIER",
+      "width": 30.3,
+      "height": 20.5,
+      "thickness": 1.6,
+      "origin": [
+        -67.9,
+        -32.118,
+        128.5
+      ],
+      "U": [
+        1,
+        0,
+        0
+      ],
+      "V": [
+        0,
+        0,
+        1
+      ],
+      "N": [
+        0,
+        1,
+        0
+      ],
+      "component_face": "-Y",
+      "copper_face": "No se presupone pista de potencia; cable aislado directo a terminales",
+      "outline": [
+        [
+          0,
+          0
+        ],
+        [
+          30.3,
+          0
+        ],
+        [
+          30.3,
+          20.5
+        ],
+        [
+          21.01,
+          20.5
+        ],
+        [
+          21.01,
+          14.567
+        ],
+        [
+          9.29,
+          14.567
+        ],
+        [
+          9.29,
+          20.5
+        ],
+        [
+          0,
+          20.5
+        ]
+      ],
+      "holes": [
+        {
+          "id": "PWR_IN",
+          "u": 11.34,
+          "v": 2.775,
+          "d": 1.27,
+          "use": "PCM.P+ al fusible"
+        },
+        {
+          "id": "PWR_OUT",
+          "u": 18.96,
+          "v": 2.775,
+          "d": 1.27,
+          "use": "Del fusible a HP.VIN"
+        },
+        {
+          "id": "BOARDLOCK",
+          "u": 15.15,
+          "v": 10.395,
+          "d": 2.0828,
+          "use": "Pivote de plastico del portafusible"
+        },
+        {
+          "id": "M2_0",
+          "u": 2.5,
+          "v": 6.8,
+          "d": 2.2,
+          "use": "Fijacion M2"
+        },
+        {
+          "id": "M2_1",
+          "u": 2.5,
+          "v": 16.59,
+          "d": 2.2,
+          "use": "Fijacion M2"
+        },
+        {
+          "id": "M2_2",
+          "u": 27.8,
+          "v": 6.8,
+          "d": 2.2,
+          "use": "Fijacion M2"
+        },
+        {
+          "id": "M2_3",
+          "u": 27.8,
+          "v": 16.59,
+          "d": 2.2,
+          "use": "Fijacion M2"
+        }
+      ],
+      "notes": [
+        "2 x diam1.27 terminales;4 x diam2.20 fijacion.",
+        "1 x diam2.0828 del dibujo nominal de boardlock.",
+        "MINI5A no tiene polaridad; marcar IN/OUT en el arnes.",
+        "Corriente por16AWG a terminales, NO por pista sin calificar."
+      ],
+      "source_row": {
+        "name": "V15_FUSE_FR4_CARRIER",
+        "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/power-lid-repacked/V15_FUSE_FR4_CARRIER.npz",
+        "sha256": "d44c62eb3f457a4e8805d780ed06299d962b58a90cffc0702122968fcea750d6",
+        "role": "REFERENCE",
+        "body": "trunk_base",
+        "mesh_units": "mm",
+        "units": "world mm",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "color": "METAL",
+        "material": "ELECTRONICS",
+        "mount_module": "rear_lid",
+        "quantity": 1,
+        "bounds_mm": [
+          [
+            -67.9,
+            -32.118,
+            128.5
+          ],
+          [
+            -37.6,
+            -30.518,
+            149.0
+          ]
+        ],
+        "geometry_type": "NEW_CUSTOM_FR4_DRILL_TEMPLATE_NOT_ROUTED_PCB",
+        "thickness_mm": 1.6,
+        "power_holes_XZ_mm": [
+          [
+            -56.56,
+            131.275
+          ],
+          [
+            -48.94,
+            131.275
+          ]
+        ],
+        "power_hole_diameter_mm": 1.27,
+        "boardlock_hole_XZ_mm": [
+          -52.75,
+          138.895
+        ],
+        "boardlock_diameter_mm": 2.0828,
+        "mounting_axes_XZ_mm": [
+          [
+            -65.4,
+            135.3
+          ],
+          [
+            -65.4,
+            145.09
+          ],
+          [
+            -40.1,
+            135.3
+          ],
+          [
+            -40.1,
+            145.09
+          ]
+        ],
+        "mounting_hole_diameter_mm": 2.2,
+        "conductor_method": "insulated16AWG wire soldered to power terminals; no unqualified FR4 copper trace current claim"
+      },
+      "files": [
+        {
+          "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/MINI_FR4_CORTE_TALADRO_1a1.svg",
+          "sha256": "c86ce05d5ab462722b81bcca1529950a58e713db0830e4f5a06500c736b55536"
+        },
+        {
+          "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/MINI_FR4_CORTE_TALADRO_mm.dxf",
+          "sha256": "c9e4661a737ba9185ab60185b51f671b3721a46351b02bfee9b5cd6840e86aba"
+        },
+        {
+          "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/MINI_FR4_TALADROS.csv",
+          "sha256": "e2930773f0ca67909855e201895f1621bad4e0a7b80edea768cff78e0079a7c8"
+        }
+      ]
+    },
+    {
+      "id": "CONTROL_FR4",
+      "title": "Control: base FR4 para PNP y resistores",
+      "source_name": "V15_ADC_DRIVER_FR4_ISLAND_BOARD",
+      "width": 26.0,
+      "height": 15.4,
+      "thickness": 1.6,
+      "origin": [
+        -48.4,
+        -15.5,
+        136.3
+      ],
+      "U": [
+        0,
+        1,
+        0
+      ],
+      "V": [
+        0,
+        0,
+        1
+      ],
+      "N": [
+        1,
+        0,
+        0
+      ],
+      "component_face": "+X",
+      "copper_face": "Islotes manuales aislados; no se entrega una PCB ruteada",
+      "outline": [
+        [
+          0,
+          0
+        ],
+        [
+          26,
+          0
+        ],
+        [
+          26,
+          15.4
+        ],
+        [
+          0,
+          15.4
+        ]
+      ],
+      "holes": [
+        {
+          "id": "M2_LEFT",
+          "u": 3.5,
+          "v": 4.7,
+          "d": 2.2,
+          "use": "Fijacion M2"
+        },
+        {
+          "id": "M2_RIGHT",
+          "u": 23.5,
+          "v": 4.7,
+          "d": 2.2,
+          "use": "Fijacion M2"
+        }
+      ],
+      "notes": [
+        "2 x diam2.20. Gris = asignacion de componentes, NO taladro.",
+        "Q1:2N3906; confirmar patillaje del fabricante suministrado.",
+        "7 resistores0805: conexion punto a punto segun netlist.",
+        "No cobre de potencia ni conexion a B- crudo en esta placa."
+      ],
+      "component_allocations": [
+        {
+          "id": "DIV_UPPER",
+          "value": "20k",
+          "u": 10.5,
+          "v": 1.6999999999999886,
+          "width": 2.4,
+          "height": 1.8,
+          "kind": "0805 allocated body+solder; not a certified land pattern"
+        },
+        {
+          "id": "DIV_LOWER",
+          "value": "10k",
+          "u": 14.5,
+          "v": 1.6999999999999886,
+          "width": 2.4,
+          "height": 1.8,
+          "kind": "0805 allocated body+solder; not a certified land pattern"
+        },
+        {
+          "id": "BASE_PULLUP",
+          "value": "10k",
+          "u": 18.5,
+          "v": 1.6999999999999886,
+          "width": 2.4,
+          "height": 1.8,
+          "kind": "0805 allocated body+solder; not a certified land pattern"
+        },
+        {
+          "id": "ALERT_BASE",
+          "value": "10k",
+          "u": 10.5,
+          "v": 11.699999999999989,
+          "width": 2.4,
+          "height": 1.8,
+          "kind": "0805 allocated body+solder; not a certified land pattern"
+        },
+        {
+          "id": "COLLECTOR_OFF",
+          "value": "4k7",
+          "u": 14.5,
+          "v": 11.699999999999989,
+          "width": 2.4,
+          "height": 1.8,
+          "kind": "0805 allocated body+solder; not a certified land pattern"
+        },
+        {
+          "id": "OFF_PULLDOWN",
+          "value": "100k",
+          "u": 18.5,
+          "v": 11.699999999999989,
+          "width": 2.4,
+          "height": 1.8,
+          "kind": "0805 allocated body+solder; not a certified land pattern"
+        },
+        {
+          "id": "PCA_OE_PULLUP",
+          "value": "10k",
+          "u": 6.5,
+          "v": 10.199999999999989,
+          "width": 2.4,
+          "height": 1.8,
+          "kind": "0805 allocated body+solder; not a certified land pattern"
+        },
+        {
+          "id": "Q1_2N3906",
+          "value": "PNP",
+          "u": 12.5,
+          "v": 6.2,
+          "width": 6.0,
+          "height": 6.0,
+          "kind": "formed body/lead allocation only; no invented through-hole pitch"
+        }
+      ],
+      "source_row": {
+        "name": "V15_ADC_DRIVER_FR4_ISLAND_BOARD",
+        "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/power-lid-repacked/V15_ADC_DRIVER_FR4_ISLAND_BOARD.npz",
+        "sha256": "c5d02e2391b5c2a294c010408b65b06fb648d92af75be0656946cdb9dac2062f",
+        "role": "REFERENCE",
+        "body": "trunk_base",
+        "mesh_units": "mm",
+        "units": "world mm",
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "color": "METAL",
+        "material": "ELECTRONICS",
+        "mount_module": "rear_lid",
+        "quantity": 1,
+        "bounds_mm": [
+          [
+            -48.4,
+            -15.5,
+            136.3
+          ],
+          [
+            -46.8,
+            10.5,
+            151.7
+          ]
+        ],
+        "geometry_type": "CUSTOM_DRILLED_FR4_ISLAND_BOARD_POINT_TO_POINT_NOT_QUALIFIED_PCB",
+        "source_dimensions_mm": [
+          26,
+          15.4,
+          1.6
+        ],
+        "mounting_holes_YZ_mm": [
+          [
+            -12.0,
+            141.0
+          ],
+          [
+            8.0,
+            141.0
+          ]
+        ],
+        "mount_drill_diameter_mm": 2.2,
+        "netlist": "ADC_OPERATING_STOP_V15.json",
+        "high_current_through_board": false
+      },
+      "files": [
+        {
+          "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/CONTROL_FR4_CORTE_TALADRO_1a1.svg",
+          "sha256": "667b210b9f2256182d2519b1d5bc37aae0482bbf40cd56f46209b2ef4d0780ad"
+        },
+        {
+          "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/CONTROL_FR4_CORTE_TALADRO_mm.dxf",
+          "sha256": "457f0beda3855f4ff4137bfef5ac341d62e6628f2a1685d5f87e5e6a46adfb10"
+        },
+        {
+          "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/CONTROL_FR4_TALADROS.csv",
+          "sha256": "e598d7ac5f81140ddb639fd2ba01aa4c1b376153aacab54fee2652ef16eda391"
+        }
+      ]
+    }
+  ],
+  "QA": [
+    {
+      "board": "BM_FR4",
+      "source_sha256": "1618aa282a5bdd0dfec6d611504226c438532bdfe1f878061bdd4f85aafbc09a",
+      "normal_rays": 395,
+      "fails": []
+    },
+    {
+      "board": "MINI_FR4",
+      "source_sha256": "d44c62eb3f457a4e8805d780ed06299d962b58a90cffc0702122968fcea750d6",
+      "normal_rays": 2671,
+      "fails": []
+    },
+    {
+      "board": "CONTROL_FR4",
+      "source_sha256": "c5d02e2391b5c2a294c010408b65b06fb648d92af75be0656946cdb9dac2062f",
+      "normal_rays": 1662,
+      "fails": []
+    }
+  ],
+  "source_power_sha256": "aa269bde973970ce814d3856bed392a98d7dfa3ae10a87cf5c530531a4555fd1",
+  "source_BM_sha256": "3f0a7a7250d6611a97a021c2d4b8bba117612edf085eabddb53e1a5b5639b45f",
+  "source_geometry_or_poses_changed": false,
+  "electrical_PCB_fabrication_claimed": false,
+  "Gerber_files_provided": false,
+  "PNP_formed_lead_drill_holes_invented": false,
+  "control_netlist_file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/ADC_OPERATING_STOP_V15.json",
+  "control_netlist_sha256": "46a09d7d09fc67d98c08c35f58b6e93980666bd627a9035844c1b9f47996e646",
+  "CAD_and_paper_scale_checked": true,
+  "actual_printer_scale_and_drill_fit_not_tested": true,
+  "README_file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/README_FR4_V15.md",
+  "README_sha256": "974b5d16f8c8943e871181e1371f8f8e29a014de3c92546ab5ffd3fa99e928d9"
+}

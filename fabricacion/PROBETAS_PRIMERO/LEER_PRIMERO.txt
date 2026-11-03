@@ -1,0 +1,73 @@
+MICRODUCK V15 — COMPROBAR EL LOTE ANTES DE IMPRIMIR TODO
+
+Imprimir las cinco probetas en PETG, boquilla de 0,4 mm, capas de 0,2 mm,
+cuatro perímetros, escala 100%, sin soportes. Usar el mismo filamento y la
+misma compensación de agujeros que en el robot. Registrar las medidas.
+
+01. La muesca identifica la esquina inferior izquierda. Filas desde abajo:
+    Ø1,8 / 1,9 / 2,0; Ø2,1 / 2,2 / 2,3; Ø2,4 / 2,5 / 3,2 mm.
+    Los pasos para M1,6 y M2 deben dejar pasar el tornillo sin cortar rosca
+    en el plástico. Una probeta mayor no modifica automáticamente el CAD.
+
+02. Ventana nominal del cuerpo del servo: 23,4 × 12,8 mm.
+03. La misma ventana con 0,2 mm adicionales totales.
+04. La misma ventana con 0,4 mm adicionales totales.
+    Estas variantes miden una desviación; no justifican agrandar todo el
+    robot. No forzar el cuerpo, comprimir las pestañas ni apoyar en el eje.
+
+05. Tuercas, filas desde abajo: AF3,2 / 3,35 / 3,5 y AF4,0 / 4,2 / 4,3 mm.
+    Profundidad de los huecos M1,6: 1,5 mm; de los M2: 1,8 mm.
+    Usar las tuercas del lote real. Medir su altura, no sólo su ancho.
+
+Piloto normal 02, piezas del KIT_V15_R2_FABRICACION:
+  - P14 V7_TAPA_BRAZO_00: caja del MG02.
+  - P46 V15_SERVICE_FRONT_YAW2ROLL: tapa de entrada y mitad fija del apoyo.
+  - P72 V15_ET_RADIAL_CLAMP_02F: mitad desmontable del apoyo.
+  - P02 V7_MOD_HIP_L y P16 V7_TAPA_BRAZO_02: receptor y tapa del brazo.
+  - P01 V7_MOD_YAW2ROLL: base para probar también el cierre de CAP00.
+  - MG02, brazo OEM de 14,8 mm, ET2216 de 16 × 22 × 4 mm y sus herrajes.
+En P14, detener después de la capa 100 (Z 20,0 mm de modelo) e insertar
+V7_HW_MG02_F_NUT. P01 no tiene pausas. No autoorientar P14 ni usar balsa.
+Las dos mitades del apoyo 02 son P46 y P72; no hace falta imprimir una
+segunda copia de P46. Usar la tornillería del inventario por nombre.
+
+Piloto invertido 04: P02, P76, P03, P47 y P18. P03 lleva dos pausas:
+después de las capas 116 y 121, según los nombres de la tabla de la guía.
+Usar ET2216 de 16 × 22 × 4 mm y brazo OEM de 14,8 mm.
+
+Piloto crítico 08: P23, P48, P07, P79 y P22. En P23 insertar
+V7_HW_MG08_R_NUT después de la capa 100. Usar 6702ZZ de 15 × 21 × 4 mm y
+brazo de 13,8 mm. El apoyo pasivo 10R usa P23, P80, P69, P30 y un 6701ZZ
+de 12 × 18 × 4 mm. No intercambiar esos rodamientos ni sus abrazaderas.
+Comprobar entrada del servo, salida del cable, cierre de tapa, asiento del
+brazo y del rodamiento, acceso del útil y giro libre sin pinzamiento.
+Verificar la retención axial y la resistencia del journal del apoyo 08
+con carga gradual y sin energía antes de replicar el conjunto.
+
+Imprimir también un pie izquierdo completo: tobillo P05, suela TPU P41,
+actuadores P55/P56 y tapa del circuito P59. Montar los dos Omron SS-01-E y calibrar con
+continuidad eléctrica antes de cargarlo. El contacto debe cerrar antes del
+tope rígido. El pulsador no debe soportar el peso del robot.
+
+La ventana de ajuste no prueba la altura del servo ni sus pestañas, eje,
+estriado, tornillo central, conector o salida del cable. Registrar largo,
+ancho, altura bajo pestaña, grosor de pestañas, pasos de taladros, hub y
+brazo de cada lote. Las piezas usan el estriado del brazo OEM comprado;
+no se imprime un estriado MG90S universal.
+
+Cada unión tiene su propio bolsillo. Preparación de los brazos OEM del
+lote real: índices 00/01/08, longitud total 13,8 +0/-0,2 mm; índices
+02/03/04/10/11/12/13, 14,8 +0/-0,2 mm; 05/06/07/14, 18 +/-0,2 mm.
+El 09 queda sin conectar. Comprobar anchura 5 mm, espesor 2,4 mm y cubo
+Ø10,4 mm nominales antes de recortar. No cortar el hub ni la zona estriada.
+No usar otro brazo por fuerza. Los tornillos CAP marcados 5,8 mm se
+preparan desde M2x6, y los M2x11 desde M2x12, según la lista de herrajes.
+
+Si falla un ajuste, corregir ese alojamiento y repetir el piloto antes de
+imprimir el conjunto. Estas pruebas no se han realizado físicamente aquí.
+El registro de primera unidad está entregado sin firmas ni medidas ficticias.
+
+Guía del kit, relativa a este archivo entregado en PROBETAS_PRIMERO:
+  ../DOCUMENTACION/GUIA_IMPRESION_Y_MONTAJE_V15.html
+Orden por submódulos y herramientas:
+  ../DOCUMENTACION/MONTAJE_POR_SUBMODULOS_V15_FINAL.md

@@ -1,0 +1,53 @@
+{
+  "schema": "CURRENT_EXPORTED_D24_FOUR_SOURCE_MOUNT_CONTACT",
+  "assembly_sha256": "d1e061923094f4cd2fcfbbeb800a2daeffc9b78ee9077f8575ebd8b72b0ccbb4",
+  "tray_sha256": "53cd5042e7e27b042d4f97f74e1a6e51f7af1171a2b6c0f3d3c2b755843c5b4b",
+  "component_envelope_sha256": "32b613105ea6fd3fb1bbfaf719cc0390fb16172f93cc2513de3e28232adc4759",
+  "hardware_source_axes": [
+    {
+      "name": "V8_D24_HW_M2x8_0",
+      "sha256": "5f0594b176640303ada51531e48bc2d90d10d151a448b895562434d2fa97bcd7",
+      "axis_XY_mm": [
+        -39.909000381469696,
+        19.431
+      ]
+    },
+    {
+      "name": "V8_D24_HW_M2x8_1",
+      "sha256": "1dfc83749587995e5a7346dff611c771d3969729714f4db72d0af83876bb335c",
+      "axis_XY_mm": [
+        -39.909000381469696,
+        -19.431
+      ]
+    },
+    {
+      "name": "V8_D24_HW_M2x8_2",
+      "sha256": "06d1ecd63ebc044391a499a61f857e2101e1e858ab29bd66630ce78f4e05e5ec",
+      "axis_XY_mm": [
+        -65.30900038146972,
+        19.431
+      ]
+    },
+    {
+      "name": "V8_D24_HW_M2x8_3",
+      "sha256": "fdc9aeaf9886eb5f66d16419fa80d3c7719bf62e9e6a487cc95fa3ecda53dcaf",
+      "axis_XY_mm": [
+        -65.30900038146972,
+        -19.431
+      ]
+    }
+  ],
+  "actual_intersection_mm3": 95.28026704588913,
+  "analytical_face_count": 1032,
+  "faces_outside_one_source_mount_circle": 0,
+  "maximum_face_vertex_radius_about_single_mount_axis_mm": 3.3000018249511895,
+  "nominal_source_mount_circle_R_mm": 3.3,
+  "F32_dimension_tolerance_mm": 1e-05,
+  "contact_mesh_file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FINAL_R2/D24_FOUR_SOURCE_MOUNT_CONTACT.npz",
+  "contact_mesh_sha256": "b4d12bb131c3753ad1a0e591c032d0ddfffcd002e4d49524e0681e516ede14d4",
+  "meaning": "Documented mounting stock only inside a conservative full-board allocation; no exemption for actual purchased PCB or IC geometry.",
+  "physical_component_layout_measured": false,
+  "rebind_method": "Exact tray, component envelope and four source hardware SHA; same current occupied contact. Original analytical source-mount proof retained.",
+  "source_witness_file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FINAL_R2/D24_CURRENT_TRAY_MOUNT_WITNESS.json",
+  "source_witness_sha256": "eec1314780865764bc82569fcb044a74e729a9870651c10c5255e0a462691b72"
+}

@@ -1,0 +1,1328 @@
+{
+  "schema": "v15-head-module-continuous-lift/1",
+  "assembly_sha256": "d1e061923094f4cd2fcfbbeb800a2daeffc9b78ee9077f8575ebd8b72b0ccbb4",
+  "moving_names": [
+    "V15_EYE_REAR_NUT_0",
+    "V15_EYE_REAR_NUT_1",
+    "V15_EYE_REAR_WASHER_0",
+    "V15_EYE_REAR_WASHER_1",
+    "V15_OJO_CIEGO_IMPRIMIBLE",
+    "V7_EYE_RING_CLEARANCED",
+    "V7_HEAD_FACE_ANCLADO",
+    "V7_HEAD_HW_FACE_0",
+    "V7_HEAD_HW_FACE_1",
+    "V7_HEAD_HW_FACE_2",
+    "V7_HEAD_HW_FACE_3",
+    "V7_HEAD_TOP_ANCLADO"
+  ],
+  "removed_fasteners": [
+    "V7_HEAD_HW_TOP_0",
+    "V7_HEAD_HW_TOP_1",
+    "V7_HEAD_HW_TOP_2",
+    "V7_HEAD_HW_TOP_3"
+  ],
+  "direction": [
+    0,
+    0,
+    1
+  ],
+  "all_positive_lift_distances": true,
+  "aabb_continuous_separations": 8498,
+  "tests": [
+    {
+      "moving": "V15_EYE_REAR_NUT_0",
+      "fixed": "V7_HEAD_LOWER_ANCLADO",
+      "travel_mm": 0.309653396094428,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V15_EYE_REAR_NUT_0",
+      "fixed": "V7_HEAD_JAW_FIJO",
+      "travel_mm": 2.9096445753567886,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V15_EYE_REAR_NUT_1",
+      "fixed": "V7_HEAD_LOWER_ANCLADO",
+      "travel_mm": 0.309653396094428,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V15_EYE_REAR_NUT_1",
+      "fixed": "V7_HEAD_JAW_FIJO",
+      "travel_mm": 2.9096445753567886,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V15_EYE_REAR_WASHER_0",
+      "fixed": "V7_HEAD_LOWER_ANCLADO",
+      "travel_mm": 0.5002523193359375,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V15_EYE_REAR_WASHER_0",
+      "fixed": "V7_HEAD_JAW_FIJO",
+      "travel_mm": 3.100243498598298,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V15_EYE_REAR_WASHER_1",
+      "fixed": "V7_HEAD_LOWER_ANCLADO",
+      "travel_mm": 0.5002523193359375,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V15_EYE_REAR_WASHER_1",
+      "fixed": "V7_HEAD_JAW_FIJO",
+      "travel_mm": 3.100243498598298,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V15_OJO_CIEGO_IMPRIMIBLE",
+      "fixed": "V7_HEAD_LOWER_ANCLADO",
+      "travel_mm": 2.371009868485397,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V15_OJO_CIEGO_IMPRIMIBLE",
+      "fixed": "V7_HEAD_JAW_FIJO",
+      "travel_mm": 4.971001047747758,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_EYE_RING_CLEARANCED",
+      "fixed": "V7_HEAD_LOWER_ANCLADO",
+      "travel_mm": 8.900993896484374,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_EYE_RING_CLEARANCED",
+      "fixed": "V7_HEAD_JAW_FIJO",
+      "travel_mm": 11.500985075746735,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_FACE_ANCLADO",
+      "fixed": "V7_HEAD_LOWER_ANCLADO",
+      "travel_mm": 14.700996948242187,
+      "prisms": 790,
+      "initial_contact_mm3": 4.461708780212348e-14,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_FACE_ANCLADO",
+      "fixed": "V7_HEAD_JAW_FIJO",
+      "travel_mm": 17.30098812750455,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_HW_FACE_0",
+      "fixed": "V7_HEAD_LOWER_ANCLADO",
+      "travel_mm": 0.5002523193359375,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_HW_FACE_0",
+      "fixed": "V7_HEAD_JAW_FIJO",
+      "travel_mm": 3.100243498598298,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_HW_FACE_1",
+      "fixed": "V7_HEAD_LOWER_ANCLADO",
+      "travel_mm": 0.5002523193359375,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_HW_FACE_1",
+      "fixed": "V7_HEAD_JAW_FIJO",
+      "travel_mm": 3.100243498598298,
+      "prisms": 0,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_MOD_YAW_ROLL_MOTION",
+      "travel_mm": 24.992897583014805,
+      "prisms": 3760,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_TAPA_BRAZO_10",
+      "travel_mm": 25.992912841796876,
+      "prisms": 7471,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_RETENEDOR_PASIVO_HEADROLL",
+      "travel_mm": 18.292907254548478,
+      "prisms": 322,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HEAD_LOWER_ANCLADO",
+      "travel_mm": 20.89290673828125,
+      "prisms": 9912,
+      "initial_contact_mm3": 1.1358988528652584e-06,
+      "continuous_contact_mm3": 2.517233111878495e-05,
+      "contact_bounds_mm": [
+        [
+          -47.50105285644531,
+          -45.773925289910245,
+          228.0992431640625
+        ],
+        [
+          69.2473258972168,
+          45.78630065917969,
+          229.79925537109375
+        ]
+      ]
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HEAD_JAW_FIJO",
+      "travel_mm": 23.492897917543612,
+      "prisms": 3409,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HEADCORE_ANCLADO",
+      "travel_mm": 25.892908645629856,
+      "prisms": 2512,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HEAD_LIP_LOWER_RELIEVED",
+      "travel_mm": 4.182747433121302,
+      "prisms": 881,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HEAD_LIP_UPPER_RELIEVED",
+      "travel_mm": 5.597618641077555,
+      "prisms": 6257,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V5_PI_ZERO_BANDEJA_CON_ANCLAJES",
+      "travel_mm": 32.593672429687096,
+      "prisms": 1423,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_SERVICE_FRONT_YAW_ROLL_MOTION_0",
+      "travel_mm": 3.6929024058427964,
+      "prisms": 2039,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_SERVICE_FRONT_JAW_SOFT",
+      "travel_mm": 39.99292428588867,
+      "prisms": 8605,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HEADROLL_CHEEK_DESMONTABLE",
+      "travel_mm": 38.692925048828066,
+      "prisms": 5174,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_ET_RADIAL_CLAMP_10F",
+      "travel_mm": 11.292897604217552,
+      "prisms": 578,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_6701_RADIAL_CLAMP_10R",
+      "travel_mm": 21.550277997045352,
+      "prisms": 763,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG08_F_M1p6x6",
+      "travel_mm": 7.592903686523438,
+      "prisms": 120,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG08_F_WASHER",
+      "travel_mm": 1.9929032198451986,
+      "prisms": 192,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG08_F_NUT",
+      "travel_mm": 7.142905887527514,
+      "prisms": 108,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG08_R_M1p6x6",
+      "travel_mm": 7.592903686523438,
+      "prisms": 70,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG08_R_WASHER",
+      "travel_mm": 1.9928994577952275,
+      "prisms": 192,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG08_R_NUT",
+      "travel_mm": 7.142902125477543,
+      "prisms": 108,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG09_F_M1p6x6",
+      "travel_mm": 16.09290368652344,
+      "prisms": 96,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG09_F_WASHER",
+      "travel_mm": 16.49289716937403,
+      "prisms": 192,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG09_F_NUT",
+      "travel_mm": 16.092896412519618,
+      "prisms": 108,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG09_R_M1p6x6",
+      "travel_mm": 16.09290368652344,
+      "prisms": 96,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG09_R_WASHER",
+      "travel_mm": 16.492900931424796,
+      "prisms": 192,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG09_R_NUT",
+      "travel_mm": 16.092900174570328,
+      "prisms": 108,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG10_F_M1p6x6",
+      "travel_mm": 13.092903686523437,
+      "prisms": 125,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG10_F_WASHER",
+      "travel_mm": 13.492898365168822,
+      "prisms": 192,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG10_F_NUT",
+      "travel_mm": 13.092897484199137,
+      "prisms": 108,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG10_R_M1p6x6",
+      "travel_mm": 13.092903686523437,
+      "prisms": 122,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG10_R_WASHER",
+      "travel_mm": 13.492898365168935,
+      "prisms": 192,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_MG10_R_NUT",
+      "travel_mm": 13.09289748419925,
+      "prisms": 108,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_CAP10_0_M2x6",
+      "travel_mm": 21.992912841796876,
+      "prisms": 181,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_CAP10_0_WASHER",
+      "travel_mm": 22.142907015667017,
+      "prisms": 192,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_CAP10_0_NUT",
+      "travel_mm": 21.99290671437768,
+      "prisms": 108,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_CAP10_1_M2x6",
+      "travel_mm": 4.992897583007813,
+      "prisms": 214,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_CAP10_1_WASHER",
+      "travel_mm": 5.142893306599116,
+      "prisms": 192,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_CAP10_1_NUT",
+      "travel_mm": 4.992892528472221,
+      "prisms": 108,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_OEM_HORN_TRIMMED_10",
+      "travel_mm": 13.992899596354215,
+      "prisms": 195,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PASSIVE_HEAD10_M2x10",
+      "travel_mm": 13.89290673828125,
+      "prisms": 135,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PASSIVE_HEAD10_WASHER",
+      "travel_mm": 13.992897583007812,
+      "prisms": 143,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PASSIVE_HEAD10_HARD_SHIM",
+      "travel_mm": 13.992897583007812,
+      "prisms": 141,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PASSIVE_HEAD10_NUT",
+      "travel_mm": 13.492897583007812,
+      "prisms": 70,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HEAD_HW_CORE_0",
+      "travel_mm": 12.931375996781378,
+      "prisms": 196,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HEAD_HW_CORE_1",
+      "travel_mm": 14.931689547769304,
+      "prisms": 196,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HEAD_HW_CORE_2",
+      "travel_mm": 25.30264809195827,
+      "prisms": 294,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HEAD_HW_PI_CORE_0",
+      "travel_mm": 31.893653122407468,
+      "prisms": 348,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HEAD_HW_PI_CORE_1",
+      "travel_mm": 31.893654801260904,
+      "prisms": 348,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HEAD_HW_PI_CORE_2",
+      "travel_mm": 31.893659027821368,
+      "prisms": 348,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HEAD_HW_JAW_0",
+      "travel_mm": 9.393654418945312,
+      "prisms": 340,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HEAD_HW_JAW_1",
+      "travel_mm": 9.393654418945312,
+      "prisms": 340,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_0_M2x10",
+      "travel_mm": 36.493660522460935,
+      "prisms": 192,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_0_PCB_WASHER",
+      "travel_mm": 34.493660522460935,
+      "prisms": 128,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_0_TRAY_WASHER",
+      "travel_mm": 27.193642211914064,
+      "prisms": 128,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_0_NUT",
+      "travel_mm": 26.893654418945314,
+      "prisms": 70,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_1_M2x10",
+      "travel_mm": 36.493660522460935,
+      "prisms": 192,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_1_PCB_WASHER",
+      "travel_mm": 34.493660522460935,
+      "prisms": 128,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_1_TRAY_WASHER",
+      "travel_mm": 27.193657470703126,
+      "prisms": 128,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_1_NUT",
+      "travel_mm": 26.893654418945314,
+      "prisms": 70,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_2_M2x10",
+      "travel_mm": 36.493660522460935,
+      "prisms": 192,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_2_PCB_WASHER",
+      "travel_mm": 34.493660522460935,
+      "prisms": 128,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_2_TRAY_WASHER",
+      "travel_mm": 27.193642211914064,
+      "prisms": 128,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_2_NUT",
+      "travel_mm": 26.893654418945314,
+      "prisms": 70,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_3_M2x10",
+      "travel_mm": 36.493660522460935,
+      "prisms": 192,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_3_PCB_WASHER",
+      "travel_mm": 34.493660522460935,
+      "prisms": 128,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_3_TRAY_WASHER",
+      "travel_mm": 27.193657470703126,
+      "prisms": 128,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_HW_PCB_PI_3_NUT",
+      "travel_mm": 26.893654418945314,
+      "prisms": 70,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_yaw_roll_motion__seeed_bearing__configura_fa19e6f9",
+      "travel_mm": 22.492901543786186,
+      "prisms": 10502,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_yaw_roll_motion__seeed_bearing__configura_0c367e2a",
+      "travel_mm": 20.492909647961167,
+      "prisms": 512,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_08_MG90S_CUERPO",
+      "travel_mm": 23.492911551059304,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_08_pestana",
+      "travel_mm": 3.9928984746439036,
+      "prisms": 143,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_08_pestana.001",
+      "travel_mm": 3.9928984746439036,
+      "prisms": 143,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_08_tapa",
+      "travel_mm": 2.2928995497141167,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_08_tornillo_tapa",
+      "travel_mm": 0.6678977644769711,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_08_tornillo_tapa.001",
+      "travel_mm": 0.6678977644769711,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_08_tornillo_tapa.002",
+      "travel_mm": 0.6678977644769711,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_08_tornillo_tapa.003",
+      "travel_mm": 0.6678977644769711,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_08_torre_auxiliar",
+      "travel_mm": 0.6929017049119418,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_08_torre_salida",
+      "travel_mm": 0.6928991050320642,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_09_eje_metal",
+      "travel_mm": 16.74289966209258,
+      "prisms": 286,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_09_MG90S_CUERPO",
+      "travel_mm": 20.592905480030364,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_09_pestana",
+      "travel_mm": 20.59290296751794,
+      "prisms": 144,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_09_pestana.001",
+      "travel_mm": 20.59290296751794,
+      "prisms": 144,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_09_tapa",
+      "travel_mm": 20.592904109569073,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_09_tornillo_tapa",
+      "travel_mm": 19.242904221542798,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_09_tornillo_tapa.001",
+      "travel_mm": 11.042892014511546,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_09_tornillo_tapa.002",
+      "travel_mm": 19.242904221542798,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_09_tornillo_tapa.003",
+      "travel_mm": 11.042892014511546,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_09_torre_auxiliar",
+      "travel_mm": 18.79290146271168,
+      "prisms": 286,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_09_torre_salida",
+      "travel_mm": 20.292902754716916,
+      "prisms": 286,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_10_eje_metal",
+      "travel_mm": 13.74289966209252,
+      "prisms": 286,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_10_MG90S_CUERPO",
+      "travel_mm": 17.59290402895348,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_10_pestana",
+      "travel_mm": 17.59290267192824,
+      "prisms": 142,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_10_pestana.001",
+      "travel_mm": 17.59290267192824,
+      "prisms": 142,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_10_tapa",
+      "travel_mm": 17.5929026316206,
+      "prisms": 92,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_10_tornillo_tapa",
+      "travel_mm": 16.242904221542798,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_10_tornillo_tapa.001",
+      "travel_mm": 8.042892014511546,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_10_tornillo_tapa.002",
+      "travel_mm": 16.242904221542798,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_10_tornillo_tapa.003",
+      "travel_mm": 8.042892014511546,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_10_torre_auxiliar",
+      "travel_mm": 15.792901462711649,
+      "prisms": 286,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_10_torre_salida",
+      "travel_mm": 17.292902754716888,
+      "prisms": 286,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_10_centro_brazo",
+      "travel_mm": 16.69290144121518,
+      "prisms": 286,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_MD_10_tornillo_central",
+      "travel_mm": 12.992898743788084,
+      "prisms": 142,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_PI_ZERO_2W_PCB",
+      "travel_mm": 34.19366807154946,
+      "prisms": 461,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_PI_ZERO_MINI_HDMI",
+      "travel_mm": 38.19364950205178,
+      "prisms": 92,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_PI_ZERO_USB_DATOS",
+      "travel_mm": 36.99364294070002,
+      "prisms": 92,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_PI_ZERO_USB_ALIMENTACION",
+      "travel_mm": 36.99364294070002,
+      "prisms": 92,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V7_SRC_V4_PI_ZERO_GPIO",
+      "travel_mm": 39.89365970733345,
+      "prisms": 94,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_SERVICE_MG08_0_BOLT_M2x8",
+      "travel_mm": 7.292901703200751,
+      "prisms": 126,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_SERVICE_MG08_0_NUT",
+      "travel_mm": 6.492901402293309,
+      "prisms": 140,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_SERVICE_MG08_1_BOLT_M2x8",
+      "travel_mm": 7.292901703200751,
+      "prisms": 126,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_SERVICE_MG08_1_NUT",
+      "travel_mm": 6.492901402293309,
+      "prisms": 140,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_SERVICE_MG10_0_BOLT_M2x8",
+      "travel_mm": 19.992904380370955,
+      "prisms": 318,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_SERVICE_MG10_0_WASHER",
+      "travel_mm": 20.092904195099575,
+      "prisms": 256,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_SERVICE_MG10_0_NUT",
+      "travel_mm": 19.992903345807118,
+      "prisms": 140,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_SERVICE_MG10_1_BOLT_M2x8",
+      "travel_mm": 25.492908969928603,
+      "prisms": 318,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_SERVICE_MG10_1_WASHER",
+      "travel_mm": 25.592908784657222,
+      "prisms": 256,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_SERVICE_MG10_1_NUT",
+      "travel_mm": 25.492907935364766,
+      "prisms": 140,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_HEAD_CHEEK_SSH_M2x10_R",
+      "travel_mm": 38.54292422636282,
+      "prisms": 338,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_HEAD_CHEEK_SSH_M2x8_L",
+      "travel_mm": 38.54292442790099,
+      "prisms": 351,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_ETCLAMP_10F_0_M2x12_ASSY",
+      "travel_mm": 17.792902813265894,
+      "prisms": 808,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_ETCLAMP_10F_1_M2x12_ASSY",
+      "travel_mm": 17.79290281326581,
+      "prisms": 808,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_6701CLAMP_10R_0_M2x11_ASSY",
+      "travel_mm": 24.637403259794066,
+      "prisms": 808,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    },
+    {
+      "moving": "V7_HEAD_TOP_ANCLADO",
+      "fixed": "V15_HW_6701CLAMP_10R_1_M2x11_ASSY",
+      "travel_mm": 8.788488849762041,
+      "prisms": 683,
+      "initial_contact_mm3": 0.0,
+      "continuous_contact_mm3": 0.0,
+      "contact_bounds_mm": null
+    }
+  ],
+  "unknown": [],
+  "completed": true,
+  "continuous_rigid_lift_clear": false,
+  "physical_fit_verified": false,
+  "flexible_harness_verified": false,
+  "elapsed_s": 68.46900000001187
+}

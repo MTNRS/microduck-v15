@@ -1,0 +1,68 @@
+{
+  "schema": "CASSETTE_CONTINUOUS_CONTACT_MICROFEATURE_CERTIFICATE",
+  "source_assembly_sha256": "d1e061923094f4cd2fcfbbeb800a2daeffc9b78ee9077f8575ebd8b72b0ccbb4",
+  "source_exact_proof_sha256": "49e034f99e52fd0bcdd362ff5dbc3b83db7ffb39d4f38db0021ddd4ca52e0b34",
+  "status": "ALL_RESIDUAL_CONTACT_SURFACES_WITHIN_0p01_SOURCE_SKIN",
+  "reports": [
+    {
+      "moving": "12CASE_TAPA_TRASERA_ENRASADA",
+      "fixed": "12CASE_TORSO_CONTINUO",
+      "source_moving_sha256": "8e9be368d6eb5f31e5cbbbe4e9918c97694330162b73fa5fc9aca0d700c8e3b9",
+      "raw_initial_mm3": 1.059178865139601e-06,
+      "raw_continuous_mm3": 1.0708807585961355e-06,
+      "threshold_unchanged_mm3": 1e-08,
+      "exact_zero_pass": false,
+      "contact_surface_distance_to_source_moving_upper_mm": 0.009999719480465312,
+      "certified_subtriangles": 17920,
+      "unproven_triangles": 0,
+      "unknown": [],
+      "all_contact_surface_within_0p01_of_source_moving": true
+    },
+    {
+      "moving": "V7_ELEC_GOBILDA_3108_2827_0801_PRIMARY_CAD",
+      "fixed": "12CASE_TORSO_CONTINUO",
+      "source_moving_sha256": "ac2d0f4c265546541570f8013cbe55869bd9cce693db4f3f0cabe0e5d8930c09",
+      "raw_initial_mm3": 2.586082373551421e-07,
+      "raw_continuous_mm3": 2.1224417511118424e-06,
+      "threshold_unchanged_mm3": 1e-08,
+      "exact_zero_pass": false,
+      "contact_surface_distance_to_source_moving_upper_mm": 0.009996928403405575,
+      "certified_subtriangles": 16670,
+      "unproven_triangles": 0,
+      "unknown": [],
+      "all_contact_surface_within_0p01_of_source_moving": true
+    },
+    {
+      "moving": "V7_ELEC_GOBILDA_3108_2827_0801_PRIMARY_CAD",
+      "fixed": "V15_SERVICE_FRONT_TRUNK_BASE_0",
+      "source_moving_sha256": "ac2d0f4c265546541570f8013cbe55869bd9cce693db4f3f0cabe0e5d8930c09",
+      "raw_initial_mm3": 8.576767521828989e-07,
+      "raw_continuous_mm3": 1.7830577151082592e-05,
+      "threshold_unchanged_mm3": 1e-08,
+      "exact_zero_pass": false,
+      "contact_surface_distance_to_source_moving_upper_mm": 0.009997644801218232,
+      "certified_subtriangles": 6195,
+      "unproven_triangles": 0,
+      "unknown": [],
+      "all_contact_surface_within_0p01_of_source_moving": true
+    },
+    {
+      "moving": "V7_ELEC_GOBILDA_3108_2827_0801_PRIMARY_CAD",
+      "fixed": "V15_SERVICE_FRONT_TRUNK_BASE_1",
+      "source_moving_sha256": "ac2d0f4c265546541570f8013cbe55869bd9cce693db4f3f0cabe0e5d8930c09",
+      "raw_initial_mm3": 1.1840875594750842e-06,
+      "raw_continuous_mm3": 1.53835764249943e-05,
+      "threshold_unchanged_mm3": 1e-08,
+      "exact_zero_pass": false,
+      "contact_surface_distance_to_source_moving_upper_mm": 0.009968238799868644,
+      "certified_subtriangles": 6989,
+      "unproven_triangles": 0,
+      "unknown": [],
+      "all_contact_surface_within_0p01_of_source_moving": true
+    }
+  ],
+  "raw_exact_zero_failures_preserved": true,
+  "no_global_threshold_change": true,
+  "physical_fit_verified": false,
+  "method": "Retain all exact-zero failures and bound their contact-surface penetration.\nFor each triangle, the maximum vertex distance to ONE convex source triangle\ncertifies the whole contact triangle. Adaptive subdivision handles folds.\nThis is not a medial-depth, positive-clearance or physical-fit certificate.\n"
+}

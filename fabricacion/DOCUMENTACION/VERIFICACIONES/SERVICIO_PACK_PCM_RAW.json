@@ -1,0 +1,115 @@
+{
+  "schema": "V15_K10_PCM_D24_STAGED_CONTINUOUS_ASSEMBLY",
+  "assembly_sha256": "d1e061923094f4cd2fcfbbeb800a2daeffc9b78ee9077f8575ebd8b72b0ccbb4",
+  "checks": [
+    {
+      "moving": "V15_K10_2S1P_BUILDER_MAX",
+      "delta_mm": [
+        0,
+        0,
+        -180
+      ],
+      "continuous_convex_translation": true,
+      "tests": 2,
+      "contacts": [],
+      "omitted_at_this_stage": [
+        "V15_ADC_CARRIER_DESMONTABLE",
+        "V15_ADC_DRIVER_FR4_ISLAND_BOARD",
+        "V15_ADC_OFF_PNP_2N3906",
+        "V15_CELL_VAPCELL_K10_0",
+        "V15_CELL_VAPCELL_K10_1",
+        "V15_D24_BANDEJA_INFERIOR_DESMONTABLE",
+        "V15_HW_ADS1115_M2x8_0",
+        "V15_HW_ADS1115_M2x8_1",
+        "V15_HW_ADS1115_M2x8_2",
+        "V15_HW_ADS1115_M2x8_3",
+        "V15_HW_D24_TRAY_M2x8_0",
+        "V15_HW_D24_TRAY_M2x8_1",
+        "V15_HW_HP_GATE_M2x8",
+        "V15_PCM_250040_MAX",
+        "V15_PCM_TOPE_DESMONTABLE",
+        "V15_PCM_TOPE_DESMONTABLE_DERECHO",
+        "V7_ELEC_D24V150F5_PCB",
+        "V8_D24_HW_M2x8_0",
+        "V8_D24_HW_M2x8_1",
+        "V8_D24_HW_M2x8_2",
+        "V8_D24_HW_M2x8_3"
+      ],
+      "passed": true
+    },
+    {
+      "moving": "V15_PCM_250040_MAX",
+      "delta_mm": [
+        0,
+        0,
+        -100
+      ],
+      "continuous_convex_translation": true,
+      "tests": 1,
+      "contacts": [],
+      "omitted_at_this_stage": [
+        "V15_ADC_CARRIER_DESMONTABLE",
+        "V15_ADC_DRIVER_FR4_ISLAND_BOARD",
+        "V15_ADC_OFF_PNP_2N3906",
+        "V15_D24_BANDEJA_INFERIOR_DESMONTABLE",
+        "V15_HW_ADS1115_M2x8_0",
+        "V15_HW_ADS1115_M2x8_1",
+        "V15_HW_ADS1115_M2x8_2",
+        "V15_HW_ADS1115_M2x8_3",
+        "V15_HW_D24_TRAY_M2x8_0",
+        "V15_HW_D24_TRAY_M2x8_1",
+        "V15_HW_HP_GATE_M2x8",
+        "V15_PCM_250040_MAX",
+        "V15_PCM_TOPE_DESMONTABLE",
+        "V15_PCM_TOPE_DESMONTABLE_DERECHO",
+        "V7_ELEC_D24V150F5_PCB",
+        "V8_D24_HW_M2x8_0",
+        "V8_D24_HW_M2x8_1",
+        "V8_D24_HW_M2x8_2",
+        "V8_D24_HW_M2x8_3"
+      ],
+      "passed": true
+    },
+    {
+      "moving": "D24_TRAY_PCB_FOUR_BOLT_STACKS",
+      "fixed_names": [
+        "12CASE_TAPA_TRASERA_ENRASADA",
+        "V15_PCM_TOPE_DESMONTABLE",
+        "V15_ADC_CARRIER_DESMONTABLE",
+        "V15_PCM_TOPE_DESMONTABLE_DERECHO",
+        "V7_ELEC_SWITCH_2813_PCB",
+        "V15_PCM_250040_MAX",
+        "V15_ELEC_ADS1115_1085",
+        "V15_HW_ADS1115_M2x8_2",
+        "V15_HW_ADS1115_M2x8_3",
+        "V15_FUSE_MINI_01530007Z_0297005",
+        "V15_FUSE_FR4_CARRIER",
+        "V15_HW_MINI_M2x8_0",
+        "V15_HW_MINI_M2x8_2",
+        "V15_REED_59170_1_S_00_C",
+        "V15_HW_PCM_GATE_M2x8_0",
+        "V15_HW_PCM_GATE_M2x8_1",
+        "V15_HW_PDB_LOWER_M2x18_0",
+        "V15_HW_PDB_LOWER_M2x18_1"
+      ],
+      "removed_attachment_bolts": [
+        "V15_HW_D24_TRAY_M2x8_0",
+        "V15_HW_D24_TRAY_M2x8_1",
+        "V15_HW_HP_GATE_M2x8"
+      ],
+      "passed": true,
+      "initial_seated_contact_mm3": 2.913256427493463e-05,
+      "new_intersection_mm3": 0.0
+    }
+  ],
+  "all_passed": true,
+  "exact_boundary_prism_calls": 4813,
+  "physical_fit_verified": false,
+  "flexible_cables_and_plug_release_motion_qualified": false,
+  "assumptions": [
+    "Rear electronics cassette is outside robot, switched off and isolated; loose cross-module plugs parked outside swept corridors.",
+    "D24 tray removed; pack installed before PCM; ADC/PCA/PDB absent where named by DAG.",
+    "Support cassette on bench in the required orientation so neither board nor battery can fall.",
+    "No claim about wire-flex clearance, real solder leads or first-unit print tolerances."
+  ]
+}

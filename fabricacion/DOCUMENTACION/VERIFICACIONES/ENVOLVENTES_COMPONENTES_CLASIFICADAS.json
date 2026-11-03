@@ -1,0 +1,389 @@
+{
+  "schema": "FINAL_FABRICATION_41_KO_CLASSIFICATION",
+  "assembly_sha256": "d1e061923094f4cd2fcfbbeb800a2daeffc9b78ee9077f8575ebd8b72b0ccbb4",
+  "counts": {
+    "WIRE_FIRST_BEND_RESERVATION": 31,
+    "CONSERVATIVE_PHYSICAL_COMPONENT_OR_CONNECTOR_ENVELOPE": 7,
+    "NONEXACT_SERVICE_CAPACITY_BUDGET": 1,
+    "CUSTOM_CIRCUIT_ENGINEERING_ALLOCATION": 2
+  },
+  "keepouts": [
+    {
+      "name": "V7_KEEP_PDB_XT30_INPUT_LEADS",
+      "sha256": "6972f7fb6edb1bf2c55046074e01e47658133099bc790e444ced3ebc85a50024",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V8_KEEP_PDB_BEND_R6_00",
+      "sha256": "51f8e2392a5448ee16361284d1086a11f733ea15c5e010c5994487f083f0b584",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V8_KEEP_PDB_BEND_R6_01",
+      "sha256": "f6d136f07a5eefc258340c9d735fc9e56359bcca31ee580ec31b86bc0cecab91",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V8_KEEP_PDB_BEND_R6_02",
+      "sha256": "3db2e6d1055536e800fc93908b97efae12c54853ef49269a47011c5f99e2a278",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V8_KEEP_PDB_BEND_R6_03",
+      "sha256": "e3799c634edce326e6d3a87eac7ad980fd020361135cdbc3546f188dff8f3136",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V8_KEEP_PDB_BEND_R6_04",
+      "sha256": "c8ce972bcd858cb37a02a502cfca97c92087fa6a76097c127fbfc8b223aab120",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V8_KEEP_PDB_BEND_R6_05",
+      "sha256": "4340ad0f321a9dd89657c875c18a00b5822d93352bf2feabac023ba518200940",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V8_KEEP_PDB_BEND_R6_06",
+      "sha256": "e74692f52373113d1c1139796d37f353ceb3a36e53888f03aeb4609d2cb27918",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V8_KEEP_PDB_BEND_R6_07",
+      "sha256": "8d33e27010e848cf34c9d819cfa23cf872c325853ca729d1c35d574ddc4dd438",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V8_KEEP_PDB_BEND_R6_08",
+      "sha256": "8f3397881032b018ec7cb0975a0b3227d47e2388e3d4ef22ce67ae28389d7715",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V8_KEEP_PDB_BEND_R6_09",
+      "sha256": "1b79507c07b3c852d9dcb73dca276d51db1108ffab819b5cd9e6e29e176fdc3b",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V8_KEEP_PDB_BEND_R6_10",
+      "sha256": "a164602cf2b8dd640172b76843e0e50fe313d1d881ccfc6af458dc2b1afef90c",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V8_KEEP_PDB_BEND_R6_11",
+      "sha256": "83468d62d53f79807b2da29b27af207c264b57c7f76cf964e90f05175c6287ec",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V8_KEEP_PDB_BEND_R6_12",
+      "sha256": "11afa706c042bd7141905ac8323c88370a016ebdce107dca923ac2768fe1f92e",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V8_KEEP_PDB_BEND_R6_13",
+      "sha256": "5b273643293a8db0ec4a507eac465e03dc482e8743df40fd26acc5484a37c4a6",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V8_KEEP_PDB_BEND_R6_14",
+      "sha256": "2625ac39ac7cf163121efe7bae9bf5eb57371b50c79efff54e3dfe71b5e97915",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V7_KEEP_D24V150F5_COMPONENT_ENVELOPE",
+      "sha256": "32b613105ea6fd3fb1bbfaf719cc0390fb16172f93cc2513de3e28232adc4759",
+      "classification": "CONSERVATIVE_PHYSICAL_COMPONENT_OR_CONNECTOR_ENVELOPE"
+    },
+    {
+      "name": "V7_KEEP_D36V28F5_COMPONENT_ENVELOPE",
+      "sha256": "e743ce98cea1d03d496d3fb2a4450e9d12a7f6e86a5ac49d6e830c8f2d5ffeff",
+      "classification": "CONSERVATIVE_PHYSICAL_COMPONENT_OR_CONNECTOR_ENVELOPE"
+    },
+    {
+      "name": "V7_KEEP_PCA_CONTROLLER",
+      "sha256": "c6666862a5e9f4c4605cbcafe22e57251a1c500e79dd23531825847c6c04f467",
+      "classification": "CONSERVATIVE_PHYSICAL_COMPONENT_OR_CONNECTOR_ENVELOPE"
+    },
+    {
+      "name": "V7_KEEP_SWITCH_COMPONENTS",
+      "sha256": "594f8ea082c97d2126ad30499917cffe6d84aac3325293a5744fb910697e6f1d",
+      "classification": "CONSERVATIVE_PHYSICAL_COMPONENT_OR_CONNECTOR_ENVELOPE"
+    },
+    {
+      "name": "V8_KEEP_PACK_XT30_MATED_BODY",
+      "sha256": "308b8cb1ab751addf08296eda6cf7bc5fe5c41bb94c7a783ab3a535e306f4ba5",
+      "classification": "CONSERVATIVE_PHYSICAL_COMPONENT_OR_CONNECTOR_ENVELOPE"
+    },
+    {
+      "name": "V9_KEEP_PCA_C1_10UF_0805",
+      "sha256": "e546aa986e129cc497390f5a27f076b3c217cbc237e995eb974696583c4aa6eb",
+      "classification": "CONSERVATIVE_PHYSICAL_COMPONENT_OR_CONNECTOR_ENVELOPE"
+    },
+    {
+      "name": "V9_KEEP_PCA_SIGNAL_00",
+      "sha256": "50719131b32cc1ce66f2d6a01bcc5b9cc905139369aec18d3a3653a02a0d8a56",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V9_KEEP_PCA_SIGNAL_01",
+      "sha256": "541918e319df530084db3aa4820b0f16c8f3de83665be7b7537ccc2ead84eaf7",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V9_KEEP_PCA_SIGNAL_02",
+      "sha256": "16dcfa055b6cdd97077c2c881bf20d1e2485aab9adb9922f811af3d050b1575f",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V9_KEEP_PCA_SIGNAL_03",
+      "sha256": "715548fdea8b95f44fbce7d035c0bdede5a2a2edb82962885a2f16998f335e03",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V9_KEEP_PCA_SIGNAL_04",
+      "sha256": "cd384667d1ad9815ddf358901e9cfa43104f3897733483e600239a5f22421ede",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V9_KEEP_PCA_SIGNAL_05",
+      "sha256": "d3cfaf207a7fc183c254dd99f79ef5d8bb400fb844e2b1b3290990aaaa282a26",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V9_KEEP_PCA_SIGNAL_06",
+      "sha256": "2539625fecf014566f8ad0e53666b7197ae107ecb7b738b24057d2f563369cad",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V9_KEEP_PCA_SIGNAL_07",
+      "sha256": "6ede7b52486bfe2e7bd3057a4809ab6c13ca359e1719c8169c2777f8f66f783c",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V9_KEEP_PCA_SIGNAL_08",
+      "sha256": "99d962b03c6021fcf72d7b660f1ecce3d279cc5bcd31eba0b0304e9344743070",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V9_KEEP_PCA_SIGNAL_09",
+      "sha256": "ee07c6b56a24be78ec2a76555bf8c39bbe15c3bd16218fc1fffc117014c46d00",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V9_KEEP_PCA_SIGNAL_10",
+      "sha256": "d080ed71df6dbdd771e6a5bffc3c145d36e7c5ab889f42f812fe34e7f57f8025",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V9_KEEP_PCA_SIGNAL_11",
+      "sha256": "bf988750427794884546b6431f9d88bddbeed9542c843eb98aa0a33b6b93a7c5",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V9_KEEP_PCA_SIGNAL_12",
+      "sha256": "cc7746cb79d453fac2499681c70fe6e9857c651926001c42263e007362d528cd",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V9_KEEP_PCA_SIGNAL_13",
+      "sha256": "f782ee78cc3a6598c04df54f2cc489be5bba3a077f42853d480dec6124448da8",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V9_KEEP_PCA_SIGNAL_14",
+      "sha256": "f02f83b7d60e220282538ec258c7a38dc05a6eb550f73b161731a0cbbd3c3d9b",
+      "classification": "WIRE_FIRST_BEND_RESERVATION"
+    },
+    {
+      "name": "V9_KEEP_BATTERY_SERVICE_CHAMBER_CAPACITY",
+      "sha256": "b03ffb14b2cf9510c9a17d7669ae97df0818f060af3cedbe7f90a5a4390f01d1",
+      "classification": "NONEXACT_SERVICE_CAPACITY_BUDGET"
+    },
+    {
+      "name": "V15_KEEP_FOOT_L_CIRCUITO_3R",
+      "sha256": "9955680b526e6f33e1f7cdb1ea33a41cb2d65527254c0df0fe65d5b875231895",
+      "classification": "CUSTOM_CIRCUIT_ENGINEERING_ALLOCATION"
+    },
+    {
+      "name": "V15_KEEP_FOOT_R_CIRCUITO_3R",
+      "sha256": "0eda2f680f83b7b0147859fb1733252d48f45fe491b19e8848e62db2e333d86a",
+      "classification": "CUSTOM_CIRCUIT_ENGINEERING_ALLOCATION"
+    },
+    {
+      "name": "V15_K10_2S1P_BUILDER_MAX",
+      "sha256": "04b3f6dd50017a2166220b89e8e63bc4843e726d9cca4792bad29c23724427a9",
+      "classification": "CONSERVATIVE_PHYSICAL_COMPONENT_OR_CONNECTOR_ENVELOPE"
+    }
+  ],
+  "raw_tests": 92,
+  "raw_contacts": 8,
+  "raw_unknown": 0,
+  "contacts": [
+    {
+      "envelope": "V7_KEEP_D24V150F5_COMPONENT_ENVELOPE",
+      "PRINT": "V15_D24_BANDEJA_INFERIOR_DESMONTABLE",
+      "envelope_class": "DECLARED_COMPONENT_ENVELOPE",
+      "intersection_mm3": 95.28026704588915,
+      "bounds_world_mm": [
+        [
+          -68.60900028963799,
+          -21.59000015258789,
+          121.86999961195107
+        ],
+        [
+          -37.75000190734863,
+          21.59000015258789,
+          128.40000029859658
+        ]
+      ],
+      "explicit_class": "CONSERVATIVE_PHYSICAL_COMPONENT_OR_CONNECTOR_ENVELOPE",
+      "disposition": "DOCUMENTED_FOUR_SOURCE_MOUNT_SECTORS_IN_CONSERVATIVE_FULL_BOARD_BOX"
+    },
+    {
+      "envelope": "V9_KEEP_BATTERY_SERVICE_CHAMBER_CAPACITY",
+      "PRINT": "12CASE_TORSO_CONTINUO",
+      "envelope_class": "SERVICE_CAPACITY_BUDGET",
+      "intersection_mm3": 3.8254976462717185e-05,
+      "bounds_world_mm": [
+        [
+          -43.30000305175781,
+          27.500000791590224,
+          129.3
+        ],
+        [
+          -37.0,
+          33.412,
+          134.1999982904531
+        ]
+      ],
+      "explicit_class": "NONEXACT_SERVICE_CAPACITY_BUDGET",
+      "disposition": "CAPACITY_OCCUPANCY_RECORDED_NOT_PURCHASED_COMPONENT"
+    },
+    {
+      "envelope": "V9_KEEP_BATTERY_SERVICE_CHAMBER_CAPACITY",
+      "PRINT": "12CASE_TAPA_TRASERA_ENRASADA",
+      "envelope_class": "SERVICE_CAPACITY_BUDGET",
+      "intersection_mm3": 7.411462572808666,
+      "bounds_world_mm": [
+        [
+          -50.2,
+          20.212,
+          129.3
+        ],
+        [
+          -36.67,
+          33.412,
+          162.72499999064308
+        ]
+      ],
+      "explicit_class": "NONEXACT_SERVICE_CAPACITY_BUDGET",
+      "disposition": "CAPACITY_OCCUPANCY_RECORDED_NOT_PURCHASED_COMPONENT"
+    },
+    {
+      "envelope": "V9_KEEP_BATTERY_SERVICE_CHAMBER_CAPACITY",
+      "PRINT": "V15_BM_FR4_CAP_R2",
+      "envelope_class": "SERVICE_CAPACITY_BUDGET",
+      "intersection_mm3": 145.24823525521464,
+      "bounds_world_mm": [
+        [
+          -50.2,
+          29.100000095367434,
+          155.00000038146973
+        ],
+        [
+          -40.12500076293945,
+          33.412,
+          162.8
+        ]
+      ],
+      "explicit_class": "NONEXACT_SERVICE_CAPACITY_BUDGET",
+      "disposition": "CAPACITY_OCCUPANCY_RECORDED_NOT_PURCHASED_COMPONENT"
+    },
+    {
+      "envelope": "V15_KEEP_FOOT_L_CIRCUITO_3R",
+      "PRINT": "V7_MOD_ANKLE_LEFT",
+      "envelope_class": "DECLARED_COMPONENT_ENVELOPE",
+      "intersection_mm3": 29.918704974373103,
+      "bounds_world_mm": [
+        [
+          16.016202843575723,
+          38.38107245862484,
+          28.38935476988554
+        ],
+        [
+          28.016210120424322,
+          46.481370951822484,
+          31.841387219873692
+        ]
+      ],
+      "explicit_class": "CUSTOM_CIRCUIT_ENGINEERING_ALLOCATION",
+      "disposition": "ENGINEERING_ALLOCATION_WITH_RETAINING_STOCK",
+      "meaning": "FOOT3R12x8x3 is not a commercial PCB. Each cap overlap28.8 is two1.2x1.5x8 fingers. Remaining ankle overlap is recorded without claiming it is entirely comb stock or that the soldered circuit/harness is fully qualified."
+    },
+    {
+      "envelope": "V15_KEEP_FOOT_L_CIRCUITO_3R",
+      "PRINT": "V15_FOOT_L_TAPA_CIRCUITO",
+      "envelope_class": "DECLARED_COMPONENT_ENVELOPE",
+      "intersection_mm3": 28.800049067353306,
+      "bounds_world_mm": [
+        [
+          16.91620311051087,
+          38.51180623365502,
+          29.883647859983373
+        ],
+        [
+          27.116209212448084,
+          46.612104833498556,
+          32.07518913596866
+        ]
+      ],
+      "explicit_class": "CUSTOM_CIRCUIT_ENGINEERING_ALLOCATION",
+      "disposition": "ENGINEERING_ALLOCATION_WITH_RETAINING_STOCK",
+      "meaning": "FOOT3R12x8x3 is not a commercial PCB. Each cap overlap28.8 is two1.2x1.5x8 fingers. Remaining ankle overlap is recorded without claiming it is entirely comb stock or that the soldered circuit/harness is fully qualified."
+    },
+    {
+      "envelope": "V15_KEEP_FOOT_R_CIRCUITO_3R",
+      "PRINT": "V7_MOD_ANKLE_RIGHT",
+      "envelope_class": "DECLARED_COMPONENT_ENVELOPE",
+      "intersection_mm3": 29.918749776059048,
+      "bounds_world_mm": [
+        [
+          16.01616264416966,
+          -46.481371469838514,
+          28.38936007171869
+        ],
+        [
+          28.016172100322496,
+          -38.38106922246517,
+          31.841391050173478
+        ]
+      ],
+      "explicit_class": "CUSTOM_CIRCUIT_ENGINEERING_ALLOCATION",
+      "disposition": "ENGINEERING_ALLOCATION_WITH_RETAINING_STOCK",
+      "meaning": "FOOT3R12x8x3 is not a commercial PCB. Each cap overlap28.8 is two1.2x1.5x8 fingers. Remaining ankle overlap is recorded without claiming it is entirely comb stock or that the soldered circuit/harness is fully qualified."
+    },
+    {
+      "envelope": "V15_KEEP_FOOT_R_CIRCUITO_3R",
+      "PRINT": "V15_FOOT_R_TAPA_CIRCUITO",
+      "envelope_class": "DECLARED_COMPONENT_ENVELOPE",
+      "intersection_mm3": 28.800081552646933,
+      "bounds_world_mm": [
+        [
+          16.916163027170988,
+          -46.61210509829048,
+          29.883653203280918
+        ],
+        [
+          27.116171757180606,
+          -38.51180291597546,
+          32.07519310861826
+        ]
+      ],
+      "explicit_class": "CUSTOM_CIRCUIT_ENGINEERING_ALLOCATION",
+      "disposition": "ENGINEERING_ALLOCATION_WITH_RETAINING_STOCK",
+      "meaning": "FOOT3R12x8x3 is not a commercial PCB. Each cap overlap28.8 is two1.2x1.5x8 fingers. Remaining ankle overlap is recorded without claiming it is entirely comb stock or that the soldered circuit/harness is fully qualified."
+    }
+  ],
+  "blocking_component_or_wire_contacts": [],
+  "all_reserve_volumes_empty": false,
+  "physical_fit_verified": false
+}

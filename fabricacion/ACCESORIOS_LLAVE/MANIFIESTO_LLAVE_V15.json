@@ -1,0 +1,71 @@
+{
+  "parts": [
+    {
+      "name": "V15_LLAVE_57045_CUNA",
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/ACCESORIO_LLAVE/V15_LLAVE_57045_CUNA.stl",
+      "sha256": "3dcafbc5a4bc3fb8c68542666b03156f00965e870b024f3d1348ae4942ebe913",
+      "topology": {
+        "coordinate_bad_edges": 0,
+        "coordinate_orientation_bad_edges": 0,
+        "collapsed_faces": 0,
+        "exact_zero_area_faces": 0,
+        "positive_solid_components": 1,
+        "total_boundary_components": 1,
+        "negative_closed_cavity_components": 0,
+        "zero_volume_components": 0,
+        "negative_cavities_closed_and_contained": true,
+        "negative_cavity_containment_checks": [],
+        "volume_mm3": 465.7116858872342,
+        "passed": true
+      },
+      "Prusa_statistics": [
+        {
+          "edges_fixed": "0",
+          "degenerate_facets": "0",
+          "facets_removed": "0",
+          "facets_reversed": "0",
+          "backwards_edges": "0"
+        }
+      ],
+      "color": "AZUL_CIELO",
+      "material": "PETG",
+      "quantity": 1,
+      "accessory_not_robot_assembly": true
+    },
+    {
+      "name": "V15_LLAVE_57045_TAPA",
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/ACCESORIO_LLAVE/V15_LLAVE_57045_TAPA.stl",
+      "sha256": "12282721e7d86abe5ce2f48dd033d8d4b17fab113b7d93da3772eff337fa1f0b",
+      "topology": {
+        "coordinate_bad_edges": 0,
+        "coordinate_orientation_bad_edges": 0,
+        "collapsed_faces": 0,
+        "exact_zero_area_faces": 0,
+        "positive_solid_components": 1,
+        "total_boundary_components": 1,
+        "negative_closed_cavity_components": 0,
+        "zero_volume_components": 0,
+        "negative_cavities_closed_and_contained": true,
+        "negative_cavity_containment_checks": [],
+        "volume_mm3": 169.23552162166567,
+        "passed": true
+      },
+      "Prusa_statistics": [
+        {
+          "edges_fixed": "0",
+          "degenerate_facets": "0",
+          "facets_removed": "0",
+          "facets_reversed": "0",
+          "backwards_edges": "0"
+        }
+      ],
+      "color": "AZUL_CIELO",
+      "material": "PETG",
+      "quantity": 1,
+      "accessory_not_robot_assembly": true
+    }
+  ],
+  "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/SHELL/llave-magnetica/LLAVE_MAGNETICA_57045_V15.json",
+  "assembly": "Insertar imán Littelfuse57045-000 en cuna, comprobar polo/distancia con reed en banco, cerrar tapa con adhesivo compatiblePETG. Mantener imán retirado durante calibraciónIMU. Accesorio externo, no importar al origen del robot.",
+  "physical_magnetic_operation_verified": false
+}

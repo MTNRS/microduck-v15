@@ -1,0 +1,187 @@
+{
+  "schema": "V15_BM_FR4_MANUFACTURING_DRAWING",
+  "source_overlay_file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/HARNESS/OVERLAY_BM_B3B_MONTABLE_V15_FINAL.json",
+  "source_overlay_sha256": "3f0a7a7250d6611a97a021c2d4b8bba117612edf085eabddb53e1a5b5639b45f",
+  "source_REF": {
+    "name": "V15_BM_CUSTOM_FR4",
+    "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/HARNESS/bm-header/assembly-r2/V15_BM_CUSTOM_FR4.npz",
+    "sha256": "1618aa282a5bdd0dfec6d611504226c438532bdfe1f878061bdd4f85aafbc09a",
+    "role": "REFERENCE",
+    "body": "trunk_base",
+    "units": "world mm",
+    "matrix_world": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "bounds_mm": [
+      [
+        -50.925,
+        30.4,
+        154.9
+      ],
+      [
+        -42.925,
+        32.0,
+        164.7
+      ]
+    ],
+    "bounds_world_mm": [
+      [
+        -50.925,
+        30.4,
+        154.9
+      ],
+      [
+        -42.925,
+        32.0,
+        164.7
+      ]
+    ],
+    "QA": {
+      "coordinate_bad_edges": 0,
+      "coordinate_orientation_bad_edges": 0,
+      "collapsed_faces": 0,
+      "exact_zero_area_faces": 0,
+      "positive_solid_components": 1,
+      "total_boundary_components": 1,
+      "negative_closed_cavity_components": 0,
+      "zero_volume_components": 0,
+      "negative_cavities_closed_and_contained": true,
+      "negative_cavity_containment_checks": [],
+      "volume_mm3": 119.90226581729021,
+      "passed": true
+    },
+    "material": "customFR4 1.6",
+    "color": [
+      0.1,
+      0.35,
+      0.1,
+      1
+    ],
+    "source_stage": "V15_BM_STAGE_ASSEMBLY_FINAL",
+    "custom_made": true
+  },
+  "world_to_component_drawing": "u=worldX-(-50.925); v=worldZ-154.9; thickness along+Y",
+  "mechanical_view": "From-Y; +Xright,+Zup",
+  "copper_view": "From+Y; horizontalmirror of mechanical view",
+  "size_mm": [
+    8.0,
+    9.799999999999983,
+    1.6000000000000014
+  ],
+  "outline_vertices_componentside_mm": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      8.0,
+      0.0
+    ],
+    [
+      8.0,
+      9.799999999999983
+    ],
+    [
+      0.0,
+      9.799999999999983
+    ],
+    [
+      0.0,
+      8.5
+    ],
+    [
+      0.6999999999999957,
+      8.5
+    ],
+    [
+      0.6999999999999957,
+      6.900000000000006
+    ],
+    [
+      0.0,
+      6.900000000000006
+    ]
+  ],
+  "hole_centres_componentside_mm": [
+    [
+      3.4750000000000014,
+      2.4499999999999886
+    ],
+    [
+      3.4750000000000014,
+      4.949999999999989
+    ],
+    [
+      3.4750000000000014,
+      7.449999999999989
+    ]
+  ],
+  "hole_diameter_nominal_mm": 1.0,
+  "hole_pitch_mm": 2.5,
+  "actual_NPZ_outline_symmetric_difference_mm2": 1.525890525044815e-13,
+  "actual_NPZ_hole_center_max_error_mm": 1.1546319456101628e-14,
+  "actual_CAD_holes_are_32segment_circle_approximations": true,
+  "copper_contract": {
+    "pad_OD_mm": 2,
+    "wire_pad_OD_mm": 1.6,
+    "trace_width_mm": 0.6,
+    "wire_pad_componentside_mm": [
+      1.9249999999999972,
+      4.949999999999989
+    ],
+    "minimum_island_gap_mm": 0.5,
+    "only_centre_pin2_connected": "PCM BM",
+    "endpins": "isolatedNCislands, stillpotentiallylive whenpackplugged"
+  },
+  "SVGs": {
+    "BM_FR4_CORTE_TALADROS_1a1.svg": {
+      "sha256": "15e2d6327523de41f5e3a3da0928cee6ae96a8ef8e5ef32608ae42e7029f9848",
+      "paper_mm": [
+        100,
+        65
+      ],
+      "drawing_scale": 1
+    },
+    "BM_FR4_COBRE_VISTA_MAS_Y_1a1.svg": {
+      "sha256": "2f154efa1a14d5615ddda267a57e477b9a5bad0d6cbbab5154a1c56ecea7aac9",
+      "paper_mm": [
+        100,
+        65
+      ],
+      "drawing_scale": 1
+    }
+  },
+  "DXF": {
+    "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/HARNESS/BM_FR4_PLANTILLA/BM_FR4_CORTE_TALADROS_1a1.dxf",
+    "sha256": "5437dceb2c08c8ed95dc279e683b2e07d3d412da5649eac0964ba831aec554fb",
+    "INSUNITS": 4,
+    "units": "mm",
+    "closed_outline_count": 1,
+    "circle_count": 3
+  },
+  "cut_source_changed": false,
+  "physical_first_unit_pin_fit_and_polarity_check_required": true
+}

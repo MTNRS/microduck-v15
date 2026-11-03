@@ -1,0 +1,731 @@
+{
+  "schema": "INDEPENDENT_CASSETTE_CLOSURE_POWER_POSES",
+  "source_assembly_sha256": "e16a9082be15aeb403002105fbb5a2c79c42a78e92034a103407b3e2d77c8f90",
+  "candidate_assembly_file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/KIT_V15_R2_FABRICACION/ASSEMBLY_FABRICACION_CANDIDATO_V15.json",
+  "candidate_assembly_sha256": "d1e061923094f4cd2fcfbbeb800a2daeffc9b78ee9077f8575ebd8b72b0ccbb4",
+  "changed_names": [
+    "12CASE_TORSO_CONTINUO",
+    "12CASE_TAPA_TRASERA_ENRASADA"
+  ],
+  "case_topology": [
+    {
+      "name": "12CASE_TORSO_CONTINUO",
+      "sha256": "8c295a647d3c5348a36cb7109bb2fb95d14b1a16da4595cf74721f2cc71c7e4c",
+      "QA": {
+        "coordinate_bad_edges": 0,
+        "coordinate_orientation_bad_edges": 0,
+        "collapsed_faces": 0,
+        "exact_zero_area_faces": 0,
+        "positive_solid_components": 1,
+        "total_boundary_components": 1,
+        "negative_closed_cavity_components": 0,
+        "zero_volume_components": 0,
+        "negative_cavities_closed_and_contained": true,
+        "negative_cavity_containment_checks": [],
+        "volume_mm3": 74101.255532,
+        "passed": true
+      }
+    },
+    {
+      "name": "12CASE_TAPA_TRASERA_ENRASADA",
+      "sha256": "8e9be368d6eb5f31e5cbbbe4e9918c97694330162b73fa5fc9aca0d700c8e3b9",
+      "QA": {
+        "coordinate_bad_edges": 0,
+        "coordinate_orientation_bad_edges": 0,
+        "collapsed_faces": 0,
+        "exact_zero_area_faces": 0,
+        "positive_solid_components": 1,
+        "total_boundary_components": 3,
+        "negative_closed_cavity_components": 2,
+        "zero_volume_components": 0,
+        "negative_cavities_closed_and_contained": true,
+        "negative_cavity_containment_checks": [
+          {
+            "index": 0,
+            "signed_boundary_volume_mm3": -0.006002328827632852,
+            "flipped_occupied_volume_mm3": 0.006002328827632977,
+            "closed": true,
+            "outside_positive_shell_mm3": 0.0,
+            "contained": true
+          },
+          {
+            "index": 1,
+            "signed_boundary_volume_mm3": -0.005997171306085177,
+            "flipped_occupied_volume_mm3": 0.005997171306085156,
+            "closed": true,
+            "outside_positive_shell_mm3": 0.0,
+            "contained": true
+          }
+        ],
+        "volume_mm3": 33002.477885716326,
+        "passed": true
+      }
+    }
+  ],
+  "closure_load_and_socket_checks": [
+    {
+      "closure": "V12_HW_CASE_CLOSURE_00",
+      "source_composite_sha256": "99711498d1d0ec2f1643ecb6f8c0d19c25be85364ed06c2158a1b49698067734",
+      "axis_YZ_mm": [
+        -36.0,
+        129.0
+      ],
+      "guard": "FRONT_NUT_REAR_LOAD_SEAT",
+      "source_occupied_load_ring_stock_mm3": 68.29121903682268,
+      "load_ring_radii_mm": [
+        1.2,
+        3.3
+      ],
+      "raw_full_cylinder_stock_loss_mm3": 1.8901115722989524e-06,
+      "raw_nominal_throughbore_interior_stock_loss_mm3": 3.497202527569243e-15,
+      "signed_load_ring_stock_loss_mm3": 1.8901115731706238e-06,
+      "Boolean_status": "Error.NoError",
+      "qualified": true,
+      "passed": true,
+      "source_full_nut_engagement_mm": 1.6000000000000014,
+      "source_tip_protrusion_mm": 1.453310155459505
+    },
+    {
+      "closure": "V12_HW_CASE_CLOSURE_00",
+      "source_composite_sha256": "99711498d1d0ec2f1643ecb6f8c0d19c25be85364ed06c2158a1b49698067734",
+      "axis_YZ_mm": [
+        -36.0,
+        129.0
+      ],
+      "guard": "FRONT_NUT_SOCKET_CROWN",
+      "source_occupied_load_ring_stock_mm3": 53.94580582332289,
+      "load_ring_radii_mm": [
+        1.2,
+        3.3
+      ],
+      "raw_full_cylinder_stock_loss_mm3": 1.2878612910607887e-06,
+      "raw_nominal_throughbore_interior_stock_loss_mm3": 8.185726402265558e-18,
+      "signed_load_ring_stock_loss_mm3": 1.287861291844357e-06,
+      "Boolean_status": "Error.NoError",
+      "qualified": true,
+      "passed": true,
+      "source_full_nut_engagement_mm": 1.6000000000000014,
+      "source_tip_protrusion_mm": 1.453310155459505
+    },
+    {
+      "closure": "V12_HW_CASE_CLOSURE_00",
+      "source_composite_sha256": "99711498d1d0ec2f1643ecb6f8c0d19c25be85364ed06c2158a1b49698067734",
+      "axis_YZ_mm": [
+        -36.0,
+        129.0
+      ],
+      "guard": "LID_REAR_WASHER_LOAD_SEAT",
+      "source_occupied_load_ring_stock_mm3": 57.83596302645938,
+      "load_ring_radii_mm": [
+        1.2,
+        3.3
+      ],
+      "raw_full_cylinder_stock_loss_mm3": -7.632783294297951e-17,
+      "raw_nominal_throughbore_interior_stock_loss_mm3": 5.551115123125783e-16,
+      "signed_load_ring_stock_loss_mm3": -5.204170427930421e-17,
+      "Boolean_status": "Error.NoError",
+      "qualified": true,
+      "passed": true,
+      "source_full_nut_engagement_mm": 1.6000000000000014,
+      "source_tip_protrusion_mm": 1.453310155459505
+    },
+    {
+      "closure": "V12_HW_CASE_CLOSURE_01",
+      "source_composite_sha256": "af7fb67f0b9e2c49c6317c66d189983a6ab191507d181d2a0959832b0bed2678",
+      "axis_YZ_mm": [
+        -36.0,
+        151.0
+      ],
+      "guard": "FRONT_NUT_REAR_LOAD_SEAT",
+      "source_occupied_load_ring_stock_mm3": 38.94511057819482,
+      "load_ring_radii_mm": [
+        1.2,
+        3.3
+      ],
+      "raw_full_cylinder_stock_loss_mm3": 0.00014458753463179787,
+      "raw_nominal_throughbore_interior_stock_loss_mm3": 0.00014397141885554108,
+      "signed_load_ring_stock_loss_mm3": 6.161121190076482e-07,
+      "Boolean_status": "Error.NoError",
+      "qualified": true,
+      "passed": true,
+      "source_full_nut_engagement_mm": 1.6000000000000014,
+      "source_tip_protrusion_mm": 0.7241483785552987
+    },
+    {
+      "closure": "V12_HW_CASE_CLOSURE_01",
+      "source_composite_sha256": "af7fb67f0b9e2c49c6317c66d189983a6ab191507d181d2a0959832b0bed2678",
+      "axis_YZ_mm": [
+        -36.0,
+        151.0
+      ],
+      "guard": "FRONT_NUT_SOCKET_CROWN",
+      "source_occupied_load_ring_stock_mm3": 30.084245312840242,
+      "load_ring_radii_mm": [
+        1.2,
+        3.3
+      ],
+      "raw_full_cylinder_stock_loss_mm3": 2.3458505468996445e-06,
+      "raw_nominal_throughbore_interior_stock_loss_mm3": 0.0,
+      "signed_load_ring_stock_loss_mm3": 2.3458505468997568e-06,
+      "Boolean_status": "Error.NoError",
+      "qualified": true,
+      "passed": true,
+      "source_full_nut_engagement_mm": 1.6000000000000014,
+      "source_tip_protrusion_mm": 0.7241483785552987
+    },
+    {
+      "closure": "V12_HW_CASE_CLOSURE_01",
+      "source_composite_sha256": "af7fb67f0b9e2c49c6317c66d189983a6ab191507d181d2a0959832b0bed2678",
+      "axis_YZ_mm": [
+        -36.0,
+        151.0
+      ],
+      "guard": "LID_REAR_WASHER_LOAD_SEAT",
+      "source_occupied_load_ring_stock_mm3": 67.14409214239299,
+      "load_ring_radii_mm": [
+        1.2,
+        3.3
+      ],
+      "raw_full_cylinder_stock_loss_mm3": 1.628791502714111e-14,
+      "raw_nominal_throughbore_interior_stock_loss_mm3": 8.881784197001252e-16,
+      "signed_load_ring_stock_loss_mm3": 1.451158793853236e-14,
+      "Boolean_status": "Error.NoError",
+      "qualified": true,
+      "passed": true,
+      "source_full_nut_engagement_mm": 1.6000000000000014,
+      "source_tip_protrusion_mm": 0.7241483785552987
+    },
+    {
+      "closure": "V12_HW_CASE_CLOSURE_02",
+      "source_composite_sha256": "3b68d0e60894e7b5ef612ba7a495937365d09641602007265e7909e895bd9539",
+      "axis_YZ_mm": [
+        36.0,
+        129.0
+      ],
+      "guard": "FRONT_NUT_REAR_LOAD_SEAT",
+      "source_occupied_load_ring_stock_mm3": 66.95597801513382,
+      "load_ring_radii_mm": [
+        1.2,
+        3.3
+      ],
+      "raw_full_cylinder_stock_loss_mm3": 6.570265165262157e-16,
+      "raw_nominal_throughbore_interior_stock_loss_mm3": 4.690692279041286e-15,
+      "signed_load_ring_stock_loss_mm3": 5.546778314435841e-16,
+      "Boolean_status": "Error.NoError",
+      "qualified": true,
+      "passed": true,
+      "source_full_nut_engagement_mm": 1.6000000000000014,
+      "source_tip_protrusion_mm": 1.4533479117609431
+    },
+    {
+      "closure": "V12_HW_CASE_CLOSURE_02",
+      "source_composite_sha256": "3b68d0e60894e7b5ef612ba7a495937365d09641602007265e7909e895bd9539",
+      "axis_YZ_mm": [
+        36.0,
+        129.0
+      ],
+      "guard": "FRONT_NUT_SOCKET_CROWN",
+      "source_occupied_load_ring_stock_mm3": 54.15537941234214,
+      "load_ring_radii_mm": [
+        1.2,
+        3.3
+      ],
+      "raw_full_cylinder_stock_loss_mm3": 7.160945285095838e-15,
+      "raw_nominal_throughbore_interior_stock_loss_mm3": 0.0,
+      "signed_load_ring_stock_loss_mm3": 5.82867765554565e-15,
+      "Boolean_status": "Error.NoError",
+      "qualified": true,
+      "passed": true,
+      "source_full_nut_engagement_mm": 1.6000000000000014,
+      "source_tip_protrusion_mm": 1.4533479117609431
+    },
+    {
+      "closure": "V12_HW_CASE_CLOSURE_02",
+      "source_composite_sha256": "3b68d0e60894e7b5ef612ba7a495937365d09641602007265e7909e895bd9539",
+      "axis_YZ_mm": [
+        36.0,
+        129.0
+      ],
+      "guard": "LID_REAR_WASHER_LOAD_SEAT",
+      "source_occupied_load_ring_stock_mm3": 69.78414203614982,
+      "load_ring_radii_mm": [
+        1.2,
+        3.3
+      ],
+      "raw_full_cylinder_stock_loss_mm3": -1.3791051634015616e-15,
+      "raw_nominal_throughbore_interior_stock_loss_mm3": -1.7763568394002505e-15,
+      "signed_load_ring_stock_loss_mm3": -1.3791051634015616e-15,
+      "Boolean_status": "Error.NoError",
+      "qualified": true,
+      "passed": true,
+      "source_full_nut_engagement_mm": 1.6000000000000014,
+      "source_tip_protrusion_mm": 1.4533479117609431
+    },
+    {
+      "closure": "V12_HW_CASE_CLOSURE_03",
+      "source_composite_sha256": "faebaa76a23396d1173fec0bf9c24cd7a66a93c2123987e66e0dad0f900eec77",
+      "axis_YZ_mm": [
+        36.0,
+        151.0
+      ],
+      "guard": "FRONT_NUT_REAR_LOAD_SEAT",
+      "source_occupied_load_ring_stock_mm3": 39.169277300809064,
+      "load_ring_radii_mm": [
+        1.2,
+        3.3
+      ],
+      "raw_full_cylinder_stock_loss_mm3": 0.00014396132975247317,
+      "raw_nominal_throughbore_interior_stock_loss_mm3": 0.00014380112353875343,
+      "signed_load_ring_stock_loss_mm3": 1.6020623559077759e-07,
+      "Boolean_status": "Error.NoError",
+      "qualified": true,
+      "passed": true,
+      "source_full_nut_engagement_mm": 1.6000000000000014,
+      "source_tip_protrusion_mm": 0.7241483785552987
+    },
+    {
+      "closure": "V12_HW_CASE_CLOSURE_03",
+      "source_composite_sha256": "faebaa76a23396d1173fec0bf9c24cd7a66a93c2123987e66e0dad0f900eec77",
+      "axis_YZ_mm": [
+        36.0,
+        151.0
+      ],
+      "guard": "FRONT_NUT_SOCKET_CROWN",
+      "source_occupied_load_ring_stock_mm3": 30.380062406878427,
+      "load_ring_radii_mm": [
+        1.2,
+        3.3
+      ],
+      "raw_full_cylinder_stock_loss_mm3": 2.479710492646816e-07,
+      "raw_nominal_throughbore_interior_stock_loss_mm3": 8.239936510889834e-18,
+      "signed_load_ring_stock_loss_mm3": 2.4797104970267996e-07,
+      "Boolean_status": "Error.NoError",
+      "qualified": true,
+      "passed": true,
+      "source_full_nut_engagement_mm": 1.6000000000000014,
+      "source_tip_protrusion_mm": 0.7241483785552987
+    },
+    {
+      "closure": "V12_HW_CASE_CLOSURE_03",
+      "source_composite_sha256": "faebaa76a23396d1173fec0bf9c24cd7a66a93c2123987e66e0dad0f900eec77",
+      "axis_YZ_mm": [
+        36.0,
+        151.0
+      ],
+      "guard": "LID_REAR_WASHER_LOAD_SEAT",
+      "source_occupied_load_ring_stock_mm3": 69.7872308240975,
+      "load_ring_radii_mm": [
+        1.2,
+        3.3
+      ],
+      "raw_full_cylinder_stock_loss_mm3": 1.992745924450473e-16,
+      "raw_nominal_throughbore_interior_stock_loss_mm3": 1.3322676295501878e-15,
+      "signed_load_ring_stock_loss_mm3": 9.519135594000629e-17,
+      "Boolean_status": "Error.NoError",
+      "qualified": true,
+      "passed": true,
+      "source_full_nut_engagement_mm": 1.6000000000000014,
+      "source_tip_protrusion_mm": 0.7241483785552987
+    }
+  ],
+  "MINI_source_mount_stock": [
+    {
+      "source_fastener": "V15_HW_MINI_M2x8_0",
+      "source_fastener_sha256": "90443389881addd5026eef0b7d484a51714a386b612e7ff172bdfd85e9719832",
+      "load_axis_start_mm": [
+        -65.4,
+        -32.118,
+        135.3
+      ],
+      "direction": [
+        -0.0,
+        -1.0,
+        -0.0
+      ],
+      "printed_stack_mm": 2.4,
+      "source_stock_mm3": 18.53025311572714,
+      "signed_stock_loss_mm3": 6.461844948013606e-17,
+      "qualified": true,
+      "passed": true
+    },
+    {
+      "source_fastener": "V15_HW_MINI_M2x8_1",
+      "source_fastener_sha256": "fea55a992d36651400a8b3397f82a195cee3f091838ae4d908b99cee762417d2",
+      "load_axis_start_mm": [
+        -65.4,
+        -32.118,
+        145.09
+      ],
+      "direction": [
+        -0.0,
+        -1.0,
+        -0.0
+      ],
+      "printed_stack_mm": 2.4,
+      "source_stock_mm3": 18.530248122712475,
+      "signed_stock_loss_mm3": 3.642919299551295e-17,
+      "qualified": true,
+      "passed": true
+    },
+    {
+      "source_fastener": "V15_HW_MINI_M2x8_2",
+      "source_fastener_sha256": "401dd5153f00abce0ce9c491b282eca2d8408d0c7897230cbb3cc99cd0b8f7fa",
+      "load_axis_start_mm": [
+        -40.1,
+        -32.118,
+        135.3
+      ],
+      "direction": [
+        -0.0,
+        -1.0,
+        -0.0
+      ],
+      "printed_stack_mm": 2.4,
+      "source_stock_mm3": 15.964998785934501,
+      "signed_stock_loss_mm3": 2.7755575615628914e-17,
+      "qualified": true,
+      "passed": true
+    },
+    {
+      "source_fastener": "V15_HW_MINI_M2x8_3",
+      "source_fastener_sha256": "63da0d00f6a0f6995147631d8f0acc5cc7c9fd08b37f6840df8328e45092c684",
+      "load_axis_start_mm": [
+        -40.1,
+        -32.118,
+        145.09
+      ],
+      "direction": [
+        -0.0,
+        -1.0,
+        -0.0
+      ],
+      "printed_stack_mm": 2.4,
+      "source_stock_mm3": 18.530249540909466,
+      "signed_stock_loss_mm3": 2.7755575615628914e-17,
+      "qualified": true,
+      "passed": true
+    }
+  ],
+  "real_C2_1p2_source_skin_signed_loss_mm3": 3.348412868896798e-06,
+  "real_C2_skin_loss_qualified": true,
+  "core_POWER_reference_count": 49,
+  "all_moving_REFERENCE_count": 51,
+  "POWER_reference_pose_and_geometry_invariants": [
+    {
+      "name": "V7_ELEC_GOBILDA_3108_2827_0801_PRIMARY_CAD",
+      "source_sha256": "ac2d0f4c265546541570f8013cbe55869bd9cce693db4f3f0cabe0e5d8930c09",
+      "candidate_sha256": "ac2d0f4c265546541570f8013cbe55869bd9cce693db4f3f0cabe0e5d8930c09",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V7_ELEC_D24V150F5_PCB",
+      "source_sha256": "d218f3660d9259d1c99f37d11790559bf96c7b3041a60c0052df48ba1e867101",
+      "candidate_sha256": "d218f3660d9259d1c99f37d11790559bf96c7b3041a60c0052df48ba1e867101",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V8_D24_HW_M2x8_0",
+      "source_sha256": "5f0594b176640303ada51531e48bc2d90d10d151a448b895562434d2fa97bcd7",
+      "candidate_sha256": "5f0594b176640303ada51531e48bc2d90d10d151a448b895562434d2fa97bcd7",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V8_D24_HW_M2x8_1",
+      "source_sha256": "1dfc83749587995e5a7346dff611c771d3969729714f4db72d0af83876bb335c",
+      "candidate_sha256": "1dfc83749587995e5a7346dff611c771d3969729714f4db72d0af83876bb335c",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V8_D24_HW_M2x8_2",
+      "source_sha256": "06d1ecd63ebc044391a499a61f857e2101e1e858ab29bd66630ce78f4e05e5ec",
+      "candidate_sha256": "06d1ecd63ebc044391a499a61f857e2101e1e858ab29bd66630ce78f4e05e5ec",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V8_D24_HW_M2x8_3",
+      "source_sha256": "fdc9aeaf9886eb5f66d16419fa80d3c7719bf62e9e6a487cc95fa3ecda53dcaf",
+      "candidate_sha256": "fdc9aeaf9886eb5f66d16419fa80d3c7719bf62e9e6a487cc95fa3ecda53dcaf",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V7_ELEC_PCA9685_REV_C_PCB",
+      "source_sha256": "c969d57f3ccdf9cec94639ba1cc0b2ff36dc9005e88476acba28c55bb1d79113",
+      "candidate_sha256": "c969d57f3ccdf9cec94639ba1cc0b2ff36dc9005e88476acba28c55bb1d79113",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V8_PCA_HW_M2x8_0",
+      "source_sha256": "3973568e39c7ccfd78d416ee5019b6d11de1fc65df7c393ae8546a5044c0e718",
+      "candidate_sha256": "3973568e39c7ccfd78d416ee5019b6d11de1fc65df7c393ae8546a5044c0e718",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V8_PCA_HW_M2x8_1",
+      "source_sha256": "0524a93283a2116183e4a51429dbbb22c9898b91f8f57e7d61339453d255e044",
+      "candidate_sha256": "0524a93283a2116183e4a51429dbbb22c9898b91f8f57e7d61339453d255e044",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V8_PCA_HW_M2x8_2",
+      "source_sha256": "358298ea0df12aaa35d014402110cbe4bcbd10508c3b0798dd37484668d0a224",
+      "candidate_sha256": "358298ea0df12aaa35d014402110cbe4bcbd10508c3b0798dd37484668d0a224",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V8_PCA_HW_M2x8_3",
+      "source_sha256": "85f92550e1be13004b975e4e1f03c1cc43ef2f41a1c3536d7074f5f1d657de9d",
+      "candidate_sha256": "85f92550e1be13004b975e4e1f03c1cc43ef2f41a1c3536d7074f5f1d657de9d",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V7_ELEC_SWITCH_2813_PCB",
+      "source_sha256": "9c61c6d1cdab652691f13cb4edac9e12c96c0cf09fc086fba2a0251651fc45f3",
+      "candidate_sha256": "9c61c6d1cdab652691f13cb4edac9e12c96c0cf09fc086fba2a0251651fc45f3",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V8_BALANCE_XHP3_NOMINAL",
+      "source_sha256": "74dd8b682a61a47dccf9a0f322bdb960dee8c8d0367278601af47ec9704f1ac2",
+      "candidate_sha256": "74dd8b682a61a47dccf9a0f322bdb960dee8c8d0367278601af47ec9704f1ac2",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_PCM_250040_MAX",
+      "source_sha256": "317f342b29aac36c083a454cb495a9d194c2e44c20c6c86912b84fa5ef34302f",
+      "candidate_sha256": "317f342b29aac36c083a454cb495a9d194c2e44c20c6c86912b84fa5ef34302f",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_ELEC_ADS1115_1085",
+      "source_sha256": "cb844352d3cd7bae1ae71d0cedf6270eb8a93c41c7de436d9c88ed38163a3f11",
+      "candidate_sha256": "cb844352d3cd7bae1ae71d0cedf6270eb8a93c41c7de436d9c88ed38163a3f11",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_ADS1115_M2x8_0",
+      "source_sha256": "b7052d4a2be9136f5405446d81c69447e06e9b821af865a3a60d93197827851a",
+      "candidate_sha256": "b7052d4a2be9136f5405446d81c69447e06e9b821af865a3a60d93197827851a",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_ADS1115_M2x8_1",
+      "source_sha256": "c43fdcf8429e1ff2673f1dc3de76c79952d6ea01775f0f1a9c810fda1bd8cf55",
+      "candidate_sha256": "c43fdcf8429e1ff2673f1dc3de76c79952d6ea01775f0f1a9c810fda1bd8cf55",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_ADS1115_M2x8_2",
+      "source_sha256": "3b7055ec348e3a38d85cc0c97c13ffb01ab8fa2f7a6fd52f622e26709b38d1d5",
+      "candidate_sha256": "3b7055ec348e3a38d85cc0c97c13ffb01ab8fa2f7a6fd52f622e26709b38d1d5",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_ADS1115_M2x8_3",
+      "source_sha256": "27ee051498474f6f9055bbcbf377fb60797b7db1c456934812d646d9b211e61d",
+      "candidate_sha256": "27ee051498474f6f9055bbcbf377fb60797b7db1c456934812d646d9b211e61d",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_CELL_VAPCELL_K10_0",
+      "source_sha256": "f87e7d363f729ff1146b92c3f6dc1e5ad1801c09485be682d2cbf8dec5badc77",
+      "candidate_sha256": "f87e7d363f729ff1146b92c3f6dc1e5ad1801c09485be682d2cbf8dec5badc77",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_CELL_VAPCELL_K10_1",
+      "source_sha256": "ba70ba4889f78f2fc041e450626bb60480fa3b96e919e12eb10bc74ebd94549e",
+      "candidate_sha256": "ba70ba4889f78f2fc041e450626bb60480fa3b96e919e12eb10bc74ebd94549e",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_FUSE_MINI_01530007Z_0297005",
+      "source_sha256": "c0554ae819a669e469326f1c5d312e97d474aaac50591b94bccde4ee34e72965",
+      "candidate_sha256": "c0554ae819a669e469326f1c5d312e97d474aaac50591b94bccde4ee34e72965",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_FUSE_FR4_CARRIER",
+      "source_sha256": "d44c62eb3f457a4e8805d780ed06299d962b58a90cffc0702122968fcea750d6",
+      "candidate_sha256": "d44c62eb3f457a4e8805d780ed06299d962b58a90cffc0702122968fcea750d6",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_MINI_M2x8_0",
+      "source_sha256": "90443389881addd5026eef0b7d484a51714a386b612e7ff172bdfd85e9719832",
+      "candidate_sha256": "90443389881addd5026eef0b7d484a51714a386b612e7ff172bdfd85e9719832",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_MINI_M2x8_1",
+      "source_sha256": "fea55a992d36651400a8b3397f82a195cee3f091838ae4d908b99cee762417d2",
+      "candidate_sha256": "fea55a992d36651400a8b3397f82a195cee3f091838ae4d908b99cee762417d2",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_MINI_M2x8_2",
+      "source_sha256": "401dd5153f00abce0ce9c491b282eca2d8408d0c7897230cbb3cc99cd0b8f7fa",
+      "candidate_sha256": "401dd5153f00abce0ce9c491b282eca2d8408d0c7897230cbb3cc99cd0b8f7fa",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_MINI_M2x8_3",
+      "source_sha256": "63da0d00f6a0f6995147631d8f0acc5cc7c9fd08b37f6840df8328e45092c684",
+      "candidate_sha256": "63da0d00f6a0f6995147631d8f0acc5cc7c9fd08b37f6840df8328e45092c684",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_REED_59170_1_S_00_C",
+      "source_sha256": "6dded6ab0cdde171cb1b4cd62c308764edb6e9f86d4192d87a3dd01fb5d51da1",
+      "candidate_sha256": "6dded6ab0cdde171cb1b4cd62c308764edb6e9f86d4192d87a3dd01fb5d51da1",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_ADC_DRIVER_M2x8_0",
+      "source_sha256": "4ad36503498866e5c3c151920923b36549453d797130513ded3ffc2ee87abdb4",
+      "candidate_sha256": "4ad36503498866e5c3c151920923b36549453d797130513ded3ffc2ee87abdb4",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_ADC_DRIVER_M2x8_1",
+      "source_sha256": "78cd083028ad7ab88daa2c4de93f7a33d6a8a5ef2d291bd6fd9768db07503348",
+      "candidate_sha256": "78cd083028ad7ab88daa2c4de93f7a33d6a8a5ef2d291bd6fd9768db07503348",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_ADC_DRIVER_FR4_ISLAND_BOARD",
+      "source_sha256": "c5d02e2391b5c2a294c010408b65b06fb648d92af75be0656946cdb9dac2062f",
+      "candidate_sha256": "c5d02e2391b5c2a294c010408b65b06fb648d92af75be0656946cdb9dac2062f",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_ADC_OFF_PNP_2N3906",
+      "source_sha256": "cbbbc5acc2912dd73e6b74292c442be94a0175d60e085dfc955fb72df029a076",
+      "candidate_sha256": "cbbbc5acc2912dd73e6b74292c442be94a0175d60e085dfc955fb72df029a076",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_RES_DIV_UPPER",
+      "source_sha256": "1a2a53ac902ca92e62e4b33eaf29d8280a02309b80bf2f6c7b30e2ddaca453b5",
+      "candidate_sha256": "1a2a53ac902ca92e62e4b33eaf29d8280a02309b80bf2f6c7b30e2ddaca453b5",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_RES_DIV_LOWER",
+      "source_sha256": "de1ece1e550182b87040f942875863555921cba6b74943dd47286a50d70d254f",
+      "candidate_sha256": "de1ece1e550182b87040f942875863555921cba6b74943dd47286a50d70d254f",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_RES_PNP_BASE_PULLUP",
+      "source_sha256": "104d651394f0db7c4948e96a586aae615a77059b335866646b75fe8f1c968c36",
+      "candidate_sha256": "104d651394f0db7c4948e96a586aae615a77059b335866646b75fe8f1c968c36",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_RES_ALERT_TO_BASE",
+      "source_sha256": "034a8c333754065a7f7048e5f98d8d0e6518a94f2db8cb0a5e36b8ee472dbfc4",
+      "candidate_sha256": "034a8c333754065a7f7048e5f98d8d0e6518a94f2db8cb0a5e36b8ee472dbfc4",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_RES_COLLECTOR_OFF",
+      "source_sha256": "126ea6936592b3dcda6616795a865a45e4bed3f4901b63aaf14de24783dd737d",
+      "candidate_sha256": "126ea6936592b3dcda6616795a865a45e4bed3f4901b63aaf14de24783dd737d",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_RES_OFF_PULLDOWN",
+      "source_sha256": "a81a45bbcee3fc33ad9f7c87ca1130c0ec1f6a6a949c5068bedd3e6423ec5fae",
+      "candidate_sha256": "a81a45bbcee3fc33ad9f7c87ca1130c0ec1f6a6a949c5068bedd3e6423ec5fae",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_RES_PCA_OE_PULLUP",
+      "source_sha256": "ee7350dc4169581c7a5a2d2e43aede87c765bca735196e09b2dae71315bf3f7e",
+      "candidate_sha256": "ee7350dc4169581c7a5a2d2e43aede87c765bca735196e09b2dae71315bf3f7e",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_PCM_GATE_M2x8_0",
+      "source_sha256": "cdea225a7db5006f5205dd5882fbd7752f89b2c6708c57b5c9f2988f42ce09fa",
+      "candidate_sha256": "cdea225a7db5006f5205dd5882fbd7752f89b2c6708c57b5c9f2988f42ce09fa",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_PCM_GATE_M2x8_1",
+      "source_sha256": "e1d59410d7e0e8b43a6af89a502303d6342ba534879d9aec3cf16a10eab443fb",
+      "candidate_sha256": "e1d59410d7e0e8b43a6af89a502303d6342ba534879d9aec3cf16a10eab443fb",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_K10_GATE_M2x8_0",
+      "source_sha256": "bc285fa321e6cdadfc81b069ab29e47cebfb43d9bdca399152afbff34afcb8e8",
+      "candidate_sha256": "bc285fa321e6cdadfc81b069ab29e47cebfb43d9bdca399152afbff34afcb8e8",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_K10_GATE_M2x8_1",
+      "source_sha256": "7b1eb56c162bddd7918bdabb6362618f9555b447777b0c2fa9eb6628d901ff4e",
+      "candidate_sha256": "7b1eb56c162bddd7918bdabb6362618f9555b447777b0c2fa9eb6628d901ff4e",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_HP_GATE_M2x8",
+      "source_sha256": "0f833dc1986b8137d12a1e3a552efa50d0089a20da6853931ebaebdca65399c9",
+      "candidate_sha256": "0f833dc1986b8137d12a1e3a552efa50d0089a20da6853931ebaebdca65399c9",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_REED_CAP_M2x8",
+      "source_sha256": "b914dcbc8cd53e4004493713d630e1e689bd628fe5b234cc2bb3ca15d7387288",
+      "candidate_sha256": "b914dcbc8cd53e4004493713d630e1e689bd628fe5b234cc2bb3ca15d7387288",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_PDB_LOWER_M2x18_0",
+      "source_sha256": "ffc9b48b5ee5ca6fd1129a5474ac990b71c2dd0025e741e7a554ebd555323d15",
+      "candidate_sha256": "ffc9b48b5ee5ca6fd1129a5474ac990b71c2dd0025e741e7a554ebd555323d15",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_PDB_LOWER_M2x18_1",
+      "source_sha256": "9038e3628b658463b1cce977db9134859682a191a08ae3874fb3741f7738d8d1",
+      "candidate_sha256": "9038e3628b658463b1cce977db9134859682a191a08ae3874fb3741f7738d8d1",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_D24_TRAY_M2x8_0",
+      "source_sha256": "17b1ea9cd0454ac9f3d517c0f519e9c5bf474bf7fc592b52e76880b0bc932b6b",
+      "candidate_sha256": "17b1ea9cd0454ac9f3d517c0f519e9c5bf474bf7fc592b52e76880b0bc932b6b",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_D24_TRAY_M2x8_1",
+      "source_sha256": "871f68428ef170aa3eaffbda0f7851f54b3247b8063505e0596c0155b72ac00d",
+      "candidate_sha256": "871f68428ef170aa3eaffbda0f7851f54b3247b8063505e0596c0155b72ac00d",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_BM_CUSTOM_FR4",
+      "source_sha256": "1618aa282a5bdd0dfec6d611504226c438532bdfe1f878061bdd4f85aafbc09a",
+      "candidate_sha256": "1618aa282a5bdd0dfec6d611504226c438532bdfe1f878061bdd4f85aafbc09a",
+      "same_geometry_and_world_transform": true
+    },
+    {
+      "name": "V15_HW_BM_SSH_M2x8",
+      "source_sha256": "f6d4c1873d0f9b2c060119eb2b3d3f9fc6d3aaccc9b95bfb9878e19febd86cb3",
+      "candidate_sha256": "f6d4c1873d0f9b2c060119eb2b3d3f9fc6d3aaccc9b95bfb9878e19febd86cb3",
+      "same_geometry_and_world_transform": true
+    }
+  ],
+  "all_662_REFERENCE_rows_unchanged": true,
+  "references_added_to_BOM": 0,
+  "DAG_status": "All PCB/fastener poses remain exact. Only stationary printed material is designed to be removed. Original bench routes cannot be narrowed nominally; final actualF32 PCB rebind is reported separately if run.",
+  "continuous_cassette_path_not_requalified_here": true,
+  "retained_closure_nuts_QA_manifest": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FINAL_R2/ADDITIONAL_FIXED_CLOSURE_NUTS_QA.json",
+  "input_drift": [],
+  "guards_passed": true,
+  "status": "PASS_CLOSURE_MINI_STOCK_POWER_POSES",
+  "physical_fit_verified": false,
+  "geometry_modified": false
+}

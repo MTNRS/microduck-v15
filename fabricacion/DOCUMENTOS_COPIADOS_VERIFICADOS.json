@@ -1,0 +1,385 @@
+{
+  "files": [
+    {
+      "file": "PROBETAS_PRIMERO\\01_PASOS_TORNILLOS.stl",
+      "sha256": "595ea2a5ebc380bb9cbbba7f2585520b4e45f8d073f4095440ea39f5d0c5e6a5",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/PROBETAS_PRIMERO/01_PASOS_TORNILLOS.stl"
+    },
+    {
+      "file": "PROBETAS_PRIMERO\\02_VENTANA_MG90S_000.stl",
+      "sha256": "fdf8d93582a5657628495acf0a5cc6aab4da5f2bc0342fdce6fa07379fe3b173",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/PROBETAS_PRIMERO/02_VENTANA_MG90S_000.stl"
+    },
+    {
+      "file": "PROBETAS_PRIMERO\\03_VENTANA_MG90S_200.stl",
+      "sha256": "2e9dc76913038151334d60ef6bf3248d8549e75803d375a455c7be38f99117c2",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/PROBETAS_PRIMERO/03_VENTANA_MG90S_200.stl"
+    },
+    {
+      "file": "PROBETAS_PRIMERO\\04_VENTANA_MG90S_400.stl",
+      "sha256": "bcbc73150de2d872d4f5775cfb4a2f6adb0787f5f9de8da45d1727474808d8bb",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/PROBETAS_PRIMERO/04_VENTANA_MG90S_400.stl"
+    },
+    {
+      "file": "PROBETAS_PRIMERO\\05_ALOJAMIENTOS_TUERCAS.stl",
+      "sha256": "151b2a652b6766cafbc8909aca9657629705bb242800e1487549363f031f6f58",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/PROBETAS_PRIMERO/05_ALOJAMIENTOS_TUERCAS.stl"
+    },
+    {
+      "file": "PROBETAS_PRIMERO\\LEER_PRIMERO.txt",
+      "sha256": "7ea54f0650631c1a4b666179843c2e6c2bfd62a7df1a820ec74a0552bce0b814",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/PRIMERO_PROBETAS_Y_PILOTO.txt"
+    },
+    {
+      "file": "ACCESORIOS_LLAVE\\V15_LLAVE_57045_CUNA.stl",
+      "sha256": "3dcafbc5a4bc3fb8c68542666b03156f00965e870b024f3d1348ae4942ebe913",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/ACCESORIO_LLAVE/V15_LLAVE_57045_CUNA.stl"
+    },
+    {
+      "file": "ACCESORIOS_LLAVE\\V15_LLAVE_57045_TAPA.stl",
+      "sha256": "12282721e7d86abe5ce2f48dd033d8d4b17fab113b7d93da3772eff337fa1f0b",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/ACCESORIO_LLAVE/V15_LLAVE_57045_TAPA.stl"
+    },
+    {
+      "file": "ACCESORIOS_LLAVE\\MANIFIESTO_LLAVE_V15.json",
+      "sha256": "fc9ff34b4df2b3b5907db441f2dcc2db88528db0b9de4fe4401f33b952ce78da",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/ACCESORIO_LLAVE/MANIFIESTO_LLAVE_V15.json"
+    },
+    {
+      "file": "DOCUMENTACION\\FR4\\BM_FR4_COBRE_POSTERIOR_ESPEJADO.svg",
+      "sha256": "3e02848096741967b10c8b9043c5584e8b6a0d83f8056c37c90ce27c65671422",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/BM_FR4_COBRE_POSTERIOR_ESPEJADO.svg"
+    },
+    {
+      "file": "DOCUMENTACION\\FR4\\BM_FR4_CORTE_TALADRO_1a1.svg",
+      "sha256": "0b915d702318dff18c57caa0ac001d03f3d370635bc36ff7fe17dc065ea90837",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/BM_FR4_CORTE_TALADRO_1a1.svg"
+    },
+    {
+      "file": "DOCUMENTACION\\FR4\\BM_FR4_CORTE_TALADRO_mm.dxf",
+      "sha256": "50ed58b3c9477cd0c7c7a8296c55720034e5a16f1847b85858298433af687c7f",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/BM_FR4_CORTE_TALADRO_mm.dxf"
+    },
+    {
+      "file": "DOCUMENTACION\\FR4\\BM_FR4_TALADROS.csv",
+      "sha256": "d3166b6b3516cca06d9518934b3535ffdb2ddc6052850a2f6f7ec5fefbb98ece",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/BM_FR4_TALADROS.csv"
+    },
+    {
+      "file": "DOCUMENTACION\\FR4\\CONTROL_FR4_CORTE_TALADRO_1a1.svg",
+      "sha256": "667b210b9f2256182d2519b1d5bc37aae0482bbf40cd56f46209b2ef4d0780ad",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/CONTROL_FR4_CORTE_TALADRO_1a1.svg"
+    },
+    {
+      "file": "DOCUMENTACION\\FR4\\CONTROL_FR4_CORTE_TALADRO_mm.dxf",
+      "sha256": "457f0beda3855f4ff4137bfef5ac341d62e6628f2a1685d5f87e5e6a46adfb10",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/CONTROL_FR4_CORTE_TALADRO_mm.dxf"
+    },
+    {
+      "file": "DOCUMENTACION\\FR4\\CONTROL_FR4_TALADROS.csv",
+      "sha256": "e598d7ac5f81140ddb639fd2ba01aa4c1b376153aacab54fee2652ef16eda391",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/CONTROL_FR4_TALADROS.csv"
+    },
+    {
+      "file": "DOCUMENTACION\\FR4\\FR4_MANIFEST.json",
+      "sha256": "8122df03cb052a660c3806ee596cceb0a4f80b1138aed2d6a102ffa0fe109eb3",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/FR4_MANIFEST.json"
+    },
+    {
+      "file": "DOCUMENTACION\\FR4\\MINI_FR4_CORTE_TALADRO_1a1.svg",
+      "sha256": "c86ce05d5ab462722b81bcca1529950a58e713db0830e4f5a06500c736b55536",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/MINI_FR4_CORTE_TALADRO_1a1.svg"
+    },
+    {
+      "file": "DOCUMENTACION\\FR4\\MINI_FR4_CORTE_TALADRO_mm.dxf",
+      "sha256": "c9e4661a737ba9185ab60185b51f671b3721a46351b02bfee9b5cd6840e86aba",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/MINI_FR4_CORTE_TALADRO_mm.dxf"
+    },
+    {
+      "file": "DOCUMENTACION\\FR4\\MINI_FR4_TALADROS.csv",
+      "sha256": "e2930773f0ca67909855e201895f1621bad4e0a7b80edea768cff78e0079a7c8",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/MINI_FR4_TALADROS.csv"
+    },
+    {
+      "file": "DOCUMENTACION\\FR4\\README_FR4_V15.md",
+      "sha256": "974b5d16f8c8943e871181e1371f8f8e29a014de3c92546ab5ffd3fa99e928d9",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/FR4_TEMPLATES/README_FR4_V15.md"
+    },
+    {
+      "file": "DOCUMENTACION\\FR4\\REFERENCIA_BM\\BM_FR4_FABRICACION_Y_AISLAMIENTO.md",
+      "sha256": "ad8fa34b9c104a863ebaaef9e5769122d76e4cb0d49c2187c6b74044369bb43a",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/HARNESS/BM_FR4_PLANTILLA/BM_FR4_FABRICACION_Y_AISLAMIENTO.md"
+    },
+    {
+      "file": "DOCUMENTACION\\FR4\\REFERENCIA_BM\\BM_FR4_PLANO_VERIFICACION_V15.json",
+      "sha256": "4b518d4d5c1d07153bec59d32bf715e0e7cbc8ce1e798eabc7b04b4c0bcc24f1",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/HARNESS/BM_FR4_PLANTILLA/BM_FR4_PLANO_VERIFICACION_V15.json"
+    },
+    {
+      "file": "DOCUMENTACION\\DAG_MONTAJE_ELECTRONICA_V15.md",
+      "sha256": "6bf98cf9c31ca8fcdb3000ee8f3bc11020d6fe10cfc66cc1237c778560ca5c57",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/DAG_MONTAJE_ELECTRONICA_V15.md"
+    },
+    {
+      "file": "DOCUMENTACION\\PORT_PLAN_K10_V15.md",
+      "sha256": "3723e8c5d549245d477fd866cf33b8b48189ca1ef751249c8fa73a77ebbeded5",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/PORT_PLAN_K10_V15.md"
+    },
+    {
+      "file": "DOCUMENTACION\\ARNES\\ARNES_CONEXIONES_Y_TENDIDO_V15.md",
+      "sha256": "a94effbfd53bb6dcc41d1ccb467fba89fecf2a0ff8ba273a59ab18701d3c62db",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/HARNESS/ARNES_CONEXIONES_Y_TENDIDO_V15.md"
+    },
+    {
+      "file": "DOCUMENTACION\\ARNES\\CONEXIONES_Y_CORTE_ARNES_V15.csv",
+      "sha256": "6c653db3dff16fa3c808ad0ae2f8d3c9ed8823e2b1ec476e0b2018038828c404",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/HARNESS/CONEXIONES_Y_CORTE_ARNES_V15.csv"
+    },
+    {
+      "file": "DOCUMENTACION\\ARNES\\MAPA_ARNES_CANONICO_V15.json",
+      "sha256": "1ee9fd6706775f778537971cf3a2b182ffadc697747af7b167372cefed33cb9e",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/HARNESS/MAPA_ARNES_CANONICO_V15.json"
+    },
+    {
+      "file": "DOCUMENTACION\\CALIBRACION\\HIP_ROM_LIMITES_Y_ALCANCE_V15.md",
+      "sha256": "47e090c1cce8cc80986c8be2e01a0f9da9a99a486601cfc660c1c882f023929c",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FINAL_KIT/HIP_ROM_LIMITES_Y_ALCANCE_V15.md"
+    },
+    {
+      "file": "DOCUMENTACION\\PILOTOS_Y_ORDEN_ACOPLAMIENTOS_V15.md",
+      "sha256": "c48fc3ac53137c6fc6d8796e3bd0479cb29b140c323c52017f26a6128f9b7262",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/PILOTOS_Y_ORDEN_ACOPLAMIENTOS_V15.md"
+    },
+    {
+      "file": "DOCUMENTACION\\MONTAJE_POR_SUBMODULOS_V15_FINAL.md",
+      "sha256": "2a9652a027a2c20590932a71c986225160c3d8205e4d3cba3f760b7996438bd8",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/MONTAJE_POR_SUBMODULOS_V15_FINAL.md"
+    },
+    {
+      "file": "DOCUMENTACION\\HERRAMIENTA_AF4\\CONTRALLAVE_AF4_1mm.dxf",
+      "sha256": "0b1b44c46b0058d8decaaba986128409178f6b316492915075eaaea886378338",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/HERRAMIENTA_AF4/CONTRALLAVE_AF4_1mm.dxf"
+    },
+    {
+      "file": "DOCUMENTACION\\HERRAMIENTA_AF4\\CONTRALLAVE_AF4_1mm_1a1.svg",
+      "sha256": "e64d99cc982b3560882626d6d5060ef4aafa9732384c11a860e88088c31a86d6",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/HERRAMIENTA_AF4/CONTRALLAVE_AF4_1mm_1a1.svg"
+    },
+    {
+      "file": "DOCUMENTACION\\HERRAMIENTA_AF4\\LEER_CONTRALLAVE.txt",
+      "sha256": "d8c05af915ab29eface3198089cc09cc4f68b7ddc306c3d1b9c4d717cbaa2d6f",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/HERRAMIENTA_AF4/LEER_CONTRALLAVE.txt"
+    },
+    {
+      "file": "DOCUMENTACION\\HERRAMIENTA_AF4\\MANIFIESTO_HERRAMIENTA.json",
+      "sha256": "937e0e1e00e8c981081e46708aa82e5d32d1014a0245d2914997aabf59583545",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/HERRAMIENTA_AF4/MANIFIESTO_HERRAMIENTA.json"
+    },
+    {
+      "file": "DOCUMENTACION\\TORNILLERIA\\BOM_TORNILLERIA_V15.json",
+      "sha256": "17b77041bda68f8707845535c6ce7575b97144b49ba7361e0f495315d7f7a0c1",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/BOM/BOM_TORNILLERIA_V15.json"
+    },
+    {
+      "file": "DOCUMENTACION\\TORNILLERIA\\TORNILLERIA_COMPRA_V15.csv",
+      "sha256": "d6b4b1529e9c7b58f76644e6b7ab67337333866f6d637c85c99deabd23a2178e",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/BOM/TORNILLERIA_COMPRA_V15.csv"
+    },
+    {
+      "file": "DOCUMENTACION\\TORNILLERIA\\TORNILLERIA_COMPRA_V15.md",
+      "sha256": "219ffcc55898386bf73d440183986e2f1e4547f5a81b5d959540eb24f2a0ec6b",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/BOM/TORNILLERIA_COMPRA_V15.md"
+    },
+    {
+      "file": "DOCUMENTACION\\TORNILLERIA\\TORNILLERIA_FUENTE_A_CONTENIDO_V15.csv",
+      "sha256": "4438bf30289d9b0f926aeb8495d925eedf1e08c28ed6739f9072a841c4fcc9e4",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/BOM/TORNILLERIA_FUENTE_A_CONTENIDO_V15.csv"
+    },
+    {
+      "file": "DOCUMENTACION\\CALIBRACION\\CANALES_Y_CALIBRACION_UNIDADES.csv",
+      "sha256": "4287e33b0e03e0dabcd6ea3da39deb86dec2df1119a0973024a21825f2f9880e",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/CANALES_Y_CALIBRACION_UNIDADES.csv"
+    },
+    {
+      "file": "DOCUMENTACION\\CALIBRACION\\CALIBRACION_BLOQUEADA_V15.json",
+      "sha256": "f83aeab8f2ba6edb990e4be84f691a122370107abc431e6bc20f12cc30edc506",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/CALIBRACION_BLOQUEADA_V15.json"
+    },
+    {
+      "file": "DOCUMENTACION\\SOFTWARE_ADC\\battery_ads1115.py",
+      "sha256": "93defc889ff67578c300b2fac786b851e442da89d1dce92753a0a206c567bc48",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/ADC_SOFTWARE/battery_ads1115.py"
+    },
+    {
+      "file": "DOCUMENTACION\\SOFTWARE_ADC\\LEER_ANTES_DE_USAR.txt",
+      "sha256": "73c2074ff5a67370c7c8f7db3e2911f2cbb488a5d778ae6f6790dbfc6012f2d2",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/POWER/ADC_SOFTWARE/LEER_ANTES_DE_USAR.txt"
+    },
+    {
+      "file": "DOCUMENTACION\\VISTAS\\V15_R2_componentes_seccion.png",
+      "sha256": "bb2206c225d95ec2f9c346090df090bec294f6a55832dca39b856495c22534b7",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VISTAS_FINALES/V15_R2_componentes_seccion.png"
+    },
+    {
+      "file": "DOCUMENTACION\\VISTAS\\V15_R2_general.png",
+      "sha256": "27f634db4985c261a69878f4ec6bf57a0fbc9319401686c29fdc6452b512d5f0",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VISTAS_FINALES/V15_R2_general.png"
+    },
+    {
+      "file": "DOCUMENTACION\\VISTAS\\V15_R2_lateral.png",
+      "sha256": "74a4d5f47177a8d1ae625a5f0f16403df7b9e213d32485709bf0c4a6cb47aafa",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VISTAS_FINALES/V15_R2_lateral.png"
+    },
+    {
+      "file": "DOCUMENTACION\\VISTAS\\V15_R2_modulos_separados.png",
+      "sha256": "fc58d6766bb5054e0696da3be2b9526f2c1c8d3e93edd9fae16a40c2ddcd0c17",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VISTAS_FINALES/V15_R2_modulos_separados.png"
+    },
+    {
+      "file": "DOCUMENTACION\\VISTAS\\V15_R2_torso_delantero.png",
+      "sha256": "2afa0afc336a7867fb1edd2c193155994a2cf38d8d348faefef9d7ba21efaf17",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VISTAS_FINALES/V15_R2_torso_delantero.png"
+    },
+    {
+      "file": "DOCUMENTACION\\VISTAS\\V15_R2_torso_trasero.png",
+      "sha256": "a8078a11fa13c38fa4498f91f11b6decb424371bc9e3d6371c95f7e790dfaf25",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VISTAS_FINALES/V15_R2_torso_trasero.png"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\CABEZA_MICROJUNTA_CALIFICACION_FINAL.json",
+      "sha256": "cf8d88f0c27ea13ce688ea66be0625b447dde59f21931e8f4d425331bdce70a6",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/CABEZA_MICROJUNTA_CALIFICACION_FINAL.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\CABEZA_SERVICIO_RAW_FINAL.json",
+      "sha256": "bed98bcb6f99106034fb31b9b5712adbb6f906b4c9e86c59257a23425d5df031",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/CABEZA_SERVICIO_RAW_FINAL.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\CASSETTE_AABB.json",
+      "sha256": "51f16e4ea11d4f6a2b768d5037d5edb1f55fd045e2259ac09f78e9cdc923d4c0",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/CASSETTE_AABB.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\CASSETTE_EXTRACCION_RAW_FINAL.json",
+      "sha256": "49e034f99e52fd0bcdd362ff5dbc3b83db7ffb39d4f38db0021ddd4ca52e0b34",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/CASSETTE_EXTRACCION_RAW_FINAL.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\CASSETTE_PELICULAS_CALIFICACION_FINAL.json",
+      "sha256": "f51e3025030c7bcb36920087f842cd5cfe8959ce4d658704e5ab031d18231634",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/CASSETTE_PELICULAS_CALIFICACION_FINAL.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\CIERRES_POWER_STOCK_REBIND.json",
+      "sha256": "93544545fcfe548446294a9d49a110a85207cc04206f5f5cae45e9d5df3b9885",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/CIERRES_POWER_STOCK_REBIND.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\CLASIFICACION_CONTACTOS.json",
+      "sha256": "4926f7f31058532761d53fe6d8e31fab9244c1da0b4bc1c6442e6b57bebd3515",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/CLASIFICACION_CONTACTOS.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\D24_SOURCE_MOUNT_WITNESS_REBIND.json",
+      "sha256": "bd24a50ca60493dbae966651009da7b3e66dab3c14dd9f0f19583198bf0a5984",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/D24_SOURCE_MOUNT_WITNESS_REBIND.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\DAG_ELECTRONICA_RAW.json",
+      "sha256": "0a5e4114af810e00e71899e3b3f46829a704be6da758546a5b37e530ca2fb9b6",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/DAG_ELECTRONICA_RAW.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\ENVOLVENTES_COMPONENTES_CLASIFICADAS.json",
+      "sha256": "fd71ca43b5bf09875232bad6e2306ba8285dfd508509d99391efbd60d81f6b82",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/ENVOLVENTES_COMPONENTES_CLASIFICADAS.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\ENVOLVENTES_COMPONENTES_RAW.json",
+      "sha256": "e988a675645453a6ba4fcd17e67b915c989bc5650fd266dafb966a9b373b8104",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/ENVOLVENTES_COMPONENTES_RAW.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\ESTATICA_GLOBAL.json",
+      "sha256": "c932d2d87f06062bd83eb67a6b8fba494a9f95af5be36937a93a852f88759b6b",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/ESTATICA_GLOBAL.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\FORMA_APROBADA_FINAL.json",
+      "sha256": "76538ae12959b8713f7cd4292b44b3d0d87463e38f5a453ce00e40c090f0c7d9",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/FORMA_APROBADA_FINAL.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\MECHANICAL_GEOMETRY_HASH_COMPARE_RAW.json",
+      "sha256": "13564c7dae3125b4a5c7b1d3d43f1471ce455446a075c234747f5a37322d3b45",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/MECHANICAL_GEOMETRY_HASH_COMPARE_RAW.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\MECHANICAL_INSERCION_15_SERVOS.json",
+      "sha256": "bdc0affbd56ddf6e1b172fab1b1905b2665ee9fc63597dd06670a99b4d0eb561",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/MECHANICAL_INSERCION_15_SERVOS.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\MECHANICAL_TORNILLERIA_11_ALOJAMIENTOS.json",
+      "sha256": "1f3124a546d23e721d23c4f2699be28214afbcc057d054fa4d1b08cedf9c3d71",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/MECHANICAL_TORNILLERIA_11_ALOJAMIENTOS.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\MOTION\\BARRIDO_MOVIMIENTO_V15.json",
+      "sha256": "6a2b8a781165dc68040e7ea1337217e94d5dc8e696594d983df7f102cb67206e",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/MOTION/BARRIDO_MOVIMIENTO_V15.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\MOTION\\BODY_CACHE.json",
+      "sha256": "51cbf9f43a27069a445515bf1b6b8e0dc54e4b50dfd477bcafe9a0747e58e98d",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/MOTION/BODY_CACHE.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\RANGO_CAD_CALIFICADO_V15.json",
+      "sha256": "b9ebe199d99d80e52295a1474a95564ec30ae952c86ecba8105a65ca215ac7c3",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/RANGO_CAD_CALIFICADO_V15.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\RECIBO_POTENCIA_MONTAJE_FINAL_V15.json",
+      "sha256": "c4fc3b2144d488453a696fe14ee1d633038b4e52acf32ee7b54093bdbac4e206",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/RECIBO_POTENCIA_MONTAJE_FINAL_V15.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\RESUMEN_SERVICIO_Y_FORMA_FINAL_V15.json",
+      "sha256": "fb8af05eb0fe15c9f165738ff47c995a0ba5ec8bb02e27215efbe95e5776bd28",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/RESUMEN_SERVICIO_Y_FORMA_FINAL_V15.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\SERVICIO_PACK_PCM_RAW.json",
+      "sha256": "814615d1640a8df81c3d24ce0e2cdddaef9e8e2c38a468bae6e03e7fd081f2b3",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/SERVICIO_PACK_PCM_RAW.json"
+    },
+    {
+      "file": "DOCUMENTACION\\SERVICIO\\NOTA_MONTAJE_SERVICIO_FINAL_V15.md",
+      "sha256": "bd861c5c45ba4bf5c8320f8f471c975cb26a0ad719b84eb1e382281d2e1a2153",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/NOTA_MONTAJE_SERVICIO_FINAL_V15.md"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\BLENDER_INTEGRACION_KIT_R2.json",
+      "sha256": "bedb880da4506d764536713f905fafb12670667fa3bd2b2a1a74862292e7c58d",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/BLENDER_INTEGRACION_KIT_R2.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\BLENDER_DATOS_GUARDADOS_VERIFICADOS_V15.json",
+      "sha256": "d918f4152898301c0698e71597e564d9a763711a55de7311dd5bd09f263c85a3",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/BLENDER_DATOS_GUARDADOS_VERIFICADOS_V15.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\VISTAS_FINALES.json",
+      "sha256": "915975cc37161e4c9b21745b133c3cdbd5f21dfce19c7c0df9d2235a9e277d85",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VISTAS_FINALES.json"
+    },
+    {
+      "file": "DOCUMENTACION\\VERIFICACIONES\\BLENDER_DEPENDENCIAS_VERIFICADAS_V15.json",
+      "sha256": "dee78ac227635b8f356b734c7b5f27c7b9797d082130542369833c4f5fe7dfa4",
+      "source": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/BLENDER_DEPENDENCIAS_VERIFICADAS_V15.json"
+    }
+  ],
+  "no_diagnostic_GCODE_copied": true
+}

@@ -1,0 +1,438 @@
+{
+  "schema": "V15_FINAL_KIT_NAMED_ELECTRONICS_DAG_REBIND",
+  "assembly_file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/KIT_V15_R2_FABRICACION/ASSEMBLY_FABRICACION_CANDIDATO_V15.json",
+  "assembly_sha256": "d1e061923094f4cd2fcfbbeb800a2daeffc9b78ee9077f8575ebd8b72b0ccbb4",
+  "source_POWER_freeze_sha256": "aa269bde973970ce814d3856bed392a98d7dfa3ae10a87cf5c530531a4555fd1",
+  "tests": [
+    {
+      "route": "PCA_from_+X_60mm",
+      "obstacle": "12CASE_TAPA_TRASERA_ENRASADA",
+      "intersection_mm3": 3.3986119417471574e-05
+    },
+    {
+      "route": "PCA_from_+X_60mm",
+      "obstacle": "V15_ELEC_ADS1115_1085",
+      "intersection_mm3": 0.0
+    },
+    {
+      "route": "PDB_from_+X_60mm",
+      "obstacle": "12CASE_TAPA_TRASERA_ENRASADA",
+      "intersection_mm3": 0.0
+    },
+    {
+      "route": "PDB_from_+X_60mm",
+      "obstacle": "V15_HW_PCM_GATE_M2x8_1",
+      "intersection_mm3": 0.0
+    },
+    {
+      "route": "CONTROL_from_+X_lift9",
+      "obstacle": "final_LID",
+      "intersection_mm3": 0.0
+    },
+    {
+      "route": "CONTROL_lower9",
+      "obstacle": "final_LID",
+      "intersection_mm3": 0.0
+    },
+    {
+      "route": "ADC_from_+X_60mm",
+      "obstacle": "final_LID",
+      "intersection_mm3": 8.228753403379346e-06
+    },
+    {
+      "route": "ADC_from_+X_60mm",
+      "obstacle": "control",
+      "intersection_mm3": 0.0
+    }
+  ],
+  "hits": [
+    {
+      "route": "PCA_from_+X_60mm",
+      "obstacle": "12CASE_TAPA_TRASERA_ENRASADA",
+      "intersection_mm3": 3.3986119417471574e-05
+    }
+  ],
+  "unknown": [],
+  "all_named_routes_passed": false,
+  "epsilon_mm3": 1e-05,
+  "byte_invariant_rows": [
+    {
+      "name": "V7_ELEC_GOBILDA_3108_2827_0801_PRIMARY_CAD",
+      "old_sha256": "ac2d0f4c265546541570f8013cbe55869bd9cce693db4f3f0cabe0e5d8930c09",
+      "new_sha256": "ac2d0f4c265546541570f8013cbe55869bd9cce693db4f3f0cabe0e5d8930c09",
+      "same_bytes": true
+    },
+    {
+      "name": "V7_ELEC_D24V150F5_PCB",
+      "old_sha256": "d218f3660d9259d1c99f37d11790559bf96c7b3041a60c0052df48ba1e867101",
+      "new_sha256": "d218f3660d9259d1c99f37d11790559bf96c7b3041a60c0052df48ba1e867101",
+      "same_bytes": true
+    },
+    {
+      "name": "V8_D24_HW_M2x8_0",
+      "old_sha256": "5f0594b176640303ada51531e48bc2d90d10d151a448b895562434d2fa97bcd7",
+      "new_sha256": "5f0594b176640303ada51531e48bc2d90d10d151a448b895562434d2fa97bcd7",
+      "same_bytes": true
+    },
+    {
+      "name": "V8_D24_HW_M2x8_1",
+      "old_sha256": "1dfc83749587995e5a7346dff611c771d3969729714f4db72d0af83876bb335c",
+      "new_sha256": "1dfc83749587995e5a7346dff611c771d3969729714f4db72d0af83876bb335c",
+      "same_bytes": true
+    },
+    {
+      "name": "V8_D24_HW_M2x8_2",
+      "old_sha256": "06d1ecd63ebc044391a499a61f857e2101e1e858ab29bd66630ce78f4e05e5ec",
+      "new_sha256": "06d1ecd63ebc044391a499a61f857e2101e1e858ab29bd66630ce78f4e05e5ec",
+      "same_bytes": true
+    },
+    {
+      "name": "V8_D24_HW_M2x8_3",
+      "old_sha256": "fdc9aeaf9886eb5f66d16419fa80d3c7719bf62e9e6a487cc95fa3ecda53dcaf",
+      "new_sha256": "fdc9aeaf9886eb5f66d16419fa80d3c7719bf62e9e6a487cc95fa3ecda53dcaf",
+      "same_bytes": true
+    },
+    {
+      "name": "V7_ELEC_PCA9685_REV_C_PCB",
+      "old_sha256": "c969d57f3ccdf9cec94639ba1cc0b2ff36dc9005e88476acba28c55bb1d79113",
+      "new_sha256": "c969d57f3ccdf9cec94639ba1cc0b2ff36dc9005e88476acba28c55bb1d79113",
+      "same_bytes": true
+    },
+    {
+      "name": "V8_PCA_HW_M2x8_0",
+      "old_sha256": "3973568e39c7ccfd78d416ee5019b6d11de1fc65df7c393ae8546a5044c0e718",
+      "new_sha256": "3973568e39c7ccfd78d416ee5019b6d11de1fc65df7c393ae8546a5044c0e718",
+      "same_bytes": true
+    },
+    {
+      "name": "V8_PCA_HW_M2x8_1",
+      "old_sha256": "0524a93283a2116183e4a51429dbbb22c9898b91f8f57e7d61339453d255e044",
+      "new_sha256": "0524a93283a2116183e4a51429dbbb22c9898b91f8f57e7d61339453d255e044",
+      "same_bytes": true
+    },
+    {
+      "name": "V8_PCA_HW_M2x8_2",
+      "old_sha256": "358298ea0df12aaa35d014402110cbe4bcbd10508c3b0798dd37484668d0a224",
+      "new_sha256": "358298ea0df12aaa35d014402110cbe4bcbd10508c3b0798dd37484668d0a224",
+      "same_bytes": true
+    },
+    {
+      "name": "V8_PCA_HW_M2x8_3",
+      "old_sha256": "85f92550e1be13004b975e4e1f03c1cc43ef2f41a1c3536d7074f5f1d657de9d",
+      "new_sha256": "85f92550e1be13004b975e4e1f03c1cc43ef2f41a1c3536d7074f5f1d657de9d",
+      "same_bytes": true
+    },
+    {
+      "name": "V7_ELEC_SWITCH_2813_PCB",
+      "old_sha256": "9c61c6d1cdab652691f13cb4edac9e12c96c0cf09fc086fba2a0251651fc45f3",
+      "new_sha256": "9c61c6d1cdab652691f13cb4edac9e12c96c0cf09fc086fba2a0251651fc45f3",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_PCM_250040_MAX",
+      "old_sha256": "317f342b29aac36c083a454cb495a9d194c2e44c20c6c86912b84fa5ef34302f",
+      "new_sha256": "317f342b29aac36c083a454cb495a9d194c2e44c20c6c86912b84fa5ef34302f",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_ELEC_ADS1115_1085",
+      "old_sha256": "cb844352d3cd7bae1ae71d0cedf6270eb8a93c41c7de436d9c88ed38163a3f11",
+      "new_sha256": "cb844352d3cd7bae1ae71d0cedf6270eb8a93c41c7de436d9c88ed38163a3f11",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_ADS1115_M2x8_0",
+      "old_sha256": "b7052d4a2be9136f5405446d81c69447e06e9b821af865a3a60d93197827851a",
+      "new_sha256": "b7052d4a2be9136f5405446d81c69447e06e9b821af865a3a60d93197827851a",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_ADS1115_M2x8_1",
+      "old_sha256": "c43fdcf8429e1ff2673f1dc3de76c79952d6ea01775f0f1a9c810fda1bd8cf55",
+      "new_sha256": "c43fdcf8429e1ff2673f1dc3de76c79952d6ea01775f0f1a9c810fda1bd8cf55",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_ADS1115_M2x8_2",
+      "old_sha256": "3b7055ec348e3a38d85cc0c97c13ffb01ab8fa2f7a6fd52f622e26709b38d1d5",
+      "new_sha256": "3b7055ec348e3a38d85cc0c97c13ffb01ab8fa2f7a6fd52f622e26709b38d1d5",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_ADS1115_M2x8_3",
+      "old_sha256": "27ee051498474f6f9055bbcbf377fb60797b7db1c456934812d646d9b211e61d",
+      "new_sha256": "27ee051498474f6f9055bbcbf377fb60797b7db1c456934812d646d9b211e61d",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_CELL_VAPCELL_K10_0",
+      "old_sha256": "f87e7d363f729ff1146b92c3f6dc1e5ad1801c09485be682d2cbf8dec5badc77",
+      "new_sha256": "f87e7d363f729ff1146b92c3f6dc1e5ad1801c09485be682d2cbf8dec5badc77",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_CELL_VAPCELL_K10_1",
+      "old_sha256": "ba70ba4889f78f2fc041e450626bb60480fa3b96e919e12eb10bc74ebd94549e",
+      "new_sha256": "ba70ba4889f78f2fc041e450626bb60480fa3b96e919e12eb10bc74ebd94549e",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_FUSE_MINI_01530007Z_0297005",
+      "old_sha256": "c0554ae819a669e469326f1c5d312e97d474aaac50591b94bccde4ee34e72965",
+      "new_sha256": "c0554ae819a669e469326f1c5d312e97d474aaac50591b94bccde4ee34e72965",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_FUSE_FR4_CARRIER",
+      "old_sha256": "d44c62eb3f457a4e8805d780ed06299d962b58a90cffc0702122968fcea750d6",
+      "new_sha256": "d44c62eb3f457a4e8805d780ed06299d962b58a90cffc0702122968fcea750d6",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_MINI_M2x8_0",
+      "old_sha256": "90443389881addd5026eef0b7d484a51714a386b612e7ff172bdfd85e9719832",
+      "new_sha256": "90443389881addd5026eef0b7d484a51714a386b612e7ff172bdfd85e9719832",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_MINI_M2x8_1",
+      "old_sha256": "fea55a992d36651400a8b3397f82a195cee3f091838ae4d908b99cee762417d2",
+      "new_sha256": "fea55a992d36651400a8b3397f82a195cee3f091838ae4d908b99cee762417d2",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_MINI_M2x8_2",
+      "old_sha256": "401dd5153f00abce0ce9c491b282eca2d8408d0c7897230cbb3cc99cd0b8f7fa",
+      "new_sha256": "401dd5153f00abce0ce9c491b282eca2d8408d0c7897230cbb3cc99cd0b8f7fa",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_MINI_M2x8_3",
+      "old_sha256": "63da0d00f6a0f6995147631d8f0acc5cc7c9fd08b37f6840df8328e45092c684",
+      "new_sha256": "63da0d00f6a0f6995147631d8f0acc5cc7c9fd08b37f6840df8328e45092c684",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_REED_59170_1_S_00_C",
+      "old_sha256": "6dded6ab0cdde171cb1b4cd62c308764edb6e9f86d4192d87a3dd01fb5d51da1",
+      "new_sha256": "6dded6ab0cdde171cb1b4cd62c308764edb6e9f86d4192d87a3dd01fb5d51da1",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_ADC_DRIVER_M2x8_0",
+      "old_sha256": "4ad36503498866e5c3c151920923b36549453d797130513ded3ffc2ee87abdb4",
+      "new_sha256": "4ad36503498866e5c3c151920923b36549453d797130513ded3ffc2ee87abdb4",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_ADC_DRIVER_M2x8_1",
+      "old_sha256": "78cd083028ad7ab88daa2c4de93f7a33d6a8a5ef2d291bd6fd9768db07503348",
+      "new_sha256": "78cd083028ad7ab88daa2c4de93f7a33d6a8a5ef2d291bd6fd9768db07503348",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_ADC_DRIVER_FR4_ISLAND_BOARD",
+      "old_sha256": "c5d02e2391b5c2a294c010408b65b06fb648d92af75be0656946cdb9dac2062f",
+      "new_sha256": "c5d02e2391b5c2a294c010408b65b06fb648d92af75be0656946cdb9dac2062f",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_ADC_OFF_PNP_2N3906",
+      "old_sha256": "cbbbc5acc2912dd73e6b74292c442be94a0175d60e085dfc955fb72df029a076",
+      "new_sha256": "cbbbc5acc2912dd73e6b74292c442be94a0175d60e085dfc955fb72df029a076",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_RES_DIV_UPPER",
+      "old_sha256": "1a2a53ac902ca92e62e4b33eaf29d8280a02309b80bf2f6c7b30e2ddaca453b5",
+      "new_sha256": "1a2a53ac902ca92e62e4b33eaf29d8280a02309b80bf2f6c7b30e2ddaca453b5",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_RES_DIV_LOWER",
+      "old_sha256": "de1ece1e550182b87040f942875863555921cba6b74943dd47286a50d70d254f",
+      "new_sha256": "de1ece1e550182b87040f942875863555921cba6b74943dd47286a50d70d254f",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_RES_PNP_BASE_PULLUP",
+      "old_sha256": "104d651394f0db7c4948e96a586aae615a77059b335866646b75fe8f1c968c36",
+      "new_sha256": "104d651394f0db7c4948e96a586aae615a77059b335866646b75fe8f1c968c36",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_RES_ALERT_TO_BASE",
+      "old_sha256": "034a8c333754065a7f7048e5f98d8d0e6518a94f2db8cb0a5e36b8ee472dbfc4",
+      "new_sha256": "034a8c333754065a7f7048e5f98d8d0e6518a94f2db8cb0a5e36b8ee472dbfc4",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_RES_COLLECTOR_OFF",
+      "old_sha256": "126ea6936592b3dcda6616795a865a45e4bed3f4901b63aaf14de24783dd737d",
+      "new_sha256": "126ea6936592b3dcda6616795a865a45e4bed3f4901b63aaf14de24783dd737d",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_RES_OFF_PULLDOWN",
+      "old_sha256": "a81a45bbcee3fc33ad9f7c87ca1130c0ec1f6a6a949c5068bedd3e6423ec5fae",
+      "new_sha256": "a81a45bbcee3fc33ad9f7c87ca1130c0ec1f6a6a949c5068bedd3e6423ec5fae",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_RES_PCA_OE_PULLUP",
+      "old_sha256": "ee7350dc4169581c7a5a2d2e43aede87c765bca735196e09b2dae71315bf3f7e",
+      "new_sha256": "ee7350dc4169581c7a5a2d2e43aede87c765bca735196e09b2dae71315bf3f7e",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_K10_GATE_M2x8_0",
+      "old_sha256": "bc285fa321e6cdadfc81b069ab29e47cebfb43d9bdca399152afbff34afcb8e8",
+      "new_sha256": "bc285fa321e6cdadfc81b069ab29e47cebfb43d9bdca399152afbff34afcb8e8",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_K10_GATE_M2x8_1",
+      "old_sha256": "7b1eb56c162bddd7918bdabb6362618f9555b447777b0c2fa9eb6628d901ff4e",
+      "new_sha256": "7b1eb56c162bddd7918bdabb6362618f9555b447777b0c2fa9eb6628d901ff4e",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_HP_GATE_M2x8",
+      "old_sha256": "0f833dc1986b8137d12a1e3a552efa50d0089a20da6853931ebaebdca65399c9",
+      "new_sha256": "0f833dc1986b8137d12a1e3a552efa50d0089a20da6853931ebaebdca65399c9",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_REED_CAP_M2x8",
+      "old_sha256": "b914dcbc8cd53e4004493713d630e1e689bd628fe5b234cc2bb3ca15d7387288",
+      "new_sha256": "b914dcbc8cd53e4004493713d630e1e689bd628fe5b234cc2bb3ca15d7387288",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_PDB_LOWER_M2x18_0",
+      "old_sha256": "ffc9b48b5ee5ca6fd1129a5474ac990b71c2dd0025e741e7a554ebd555323d15",
+      "new_sha256": "ffc9b48b5ee5ca6fd1129a5474ac990b71c2dd0025e741e7a554ebd555323d15",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_PDB_LOWER_M2x18_1",
+      "old_sha256": "9038e3628b658463b1cce977db9134859682a191a08ae3874fb3741f7738d8d1",
+      "new_sha256": "9038e3628b658463b1cce977db9134859682a191a08ae3874fb3741f7738d8d1",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_D24_TRAY_M2x8_0",
+      "old_sha256": "17b1ea9cd0454ac9f3d517c0f519e9c5bf474bf7fc592b52e76880b0bc932b6b",
+      "new_sha256": "17b1ea9cd0454ac9f3d517c0f519e9c5bf474bf7fc592b52e76880b0bc932b6b",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_HW_D24_TRAY_M2x8_1",
+      "old_sha256": "871f68428ef170aa3eaffbda0f7851f54b3247b8063505e0596c0155b72ac00d",
+      "new_sha256": "871f68428ef170aa3eaffbda0f7851f54b3247b8063505e0596c0155b72ac00d",
+      "same_bytes": true
+    },
+    {
+      "name": "V15_K10_2S1P_BUILDER_MAX",
+      "old_sha256": "04b3f6dd50017a2166220b89e8e63bc4843e726d9cca4792bad29c23724427a9",
+      "new_sha256": "04b3f6dd50017a2166220b89e8e63bc4843e726d9cca4792bad29c23724427a9",
+      "same_bytes": true
+    },
+    {
+      "name": "V7_KEEP_D24V150F5_COMPONENT_ENVELOPE",
+      "old_sha256": "32b613105ea6fd3fb1bbfaf719cc0390fb16172f93cc2513de3e28232adc4759",
+      "new_sha256": "32b613105ea6fd3fb1bbfaf719cc0390fb16172f93cc2513de3e28232adc4759",
+      "same_bytes": true
+    },
+    {
+      "name": "V7_KEEP_SWITCH_COMPONENTS",
+      "old_sha256": "594f8ea082c97d2126ad30499917cffe6d84aac3325293a5744fb910697e6f1d",
+      "new_sha256": "594f8ea082c97d2126ad30499917cffe6d84aac3325293a5744fb910697e6f1d",
+      "same_bytes": true
+    }
+  ],
+  "changed_or_added_rows": [
+    {
+      "name": "12CASE_TAPA_TRASERA_ENRASADA",
+      "old_sha256": "5439eb59a723eab32c9bf7f7e8379386c92b515eff2379fb7fece52afb8a9b7d",
+      "new_sha256": "8e9be368d6eb5f31e5cbbbe4e9918c97694330162b73fa5fc9aca0d700c8e3b9",
+      "same_bytes": false
+    },
+    {
+      "name": "V15_K10_RETEN_DESMONTABLE",
+      "old_sha256": "9beeb84d699bdff35b0f15bdadb103864f7142db63caa987eef7a48ef32f1f75",
+      "new_sha256": "5ceffae1878bb9524600d9f27a466b60941dafe440f161aa0bf2d33b7412879c",
+      "same_bytes": false
+    },
+    {
+      "name": "V15_PCM_TOPE_DESMONTABLE",
+      "old_sha256": "b0b5f1aabee298a26c9ec1394c75607d233fb7e97bb355524e0dbd3bedd4a85c",
+      "new_sha256": "1598c1facaa330302afacc0e1cd79714142da60b83ab96211be593bbf644ad97",
+      "same_bytes": false
+    },
+    {
+      "name": "V15_REED_TAPA_PROTECTORA",
+      "old_sha256": "4d2e78be113d225d6f4b32f189de7f2c9dac3315a3a5fdd2ada0c6cd8d4c373b",
+      "new_sha256": "1e07cd916ab804370466127b9abeb355f207631acd81ffa798feed26d63e6031",
+      "same_bytes": false
+    },
+    {
+      "name": "V15_ADC_CARRIER_DESMONTABLE",
+      "old_sha256": "98b1e7c53f4c9393237fc847eb0b9ab9622a300e821eeb9e4bde780b26a3dfca",
+      "new_sha256": "abc496fc4338ec69a3e799d953285b310c9c5b8308a0de472b158b4730625ec6",
+      "same_bytes": false
+    },
+    {
+      "name": "V15_D24_BANDEJA_INFERIOR_DESMONTABLE",
+      "old_sha256": "74cca8e6ff7ab312c6355a47c9a75512e6bb4125f504bed5d9fac5d7605f9572",
+      "new_sha256": "53cd5042e7e27b042d4f97f74e1a6e51f7af1171a2b6c0f3d3c2b755843c5b4b",
+      "same_bytes": false
+    },
+    {
+      "name": "V15_BM_FR4_CAP_R2",
+      "reason": "Added after source POWER freeze"
+    },
+    {
+      "name": "V15_BM_FR4_KEY_R2",
+      "reason": "Added after source POWER freeze"
+    },
+    {
+      "name": "V15_PCM_TOPE_DESMONTABLE_DERECHO",
+      "reason": "Added after source POWER freeze"
+    },
+    {
+      "name": "V8_BALANCE_XHP3_NOMINAL",
+      "old_sha256": "bca91fff93601a925c0aa483a41d97cb798767a88cd5a918e6c2eb66ed208392",
+      "new_sha256": "74dd8b682a61a47dccf9a0f322bdb960dee8c8d0367278601af47ec9704f1ac2",
+      "same_bytes": false
+    },
+    {
+      "name": "V15_HW_PCM_GATE_M2x8_0",
+      "old_sha256": "58279113560fa6aded177808ef8dcbe217d0f4b730ef3100bafcbfbab78afe40",
+      "new_sha256": "cdea225a7db5006f5205dd5882fbd7752f89b2c6708c57b5c9f2988f42ce09fa",
+      "same_bytes": false
+    },
+    {
+      "name": "V15_HW_PCM_GATE_M2x8_1",
+      "old_sha256": "6bb0bc4e838069c9aec9c003faa626ed81d5fa97819eb4a163f3e0ca19bdff94",
+      "new_sha256": "e1d59410d7e0e8b43a6af89a502303d6342ba534879d9aec3cf16a10eab443fb",
+      "same_bytes": false
+    },
+    {
+      "name": "V15_BM_CUSTOM_FR4",
+      "reason": "Added after source POWER freeze"
+    },
+    {
+      "name": "V15_HW_BM_SSH_M2x8",
+      "reason": "Added after source POWER freeze"
+    }
+  ],
+  "scope": "Same finite named routes of38/41 rebound to actual final KIT lid and relevant rear-module components. PCA/PDB entry checks the complete rigid boards and conservative physical component envelopes; pigtails/mated servo plugs are parked and fitted afterward. Control/ADC retains its exact source-stage obstacle list.",
+  "exclusions": [
+    "No whole harness flex/slack/release proof",
+    "No clip-release shortcut while PDB installed",
+    "ADC/frame route tested with PCA/PDB absent",
+    "Preloaded source rear metal is tested; front screws are installed after board insertion"
+  ],
+  "physical_fit_verified": false
+}

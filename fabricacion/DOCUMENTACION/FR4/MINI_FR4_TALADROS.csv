@@ -1,0 +1,8 @@
+﻿id,u_mm,v_mm,diametro_mm,uso
+PWR_IN,11.34,2.775,1.27,PCM.P+ al fusible
+PWR_OUT,18.96,2.775,1.27,Del fusible a HP.VIN
+BOARDLOCK,15.15,10.395,2.0828,Pivote de plastico del portafusible
+M2_0,2.5,6.8,2.2,Fijacion M2
+M2_1,2.5,16.59,2.2,Fijacion M2
+M2_2,27.8,6.8,2.2,Fijacion M2
+M2_3,27.8,16.59,2.2,Fijacion M2

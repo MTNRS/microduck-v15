@@ -1,0 +1,119 @@
+﻿id,bloque,red,origen,destino,ruta_nominal,conductor_nominal,longitud_corte_mm,longitud_estado
+W001,Potencia,B+ crudo,Pack XT30 +,PCM B+,"Adaptador principal polarizado, corto y aislado",16 AWG nominal,,MEDIR_PRIMERA_UNIDAD
+W002,Potencia,B− crudo,Pack XT30 −,PCM B−,Adaptador principal; jamás unir con P−,16 AWG nominal,,MEDIR_PRIMERA_UNIDAD
+W003,Potencia,BM crudo,Pack JST-XH cavidad 2,PCM BM por B3B-XH-A pin 2,"FR4 BM retenido, pigtail aislado; pins 1/3 del robot NC",Hilo de sensado del montador,,MEDIR_PRIMERA_UNIDAD
+W004,Potencia,P+ protegido,PCM P+,MINI terminal IN,Minimizar tramo sin fusible; soldar directo al terminal,16 AWG nominal,,MEDIR_PRIMERA_UNIDAD
+W005,Potencia,P+ con fusible,MINI terminal OUT,HP2813 VIN,Soldar directo al terminal; no usar pista FR4,16 AWG nominal,,MEDIR_PRIMERA_UNIDAD
+W006,Potencia,VSW conmutada,HP2813 VOUT,D24 VIN,Módulo trasero; aislar bornes y separar del pack,16 AWG nominal,,MEDIR_PRIMERA_UNIDAD
+W007,Potencia,VSW conmutada,HP2813 VOUT,D36 VIN,Cruce trasera→FRONT desmontable,Dimensionar rama D36,,MEDIR_PRIMERA_UNIDAD
+W008,Potencia,5V_SERVOS,D24 VOUT 5 V,PDB XT30 +,Paso de entrada XT30; sólo primer codo reservado,16 AWG nominal,,MEDIR_PRIMERA_UNIDAD
+W009,Potencia,P− protegido,PCM P−,Distribución P− principal,Módulo trasero; aislar bornes y separar del pack,16 AWG nominal,,MEDIR_PRIMERA_UNIDAD
+W010,Potencia,P− protegido,Distribución P− principal,HP2813 GND,"Módulo trasero, retorno sin pasar por Pi",Dimensionar por rama; 16 AWG nominal al PDB,,MEDIR_PRIMERA_UNIDAD
+W011,Potencia,P− protegido,Distribución P− principal,D24 GND,"Módulo trasero, retorno sin pasar por Pi",Dimensionar por rama; 16 AWG nominal al PDB,,MEDIR_PRIMERA_UNIDAD
+W012,Potencia,P− protegido,Distribución P− principal,PDB XT30 −,"Módulo trasero, retorno sin pasar por Pi",Dimensionar por rama; 16 AWG nominal al PDB,,MEDIR_PRIMERA_UNIDAD
+W013,Potencia,P− protegido,Distribución P− principal,D36 GND,Cruce trasera→FRONT desmontable,Dimensionar por rama; 16 AWG nominal al PDB,,MEDIR_PRIMERA_UNIDAD
+W014,Potencia,5V_LÓGICA,D36 VOUT 5 V,Pi J8 pin físico 2 (5V),FRONT→cuello→cabeza; soldar pigtail aislado,22 AWG nominal,,MEDIR_PRIMERA_UNIDAD
+W015,Potencia,P− protegido,D36 GND (P−),Pi J8 pin físico 6 (GND),Acompaña a 5V_LÓGICA por el cuello,22 AWG nominal,,MEDIR_PRIMERA_UNIDAD
+W016,Lógica,3V3 lógica,Pi J8 pin físico 1 (3V3),PCA815 VCC,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W017,Lógica,3V3 lógica,Pi J8 pin físico 1 (3V3),BNO055 VIN,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W018,Lógica,3V3 lógica,Pi J8 pin físico 1 (3V3),ADS1115 VDD,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W019,Lógica,3V3 lógica,Pi J8 pin físico 1 (3V3),Q1 2N3906 emisor,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W020,Lógica,3V3 lógica,Pi J8 pin físico 1 (3V3),R_BASE_PULLUP 10k lado 3V3,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W021,Lógica,3V3 lógica,Pi J8 pin físico 1 (3V3),R_OE_PULLUP 10k lado 3V3,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W022,Lógica,P− protegido,Distribución P− lógica,PCA815 GND,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W023,Lógica,P− protegido,Distribución P− lógica,BNO055 GND,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W024,Lógica,P− protegido,Distribución P− lógica,ADS1115 GND,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W025,Lógica,P− protegido,Distribución P− lógica,R_DIV_LOWER 10k lado GND,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W026,Lógica,P− protegido,Distribución P− lógica,R_OFF_PULLDOWN 100k lado GND,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W027,Lógica,P− protegido,Distribución P− principal,Distribución P− lógica,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W028,Lógica,SDA,Pi J8 pin físico 3 (SDA),PCA815 SDA,Cabeza→cuello→ramal I²C 3.3 V; unión de módulos accesible,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W029,Lógica,SDA,Pi J8 pin físico 3 (SDA),BNO055 SDA,Cabeza→cuello→ramal I²C 3.3 V; unión de módulos accesible,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W030,Lógica,SDA,Pi J8 pin físico 3 (SDA),ADS1115 SDA,Cabeza→cuello→ramal I²C 3.3 V; unión de módulos accesible,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W031,Lógica,SCL,Pi J8 pin físico 5 (SCL),PCA815 SCL,Cabeza→cuello→ramal I²C 3.3 V; unión de módulos accesible,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W032,Lógica,SCL,Pi J8 pin físico 5 (SCL),BNO055 SCL,Cabeza→cuello→ramal I²C 3.3 V; unión de módulos accesible,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W033,Lógica,SCL,Pi J8 pin físico 5 (SCL),ADS1115 SCL,Cabeza→cuello→ramal I²C 3.3 V; unión de módulos accesible,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W034,Lógica,VSW conmutada,HP2813 VOUT,R_DIV_UPPER 20k lado alto,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W035,Lógica,AIN0,R_DIV_UPPER 20k lado bajo,ADS1115 AIN0,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W036,Lógica,AIN0,ADS1115 AIN0,R_DIV_LOWER 10k lado alto,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W037,Lógica,ALERT activo LOW,ADS1115 ALERT/RDY,Pi J8 pin físico 11 (BCM17),Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W038,Lógica,ALERT activo LOW,ADS1115 ALERT/RDY,R_ALERT_BASE 10k lado ALERT,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W039,Lógica,Q1 base,R_ALERT_BASE 10k lado Q1,Q1 2N3906 base,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W040,Lógica,Q1 base,R_BASE_PULLUP 10k lado Q1,Q1 2N3906 base,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W041,Lógica,Q1 colector,Q1 2N3906 colector,R_COLLECTOR_OFF 4.7k lado Q1,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W042,Lógica,OFF activo HIGH,R_COLLECTOR_OFF 4.7k lado HP,HP2813 OFF,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W043,Lógica,OFF activo HIGH,HP2813 OFF,R_OFF_PULLDOWN 100k lado OFF,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W044,Lógica,OE HIGH deshabilita,Pi J8 pin físico 29 (BCM5),PCA815 OE,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W045,Lógica,OE HIGH deshabilita,R_OE_PULLUP 10k lado OE,PCA815 OE,Canal de señales/control; alivio antes de soldadura,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W046,Lógica,A (contacto seco),HP2813 A,Reed 59170-1-S-00-C terminal 1,"Pigtail junto a la tapa, dos ojos de retención",Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W047,Lógica,B (contacto seco),HP2813 B,Reed 59170-1-S-00-C terminal 2,Pigtail junto a la tapa; contacto sin polaridad,Hilo flexible aislado; confirmar OD,,MEDIR_PRIMERA_UNIDAD
+W048,Pie L,5V_LÓGICA,D36 VOUT 5 V,L R2.2k extremo +5V,FRONT→paso inferior→pierna→canal del pie,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W049,Pie L,S pie,L R2.2k extremo S,L unión S,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W050,Pie L,S pie,L unión S,L SS-01-E talón NO,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W051,Pie L,P− protegido,L SS-01-E talón COM,L unión P−,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W052,Pie L,S pie,L unión S,L SS-01-E punta NO,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W053,Pie L,P− protegido,L SS-01-E punta COM,L unión P−,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W054,Pie L,Divisor,L unión S,L R10k extremo S,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W055,Pie L,GPIO pie activo LOW,L R10k extremo GPIO,L unión GPIO,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W056,Pie L,GPIO pie activo LOW,L unión GPIO,L R20k extremo GPIO,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W057,Pie L,P− protegido,L R20k extremo GND,L unión P−,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W058,Pie L,P− protegido,L unión P−,Distribución P− lógica,Canal del pie→pierna→paso inferior→FRONT,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W059,Pie L,GPIO pie activo LOW,L unión GPIO,Pi J8 pin físico 15 (BCM22),Pie→pierna→paso inferior→FRONT→cuello→cabeza,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W060,Pie R,5V_LÓGICA,D36 VOUT 5 V,R R2.2k extremo +5V,FRONT→paso inferior→pierna→canal del pie,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W061,Pie R,S pie,R R2.2k extremo S,R unión S,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W062,Pie R,S pie,R unión S,R SS-01-E talón NO,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W063,Pie R,P− protegido,R SS-01-E talón COM,R unión P−,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W064,Pie R,S pie,R unión S,R SS-01-E punta NO,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W065,Pie R,P− protegido,R SS-01-E punta COM,R unión P−,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W066,Pie R,Divisor,R unión S,R R10k extremo S,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W067,Pie R,GPIO pie activo LOW,R R10k extremo GPIO,R unión GPIO,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W068,Pie R,GPIO pie activo LOW,R unión GPIO,R R20k extremo GPIO,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W069,Pie R,P− protegido,R R20k extremo GND,R unión P−,Compartimento del talón; sujetar en peines y tapa aislante,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W070,Pie R,P− protegido,R unión P−,Distribución P− lógica,Canal del pie→pierna→paso inferior→FRONT,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W071,Pie R,GPIO pie activo LOW,R unión GPIO,Pi J8 pin físico 13 (BCM27),Pie→pierna→paso inferior→FRONT→cuello→cabeza,Hilo flexible según canal del pie,,MEDIR_PRIMERA_UNIDAD
+W072,Servo S00,5V_SERVOS,"PDB toma P00, V+",Y S00→MG00 V+,"Dentro del torso, lejos del engrane de cadera",22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W073,Servo S00,P− servo,"PDB toma P00, GND",Y S00→MG00 GND,"Dentro del torso, lejos del engrane de cadera",22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W074,Servo S00,PWM independiente,PCA pad S00 (cara posterior),Y S00→MG00 S,"Dentro del torso, lejos del engrane de cadera","26 AWG, OD aislado ≤1.2 mm en reserva PCA",,MEDIR_PRIMERA_UNIDAD
+W075,Servo S01,5V_SERVOS,"PDB toma P01, V+",Y S01→MG02 V+,Pierna izquierda; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W076,Servo S01,P− servo,"PDB toma P01, GND",Y S01→MG02 GND,Pierna izquierda; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W077,Servo S01,PWM independiente,PCA pad S01 (cara posterior),Y S01→MG02 S,Pierna izquierda; bucle en cada eje cruzado,"26 AWG, OD aislado ≤1.2 mm en reserva PCA",,MEDIR_PRIMERA_UNIDAD
+W078,Servo S02,5V_SERVOS,"PDB toma P02, V+",Y S02→MG04 V+,Pierna izquierda; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W079,Servo S02,P− servo,"PDB toma P02, GND",Y S02→MG04 GND,Pierna izquierda; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W080,Servo S02,PWM independiente,PCA pad S02 (cara posterior),Y S02→MG04 S,Pierna izquierda; bucle en cada eje cruzado,"26 AWG, OD aislado ≤1.2 mm en reserva PCA",,MEDIR_PRIMERA_UNIDAD
+W081,Servo S03,5V_SERVOS,"PDB toma P03, V+",Y S03→MG03 V+,Pierna izquierda; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W082,Servo S03,P− servo,"PDB toma P03, GND",Y S03→MG03 GND,Pierna izquierda; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W083,Servo S03,PWM independiente,PCA pad S03 (cara posterior),Y S03→MG03 S,Pierna izquierda; bucle en cada eje cruzado,"26 AWG, OD aislado ≤1.2 mm en reserva PCA",,MEDIR_PRIMERA_UNIDAD
+W084,Servo S04,5V_SERVOS,"PDB toma P04, V+",Y S04→MG05 V+,Pierna izquierda; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W085,Servo S04,P− servo,"PDB toma P04, GND",Y S04→MG05 GND,Pierna izquierda; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W086,Servo S04,PWM independiente,PCA pad S04 (cara posterior),Y S04→MG05 S,Pierna izquierda; bucle en cada eje cruzado,"26 AWG, OD aislado ≤1.2 mm en reserva PCA",,MEDIR_PRIMERA_UNIDAD
+W087,Servo S05,5V_SERVOS,"PDB toma P05, V+",Y S05→MG06 V+,Cuello/cabeza; holgura independiente por eje,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W088,Servo S05,P− servo,"PDB toma P05, GND",Y S05→MG06 GND,Cuello/cabeza; holgura independiente por eje,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W089,Servo S05,PWM independiente,PCA pad S05 (cara posterior),Y S05→MG06 S,Cuello/cabeza; holgura independiente por eje,"26 AWG, OD aislado ≤1.2 mm en reserva PCA",,MEDIR_PRIMERA_UNIDAD
+W090,Servo S06,5V_SERVOS,"PDB toma P06, V+",Y S06→MG07 V+,Cuello/cabeza; holgura independiente por eje,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W091,Servo S06,P− servo,"PDB toma P06, GND",Y S06→MG07 GND,Cuello/cabeza; holgura independiente por eje,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W092,Servo S06,PWM independiente,PCA pad S06 (cara posterior),Y S06→MG07 S,Cuello/cabeza; holgura independiente por eje,"26 AWG, OD aislado ≤1.2 mm en reserva PCA",,MEDIR_PRIMERA_UNIDAD
+W093,Servo S07,5V_SERVOS,"PDB toma P07, V+",Y S07→MG08 V+,Cuello/cabeza; holgura independiente por eje,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W094,Servo S07,P− servo,"PDB toma P07, GND",Y S07→MG08 GND,Cuello/cabeza; holgura independiente por eje,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W095,Servo S07,PWM independiente,PCA pad S07 (cara posterior),Y S07→MG08 S,Cuello/cabeza; holgura independiente por eje,"26 AWG, OD aislado ≤1.2 mm en reserva PCA",,MEDIR_PRIMERA_UNIDAD
+W096,Servo S08,5V_SERVOS,"PDB toma P08, V+",Y S08→MG10 V+,Cuello/cabeza; holgura independiente por eje,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W097,Servo S08,P− servo,"PDB toma P08, GND",Y S08→MG10 GND,Cuello/cabeza; holgura independiente por eje,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W098,Servo S08,PWM independiente,PCA pad S08 (cara posterior),Y S08→MG10 S,Cuello/cabeza; holgura independiente por eje,"26 AWG, OD aislado ≤1.2 mm en reserva PCA",,MEDIR_PRIMERA_UNIDAD
+W099,Servo S09,5V_SERVOS,"PDB toma P09, V+",Y S09→MG01 V+,"Dentro del torso, lejos del engrane de cadera",22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W100,Servo S09,P− servo,"PDB toma P09, GND",Y S09→MG01 GND,"Dentro del torso, lejos del engrane de cadera",22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W101,Servo S09,PWM independiente,PCA pad S09 (cara posterior),Y S09→MG01 S,"Dentro del torso, lejos del engrane de cadera","26 AWG, OD aislado ≤1.2 mm en reserva PCA",,MEDIR_PRIMERA_UNIDAD
+W102,Servo S10,5V_SERVOS,"PDB toma P10, V+",Y S10→MG11 V+,Pierna derecha; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W103,Servo S10,P− servo,"PDB toma P10, GND",Y S10→MG11 GND,Pierna derecha; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W104,Servo S10,PWM independiente,PCA pad S10 (cara posterior),Y S10→MG11 S,Pierna derecha; bucle en cada eje cruzado,"26 AWG, OD aislado ≤1.2 mm en reserva PCA",,MEDIR_PRIMERA_UNIDAD
+W105,Servo S11,5V_SERVOS,"PDB toma P11, V+",Y S11→MG13 V+,Pierna derecha; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W106,Servo S11,P− servo,"PDB toma P11, GND",Y S11→MG13 GND,Pierna derecha; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W107,Servo S11,PWM independiente,PCA pad S11 (cara posterior),Y S11→MG13 S,Pierna derecha; bucle en cada eje cruzado,"26 AWG, OD aislado ≤1.2 mm en reserva PCA",,MEDIR_PRIMERA_UNIDAD
+W108,Servo S12,5V_SERVOS,"PDB toma P12, V+",Y S12→MG12 V+,Pierna derecha; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W109,Servo S12,P− servo,"PDB toma P12, GND",Y S12→MG12 GND,Pierna derecha; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W110,Servo S12,PWM independiente,PCA pad S12 (cara posterior),Y S12→MG12 S,Pierna derecha; bucle en cada eje cruzado,"26 AWG, OD aislado ≤1.2 mm en reserva PCA",,MEDIR_PRIMERA_UNIDAD
+W111,Servo S13,5V_SERVOS,"PDB toma P13, V+",Y S13→MG14 V+,Pierna derecha; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W112,Servo S13,P− servo,"PDB toma P13, GND",Y S13→MG14 GND,Pierna derecha; bucle en cada eje cruzado,22 AWG nominal; medir corriente y caída,,MEDIR_PRIMERA_UNIDAD
+W113,Servo S13,PWM independiente,PCA pad S13 (cara posterior),Y S13→MG14 S,Pierna derecha; bucle en cada eje cruzado,"26 AWG, OD aislado ≤1.2 mm en reserva PCA",,MEDIR_PRIMERA_UNIDAD
+W114,Carga externa solamente,B+ crudo,Pack XT30 +,Cargador principal +,Pack extraído; ambas interfaces desconectadas del robot,Arnés de carga validado por montador,,MEDIR_PRIMERA_UNIDAD
+W115,Carga externa solamente,B− crudo,Pack XT30 −,Cargador principal −,Pack extraído; ambas interfaces desconectadas del robot,Arnés de carga validado por montador,,MEDIR_PRIMERA_UNIDAD
+W116,Carga externa solamente,B− crudo,Pack XH pin 1,Cargador balance 2S B−,Pack extraído; ambas interfaces desconectadas del robot,Arnés de carga validado por montador,,MEDIR_PRIMERA_UNIDAD
+W117,Carga externa solamente,BM crudo,Pack XH pin 2,Cargador balance 2S BM,Pack extraído; ambas interfaces desconectadas del robot,Arnés de carga validado por montador,,MEDIR_PRIMERA_UNIDAD
+W118,Carga externa solamente,B+ crudo,Pack XH pin 3,Cargador balance 2S B+,Pack extraído; ambas interfaces desconectadas del robot,Arnés de carga validado por montador,,MEDIR_PRIMERA_UNIDAD

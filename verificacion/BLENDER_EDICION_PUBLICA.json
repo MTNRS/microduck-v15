@@ -1,0 +1,18 @@
+{
+  "schema": "microduck-v15-public-cad/1",
+  "printed_parts_unchanged": 80,
+  "objects_and_ancestors_unchanged": 843,
+  "retained_scenes": 1,
+  "reference_replaced": "V15_PDB_3108_2827_0801_ENVOLVENTE",
+  "reference_vertices": 8,
+  "reference_original_mesh_removed": true,
+  "archived_scenes_removed": 6,
+  "print_geometry_changed": false,
+  "maximum_print_world_error_mm": 3.814697265625e-06,
+  "physical_fit_verified": false,
+  "reopened_geometry_and_rig_match": true,
+  "public_blend_sha256": "a465c42346cfdcfb609c7b509ed14e586b0315916f60b3d3c4202c541da85174",
+  "linked_libraries": 0,
+  "object_count": 844,
+  "mesh_count": 783
+}

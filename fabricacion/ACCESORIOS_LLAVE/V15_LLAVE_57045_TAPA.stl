@@ -1,0 +1,86 @@
+solid V15_LLAVE_57045_TAPA
+ facet normal -1 -0 -0
+  outer loop
+   vertex 0 0 1.2000000476837158
+   vertex 0 20.379999160766602 0
+   vertex 0 0 0
+  endloop
+ endfacet
+ facet normal 0 0 -1
+  outer loop
+   vertex 6.9200000762939453 0 0
+   vertex 0 0 0
+   vertex 0 20.379999160766602 0
+  endloop
+ endfacet
+ facet normal -0 -1 -0
+  outer loop
+   vertex 6.9200000762939453 0 1.2000000476837158
+   vertex 0 0 1.2000000476837158
+   vertex 0 0 0
+  endloop
+ endfacet
+ facet normal 0 1 0
+  outer loop
+   vertex 0 20.379999160766602 1.2000000476837158
+   vertex 6.9200000762939453 20.379999160766602 0
+   vertex 0 20.379999160766602 0
+  endloop
+ endfacet
+ facet normal -1 -0 -0
+  outer loop
+   vertex 0 20.379999160766602 1.2000000476837158
+   vertex 0 20.379999160766602 0
+   vertex 0 0 1.2000000476837158
+  endloop
+ endfacet
+ facet normal 0 0 1
+  outer loop
+   vertex 6.9200000762939453 20.379999160766602 1.2000000476837158
+   vertex 0 20.379999160766602 1.2000000476837158
+   vertex 0 0 1.2000000476837158
+  endloop
+ endfacet
+ facet normal 0 -1 -0
+  outer loop
+   vertex 6.9200000762939453 0 1.2000000476837158
+   vertex 0 0 0
+   vertex 6.9200000762939453 0 0
+  endloop
+ endfacet
+ facet normal -0 0 1
+  outer loop
+   vertex 6.9200000762939453 20.379999160766602 1.2000000476837158
+   vertex 0 0 1.2000000476837158
+   vertex 6.9200000762939453 0 1.2000000476837158
+  endloop
+ endfacet
+ facet normal 1 0 0
+  outer loop
+   vertex 6.9200000762939453 20.379999160766602 1.2000000476837158
+   vertex 6.9200000762939453 0 1.2000000476837158
+   vertex 6.9200000762939453 0 0
+  endloop
+ endfacet
+ facet normal 0 0 -1
+  outer loop
+   vertex 0 20.379999160766602 0
+   vertex 6.9200000762939453 20.379999160766602 0
+   vertex 6.9200000762939453 0 0
+  endloop
+ endfacet
+ facet normal 1 -0 0
+  outer loop
+   vertex 6.9200000762939453 20.379999160766602 1.2000000476837158
+   vertex 6.9200000762939453 0 0
+   vertex 6.9200000762939453 20.379999160766602 0
+  endloop
+ endfacet
+ facet normal 0 1 0
+  outer loop
+   vertex 6.9200000762939453 20.379999160766602 1.2000000476837158
+   vertex 6.9200000762939453 20.379999160766602 0
+   vertex 0 20.379999160766602 1.2000000476837158
+  endloop
+ endfacet
+endsolid V15_LLAVE_57045_TAPA

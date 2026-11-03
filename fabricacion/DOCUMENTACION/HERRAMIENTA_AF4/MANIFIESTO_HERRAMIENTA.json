@@ -1,0 +1,47 @@
+{
+  "source": "Mechanical clamp fastener bench 148 routes; supplied probe polygon",
+  "polygon_YZ_mm": [
+    [
+      -1.2,
+      -2.85
+    ],
+    [
+      20,
+      -2.85
+    ],
+    [
+      20,
+      2.85
+    ],
+    [
+      -1.2,
+      2.85
+    ],
+    [
+      -1.2,
+      2.05
+    ],
+    [
+      2.8,
+      2.05
+    ],
+    [
+      2.8,
+      -2.05
+    ],
+    [
+      -1.2,
+      -2.05
+    ]
+  ],
+  "thickness_max_X_mm": 1,
+  "area_mm2": 104.44000000000004,
+  "SVG_mm_1to1": true,
+  "DXF_INSUNITS": 4,
+  "tool_strength_or_torque_qualified": false,
+  "files": {
+    "CONTRALLAVE_AF4_1mm.dxf": "0b1b44c46b0058d8decaaba986128409178f6b316492915075eaaea886378338",
+    "CONTRALLAVE_AF4_1mm_1a1.svg": "e64d99cc982b3560882626d6d5060ef4aafa9732384c11a860e88088c31a86d6",
+    "LEER_CONTRALLAVE.txt": "d8c05af915ab29eface3198089cc09cc4f68b7ddc306c3d1b9c4d717cbaa2d6f"
+  }
+}

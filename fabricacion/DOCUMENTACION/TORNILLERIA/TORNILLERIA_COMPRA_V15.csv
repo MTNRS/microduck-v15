@@ -1,0 +1,65 @@
+﻿category,item,quantity,dimensions_or_limit,preparation,source_url,supplier_status
+BEARING,623ZZ 3x10x4,1,,,,Especificacion dimensional; proveedor por confirmar
+BEARING,"6700 OPEN 10x15x3 (abierto;H3,NOZZH4)",2,,,,Especificacion dimensional; proveedor por confirmar
+BEARING,6701ZZ 12x18x4 double metal shielded,1,,,https://www.smbbearings.com/products/thin-section-bearings.html,SKU dimensional citado; existencias no verificadas
+BEARING,6702ZZ 15x21x4 double metal shielded,1,,,https://www.smbbearings.com/products/thin-section-bearings.html,SKU dimensional citado; existencias no verificadas
+BEARING,ET2216 16x22x4,9,,,,Especificacion dimensional; proveedor por confirmar
+HARD_SHIM,OD5 ID2.2 h0.2,1,,,,Especificacion dimensional; proveedor por confirmar
+HARD_SHIM,OD5 ID2.2 h0.3,13,,,,Especificacion dimensional; proveedor por confirmar
+HARD_SHIM,OD5 ID2.2 h0.35,2,,,,Especificacion dimensional; proveedor por confirmar
+NUT,M1.6 AF3.2 h1.3,30,,,,Especificacion dimensional; proveedor por confirmar
+NUT,M1.6 AF3.2 h1.3,4,M1.6 nut AF3.2 height1.3,,,Especificacion dimensional; proveedor por confirmar
+NUT,M2 AF4 h1.6,74,,,,Especificacion dimensional; proveedor por confirmar
+NUT,M2 AF4 h1.6,8,M2 hex nut AF4 height1.6,,,Especificacion dimensional; proveedor por confirmar
+NUT,M2 AF4 h1.6,24,M2 nut AF4 h1.6,,,Especificacion dimensional; proveedor por confirmar
+NUT,M2 AF4 h1.6,20,M2nutAF4/H1.6,,,Especificacion dimensional; proveedor por confirmar
+NUT,M2 AF4 h1.6,1,M2nutAF4h1.6,,,Especificacion dimensional; proveedor por confirmar
+NUT,M2 AF4 h1.6,2,M2nut_AF4_h1p6,,,Especificacion dimensional; proveedor por confirmar
+NUT,M2 AF4 h1.6,18,nut_M2_AF4_h1p6,,,Especificacion dimensional; proveedor por confirmar
+OEM_HORN,OEM MG90S two-arm horn span13.8 +/-0.2,2,Factoryspline/hub retained; nominalwidth5/thickness2.4/hubOD10.4; verifylot,,,Especificacion dimensional; proveedor por confirmar
+OEM_HORN,OEM MG90S two-arm horn span13.8 +0/-0.2,1,Factoryspline/hub retained; nominalwidth5/thickness2.4/hubOD10.4; verifylot,Trim symmetrically toTOTAL13.8mm(+0/-0.2); retain OEM width5/thickness2.4 andfactoryhub/spline,,Especificacion dimensional; proveedor por confirmar
+OEM_HORN,OEM MG90S two-arm horn span14.8 max,7,Factoryspline/hub retained; nominalwidth5/thickness2.4/hubOD10.4; verifylot,BarraOEM: cortar simetricamente hasta longitud total maxima14.8mm; ancho5 y espesor2.4 conservados. Desbarbar sin tocar cubo/estriado.,,Especificacion dimensional; proveedor por confirmar
+OEM_HORN,OEM MG90S two-arm horn span18 +/-0.2,4,Factoryspline/hub retained; nominalwidth5/thickness2.4/hubOD10.4; verifylot,,,Especificacion dimensional; proveedor por confirmar
+SCREW,M1.6x6,4,"M1.6x6 machine screw, head OD<=3.2 height<=1.3; {""length_under_head_mm"": 6}",,,Especificacion dimensional; proveedor por confirmar
+SCREW,M1.6x6,30,headOD<=3.2 h<=1.6,,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x10,9,headOD<=4.8 h<=2,,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x10,3,headOD<=4.8 h<=2.0,,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x10 NBK SSH-M2-10,1,"NBK SSH-M2-10 socketflathead; {""length_under_head_mm"": 10, ""head_diameter_mm"": 4, ""head_height_mm"": 1.1}",,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x11,8,"M2x11 pan/socket-head machine screw prepared from M2x12; {""length_under_head_mm"": 11, ""head_diameter_max_mm"": 4, ""head_height_max_mm"": 1.6}","Preparar desdeM2x12;longitudbajocabeza11mm,desbarbar",,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x11,2,"M2x11 socket screw prepared from12; {""length_under_head_mm"": 11.0, ""head_diameter_max_mm"": 4.0, ""head_height_max_mm"": 2.0}",Cut standard M2x12 under-head length to11.0mm; deburr,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x11,4,"M2x11 socket screw prepared from12; {""length_under_head_mm"": 11.0, ""head_diameter_max_mm"": 4.0, ""head_height_max_mm"": 2.0}","Preparar desdeM2x12;longitudbajocabeza11mm,desbarbar",,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x12,16,"M2x12 socket screw; {""length_under_head_mm"": 12.0, ""head_diameter_max_mm"": 4.0, ""head_height_max_mm"": 2.0}",,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x18,2,headOD<=4.8 h<=2.0,,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x18,2,screw_M2x18_head_D4_h1p6; {},,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x20,1,headOD<=4.8 h<=2.0,,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x25,4,headOD<=4 h<=1.6,,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x25,1,headOD<=4.8 h<=2.0,,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x5.8,12,"M2, Lbajo cabeza5.8, cabezaOD<=4/h<=2; stockM2x6; {""length_under_head_mm"": 5.8, ""head_diameter_max_mm"": 4.0, ""head_height_max_mm"": 2.0}","Preparar desdeM2x6: longitud final5.8mm bajo cabeza, desbarbar y verificar rosca.",,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x6,15,headOD<=4 h<=2,,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x6,2,headOD<=4.8 h<=2,,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x6 NBK SSHS-M2-6-SD ultra-low small-head screw,1,"NBK SSHS-M2-6-SD ultra-low small-head screw; {""length_under_head_mm"": 6, ""head_diameter_mm"": 3.2, ""head_height_mm"": 1.1}",,https://www.nbk1560.com/images/en-US/product/lowsmallheadscrew/SSHS-SD/SSHS-SD_1.pdf,SKU dimensional citado; existencias no verificadas
+SCREW,M2x8,18,M2x8 headOD4/H2; {},,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x8,6,headOD<=4 h<=1.6,,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x8,4,headOD<=4 h<=1.6; actualKIT five-positive-components dimensional check,,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x8,2,headOD<=4 h<=2,,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x8,9,headOD<=4.8 h<=2.0,,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x8,14,screw_M2x8; {},,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x8,4,screw_M2x8_head_OD_le4_h_le1p6; {},,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x8 NBK SSH-M2-8,1,"NBK SSH-M2-8 socketflathead; {""length_under_head_mm"": 8, ""head_diameter_mm"": 4, ""head_height_mm"": 1.1}",,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x8 NBK SSH-M2-8,1,"SSH-M2-8; {""head_D_mm"": 4.0, ""head_H_mm"": 1.1, ""underhead_length_mm"": 8.0}",,,Especificacion dimensional; proveedor por confirmar
+SCREW,M2x8 NBK SSH-M2-8 ultra-low profile,3,"NBK SSH-M2-8 ultra-low profile machine screw; {""length_under_head_mm"": 8, ""head_diameter_mm"": 4, ""head_height_mm"": 1.1}",,https://www.nbk1560.com/images/en-US/product/lowsmallheadscrew/SSH/SSH_1.pdf,SKU dimensional citado; existencias no verificadas
+SLEEVE,OD2.98 ID2.1 L4 metal,1,Precisionmetalbushing;provider/preparationconfirm,,,Especificacion dimensional; proveedor por confirmar
+SLEEVE,spacer_OD6_ID2p2_h1,0,spacer_OD6_ID2p2_h1,,,Especificacion dimensional; proveedor por confirmar
+WASHER,M1.6 washer OD3.5 ID1.8 thickness0.3,4,M1.6 washer OD3.5 ID1.8 thickness0.3,,,Especificacion dimensional; proveedor por confirmar
+WASHER,M2 smallseries flatwasher DIN433 nominalOD4.5 ID2.2 h0.3,2,M2 smallseries flatwasher DIN433 nominalOD4.5 ID2.2 h0.3,,,Especificacion dimensional; proveedor por confirmar
+WASHER,M2 washer OD4.3 ID2.2 thickness0.3,16,M2 washer OD4.3 ID2.2 thickness0.3,,,Especificacion dimensional; proveedor por confirmar
+WASHER,M2washerOD4.3h0.3,1,M2washerOD4.3h0.3,,,Especificacion dimensional; proveedor por confirmar
+WASHER,OD4 ID1.8 h0.4,30,,,,Especificacion dimensional; proveedor por confirmar
+WASHER,OD4.2 ID2.2 h0.3,2,,,,Especificacion dimensional; proveedor por confirmar
+WASHER,OD4.2 ID2.2 h0.4,29,,,,Especificacion dimensional; proveedor por confirmar
+WASHER,OD4.3 ID2.2 h0.3,24,,,,Especificacion dimensional; proveedor por confirmar
+WASHER,OD5 ID2.2 h0.3,40,,,,Especificacion dimensional; proveedor por confirmar
+WASHER,WASHER,20,washerOD4.2/ID2.2/h.3,,,Especificacion dimensional; proveedor por confirmar
+WASHER,fenderwasher_OD6_ID2p2_h0p5,4,fenderwasher_OD6_ID2p2_h0p5,,,Especificacion dimensional; proveedor por confirmar
+WASHER,washer OD4.3 ID2.2 h0.3,44,washer OD4.3 ID2.2 h0.3,,,Especificacion dimensional; proveedor por confirmar
+WASHER,washer_OD4p3_ID2p15_h0p3,36,washer_OD4p3_ID2p15_h0p3,,,Especificacion dimensional; proveedor por confirmar

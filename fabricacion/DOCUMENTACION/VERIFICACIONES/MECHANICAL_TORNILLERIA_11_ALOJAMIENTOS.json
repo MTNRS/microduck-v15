@@ -1,0 +1,1145 @@
+{
+  "schema": "V15_NEW22_CLAMP_FASTENERS_CONTINUOUS_SUBASSEMBLY",
+  "source_assembly": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/KIT_V15_R2_FABRICACION/ASSEMBLY_FABRICACION_CANDIDATO_V15.json",
+  "source_sha256": "d1e061923094f4cd2fcfbbeb800a2daeffc9b78ee9077f8575ebd8b72b0ccbb4",
+  "selected_definitions": [
+    {
+      "tag": "00F",
+      "i": 0,
+      "owner": "V15_SERVICE_FRONT_TRUNK_BASE_1",
+      "phi": 0,
+      "bearing": "V7_SRC_V4_MD_trunk_base__seeed_bearing__configuration__22x16x4",
+      "compact": false
+    },
+    {
+      "tag": "01F",
+      "i": 1,
+      "owner": "V15_SERVICE_FRONT_TRUNK_BASE_0",
+      "phi": 0,
+      "bearing": "V7_SRC_V4_MD_trunk_base__seeed_bearing__configuration__2100455f",
+      "compact": false
+    },
+    {
+      "tag": "02F",
+      "i": 2,
+      "owner": "V15_SERVICE_FRONT_YAW2ROLL",
+      "phi": 0,
+      "bearing": "V7_SRC_V4_MD_yaw2roll__seeed_bearing__configuration__22x16x4",
+      "compact": false
+    },
+    {
+      "tag": "03F",
+      "i": 3,
+      "owner": "V15_SERVICE_FRONT_UPPER_LEG_LEFT_0",
+      "phi": 0,
+      "bearing": "V7_SRC_V4_MD_upper_leg_left__seeed_bearing__configurat_5adb0bbf",
+      "compact": false
+    },
+    {
+      "tag": "11F",
+      "i": 11,
+      "owner": "V15_SERVICE_FRONT_BEARING_ROLL",
+      "phi": 0,
+      "bearing": "V7_SRC_V4_MD_bearing_roll__seeed_bearing__configuratio_005ded7b",
+      "compact": false
+    },
+    {
+      "tag": "12F",
+      "i": 12,
+      "owner": "V15_SERVICE_FRONT_UPPER_LEG_RIGHT_0",
+      "phi": 0,
+      "bearing": "V7_SRC_V4_MD_upper_leg_right__seeed_bearing__configura_9644d2e7",
+      "compact": false
+    },
+    {
+      "tag": "04F",
+      "i": 4,
+      "owner": "V7_MOD_HIP_L",
+      "phi": 0,
+      "bearing": "V7_SRC_V4_MD_hip_l__seeed_bearing__configuration__22x16x4",
+      "compact": false
+    },
+    {
+      "tag": "10F",
+      "i": 10,
+      "owner": "V7_MOD_YAW_ROLL_MOTION",
+      "phi": 90,
+      "bearing": "V7_SRC_V4_MD_yaw_roll_motion__seeed_bearing__configura_fa19e6f9",
+      "compact": true
+    },
+    {
+      "tag": "13F",
+      "i": 13,
+      "owner": "V7_MOD_HIP_L_2",
+      "phi": 0,
+      "bearing": "V7_SRC_V4_MD_hip_l_2__seeed_bearing__configuration__22x16x4",
+      "compact": false
+    },
+    {
+      "tag": "08F",
+      "i": 8,
+      "owner": "V7_MOD_NECK_PITCH",
+      "phi": 90,
+      "bearing": "V7_SRC_V4_MD_neck_pitch__seeed_bearing__configuration__22x16x4",
+      "compact": true
+    },
+    {
+      "tag": "10R",
+      "i": 10,
+      "owner": "V7_TAPA_BRAZO_10",
+      "phi": 41.0,
+      "bearing": "V7_SRC_V4_MD_yaw_roll_motion__seeed_bearing__configura_0c367e2a",
+      "compact": true
+    }
+  ],
+  "checks": [
+    {
+      "tag": "00F",
+      "hardware": "V15_HW_ETCLAMP_00F_0_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "00F",
+      "hardware": "V15_HW_ETCLAMP_00F_0_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "00F",
+      "hardware": "V15_HW_ETCLAMP_00F_0_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 1.9742212642971135e-06,
+      "passed": true
+    },
+    {
+      "tag": "00F",
+      "hardware": "V15_HW_ETCLAMP_00F_0_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "00F",
+      "hardware": "V15_HW_ETCLAMP_00F_0_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "00F",
+      "hardware": "V15_HW_ETCLAMP_00F_0_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "00F",
+      "hardware": "V15_HW_ETCLAMP_00F_0_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "00F",
+      "hardware": "V15_HW_ETCLAMP_00F_1_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "00F",
+      "hardware": "V15_HW_ETCLAMP_00F_1_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "00F",
+      "hardware": "V15_HW_ETCLAMP_00F_1_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 1.9742110687344165e-06,
+      "passed": true
+    },
+    {
+      "tag": "00F",
+      "hardware": "V15_HW_ETCLAMP_00F_1_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "00F",
+      "hardware": "V15_HW_ETCLAMP_00F_1_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "00F",
+      "hardware": "V15_HW_ETCLAMP_00F_1_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "00F",
+      "hardware": "V15_HW_ETCLAMP_00F_1_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "01F",
+      "hardware": "V15_HW_ETCLAMP_01F_0_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "01F",
+      "hardware": "V15_HW_ETCLAMP_01F_0_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "01F",
+      "hardware": "V15_HW_ETCLAMP_01F_0_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 1.9742109752364736e-06,
+      "passed": true
+    },
+    {
+      "tag": "01F",
+      "hardware": "V15_HW_ETCLAMP_01F_0_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "01F",
+      "hardware": "V15_HW_ETCLAMP_01F_0_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "01F",
+      "hardware": "V15_HW_ETCLAMP_01F_0_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "01F",
+      "hardware": "V15_HW_ETCLAMP_01F_0_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "01F",
+      "hardware": "V15_HW_ETCLAMP_01F_1_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "01F",
+      "hardware": "V15_HW_ETCLAMP_01F_1_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "01F",
+      "hardware": "V15_HW_ETCLAMP_01F_1_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 1.9742213600782227e-06,
+      "passed": true
+    },
+    {
+      "tag": "01F",
+      "hardware": "V15_HW_ETCLAMP_01F_1_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "01F",
+      "hardware": "V15_HW_ETCLAMP_01F_1_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "01F",
+      "hardware": "V15_HW_ETCLAMP_01F_1_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "01F",
+      "hardware": "V15_HW_ETCLAMP_01F_1_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "02F",
+      "hardware": "V15_HW_ETCLAMP_02F_0_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "02F",
+      "hardware": "V15_HW_ETCLAMP_02F_0_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "02F",
+      "hardware": "V15_HW_ETCLAMP_02F_0_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 4.5169661908168565e-07,
+      "passed": true
+    },
+    {
+      "tag": "02F",
+      "hardware": "V15_HW_ETCLAMP_02F_0_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 2.1529829602978278e-06,
+      "passed": true
+    },
+    {
+      "tag": "02F",
+      "hardware": "V15_HW_ETCLAMP_02F_0_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "02F",
+      "hardware": "V15_HW_ETCLAMP_02F_0_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "02F",
+      "hardware": "V15_HW_ETCLAMP_02F_0_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "02F",
+      "hardware": "V15_HW_ETCLAMP_02F_1_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "02F",
+      "hardware": "V15_HW_ETCLAMP_02F_1_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "02F",
+      "hardware": "V15_HW_ETCLAMP_02F_1_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 5.236887832383357e-07,
+      "passed": true
+    },
+    {
+      "tag": "02F",
+      "hardware": "V15_HW_ETCLAMP_02F_1_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 1.9639506410939865e-06,
+      "passed": true
+    },
+    {
+      "tag": "02F",
+      "hardware": "V15_HW_ETCLAMP_02F_1_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "02F",
+      "hardware": "V15_HW_ETCLAMP_02F_1_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "02F",
+      "hardware": "V15_HW_ETCLAMP_02F_1_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "03F",
+      "hardware": "V15_HW_ETCLAMP_03F_0_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "03F",
+      "hardware": "V15_HW_ETCLAMP_03F_0_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "03F",
+      "hardware": "V15_HW_ETCLAMP_03F_0_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 3.1179970092172196e-06,
+      "passed": true
+    },
+    {
+      "tag": "03F",
+      "hardware": "V15_HW_ETCLAMP_03F_0_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 3.031704049592494e-06,
+      "passed": true
+    },
+    {
+      "tag": "03F",
+      "hardware": "V15_HW_ETCLAMP_03F_0_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "03F",
+      "hardware": "V15_HW_ETCLAMP_03F_0_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "03F",
+      "hardware": "V15_HW_ETCLAMP_03F_0_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "03F",
+      "hardware": "V15_HW_ETCLAMP_03F_1_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "03F",
+      "hardware": "V15_HW_ETCLAMP_03F_1_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "03F",
+      "hardware": "V15_HW_ETCLAMP_03F_1_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 3.137311380239966e-06,
+      "passed": true
+    },
+    {
+      "tag": "03F",
+      "hardware": "V15_HW_ETCLAMP_03F_1_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 3.0542056090001447e-06,
+      "passed": true
+    },
+    {
+      "tag": "03F",
+      "hardware": "V15_HW_ETCLAMP_03F_1_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "03F",
+      "hardware": "V15_HW_ETCLAMP_03F_1_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "03F",
+      "hardware": "V15_HW_ETCLAMP_03F_1_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "11F",
+      "hardware": "V15_HW_ETCLAMP_11F_0_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "11F",
+      "hardware": "V15_HW_ETCLAMP_11F_0_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "11F",
+      "hardware": "V15_HW_ETCLAMP_11F_0_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 4.5169659295263855e-07,
+      "passed": true
+    },
+    {
+      "tag": "11F",
+      "hardware": "V15_HW_ETCLAMP_11F_0_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 4.1289018046275725e-08,
+      "passed": true
+    },
+    {
+      "tag": "11F",
+      "hardware": "V15_HW_ETCLAMP_11F_0_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "11F",
+      "hardware": "V15_HW_ETCLAMP_11F_0_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "11F",
+      "hardware": "V15_HW_ETCLAMP_11F_0_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "11F",
+      "hardware": "V15_HW_ETCLAMP_11F_1_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "11F",
+      "hardware": "V15_HW_ETCLAMP_11F_1_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "11F",
+      "hardware": "V15_HW_ETCLAMP_11F_1_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 5.236888187310836e-07,
+      "passed": true
+    },
+    {
+      "tag": "11F",
+      "hardware": "V15_HW_ETCLAMP_11F_1_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 3.6554174640819175e-07,
+      "passed": true
+    },
+    {
+      "tag": "11F",
+      "hardware": "V15_HW_ETCLAMP_11F_1_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "11F",
+      "hardware": "V15_HW_ETCLAMP_11F_1_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "11F",
+      "hardware": "V15_HW_ETCLAMP_11F_1_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "12F",
+      "hardware": "V15_HW_ETCLAMP_12F_0_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "12F",
+      "hardware": "V15_HW_ETCLAMP_12F_0_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "12F",
+      "hardware": "V15_HW_ETCLAMP_12F_0_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 9.643629974436052e-06,
+      "passed": true
+    },
+    {
+      "tag": "12F",
+      "hardware": "V15_HW_ETCLAMP_12F_0_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 4.186494732426923e-06,
+      "passed": true
+    },
+    {
+      "tag": "12F",
+      "hardware": "V15_HW_ETCLAMP_12F_0_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "12F",
+      "hardware": "V15_HW_ETCLAMP_12F_0_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "12F",
+      "hardware": "V15_HW_ETCLAMP_12F_0_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "12F",
+      "hardware": "V15_HW_ETCLAMP_12F_1_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "12F",
+      "hardware": "V15_HW_ETCLAMP_12F_1_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "12F",
+      "hardware": "V15_HW_ETCLAMP_12F_1_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 9.324121872535214e-06,
+      "passed": true
+    },
+    {
+      "tag": "12F",
+      "hardware": "V15_HW_ETCLAMP_12F_1_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 4.074148702519258e-06,
+      "passed": true
+    },
+    {
+      "tag": "12F",
+      "hardware": "V15_HW_ETCLAMP_12F_1_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "12F",
+      "hardware": "V15_HW_ETCLAMP_12F_1_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "12F",
+      "hardware": "V15_HW_ETCLAMP_12F_1_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "04F",
+      "hardware": "V15_HW_ETCLAMP_04F_0_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "04F",
+      "hardware": "V15_HW_ETCLAMP_04F_0_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "04F",
+      "hardware": "V15_HW_ETCLAMP_04F_0_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 7.508794116994772e-06,
+      "passed": true
+    },
+    {
+      "tag": "04F",
+      "hardware": "V15_HW_ETCLAMP_04F_0_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 5.907534161467428e-07,
+      "passed": true
+    },
+    {
+      "tag": "04F",
+      "hardware": "V15_HW_ETCLAMP_04F_0_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "04F",
+      "hardware": "V15_HW_ETCLAMP_04F_0_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "04F",
+      "hardware": "V15_HW_ETCLAMP_04F_0_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "04F",
+      "hardware": "V15_HW_ETCLAMP_04F_1_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "04F",
+      "hardware": "V15_HW_ETCLAMP_04F_1_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "04F",
+      "hardware": "V15_HW_ETCLAMP_04F_1_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 6.7204445383064926e-06,
+      "passed": true
+    },
+    {
+      "tag": "04F",
+      "hardware": "V15_HW_ETCLAMP_04F_1_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 2.2230260572616605e-06,
+      "passed": true
+    },
+    {
+      "tag": "04F",
+      "hardware": "V15_HW_ETCLAMP_04F_1_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "04F",
+      "hardware": "V15_HW_ETCLAMP_04F_1_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "04F",
+      "hardware": "V15_HW_ETCLAMP_04F_1_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10F",
+      "hardware": "V15_HW_ETCLAMP_10F_0_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10F",
+      "hardware": "V15_HW_ETCLAMP_10F_0_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10F",
+      "hardware": "V15_HW_ETCLAMP_10F_0_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 4.128280981922059e-07,
+      "passed": true
+    },
+    {
+      "tag": "10F",
+      "hardware": "V15_HW_ETCLAMP_10F_0_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 7.095999225255981e-07,
+      "passed": true
+    },
+    {
+      "tag": "10F",
+      "hardware": "V15_HW_ETCLAMP_10F_0_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10F",
+      "hardware": "V15_HW_ETCLAMP_10F_0_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10F",
+      "hardware": "V15_HW_ETCLAMP_10F_1_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10F",
+      "hardware": "V15_HW_ETCLAMP_10F_1_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10F",
+      "hardware": "V15_HW_ETCLAMP_10F_1_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 4.974830045060793e-07,
+      "passed": true
+    },
+    {
+      "tag": "10F",
+      "hardware": "V15_HW_ETCLAMP_10F_1_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 6.955717051910021e-07,
+      "passed": true
+    },
+    {
+      "tag": "10F",
+      "hardware": "V15_HW_ETCLAMP_10F_1_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10F",
+      "hardware": "V15_HW_ETCLAMP_10F_1_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "13F",
+      "hardware": "V15_HW_ETCLAMP_13F_0_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "13F",
+      "hardware": "V15_HW_ETCLAMP_13F_0_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "13F",
+      "hardware": "V15_HW_ETCLAMP_13F_0_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 8.323533268809883e-07,
+      "passed": true
+    },
+    {
+      "tag": "13F",
+      "hardware": "V15_HW_ETCLAMP_13F_0_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 6.781492640071349e-07,
+      "passed": true
+    },
+    {
+      "tag": "13F",
+      "hardware": "V15_HW_ETCLAMP_13F_0_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "13F",
+      "hardware": "V15_HW_ETCLAMP_13F_0_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "13F",
+      "hardware": "V15_HW_ETCLAMP_13F_0_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "13F",
+      "hardware": "V15_HW_ETCLAMP_13F_1_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "13F",
+      "hardware": "V15_HW_ETCLAMP_13F_1_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "13F",
+      "hardware": "V15_HW_ETCLAMP_13F_1_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 7.464185175219468e-07,
+      "passed": true
+    },
+    {
+      "tag": "13F",
+      "hardware": "V15_HW_ETCLAMP_13F_1_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 5.840739051621269e-07,
+      "passed": true
+    },
+    {
+      "tag": "13F",
+      "hardware": "V15_HW_ETCLAMP_13F_1_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "13F",
+      "hardware": "V15_HW_ETCLAMP_13F_1_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "13F",
+      "hardware": "V15_HW_ETCLAMP_13F_1_M2x12_ASSY",
+      "operation": "AF4_open_spanner_head_contract",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "08F",
+      "hardware": "V15_HW_ETCLAMP_08F_0_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "08F",
+      "hardware": "V15_HW_ETCLAMP_08F_0_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "08F",
+      "hardware": "V15_HW_ETCLAMP_08F_0_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 2.316898423575853e-09,
+      "passed": true
+    },
+    {
+      "tag": "08F",
+      "hardware": "V15_HW_ETCLAMP_08F_0_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 9.591128263544649e-09,
+      "passed": true
+    },
+    {
+      "tag": "08F",
+      "hardware": "V15_HW_ETCLAMP_08F_0_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "08F",
+      "hardware": "V15_HW_ETCLAMP_08F_0_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "08F",
+      "hardware": "V15_HW_ETCLAMP_08F_1_M2x12_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "08F",
+      "hardware": "V15_HW_ETCLAMP_08F_1_M2x12_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "08F",
+      "hardware": "V15_HW_ETCLAMP_08F_1_M2x12_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 2.316897586237638e-09,
+      "passed": true
+    },
+    {
+      "tag": "08F",
+      "hardware": "V15_HW_ETCLAMP_08F_1_M2x12_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 9.591663501324565e-09,
+      "passed": true
+    },
+    {
+      "tag": "08F",
+      "hardware": "V15_HW_ETCLAMP_08F_1_M2x12_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "08F",
+      "hardware": "V15_HW_ETCLAMP_08F_1_M2x12_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10R",
+      "hardware": "V15_HW_6701CLAMP_10R_0_M2x11_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10R",
+      "hardware": "V15_HW_6701CLAMP_10R_0_M2x11_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10R",
+      "hardware": "V15_HW_6701CLAMP_10R_0_M2x11_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 7.297252263833832e-07,
+      "passed": true
+    },
+    {
+      "tag": "10R",
+      "hardware": "V15_HW_6701CLAMP_10R_0_M2x11_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 7.864065749278566e-07,
+      "passed": true
+    },
+    {
+      "tag": "10R",
+      "hardware": "V15_HW_6701CLAMP_10R_0_M2x11_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10R",
+      "hardware": "V15_HW_6701CLAMP_10R_0_M2x11_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10R",
+      "hardware": "V15_HW_6701CLAMP_10R_1_M2x11_ASSY",
+      "operation": "shaft_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10R",
+      "hardware": "V15_HW_6701CLAMP_10R_1_M2x11_ASSY",
+      "operation": "head_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10R",
+      "hardware": "V15_HW_6701CLAMP_10R_1_M2x11_ASSY",
+      "operation": "positive_washer",
+      "intersection_mm3": 4.7234512164895985e-07,
+      "passed": true
+    },
+    {
+      "tag": "10R",
+      "hardware": "V15_HW_6701CLAMP_10R_1_M2x11_ASSY",
+      "operation": "negative_washer_before_nut",
+      "intersection_mm3": 1.1722011807742e-06,
+      "passed": true
+    },
+    {
+      "tag": "10R",
+      "hardware": "V15_HW_6701CLAMP_10R_1_M2x11_ASSY",
+      "operation": "hexnut_from_negativeX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "tag": "10R",
+      "hardware": "V15_HW_6701CLAMP_10R_1_M2x11_ASSY",
+      "operation": "driver_OD3_from_positiveX",
+      "intersection_mm3": 0.0,
+      "passed": true
+    }
+  ],
+  "blockers": [],
+  "status": "PASS_NOMINAL_BENCH_STAGE",
+  "stage": "Separate owner+radialhalf joined on bench before servicecover is mounted; M1.6servo and other-body joints/cosmetics/servicebolts absent. Washers then nuts then M2bolts,driver.",
+  "compact_M2x11_nuts": "AF4.3openhexpocket captures.7mm nut depth; no holding wrench required",
+  "AF4_open_spanner_contract": {
+    "jaw_spacing_mm": 4.1,
+    "tool_axial_thickness_max_mm": 1.0,
+    "head_outer_Z_mm": 5.7,
+    "prong_Y_tip_relative_mm": -1.2,
+    "supplier_exact_tool_not_selected": true
+  },
+  "physics_or_hardware_lot_fit_claimed": false
+}

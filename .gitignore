@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+calibraciones-locales/
+telemetria/
+*.blend
+*.blend[0-9]
+*.part.tmp
+*.restore.tmp
+*.gcode
+*.bgcode

@@ -1,0 +1,1481 @@
+{
+  "schema": "v15-actual-slicer-readback-and-pause-projects/1",
+  "source_manifest_sha256": "84685909b7dcc0aa8d8e0395bd3ef6870371f1048ccccf32a813d27d254d8b1f",
+  "parts": [
+    {
+      "id": "P01",
+      "name": "V7_MOD_YAW2ROLL",
+      "STL_sha256": "2b0685e6a42600bb92e727ff236738a3d1c4c95366e59ed9de2c211c3dbfb8e3",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "54eb53f6598c76ca8184402762fa4ed628007c1eba0d86122b40eb2447e9eaca",
+      "cache_key": "c90e05644e949b9ee843fd85d6f6e406c26e0986d811498897b0a8f057fcc38b"
+    },
+    {
+      "id": "P02",
+      "name": "V7_MOD_HIP_L",
+      "STL_sha256": "20c6fc1b3b128d5824aaedd99518c5c3f8e24005ddbb89f26622d1da15ec5138",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "80ed6ef6619122f6bfd1cf3cb7e362b014153d5d7b7f7358296d810032ca731b",
+      "cache_key": "e7005a1e52697f0c652a9c42ff6e7d539735a595063f9055690b989abe37719b"
+    },
+    {
+      "id": "P03",
+      "name": "V7_MOD_UPPER_LEG_LEFT",
+      "STL_sha256": "d651b0409380ff8ddbf9f82a4ee16a19cccb5dc25a67c607dcacd84a555ea75a",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "872c19d080b1fc8d591ae96aba8081ed2d60b90615a292114d5a07b7de2e4c64",
+      "pause_project": "PROYECTOS_PRUSA_PAUSAS\\P03_V7_MOD_UPPER_LEG_LEFT_PAUSAS.3mf",
+      "pause_project_sha256": "5837fa2ebf98af5809a2e4f1511d621b014d1c1e263cdf1967a3456e848720c6",
+      "pause_actions_persist_after_actual_Prusa_reload": true,
+      "pause_actions_recognized_at_correct_layers_in_actual_slice": true,
+      "diagnostic_pause_layer_Z_mm": [
+        23.4,
+        24.4
+      ],
+      "expected_pause_before_layer_Z_mm": [
+        23.4,
+        24.4
+      ],
+      "printer_pause_firmware_verified": false,
+      "cache_key": "f10a59fb075dc9dd14473545e5a05acf7f6a68726509ad074c2903e125c3ce8f"
+    },
+    {
+      "id": "P04",
+      "name": "V7_MOD_LEG",
+      "STL_sha256": "227b7affba4270a7e720be803ecf1f88c900079306bb4b33bbbdf8ebdea47961",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "2453ccc5bad57ca40ad3e0b6b2a8c611d81f32dad75c082f28ed8d29e0a5d886",
+      "pause_project": "PROYECTOS_PRUSA_PAUSAS\\P04_V7_MOD_LEG_PAUSAS.3mf",
+      "pause_project_sha256": "53f3eb2ace4a36501909a6ac7c86a1d32d7e3dcb83ed5ae4a813c5535e077fa3",
+      "pause_actions_persist_after_actual_Prusa_reload": true,
+      "pause_actions_recognized_at_correct_layers_in_actual_slice": true,
+      "diagnostic_pause_layer_Z_mm": [
+        23.2
+      ],
+      "expected_pause_before_layer_Z_mm": [
+        23.2
+      ],
+      "printer_pause_firmware_verified": false,
+      "cache_key": "386a7d7860766afcb93a7c7668cac623b5d6b5ac0b2fef8e5e8ae5523a951bb2"
+    },
+    {
+      "id": "P05",
+      "name": "V7_MOD_ANKLE_LEFT",
+      "STL_sha256": "b252349bcc1dc4736f5d58030b467561c57d356d7e5264ca1d3f9fb2bd1622bf",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "5d48ab845a1012077b486bb620aad263603feb57ac4387bacb06fbc32312ec85",
+      "cache_key": "0925f2fadfd9fb967376e93d191ffdf0bb5e12abfdf6235bda402b1a58457fef"
+    },
+    {
+      "id": "P06",
+      "name": "V7_MOD_NECK",
+      "STL_sha256": "cbf54b33c985e5b4e5538d2da16e164ca503944ca871cf78c25509f6260963cb",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "fd279a899654413bfd0332a514c84882f5b91769e0cd04b4fdcc7dac52f31002",
+      "pause_project": "PROYECTOS_PRUSA_PAUSAS\\P06_V7_MOD_NECK_PAUSAS.3mf",
+      "pause_project_sha256": "87c6112f704e16c0cc665d6d25e4fac204238bd429f7185742c0be67135f0881",
+      "pause_actions_persist_after_actual_Prusa_reload": true,
+      "pause_actions_recognized_at_correct_layers_in_actual_slice": true,
+      "diagnostic_pause_layer_Z_mm": [
+        23.2
+      ],
+      "expected_pause_before_layer_Z_mm": [
+        23.2
+      ],
+      "printer_pause_firmware_verified": false,
+      "cache_key": "cb30e6a573884180657c86662701d45fbde34b5327fdd14cd509ef591f806081"
+    },
+    {
+      "id": "P07",
+      "name": "V7_MOD_NECK_PITCH",
+      "STL_sha256": "932d0559cbcf0e7c354eb49187dfa88a877e08c4b1a54caef2251590ed24ea7a",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "55cee224f16abe57c84e7d1e63be5fdf7724a55c86014abafb40d999326278f4",
+      "cache_key": "8766c2bbe318f32f3ffa92d07260abf28ce4c31a2cc7a45d2069b9c35dddaddc"
+    },
+    {
+      "id": "P08",
+      "name": "V7_MOD_YAW_ROLL_MOTION",
+      "STL_sha256": "fd3cbba186572fc59112ccb9d477d10e31179af43697995ad2bfeac08918541e",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "29cff350d6b1f6b2f9eb32492e21cdd927e2617b07575102f297ca0f02e02631",
+      "cache_key": "761992729f37b4ff409f24c2179da7177419e128da473586cb7ae4d594bc073d"
+    },
+    {
+      "id": "P09",
+      "name": "V7_MOD_BEARING_ROLL",
+      "STL_sha256": "3adebfffe935d893606a1ad0b618c8a68bc0d76e518a1196cb1d518d67b9094e",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "53734f0bc64a9b8500a20893d0cc9f061c12918fa6c0569148d5d24882a22465",
+      "cache_key": "5b559f60c073f6a2982710f1cbebedc010e5619c308c24793bcfe664c7a68705"
+    },
+    {
+      "id": "P10",
+      "name": "V7_MOD_HIP_L_2",
+      "STL_sha256": "73805af71bbefd1311049d66045e559626370320945b77aa81293ebedb297ce1",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "1413e3ce52c0fc6869b260eee0cadb92c279e20ac0717b7a4a2a0d94883df961",
+      "cache_key": "67bf597e4c53b41a6d820f98e853cedb1e9a39fa7b5eeb4c54714c2c349d0439"
+    },
+    {
+      "id": "P11",
+      "name": "V7_MOD_UPPER_LEG_RIGHT",
+      "STL_sha256": "c13218388f614dab3decbc8a77b3506d10ace96fcad6a4eeea478bf870601e58",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "83873adb0ae435a885944a37489cadbba24284c63a10071927fb35af2bb9e194",
+      "pause_project": "PROYECTOS_PRUSA_PAUSAS\\P11_V7_MOD_UPPER_LEG_RIGHT_PAUSAS.3mf",
+      "pause_project_sha256": "a6a725fde105292fae040d142b8d87b93a09f57b735576b241ba2e351e1db99d",
+      "pause_actions_persist_after_actual_Prusa_reload": true,
+      "pause_actions_recognized_at_correct_layers_in_actual_slice": true,
+      "diagnostic_pause_layer_Z_mm": [
+        23.4,
+        24.4
+      ],
+      "expected_pause_before_layer_Z_mm": [
+        23.4,
+        24.4
+      ],
+      "printer_pause_firmware_verified": false,
+      "cache_key": "4d54abc1862e8cbb50601e7e46e5d4cd4b6ea2afe5b34a05aab4d1087ba1b2cc"
+    },
+    {
+      "id": "P12",
+      "name": "V7_MOD_LEG_2",
+      "STL_sha256": "d97b9e60d22a2f034b63b7e7ec766944613f55e857afa1d4956030935415accd",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "107031ec436ae6f6b41e6b9d19df255cf2b4f57bb418b9da1d26696001a3be88",
+      "pause_project": "PROYECTOS_PRUSA_PAUSAS\\P12_V7_MOD_LEG_2_PAUSAS.3mf",
+      "pause_project_sha256": "0c120e865aad31ea60fac0c8f67dcea43da0ab53567f729ec364cb7b4b52ffb7",
+      "pause_actions_persist_after_actual_Prusa_reload": true,
+      "pause_actions_recognized_at_correct_layers_in_actual_slice": true,
+      "diagnostic_pause_layer_Z_mm": [
+        23.2
+      ],
+      "expected_pause_before_layer_Z_mm": [
+        23.2
+      ],
+      "printer_pause_firmware_verified": false,
+      "cache_key": "6a2a0b3d02a2dadfdc13f53a6c58fe9f6117ff3cc6777938db304e74a8306ad4"
+    },
+    {
+      "id": "P13",
+      "name": "V7_MOD_ANKLE_RIGHT",
+      "STL_sha256": "638c5b279b5a501d943f8b4334118a381ca8610f3759d4c52ea5dc1278f77ff7",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "3053084d11dd7b6b4eb4223093236d4020ebd5ff5edb0703ae83cee416574e70",
+      "cache_key": "73cd8fdb3df3f6f368504c39b94b248a97257d8c64ceb676946375190e8933bc"
+    },
+    {
+      "id": "P14",
+      "name": "V7_TAPA_BRAZO_00",
+      "STL_sha256": "c9ea1be998708ede7f5d39ac48d1bf746d240292dfbc8fa3e570f1523cbc41ae",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "b41721e9801d745ec53317fd22b9e9944011156a30c9687224322880a58f61d9",
+      "pause_project": "PROYECTOS_PRUSA_PAUSAS\\P14_V7_TAPA_BRAZO_00_PAUSAS.3mf",
+      "pause_project_sha256": "e878d935248682815768ddb4b01946a90ee9d01c2185c76337899cbd92a9aae5",
+      "pause_actions_persist_after_actual_Prusa_reload": true,
+      "pause_actions_recognized_at_correct_layers_in_actual_slice": true,
+      "diagnostic_pause_layer_Z_mm": [
+        20.2
+      ],
+      "expected_pause_before_layer_Z_mm": [
+        20.2
+      ],
+      "printer_pause_firmware_verified": false,
+      "cache_key": "08f122433aa1b1cac026f2b0adb5f7a5cedbf09a86f29bc4d265982481cf240c"
+    },
+    {
+      "id": "P15",
+      "name": "V7_TAPA_BRAZO_01",
+      "STL_sha256": "48f55e8ae690d641117a58ce6fd4a8dd15663fa5d92729b767d1edeecc32f195",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "2f69536a054a37aac73b1fb345a6846cc0f589b642b81d836e0723b9405fe31a",
+      "pause_project": "PROYECTOS_PRUSA_PAUSAS\\P15_V7_TAPA_BRAZO_01_PAUSAS.3mf",
+      "pause_project_sha256": "cbc139af393da0eda70149cbe98912ffd82bc51b052340d1fd4b7de49c8d005c",
+      "pause_actions_persist_after_actual_Prusa_reload": true,
+      "pause_actions_recognized_at_correct_layers_in_actual_slice": true,
+      "diagnostic_pause_layer_Z_mm": [
+        20.2
+      ],
+      "expected_pause_before_layer_Z_mm": [
+        20.2
+      ],
+      "printer_pause_firmware_verified": false,
+      "cache_key": "4fa8ae463fc00e4d94179cba201e3fdbf58155513e47908c3da44f1add7600bc"
+    },
+    {
+      "id": "P16",
+      "name": "V7_TAPA_BRAZO_02",
+      "STL_sha256": "83e04fafea7f87aa43e01932f0cc3291c02d95365cc03fd50a729af6a5d54556",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "ca4ab0900b653018fb2c34fa4d6d3c0953045bd61d8260f610f2f23123f3c74c",
+      "cache_key": "95b7188d1fb4159209ad5aee1e9d2ce432bb52af703349b4a4fbd7ff8de23281"
+    },
+    {
+      "id": "P17",
+      "name": "V7_TAPA_BRAZO_03",
+      "STL_sha256": "b4b77a2e1e37a4e9426418113948735ed463520c22aca16e991680e4b0ca1b88",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "704f67977f1949c66da752b2864ce519b8813c0060cac171e0f982fe597c90e1",
+      "cache_key": "89559aad5cf23624b6529d0f5e5d7bb32d89d921c865d38123e9a082392f4f5e"
+    },
+    {
+      "id": "P18",
+      "name": "V7_TAPA_BRAZO_04",
+      "STL_sha256": "7a78d8c5536651b57703c2332d036079f9d3e839ea45ab06b484e18baba1517b",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "8b32913a96693816eedfb50eb3e2d25ad5a721acdd5a815450f858a85d101bd8",
+      "cache_key": "13aacaa93c97f2eae7153b9a0e29c8337e325549183bf686ea6b9a7b48a1c295"
+    },
+    {
+      "id": "P19",
+      "name": "V7_TAPA_BRAZO_05",
+      "STL_sha256": "17fbc942e913fefbd4bd35514218142696fee141a819bbc59bf65abb32b77dd3",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "0563157a8d94ed7fe47f09842e7b3c55797a3da750db5888807c809af8d26085",
+      "cache_key": "51fa0ea48691396b8f75d5b71a6cf2268a87b85494dc77daf946578a5caeef88"
+    },
+    {
+      "id": "P20",
+      "name": "V7_TAPA_BRAZO_06",
+      "STL_sha256": "64a669d040ff9b69ff2d9ff362a1193855c1046eaa6b16f1ef792644d04fad81",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "47ca877af234ffb6e609629cd70a096fef12d3b1d7e677fef545869ee08f9dea",
+      "cache_key": "6424cf9ccb0b9a6a600521af64f7f4fe75d1e259b7eaa3cfe184f080cd85af32"
+    },
+    {
+      "id": "P21",
+      "name": "V7_TAPA_BRAZO_07",
+      "STL_sha256": "28dc1dc39b15478e104d68a2286126cd85d506c4addfa27a7f68988224064a82",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "77845c6313efd3bad3d568d359e5905e92998eaa7973a2ebb1d472ca7ce10233",
+      "cache_key": "2519a365f90eeb947bb06d18623f07175e34a3b04c6a3196f3dd73066fdb3bc8"
+    },
+    {
+      "id": "P22",
+      "name": "V7_TAPA_BRAZO_08",
+      "STL_sha256": "6d1e7d255476def7d78c809b1e9b0dbe54669c893d07435fbba248375bcbd170",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "3f8749f1b810fcb23630c34088077894a5bc1da047e552bbff909dfb03690e9e",
+      "cache_key": "26ddaae394ee3e5996442571c193b1d08babf990958ce753023df4e7a4e9d6ea"
+    },
+    {
+      "id": "P23",
+      "name": "V7_TAPA_BRAZO_10",
+      "STL_sha256": "c8abdbac06820a0467eda5e3dee6fac89acfd13620b7f8a5eaca0cc3c6b3ef20",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "0633468988691ca32fb54de501249b5f0a3d986c5b185bd42da34f119d96c3ce",
+      "pause_project": "PROYECTOS_PRUSA_PAUSAS\\P23_V7_TAPA_BRAZO_10_PAUSAS.3mf",
+      "pause_project_sha256": "5abd35215a86f4c0a845cd3f828f9cb914fd6690e661f590038e5d2c37c14926",
+      "pause_actions_persist_after_actual_Prusa_reload": true,
+      "pause_actions_recognized_at_correct_layers_in_actual_slice": true,
+      "diagnostic_pause_layer_Z_mm": [
+        20.2
+      ],
+      "expected_pause_before_layer_Z_mm": [
+        20.2
+      ],
+      "printer_pause_firmware_verified": false,
+      "cache_key": "79b5f5977f1bb8d9000aa0e921be26ea0441dbb1b185aee49f9ab6152fd7b4d0"
+    },
+    {
+      "id": "P24",
+      "name": "V7_TAPA_BRAZO_11",
+      "STL_sha256": "0df9ca8dd614c187e108a89f0ad3bf4b14ca85b140fcbdf9305fda06c57d6ed2",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "a3bf123e6300511b53448e7a65f9c0b755d69e70a4c9bb283b6fb4c1dc877249",
+      "cache_key": "d51703660b8167cae11c2f71d38e578e0451abbd6acae1dbfe128cce248162ae"
+    },
+    {
+      "id": "P25",
+      "name": "V7_TAPA_BRAZO_12",
+      "STL_sha256": "a4b81bab69281e450d0944ba12458d5c955c5f2450e74310a9de1bdfa7edeb75",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "789808fe192082930f3a1d6499e71a7c0e9c7a9705162ece3c9ecc614505e8c7",
+      "cache_key": "0cf22c63aeb9f1f9ae7deb887393f27ed4947db5f1ed50e5552bfa69cbf99bca"
+    },
+    {
+      "id": "P26",
+      "name": "V7_TAPA_BRAZO_13",
+      "STL_sha256": "cfdd0ff4e8459952c7c86c3c573376000af6066ab4365b78559f894266ace779",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "d12ae396d49b01825101adf3aafcd74beaf13e2660ecd46ca22d06d9b945e5e8",
+      "cache_key": "9a508c8113cce57f8863d76169f1a652ad20cbf692a2de6c19db81d4e14b2fec"
+    },
+    {
+      "id": "P27",
+      "name": "V7_TAPA_BRAZO_14",
+      "STL_sha256": "9d8e536847f1c608ff86a1b56856f84456a75b06b4f44ebe75c8ed4184c64a9b",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "e014b77fa344aca82215c028a7038b559e6b104a41bbacac140f99e3814db159",
+      "cache_key": "8807bbeac571e4ed18d72e7dc717f590a427565bc3eaa424f85bc4787b5c52c0"
+    },
+    {
+      "id": "P28",
+      "name": "V7_TAPA_RODAMIENTO_CUELLO",
+      "STL_sha256": "a4b2d48545ea5eefa3a8db13b8d0d3c433886b096bd837a6e42effc8a919e5c9",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "c6195ae4c33f72a57bb91caf84e62ffa5db63eaa852be8f1113933dbdb09fb94",
+      "cache_key": "cde38fee7a83bdb6f69de09dc3f5c162944d24a52871012a049600134875aa0d"
+    },
+    {
+      "id": "P29",
+      "name": "V7_SEPARADOR_EJE_CUELLO",
+      "STL_sha256": "fa0ad5d652ba44cb04aae529a6ff01cedc30c4e08d8573bb5204f713466d5dea",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "15daf2077875307d9a70f023932b7c06147d6dd1c52380c854d346502e4f550e",
+      "cache_key": "50555ec433851563ddc49973970d6c8b0c68fe3800aee758e77b5c74b194aa90"
+    },
+    {
+      "id": "P30",
+      "name": "V7_RETENEDOR_PASIVO_HEADROLL",
+      "STL_sha256": "71360247b5ad5743858e3e51773218a6ecc28768f3e141e492df756c1374fd6e",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "e2e1e4ed11e1aa103c8feb526272ed613f3615b82e17b3d11bb1e56d40dfccef",
+      "cache_key": "75f288ac0fb6c2bef14c2a03d45ec6db7bf4e29ee9f97d34e277f7c6634474b3"
+    },
+    {
+      "id": "P31",
+      "name": "V7_RETENEDOR_PASIVO_TOBILLO_05",
+      "STL_sha256": "8e36d04f1f59dcb0ac44aac858001ef319b469afc9e261edb10b41059bdeadc2",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "e3df0c0e8e79aa2d40958dbf645a51b0c0b51e44e6c164f12c3f38d075079855",
+      "cache_key": "34a3ad42ac96d13f72f5ad7ebcb3fee49e025432ba8e1889e089c21749ae5267"
+    },
+    {
+      "id": "P32",
+      "name": "V7_RETENEDOR_PASIVO_TOBILLO_14",
+      "STL_sha256": "ae9dc407ce45c4addfadeab8112fb6cf782b5844608bf787bf03002509bbab2e",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "c9d2e9ed3620adcaf746a94481f1147e42ae8d32fcee1fcbd4341a82823b513c",
+      "cache_key": "5678f233f5aad0bad96e119e34b1fdf52d8d61669d105fe5a6644381974910ad"
+    },
+    {
+      "id": "P33",
+      "name": "V7_HEAD_TOP_ANCLADO",
+      "STL_sha256": "90bd67820518509968672557f407a45f60971638d5b8d6b1a30e7411b37decb9",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "50a84720ba949c18530736bf83d52ae77f0e6b248290a829daadd4c95a4884a2",
+      "cache_key": "2b2930c5d8d45dcd8bb7509f84badede794927dbfe4d123cb782124924b622e6"
+    },
+    {
+      "id": "P34",
+      "name": "V7_HEAD_LOWER_ANCLADO",
+      "STL_sha256": "d066d4ae50e953c74e6dfcdfe176e6d7939e6405662777ef71d1ae657b2c6ddd",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "e200d5d35bc84fd7826a4e3f0ec14417a48d8dca9ebfd7690989fb80713c54bf",
+      "cache_key": "0d65d7206bfc0bae242c784f85f94626a6fa030708b71b2c9ffc1e6fab86d601"
+    },
+    {
+      "id": "P35",
+      "name": "V7_HEAD_FACE_ANCLADO",
+      "STL_sha256": "6d2554186207e85a10e7432ada594db7a74f2c9f767888a4900d34e63e6f12f4",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "ad996ea6e40c4a3120fbd8e504d48a4d751f71e42e28c673347943e8dc5ecf93",
+      "cache_key": "0d178135678f1d606db0f0dda6572f22ee8b0e3ee9d40dbd9cf7476aa7716c59"
+    },
+    {
+      "id": "P36",
+      "name": "V7_HEAD_JAW_FIJO",
+      "STL_sha256": "944b127173d6940bc07991a0eaf02e548f80c2e7c951f6505aae6e48920883ac",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "59e883a64a7c391173f2cc3b970de32de6e6689db4ae7d3d7559f8fb032f359c",
+      "cache_key": "1236ec6856086be85ea76d25abbdc8254fe453dfae57b8fa744853c36ba4a5c5"
+    },
+    {
+      "id": "P37",
+      "name": "V7_HEADCORE_ANCLADO",
+      "STL_sha256": "8a5efa33f4052ba3663a9269dce49e10dc29a101f5851cf324d682ead380677f",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "ab4280a28c19c5b42d59de0721950036b1f6b8303437de5fb9c2823448114bdf",
+      "cache_key": "3ae747451334acfadaa353c4e6b607ab72afd17e235035efa7f813e0b271ab80"
+    },
+    {
+      "id": "P38",
+      "name": "V7_HEAD_LIP_LOWER_RELIEVED",
+      "STL_sha256": "718edd1d349f816eb2427863ae7bb9466eceeaa98a87f2634c5ffacf9772a672",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "180cc7cbee023c67efa5c6850cca1019d5251abe3ade28ab8a96ade9980a9523",
+      "cache_key": "41c74f073bcbfb61c17b478e0811e89e6e2667cbd31f43ac23f1f6ac3aa72ee9"
+    },
+    {
+      "id": "P39",
+      "name": "V7_HEAD_LIP_UPPER_RELIEVED",
+      "STL_sha256": "e2abb2e7541bc1ef822b8c31e61f190bf5e6e41d849795d125882bff7744a2d6",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "4c3ca12885caca113c74ba15a330aeb6ebb796e65c90098a5d59c6ad5709986d",
+      "cache_key": "e33d04c4c4ef96cea70afaae6c5725aaddae90197c634718b4236688d57a8d60"
+    },
+    {
+      "id": "P40",
+      "name": "V7_EYE_RING_CLEARANCED",
+      "STL_sha256": "8cb3edae5ac9878ffac6b5ad5944380515fb343e22a98357eccb047473940c66",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "fa3d1bb000a9d560a9fb665ebe6922007524dd72f9812f5be1111e59845faf5f",
+      "cache_key": "1a48a2cf69bb0d426a86bf47a2f410ed9481d33e1a796c05d4ab7ecd04366eac"
+    },
+    {
+      "id": "P41",
+      "name": "V7_SRC_V4_MD_ankle_left__sole_left",
+      "STL_sha256": "11b804ff697f46f4c5e04e78eb35aed043cf420a1375caeb5eec3831ab85b7a1",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "a03facb82566d2759f5dd374b642e3189ba7e721bee6b08e66b3df687ddf1a2c",
+      "cache_key": "4d1d171ef713e40495f770e95f47a7939627603aa2300c28180e8640320d0bb1"
+    },
+    {
+      "id": "P42",
+      "name": "V7_SRC_V4_MD_ankle_right__sole_right",
+      "STL_sha256": "c1c0e55841899875dec938e62572b6dd9efcdbe778ffb83d01f00b9ad77af283",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "720827f78405a8f631efb68797d5a14f93686e1ad27246ad1a4d280e99122f5b",
+      "cache_key": "a7b94614ed292774e504d2d52a0fd2a11f74c66a71aa24de922ef7b824cc90e0"
+    },
+    {
+      "id": "P43",
+      "name": "V7_SRC_V5_PI_ZERO_BANDEJA_CON_ANCLAJES",
+      "STL_sha256": "0c46a0b7351882a89f20d2c37a6f3e86918bf86fac57920bb9e954476c81425c",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "26fb050f5ca35ab6d78ed0bb76afdbd28c060d15942b0ff16fd1a5693cb5f66f",
+      "cache_key": "82340acf740dc895d32f9e19dabf7a308224f4ce5e7fcbbe5195f8c873d435c4"
+    },
+    {
+      "id": "P44",
+      "name": "12CASE_TORSO_CONTINUO",
+      "STL_sha256": "d6db2df73ceafa7e7fb5ecedd2885a61356f0a745ec84ff9cfa4adbe60948bb0",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "500bdf5a2d3eab40d1e7ce263fbffb614faafbe0b7bdd25aa8ad910800b9cf46",
+      "pause_project": "PROYECTOS_PRUSA_PAUSAS\\P44_12CASE_TORSO_CONTINUO_PAUSAS.3mf",
+      "pause_project_sha256": "d75c0b043b6ee6559f88771a3a350faf2608b3d343b4517f88acfe3654d05f95",
+      "pause_actions_persist_after_actual_Prusa_reload": true,
+      "pause_actions_recognized_at_correct_layers_in_actual_slice": true,
+      "diagnostic_pause_layer_Z_mm": [
+        45.2,
+        46.2
+      ],
+      "expected_pause_before_layer_Z_mm": [
+        45.2,
+        46.2
+      ],
+      "printer_pause_firmware_verified": false,
+      "cache_key": "528192483ac246587cd6e7f5ce401e03773d74634a3e15c1a57fa2d2516bd9f6"
+    },
+    {
+      "id": "P45",
+      "name": "12CASE_TAPA_TRASERA_ENRASADA",
+      "STL_sha256": "cc123a0d75cca66523df4b236288fbb8d3d1b33fdf1c490de2bb790f13ccf334",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "00e5091866737a2b57e755216d1131383e8bcc99dd217a7af320ed1f50121b21",
+      "cache_key": "1f72aff0787cfa14b5cd4fd446f2e979cbb664e7276569411e88ac9b692717f2"
+    },
+    {
+      "id": "P46",
+      "name": "V15_SERVICE_FRONT_YAW2ROLL",
+      "STL_sha256": "92525c8ed6c38b0cd5769e8aa92a6ceea9792601db14a2c89d330d54a96533f7",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "9532cea7b15b1053e2fba90a619daab45dc4a5a04fa2c5a238baac549d5135bf",
+      "cache_key": "4ef4ec6bc194179b819509a0d3eeb49d0bae5ae6fb28a272a395d7cdbd79956b"
+    },
+    {
+      "id": "P47",
+      "name": "V15_SERVICE_FRONT_UPPER_LEG_LEFT_0",
+      "STL_sha256": "3f1e2fb04dae0742bd3a56bc567f8bdebdd169c9a523d960d39d3ea8c93a7c4d",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "e6990f023ddf69ec9fea1f1096f43d68b9c05cf2c38c79acd735b800f2ba66e3",
+      "cache_key": "7f2d21b1310278d2ec734b026dca1b3f841e25ff223eaf2130e76480d952582d"
+    },
+    {
+      "id": "P48",
+      "name": "V15_SERVICE_FRONT_YAW_ROLL_MOTION_0",
+      "STL_sha256": "a5bd02d7c832260a3c77c6e8a0cdcdfb23fc9d29b37342b9c4d0ebc2a4026bff",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "755eaeb0712dfe6e15fe2189fae0413ca9ca91045946b9aa71f7e81d6c01caf2",
+      "cache_key": "ff15eaa23fad518871fd54e3b6e44c612bef0139ad33101996c6f1bbbe96fa85"
+    },
+    {
+      "id": "P49",
+      "name": "V15_SERVICE_FRONT_JAW_SOFT",
+      "STL_sha256": "a1b07a9f4e5a4307c4a3f92822327eb10cee5985beeccdd60ef2299d997c751a",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "4926278c60426aec7c51f89bb27000dd476c17bbf7d3bc4a3bf5c71ba1dc98f0",
+      "cache_key": "7c322816e69d95b2abf8227dcd04d8c755f403567cd3741965209d74abeeecf6"
+    },
+    {
+      "id": "P50",
+      "name": "V15_SERVICE_FRONT_BEARING_ROLL",
+      "STL_sha256": "7788d4a45a15800f56dbb779c4cae6387f26d4a73ddaf0547b7976cef9881ad3",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "68006ef672b53d33f7d9271c397da4ae1cba1df95ad738ac7b409adf6ff81ee0",
+      "cache_key": "54bb8a4d08ba2cb8afc09582b566abc1322d9d9852a61cfb805b68b27370afc4"
+    },
+    {
+      "id": "P51",
+      "name": "V15_SERVICE_FRONT_UPPER_LEG_RIGHT_0",
+      "STL_sha256": "e2ad71721e54289f7d7f00611e79ccd5699b068d13f250d9bb6ed7b5ef8ef341",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "9d9d1e613cf28320c79f1738e63bde2c59fccfb41edfb2dc5f1e2c333d816905",
+      "cache_key": "1596d0066904f2adcf5b372375834cba75fdee13b34c738604022d0dfbd2e6ee"
+    },
+    {
+      "id": "P52",
+      "name": "V15_SERVICE_FRONT_TRUNK_BASE_0",
+      "STL_sha256": "48d2e5910c6c237970fa51bc1fda99c8b18a50b6600ac057b11e9741fd781aa8",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "5d63c9f2403740ca0fa74b3cac660ff362fb142193760eea62f6552e1b3cb738",
+      "cache_key": "03e62f16a2b3728876aacc06a9449a082ba9f7a22bc8069d4db814e3e3af36ba"
+    },
+    {
+      "id": "P53",
+      "name": "V15_SERVICE_FRONT_TRUNK_BASE_1",
+      "STL_sha256": "ab801d7a4ff91122d2c4b21e55f70c71731f30002e8791e2f2abdbf2e7c47a29",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "badf0b99d14f9f6941765602936e83e2c4a6d5b6bcd2910252d9d9a1d6344db7",
+      "cache_key": "f54476be57024774169511c71020ca1d41f01e882ec68d81d1986ea2ab0bb66a"
+    },
+    {
+      "id": "P54",
+      "name": "V15_OJO_CIEGO_IMPRIMIBLE",
+      "STL_sha256": "4994600ccc2e81f11c3298ceef3eb6173c5fe76807f8d922ce6555ac7119e850",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "aee3809624d306e6ae913909e255640515101d508577622f3d2de31945597ca0",
+      "cache_key": "0c1fc3e49217b9dfb6346ed7b35433622d95bd8d40d366b73012da99430f835e"
+    },
+    {
+      "id": "P55",
+      "name": "V15_FOOT_L_HEEL_ACTUADOR",
+      "STL_sha256": "068724f22f8c5d37b931aa0510e067c939a38ead88692b248864d8938a2a3504",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "b348e7985fd1fff6e5c17c5cfd82cb1df047f09bada558e6b8061d155cb97d40",
+      "cache_key": "db7837758ea2452bc3f158e625ed6a6d4af2f0201ab747a82e1bf570921c708a"
+    },
+    {
+      "id": "P56",
+      "name": "V15_FOOT_L_TOE_ACTUADOR",
+      "STL_sha256": "3106e3ef180220182c96cc2188e4435158d95b081472c0e01fd67c8e8532f2b7",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "9fe0b97ebea849f40dc87906f2c5ea45a71292e524a258c5bd0948ed7237c0f6",
+      "cache_key": "f09e8633e875fa9a103be48ebcbe3e1231bb598462666f0453beb3169ad3e01d"
+    },
+    {
+      "id": "P57",
+      "name": "V15_FOOT_R_HEEL_ACTUADOR",
+      "STL_sha256": "fb76ab40513aebd09e8190a938f18f83cc12b5a20d0f8380162a599485b1f4b6",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "96e0bac567c3a57b394af922264891ac5ce4725c7512a0fed21e7ca93d77d3b6",
+      "cache_key": "d9ead17df7a06d25387fc66fd4c0fc8763e9c73066871d0ebfb6280a683e15a5"
+    },
+    {
+      "id": "P58",
+      "name": "V15_FOOT_R_TOE_ACTUADOR",
+      "STL_sha256": "1fce553f0066956beb7ab5e2eb3ee0f247fb86c1a2fdcf71e46f609dae7a676f",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "f27c0fb275aeb2862fef2e55c48b495dc1a34c82ff4827856f6cf32b456ce272",
+      "cache_key": "30b211c68ca4bf267f017833140989d34817e0ab39fa8be07759a21e77aae625"
+    },
+    {
+      "id": "P59",
+      "name": "V15_FOOT_L_TAPA_CIRCUITO",
+      "STL_sha256": "277fc7fc2437f449dcca3b96e01929d8de04903920b23e64ebfe3b0c1bd04d3d",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "f395567801ff132c4509a77a8bc7d95be5a4de1ca8c9eb6944084eb36b4ad8e9",
+      "cache_key": "2099e0b9e7db72270106e20fcb8d80c069168fd9e96b85016fa5d2c28c9d408e"
+    },
+    {
+      "id": "P60",
+      "name": "V15_FOOT_R_TAPA_CIRCUITO",
+      "STL_sha256": "545ea5501edf59065702067b52e96d92543ba1a24dcbbe7378b5198942030302",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "1762ecd64fbcc40b41d3e41cd10825acef8aaa2874e8dfe07571bd7203f9e819",
+      "cache_key": "ea1e25416448728ea7cf585741188d067cf4b0e9ba538e6e1cb4f9ee01a88d42"
+    },
+    {
+      "id": "P61",
+      "name": "V15_K10_RETEN_DESMONTABLE",
+      "STL_sha256": "2b55901754436e0ece069196da0c14cff950bdb8f8a59342b02498d27e8056de",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "dc3ad56129b03f24d4ae873e2659199fa16e9ed275af360e34df84cb884c6c69",
+      "cache_key": "3b587e2840278bc26a8d89ce94a8b360499dbef6a91953a97c566e649aa305d8"
+    },
+    {
+      "id": "P62",
+      "name": "V15_PCM_TOPE_DESMONTABLE",
+      "STL_sha256": "300224120048320cf558d0ce947e5737da05249d935d02e79859eee9d5707470",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "4256be40c3c78a963b30e259ce8acc8a291a6bd70267230236925b797ae0be42",
+      "cache_key": "6c35b916750cc3451dd24984bd1e8a7ee2ff0b670178f0677ad346661ddb568d"
+    },
+    {
+      "id": "P63",
+      "name": "V15_REED_TAPA_PROTECTORA",
+      "STL_sha256": "0ebc490f4e387d0590123623e467bc2e0bca2f38ea6de1f5fba0d8f769df1b8b",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "994fb1c0d87989c684d9a166dd4a665536532920616262ff29eda853b13070b9",
+      "cache_key": "20ad8ea85ca82c0420c6243e1dd54de04375924912d3c32d16b7b02752d46ee7"
+    },
+    {
+      "id": "P64",
+      "name": "V15_ADC_CARRIER_DESMONTABLE",
+      "STL_sha256": "8b862d23897f8dd3b5ff40a11343b6b6d1e3d9e50ec5afa8807cad7cd55d42a0",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "afa15edd240900ca776e17fb93ada67ce6ee3b65ed679306c035c00e8a0b1d81",
+      "cache_key": "725cd78aaed376dcdff3d373c74be499e6a68634ec1365b9c7ef87476ed989e1"
+    },
+    {
+      "id": "P65",
+      "name": "V15_D24_BANDEJA_INFERIOR_DESMONTABLE",
+      "STL_sha256": "76b3e6c102e5599fc2ada4e6d862e3df3c9407de8eb9370d673f62576fc12f03",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "0b0392717ee6d3be39af23ea1ab316ea88b731eadc41810cd16d71d28be18c35",
+      "cache_key": "fbd724b751b057a88c41f621be9a3402437b7e96aa39e5c23f094e3d5c7f513e"
+    },
+    {
+      "id": "P66",
+      "name": "V15_BM_FR4_CAP_R2",
+      "STL_sha256": "ea065ae8a3ad3df07970af97a384ef73956cf16889bd9d5ff236f2d2f6b19dd0",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "c7daf10db91989f14d7bc6b31c9f38e67d327c34f48db74dd48315a1a00e4de2",
+      "cache_key": "1b00ad943a1f3a07034a02cdae286fe313deaa0e438e43941b6dfc2b37e163cf"
+    },
+    {
+      "id": "P67",
+      "name": "V15_BM_FR4_KEY_R2",
+      "STL_sha256": "df050f9e7188e1a11ed7facf5d09214ce8cae0661394df1d438c9f8ca93ee061",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "e3a74e5977331385993e47d4a8f9d831384287e7ce71470820e18991ffe4a0d3",
+      "cache_key": "bf3cb51c0a035c92782bdf74a5545c41fed997f14aefe356fd070b637032ef73"
+    },
+    {
+      "id": "P68",
+      "name": "V15_PCM_TOPE_DESMONTABLE_DERECHO",
+      "STL_sha256": "a27f6b37897776cd6b0be0fc3c1f47a90eacacc868ae706dfd82f0ada246a640",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "8ece75a9708109abb9a5c2953af7d5b66c1651722146443408f0ca240b800bee",
+      "cache_key": "90ec158d77a7f00e4b67251023e32be602e4c3fc2a6ec89636d7edc62018498f"
+    },
+    {
+      "id": "P69",
+      "name": "V15_HEADROLL_CHEEK_DESMONTABLE",
+      "STL_sha256": "5bced9add5644d919e5ba05ddeda097debc643a4ec2b93a10b4088701c233231",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "59662fad596ea8566a56e5d56c899df9607aca86dcc6a53334884ee942d5f002",
+      "cache_key": "aefa585f858150583a55dd6bea5af20bbc6f3e0a4c25962492a86a8166089967"
+    },
+    {
+      "id": "P70",
+      "name": "V15_ET_RADIAL_CLAMP_00F",
+      "STL_sha256": "5f0f442b5e39cbfae24e2eb9f9c120b2f20d17e91ab52203fc5bbdd74b09e5e2",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "6e958cbb6a80cf3ef3286a61b5270a668c9607926e54467359c7f0075341d532",
+      "cache_key": "cf2788ef38f01e1307be7be6826ec28f4f572786294d2681c0f84e7c1c3dc853"
+    },
+    {
+      "id": "P71",
+      "name": "V15_ET_RADIAL_CLAMP_01F",
+      "STL_sha256": "9b31e669b920ba2838aa56b2495a4d2d60efbdc7a3eefdff4f49f3cfbc5c3d04",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "586445dfc4c4f65de867daed55ef07cc81908500b07277f57be5fefa388bb119",
+      "cache_key": "80b0f8e745fb2afeab426949c7a52ad20759fb117da55ed6a611f4f9fd225991"
+    },
+    {
+      "id": "P72",
+      "name": "V15_ET_RADIAL_CLAMP_02F",
+      "STL_sha256": "1260cea6d888266143ec86892be9358bd11a3943ba45039dc8d671d8ac097ddf",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "b9f79cec55f802de0079b193d3a76f27285719c2c40125eba348fae2116c0f54",
+      "cache_key": "4a6f0762c2583a7b2647113a0ac55be86952624d2ef933d6d00e0602874c1910"
+    },
+    {
+      "id": "P73",
+      "name": "V15_ET_RADIAL_CLAMP_03F",
+      "STL_sha256": "3499e6e45c2a1e891ef1a19bebc48fa1d0a088f19eaf6074b49873d9d8a86c0b",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "b688238312bce20d76888a55f1dfc5c116a3c58846a2f38a006b2a5ec2fb0305",
+      "cache_key": "a3deae2121f326c56484ce43d8447a6737590e28b59f67979f0bacf0674b924c"
+    },
+    {
+      "id": "P74",
+      "name": "V15_ET_RADIAL_CLAMP_11F",
+      "STL_sha256": "2f9cbdfdc84e26bcccff089184ef07c0ed888f1b5d818292d363c0d8e901b1ef",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "2c5fc9ae76f9f88e9f1ddb452f781b57766b1c5176dcb2f7948d84b88e3831e7",
+      "cache_key": "25a5a026bcc4febf370e05b22357b5edd284d4d33dcddd19befbf5c64fa59a56"
+    },
+    {
+      "id": "P75",
+      "name": "V15_ET_RADIAL_CLAMP_12F",
+      "STL_sha256": "35223fc6b537db1a83f8c5d17f3cbacf8857e9198646ff251e30481e9c2aa6f2",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "1cf1c566b75ce63d74546b96b5e10824287b550fa8419653a04112582b27ef52",
+      "cache_key": "440c202ecc501f58f6c7a60026f47f7743970524c306be9490c0b082eaf23a05"
+    },
+    {
+      "id": "P76",
+      "name": "V15_ET_RADIAL_CLAMP_04F",
+      "STL_sha256": "67dba66c7dbd82816b1629a23bc0b669ce83628b3afe18793862b9d0a522b80d",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "520cac435506570841587a5057b2087a052c775a08ed4bddba07c3b2379eec09",
+      "cache_key": "600846d155efd90e09eb0da983f77fd27d78d83df9e056007abbdddc24164f78"
+    },
+    {
+      "id": "P77",
+      "name": "V15_ET_RADIAL_CLAMP_10F",
+      "STL_sha256": "7e93132a13bc35339b56c09ee6819c6e71b94757122bb14d0a52c1ef97cb83fe",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "11bfcd3fd4258dcae73806f2371bda39b164af751fbb6d0a8e33122e28b9d485",
+      "cache_key": "f100b8ade7fb7d77d4eabd67069c58c35d26924f814fb9b3f432c76b944b4b75"
+    },
+    {
+      "id": "P78",
+      "name": "V15_ET_RADIAL_CLAMP_13F",
+      "STL_sha256": "558db511b882478ff6a134bbd225d4d104b5923d2220369e62e38dc2a6ddd2ab",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "9316beb94cea8da12cc580937be0aa82c438e4caf0219f2bee335230d809cdd0",
+      "cache_key": "2abbda64f575a1addf03604403da494b10b4b4b9824273c1e2a67e158f0d855c"
+    },
+    {
+      "id": "P79",
+      "name": "V15_ET_RADIAL_CLAMP_08F",
+      "STL_sha256": "6959a87d4e9a2234f2024be2132974fbd0f226437c21715ba5733f79ae1b3763",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "381f714fe406a41d835ee59b4a3e806d3a3c87c2305155acb8b5fb5348a499db",
+      "cache_key": "6c62af2916d18e0e9266ed63ab1aba690795043a47d7065ec458db5054b44934"
+    },
+    {
+      "id": "P80",
+      "name": "V15_6701_RADIAL_CLAMP_10R",
+      "STL_sha256": "6d2ee4993274cbe9bc35651d9d87ab03edbe28ce461a386a50a3b3455293d10a",
+      "Prusa_repair_statistics": [
+        {
+          "edges_fixed": 0,
+          "degenerate_facets": 0,
+          "facets_removed": 0,
+          "facets_reversed": 0,
+          "backwards_edges": 0
+        }
+      ],
+      "zero_slicer_repairs": true,
+      "readback_3MF_sha256": "d64bd3d939f947c9ce40219fe9c29be211e9d479df6b6dcef5a9c283864e016a",
+      "cache_key": "5e2fefe43c71edcac68230557d07bfd25a66d73fdbcf4f7c41df09e35c96e3fb"
+    }
+  ],
+  "all_parts_read_back": true,
+  "all_zero_slicer_repairs": true,
+  "pause_projects": 9,
+  "all_pause_actions_persist": true,
+  "firmware_pause_command_not_assumed": true,
+  "no_machine_Gcode_delivered": true,
+  "official_schema_sources": [
+    "https://raw.githubusercontent.com/prusa3d/PrusaSlicer/version_2.9.6/src/libslic3r/CustomGCode.hpp",
+    "https://raw.githubusercontent.com/prusa3d/PrusaSlicer/version_2.9.6/src/libslic3r/Format/3mf.cpp"
+  ]
+}

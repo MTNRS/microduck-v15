@@ -1,0 +1,10 @@
+{
+  "schema": "microduck-v15-sequence/1",
+  "frames": [
+    {"t_s": 0, "offset_deg": {}},
+    {"t_s": 0.5, "offset_deg": {"head_yaw": 2}},
+    {"t_s": 1, "offset_deg": {}},
+    {"t_s": 1.5, "offset_deg": {"head_pitch": -2}},
+    {"t_s": 2, "offset_deg": {}}
+  ]
+}

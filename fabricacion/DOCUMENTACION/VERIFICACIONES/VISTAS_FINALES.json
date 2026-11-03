@@ -1,0 +1,98 @@
+{
+  "native_blender_opengl": true,
+  "images": [
+    {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VISTAS_FINALES/V15_R2_general.png",
+      "sha256": "27f634db4985c261a69878f4ec6bf57a0fbc9319401686c29fdc6452b512d5f0",
+      "eye": [
+        4,
+        -6,
+        2.5
+      ],
+      "target": [
+        0,
+        0,
+        146
+      ],
+      "distance": 315
+    },
+    {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VISTAS_FINALES/V15_R2_torso_delantero.png",
+      "sha256": "2afa0afc336a7867fb1edd2c193155994a2cf38d8d348faefef9d7ba21efaf17",
+      "eye": [
+        5,
+        -5,
+        2.2
+      ],
+      "target": [
+        -8,
+        0,
+        142
+      ],
+      "distance": 180
+    },
+    {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VISTAS_FINALES/V15_R2_torso_trasero.png",
+      "sha256": "a8078a11fa13c38fa4498f91f11b6decb424371bc9e3d6371c95f7e790dfaf25",
+      "eye": [
+        -5,
+        -4,
+        1.7
+      ],
+      "target": [
+        -15,
+        0,
+        143
+      ],
+      "distance": 180
+    },
+    {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VISTAS_FINALES/V15_R2_lateral.png",
+      "sha256": "74a4d5f47177a8d1ae625a5f0f16403df7b9e213d32485709bf0c4a6cb47aafa",
+      "eye": [
+        0,
+        -1,
+        0
+      ],
+      "target": [
+        -8,
+        0,
+        142
+      ],
+      "distance": 180
+    },
+    {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VISTAS_FINALES/V15_R2_modulos_separados.png",
+      "sha256": "fc58d6766bb5054e0696da3be2b9526f2c1c8d3e93edd9fae16a40c2ddcd0c17",
+      "eye": [
+        -5,
+        -6,
+        3
+      ],
+      "target": [
+        -30,
+        0,
+        168
+      ],
+      "distance": 360
+    },
+    {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VISTAS_FINALES/V15_R2_componentes_seccion.png",
+      "sha256": "bb2206c225d95ec2f9c346090df090bec294f6a55832dca39b856495c22534b7",
+      "eye": [
+        -5,
+        -4,
+        3
+      ],
+      "target": [
+        -10,
+        0,
+        190
+      ],
+      "distance": 280
+    }
+  ],
+  "cutaway_caption": "Carcasas ocultas; componentes en posición montada. No representa trayectoria ni cableado completo.",
+  "all_hidden_states_restored": true,
+  "exploded_view_caption": "Despiece visual: módulo trasero desplazado85mm hacia−X y cubierta superior de cabeza50mm hacia+Z. No representa todos los pasos, cables o trayectorias de montaje."
+}

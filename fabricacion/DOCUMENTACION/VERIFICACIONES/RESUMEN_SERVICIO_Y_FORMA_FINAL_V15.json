@@ -1,0 +1,232 @@
+{
+  "schema": "FINAL_V15_KIT_SERVICE_AND_FORM_REVALIDATION",
+  "status": "COMPLETE_WITH_PRESERVED_RAW_SOURCE_MICROFEATURES",
+  "source_assembly_file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/KIT_V15_R2_FABRICACION/ASSEMBLY_FABRICACION_CANDIDATO_V15.json",
+  "source_assembly_sha256": "d1e061923094f4cd2fcfbbeb800a2daeffc9b78ee9077f8575ebd8b72b0ccbb4",
+  "receipts": {
+    "CASSETTE_EXACT.json": {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/CASSETTE_EXTRACCION_RAW_FINAL.json",
+      "sha256": "49e034f99e52fd0bcdd362ff5dbc3b83db7ffb39d4f38db0021ddd4ca52e0b34"
+    },
+    "HEAD_SERVICE.json": {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/CABEZA_SERVICIO_RAW_FINAL.json",
+      "sha256": "bed98bcb6f99106034fb31b9b5712adbb6f906b4c9e86c59257a23425d5df031"
+    },
+    "CASSETTE_MICROFEATURE_CERTIFICATE.json": {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/CASSETTE_PELICULAS_CALIFICACION_FINAL.json",
+      "sha256": "f51e3025030c7bcb36920087f842cd5cfe8959ce4d658704e5ab031d18231634"
+    },
+    "HEAD_TOP_MICROSEAM_FEATURE_CLASSIFICATION.json": {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/CABEZA_MICROJUNTA_CALIFICACION_FINAL.json",
+      "sha256": "cf8d88f0c27ea13ce688ea66be0625b447dde59f21931e8f4d425331bdce70a6"
+    },
+    "FORMA_APROBADA.json": {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/FORMA_APROBADA_FINAL.json",
+      "sha256": "76538ae12959b8713f7cd4292b44b3d0d87463e38f5a453ce00e40c090f0c7d9"
+    }
+  },
+  "cassette": {
+    "AABB_pair_checks": 43626,
+    "moving_rows": 66,
+    "fixed_rows_including_existing_nuts": 661,
+    "continuous_exact_pairs": 53,
+    "existing_nuts_retained_fixed": 4,
+    "all_four_nuts_exact_zero_contact": true,
+    "exact_zero_continuous_proof_passed": false,
+    "residual_raw_contacts": [
+      {
+        "moving": "12CASE_TAPA_TRASERA_ENRASADA",
+        "fixed": "12CASE_TORSO_CONTINUO",
+        "separating_axis": "X_MONOTONE",
+        "minimum_box_gap_mm": -12.200004577636719,
+        "clear_for_all_X_travel_leq_0": false,
+        "relevant_travel_mm": 12.201004577636718,
+        "crop_triangles": 28672,
+        "leading_triangular_prisms": 11589,
+        "initial_intersection_mm3": 1.059178865139601e-06,
+        "continuous_sweep_intersection_mm3": 1.0708807585961355e-06,
+        "boolean_status": "Error.NoError",
+        "elapsed_s": 5.625,
+        "passed": false
+      },
+      {
+        "moving": "V7_ELEC_GOBILDA_3108_2827_0801_PRIMARY_CAD",
+        "fixed": "12CASE_TORSO_CONTINUO",
+        "separating_axis": "X_MONOTONE",
+        "minimum_box_gap_mm": -29.50000305175781,
+        "clear_for_all_X_travel_leq_0": false,
+        "relevant_travel_mm": 29.50100305175781,
+        "crop_triangles": 7512,
+        "leading_triangular_prisms": 1426,
+        "initial_intersection_mm3": 2.586082373551421e-07,
+        "continuous_sweep_intersection_mm3": 2.1224417511118424e-06,
+        "boolean_status": "Error.NoError",
+        "elapsed_s": 0.75,
+        "passed": false
+      },
+      {
+        "moving": "V7_ELEC_GOBILDA_3108_2827_0801_PRIMARY_CAD",
+        "fixed": "V15_SERVICE_FRONT_TRUNK_BASE_0",
+        "separating_axis": "Z",
+        "minimum_box_gap_mm": -3.6500041484832764,
+        "clear_for_all_X_travel_leq_0": false,
+        "relevant_travel_mm": 8.201011825198187,
+        "crop_triangles": 682,
+        "leading_triangular_prisms": 141,
+        "initial_intersection_mm3": 8.576767521828989e-07,
+        "continuous_sweep_intersection_mm3": 1.7830577151082592e-05,
+        "boolean_status": "Error.NoError",
+        "elapsed_s": 0.062000000005355105,
+        "passed": false
+      },
+      {
+        "moving": "V7_ELEC_GOBILDA_3108_2827_0801_PRIMARY_CAD",
+        "fixed": "V15_SERVICE_FRONT_TRUNK_BASE_1",
+        "separating_axis": "Z",
+        "minimum_box_gap_mm": -3.6500041484832764,
+        "clear_for_all_X_travel_leq_0": false,
+        "relevant_travel_mm": 8.201011825198187,
+        "crop_triangles": 1538,
+        "leading_triangular_prisms": 349,
+        "initial_intersection_mm3": 1.1840875594750842e-06,
+        "continuous_sweep_intersection_mm3": 1.53835764249943e-05,
+        "boolean_status": "Error.NoError",
+        "elapsed_s": 0.125,
+        "passed": false
+      }
+    ],
+    "all_residual_contact_surfaces_within_0p01_mm_of_source": true,
+    "source_surface_certificate_does_not_claim_medial_depth_or_universal_positive_clearance": true
+  },
+  "head": {
+    "continuous_exact_pairs": 142,
+    "unknown": [],
+    "exact_zero_continuous_proof_passed": false,
+    "residual_raw_contacts": [
+      {
+        "moving": "V7_HEAD_TOP_ANCLADO",
+        "fixed": "V7_HEAD_LOWER_ANCLADO",
+        "travel_mm": 20.89290673828125,
+        "prisms": 9912,
+        "initial_contact_mm3": 1.1358988528652584e-06,
+        "continuous_contact_mm3": 2.517233111878495e-05,
+        "contact_bounds_mm": [
+          [
+            -47.50105285644531,
+            -45.773925289910245,
+            228.0992431640625
+          ],
+          [
+            69.2473258972168,
+            45.78630065917969,
+            229.79925537109375
+          ]
+        ]
+      }
+    ],
+    "source_surface_qualification": {
+      "threshold_mm": 0.01,
+      "certified_subtriangles": 15325,
+      "maximum_certified_upper_bound_mm": 0.009996897108882359,
+      "unproven_triangles": 0,
+      "unknown": [],
+      "all_contact_surface_within_0p01_of_source_TOP": true,
+      "method": "Each contact triangle/subtriangle is within .01 of one exact source TOP triangle, using convex maximum-at-vertices distance bound. Surface certificate only, not medial-volume depth or physical clearance."
+    }
+  },
+  "approved_form": [
+    {
+      "group": "body_shell",
+      "bounds_max_delta_mm": 8.270470601701163e-07,
+      "projection_changes_mm2": [
+        {
+          "view": "TOP_XY",
+          "original_mm2": 8951.352977142276,
+          "final_mm2": 8971.432381505569,
+          "lost_mm2": 0.0010876473223133676,
+          "added_mm2": 20.080492008065818
+        },
+        {
+          "view": "SIDE_XZ",
+          "original_mm2": 6142.053340347428,
+          "final_mm2": 6164.772196270802,
+          "lost_mm2": 0.9888248558919113,
+          "added_mm2": 23.70768078203404
+        },
+        {
+          "view": "FRONT_YZ",
+          "original_mm2": 4471.876704832801,
+          "final_mm2": 4526.623368826481,
+          "lost_mm2": 0.00013882502066039915,
+          "added_mm2": 54.74680279074403
+        }
+      ],
+      "scope": "Bounds/outlines only. Not equality of every surface triangle."
+    },
+    {
+      "group": "complete_head",
+      "bounds_max_delta_mm": 0.0,
+      "projection_changes_mm2": [
+        {
+          "view": "TOP_XY",
+          "original_mm2": 9862.51259225078,
+          "final_mm2": 9862.462829346157,
+          "lost_mm2": 0.04990020469333009,
+          "added_mm2": 0.00013725401125239123
+        },
+        {
+          "view": "SIDE_XZ",
+          "original_mm2": 6176.875712424723,
+          "final_mm2": 6176.874894261042,
+          "lost_mm2": 0.0008558557975475167,
+          "added_mm2": 3.7601217629051886e-05
+        },
+        {
+          "view": "FRONT_YZ",
+          "original_mm2": 4748.368670851359,
+          "final_mm2": 4748.368215457854,
+          "lost_mm2": 0.0005238310835533888,
+          "added_mm2": 6.843697488612133e-05
+        }
+      ],
+      "scope": "Bounds/outlines only. Not equality of every surface triangle."
+    },
+    {
+      "group": "whole_robot_printed_parts",
+      "bounds_max_delta_mm": 5.251945758288912e-07,
+      "projection_changes_mm2": [
+        {
+          "view": "TOP_XY",
+          "original_mm2": 17001.510986483983,
+          "final_mm2": 17017.176040102797,
+          "lost_mm2": 0.025323681118311986,
+          "added_mm2": 15.69037721787482
+        },
+        {
+          "view": "SIDE_XZ",
+          "original_mm2": 17838.278399978408,
+          "final_mm2": 18154.01739016009,
+          "lost_mm2": 54.051251483704846,
+          "added_mm2": 369.7902415623838
+        },
+        {
+          "view": "FRONT_YZ",
+          "original_mm2": 20444.89945275619,
+          "final_mm2": 20874.639656443254,
+          "lost_mm2": 0.5077994155290088,
+          "added_mm2": 430.2480031949325
+        }
+      ],
+      "scope": "Bounds/outlines only. Not equality of every surface triangle."
+    }
+  ],
+  "assembly_note": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/NOTA_MONTAJE_SERVICIO_FINAL_V15.md",
+  "assembly_instruction": "Remove four M2x25 screws with their head washers; all four captive nuts remain in the fixed FRONT. Disconnect cross-module wires and park loose connectors outside the extraction corridor before moving rear_lid as a whole straight -X.",
+  "source_geometry_modified": false,
+  "scene_or_training_changed": false,
+  "raw_threshold_changed": false,
+  "physical_fit_verified": false,
+  "loaded_motion_or_force_verified": false,
+  "universal_manufacturing_release_claimed": false,
+  "input_drift": []
+}

@@ -1,0 +1,9 @@
+MICRODUCK V15 R2 — KIT DE PRIMERA UNIDAD
+1. Abre DOCUMENTACION/GUIA_IMPRESION_Y_MONTAJE_V15.html.
+2. Imprime las 5 probetas. Con el MG90S posicional, los rodamientos y la tornillería reales, comprueba los ajustes y monta el piloto.
+3. Los 80 STL del robot están en STL_POR_COLORES, en mm, a escala 100 %. Imprime uno de cada archivo. Las probetas y la llave magnética están separadas.
+4. Conserva la orientación. Los 9 proyectos PrusaSlicer con pausas y la tabla de capas corresponden a primera capa y capas de 0,20 mm. Selecciona el perfil de tu impresora y comprueba las pausas en la vista previa.
+5. Sigue el orden por subconjuntos y el esquema de conexión. Rellena el registro de primera unidad antes de alimentar motores. El servo 09 (canal 14) queda desconectado.
+6. Usa los límites físicos medidos. En CAD, balanceo lateral de caderas ±10° desde la postura de montaje.
+
+Comprobado en CAD y PrusaSlicer. Falta la prueba de encaje con tus piezas reales. No incluye G-code para enviar a una impresora. El archivo Blender se entrega aparte.

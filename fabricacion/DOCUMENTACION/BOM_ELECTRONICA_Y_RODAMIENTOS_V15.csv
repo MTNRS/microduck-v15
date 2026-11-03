@@ -1,0 +1,18 @@
+﻿cantidad,componente,condicion
+15,MG90S 180° de posición,Lote real pendiente de medir; descartar giro continuo. No usar un horn de distinto estriado por fuerza.
+1,Raspberry Pi Zero 2 W,En la cabeza. Este kit no tiene la huella de Raspberry Pi 4B.
+1,Adafruit815 PCA9685 RevC,Alimentación lógica3.3V; bus de servos5V separado. Modificación R7/OE obligatoria.
+1,Adafruit2472 BNO055,Orientación nominal del CAD conservada; recalibrar con el robot y el imán de encendido retirado.
+1,goBILDA3108-2827-0801 PDB,Distribución de potencia; mantener aisladas las soldaduras.
+1+1,Pololu2881 D24V150F5 /3782 D36V28F5,Dos raíles regulados5V: servos /lógica. No conectar VBAT al GPIO de alimentación.
+1,Pololu2813 HP,"Interruptor electrónico manual, con entradaOFF desde ADC. No es un aislador de seguridad."
+2,Vapcell K10 14500 flat-top,"Pack2S1P a medida, celdas emparejadas y soldadura por puntos por ensamblador; aislamiento incluido en envolvente."
+1,Mantech250040 HX-2S-D20 /HY2120-CB,Protección2S. Comprobar revisión entregada y umbrales por celda; balanceo/NTC no acreditados.
+1+1,Littelfuse01530007Z +0297005.U,PortafusibleMINI y fusible5A. Patillas completas y soporteFR4; no montar el antiguo HHL/SMD.
+1,Adafruit1085 ADS1115 STEMMA QT,"Montaje con4M2; divisor20k/10k0.1%, más driverPNP2N3906 y resistencias del plano."
+1+1,Littelfuse59170-1-S-00-C /57045-000,Reed interno y llave magnética externa; conexión sóloA–B del HP.
+4,OmronSS-01-E,Dos contactosNO en paralelo por pie; no sustituir porSS10 de carga alta paraGPIO.
+6,VishayMBA0204 0.1% para pies,"Por pie:2.2k,10k,20k. Montaje punto a punto aislado, retenido en peines y tapa."
+14,Rodamientos,"9×ET2216 abierto (16×22×4),1×6701ZZ (12×18×4, apoyo pasivo cabeza),1×6702ZZ (15×21×4, motor 08),2×6700 ABIERTO (10×15×3; no sustituir por 6700ZZ de 4 mm),1×623ZZ (3×10×4). Comprobar dimensiones de la marca comprada."
+1,microSD + arnés + conectores + aislamiento,La capacidad de alojamiento se comprueba nominalmente; el largo final del arnés depende del lote y del montaje.
+1 externo,SkyRC B6neo+ SK-100211,"Selección externa propuesta:LiIo2S BalanceCHG,0.3A,4.1V/celda(8.2Vtotal). Menor energía que carga completa4.2V; verificar puertos del pack con su ensamblador."

@@ -1,0 +1,20 @@
+{
+  "schema": "microduck-cad-gzip-parts/1",
+  "file": "Microduck_V15_R2_PUBLICO.blend",
+  "bytes": 133472984,
+  "sha256": "a465c42346cfdcfb609c7b509ed14e586b0315916f60b3d3c4202c541da85174",
+  "parts": [
+    {
+      "file": "microduck-v15.blend.gz.001",
+      "bytes": 41943040,
+      "sha256": "72517a5285fc7104763303bcfbb5576bc83e30402aec34a694d27e92cd353d36"
+    },
+    {
+      "file": "microduck-v15.blend.gz.002",
+      "bytes": 6940916,
+      "sha256": "e999a0944c943744ac4be6863f7710b249dd75980665a3d4367a083e28239a2c"
+    }
+  ],
+  "edition": "PUBLICA_V15_R2",
+  "reference": "Placa goBILDA representada por una envolvente dimensional propia. Las 80 piezas imprimibles conservan su geometría."
+}

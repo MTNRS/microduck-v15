@@ -1,0 +1,7 @@
+* text=auto eol=lf
+fabricacion/** -text
+third_party/** -text
+cad/*.gz.* -text
+*.sh text eol=lf
+*.png binary
+*.pdf binary

@@ -1,0 +1,101 @@
+{
+  "schema": "V15_FINAL_FABRICATION_MECHANICAL_SCOPE_RECEIPT",
+  "status": "PASS_NOMINAL_FINAL_KIT_INVENTORY_PAUSES_AND_STAGED_ASSEMBLY",
+  "final_KIT": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/KIT_V15_R2_FABRICACION/ASSEMBLY_FABRICACION_CANDIDATO_V15.json",
+  "final_KIT_sha256": "d1e061923094f4cd2fcfbbeb800a2daeffc9b78ee9077f8575ebd8b72b0ccbb4",
+  "source_counts": {
+    "parts": 80,
+    "references": 662,
+    "keepouts": 41
+  },
+  "receipts": [
+    {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/MECHANICAL_BOM.json",
+      "sha256": "17b77041bda68f8707845535c6ce7575b97144b49ba7361e0f495315d7f7a0c1",
+      "status": "PASS_INVENTORY"
+    },
+    {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/MECHANICAL_INSERCION_15_SERVOS.json",
+      "sha256": "bdc0affbd56ddf6e1b172fab1b1905b2665ee9fc63597dd06670a99b4d0eb561",
+      "status": "PASS_NOMINAL_BENCH_STAGE"
+    },
+    {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/MECHANICAL_TORNILLERIA_11_ALOJAMIENTOS.json",
+      "sha256": "1f3124a546d23e721d23c4f2699be28214afbcc057d054fa4d1b08cedf9c3d71",
+      "status": "PASS_NOMINAL_BENCH_STAGE"
+    },
+    {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/MECHANICAL_CARTUCHOS_5_HEREDADOS.json",
+      "sha256": "00f6c856af88c21b1b8b4a7010704c49f5194d712e6a6a0eb96acd957cdb7816",
+      "status": "PASS_INHERITED_EXACT_NPZ_AND_POSE"
+    },
+    {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/MECHANICAL_PAUSAS_FINALES.json",
+      "sha256": "e45afc6ef8093685957ab542d6ca421d320700b65cbbeed822450b02163cd473",
+      "status": "PASS_FINAL_STL_ORIENTATIONS_AND_PAUSES"
+    },
+    {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/VERIFICACION_FABRICACION_V15/RANGO_CAD_CALIFICADO_V15.json",
+      "sha256": "b9ebe199d99d80e52295a1474a95564ec30ae952c86ecba8105a65ca215ac7c3",
+      "status": "PASS_DECLARED_DISCRETE_SCOPE"
+    }
+  ],
+  "exact_reference_NPZ_pose_and_fastener_BOM_unchanged": 662,
+  "five_cartridges_inherited_from_ten_exact_NPZ": true,
+  "eleven_clamp_families_rechecked_because_selected_export_NPZ_changed": true,
+  "actual_design_replacements_since_e16": [
+    "12CASE_TORSO_CONTINUO",
+    "12CASE_TAPA_TRASERA_ENRASADA",
+    "V15_SERVICE_FRONT_YAW2ROLL",
+    "V15_SERVICE_FRONT_BEARING_ROLL",
+    "V15_ET_RADIAL_CLAMP_02F",
+    "V15_ET_RADIAL_CLAMP_11F"
+  ],
+  "unchanged_source_but_reexported_geometry_NPZ_count": 26,
+  "same_geometry_NPZ_count_including_references_and_keepouts": 751,
+  "stage_tests": {
+    "bare_servo_and_driver_checks": 285,
+    "cartridges_inherited": 5,
+    "clamp_hardware_checks": 148,
+    "print_pause_parts": 9,
+    "print_pause_stops": 12,
+    "inserted_nuts_already_in_BOM": 26
+  },
+  "fastener_totals": {
+    "OEM_HORN": 14,
+    "SLEEVE": 1,
+    "WASHER": 252,
+    "SCREW": 179,
+    "HARD_SHIM": 16,
+    "NUT": 181,
+    "BEARING": 14
+  },
+  "motion_scope": {
+    "raw_poses": 89,
+    "raw_pair_tests": 1870,
+    "allowed_discrete_poses": 85,
+    "outside_hip_roll_plusminus15_poses": 4,
+    "hip_roll_design_delta_deg": [
+      -10,
+      10
+    ],
+    "retained_raw_contacts": 86,
+    "max_retained_raw_contact_mm3": 2.2650829029817812e-06,
+    "deep": 0,
+    "unknown": 0
+  },
+  "updated_mechanical_instructions": [
+    {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/PRIMERO_PROBETAS_Y_PILOTO.txt",
+      "sha256": "7ea54f0650631c1a4b666179843c2e6c2bfd62a7df1a820ec74a0552bce0b814"
+    },
+    {
+      "file": "evidencia-local/Jarvis/outputs/microduck-cuerpo-suave-v15/fabricacion-v15/MECHANICAL/MONTAJE_POR_SUBMODULOS_V15_FINAL.md",
+      "sha256": "2a9652a027a2c20590932a71c986225160c3d8205e4d3cba3f760b7996438bd8"
+    }
+  ],
+  "do_not_package_historical_mechanical_guide": "MONTAJE_MECANICO_Y_EXPORTACION_V15.md",
+  "material_mechanical_blockers_found_in_scope": [],
+  "physical_first_unit_fit_force_and_loaded_gait_validated": false,
+  "CAD_Blender_trainer_and_final_KIT_geometry_mutated_here": false
+}

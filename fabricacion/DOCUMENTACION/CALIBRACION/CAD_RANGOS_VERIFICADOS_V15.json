@@ -1,0 +1,30 @@
+{
+  "schema": "V15_CAD_GEOMETRIC_OPERATING_SCOPE",
+  "assembly_sha256": "d1e061923094f4cd2fcfbbeb800a2daeffc9b78ee9077f8575ebd8b72b0ccbb4",
+  "reference": "Deltas relative to the CAD assembly stand pose, not physical servo pulse calibration.",
+  "design_delta_limits_deg": {
+    "left_hip_roll": [
+      -10,
+      10
+    ],
+    "right_hip_roll": [
+      -10,
+      10
+    ]
+  },
+  "remaining_joints_screened_individually_deg": [
+    -15,
+    15
+  ],
+  "combined_scenarios_deg": [
+    -10,
+    -5,
+    5,
+    10
+  ],
+  "hip_roll_15_outside_design_range": true,
+  "physical_calibration_verified": false,
+  "full_14D_motion_or_loaded_walk_verified": false,
+  "training_asset_matches_revision": false,
+  "hardware_enable_requires_first_unit_calibration": true
+}
