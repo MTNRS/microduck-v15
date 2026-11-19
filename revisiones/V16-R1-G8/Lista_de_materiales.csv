@@ -1,0 +1,31 @@
+﻿material;unidad;cantidad;prevision_de_compra;uso
+AMARILLO_PETG;g;3.88;5 g;Consumo del laminado, con soportes y bases. La previsión suma un 15 % para pruebas. Bobina PETG del color indicado en AMS 2.
+AZUL_CIELO_PETG;g;336.95;388 g;Consumo del laminado, con soportes y bases. La previsión suma un 15 % para pruebas. Bobina PETG del color indicado en AMS 2.
+GRIS_PETG;g;6.87;8 g;Consumo del laminado, con soportes y bases. La previsión suma un 15 % para pruebas. Bobina PETG del color indicado en AMS 2.
+NARANJA_PETG;g;59.12;68 g;Consumo del laminado, con soportes y bases. La previsión suma un 15 % para pruebas. Bobina PETG del color indicado en AMS 2.
+NARANJA_TPU95A;g;15.24;18 g;Consumo del laminado, con soportes y bases. La previsión suma un 15 % para pruebas. Alimentación exterior para TPU 95A convencional.
+NEGRO_PETG;g;265.89;306 g;Consumo del laminado, con soportes y bases. La previsión suma un 15 % para pruebas. Bobina PETG del color indicado en AMS 2.
+NEGRO_TPU_95A;g;23.28;27 g;Consumo del laminado, con soportes y bases. La previsión suma un 15 % para pruebas. Alimentación exterior para TPU 95A convencional.
+FR4 aislante para BM_FR4;recorte;1;8.0 × 9.8 × 1.6 mm;Cortar y taladrar según la plantilla incluida en FR4.
+FR4 aislante para MINI_FR4;recorte;1;30.3 × 20.5 × 1.6 mm;Cortar y taladrar según la plantilla incluida en FR4.
+Estaño para electrónica y flux;juego;1;1 juego;Soldaduras del mazo y placas auxiliares
+Termorretráctil aislante surtido;juego;1;1 juego;Soldaduras, retornos y empalmes
+Hilo de atado no conductor;juego;1;1 juego;Retención del mazo en los ojos interiores
+Aislante dieléctrico y tapas de conector;juego;1;1 juego;Cubrir las uniones y puertos del pack durante el montaje
+Circuito flexible de poliimida con cubierta;circuito;1;Incluido en el circuito encargado;Cobre de 18 µm, espesor terminado de 0,15 mm.
+FR4 de dos capas para placa de control;circuito;1;Incluido en el circuito encargado;Cobre de 35 µm, espesor terminado de 1,6 mm.
+Placas plantares FR4 de 0,4 mm;circuito;2;Incluido en las dos placas encargadas;Cobre de 35 µm, máscara en ambas caras y vías cubiertas.
+22 AWG nominal;m;0.400;0.6 m;Incluye cables de enlace H de las distribuciones. Previsión con 30 % de margen. Ajustar al trazado validado y al calibre admisible por los contactos. Estimación para el prototipo. Pendiente de cerrar la longitud de los ramales y el nuevo ramal de la boca.
+"22 AWG nominal; medir corriente y caída";m;2.907;3.8 m;Incluye cables de enlace H de las distribuciones. Previsión con 30 % de margen. Ajustar al trazado validado y al calibre admisible por los contactos. Estimación para el prototipo. Pendiente de cerrar la longitud de los ramales y el nuevo ramal de la boca.
+26 AWG, OD aislado ≤1.2 mm en reserva PCA;m;1.935;2.6 m;Incluye cables de enlace H de las distribuciones. Previsión con 30 % de margen. Ajustar al trazado validado y al calibre admisible por los contactos. Estimación para el prototipo. Pendiente de cerrar la longitud de los ramales y el nuevo ramal de la boca.
+"Dimensionar por rama; 16 AWG nominal al PDB";m;0.182;0.3 m;Incluye cables de enlace H de las distribuciones. Previsión con 30 % de margen. Ajustar al trazado validado y al calibre admisible por los contactos. Estimación para el prototipo. Pendiente de cerrar la longitud de los ramales y el nuevo ramal de la boca.
+Dimensionar rama D36;m;0.275;0.4 m;Incluye cables de enlace H de las distribuciones. Previsión con 30 % de margen. Ajustar al trazado validado y al calibre admisible por los contactos. Estimación para el prototipo. Pendiente de cerrar la longitud de los ramales y el nuevo ramal de la boca.
+Hilo de sensado del montador;m;0.139;0.2 m;Incluye cables de enlace H de las distribuciones. Previsión con 30 % de margen. Ajustar al trazado validado y al calibre admisible por los contactos. Estimación para el prototipo. Pendiente de cerrar la longitud de los ramales y el nuevo ramal de la boca.
+"Hilo flexible aislado; confirmar OD";m;2.713;3.6 m;Incluye cables de enlace H de las distribuciones. Previsión con 30 % de margen. Ajustar al trazado validado y al calibre admisible por los contactos. Estimación para el prototipo. Pendiente de cerrar la longitud de los ramales y el nuevo ramal de la boca.
+Hilo flexible negro de señal 26 AWG, diámetro exterior máximo 1,10 mm;m;0.074;0.1 m;Incluye cables de enlace H de las distribuciones. Previsión con 30 % de margen. Ajustar al trazado validado y al calibre admisible por los contactos. Estimación para el prototipo. Pendiente de cerrar la longitud de los ramales y el nuevo ramal de la boca.
+Hilo flexible según canal del pie;m;1.926;2.6 m;Incluye cables de enlace H de las distribuciones. Previsión con 30 % de margen. Ajustar al trazado validado y al calibre admisible por los contactos. Estimación para el prototipo. Pendiente de cerrar la longitud de los ramales y el nuevo ramal de la boca.
+TE 55A0111-16-0 negro;m;0.309;0.5 m;Incluye cables de enlace H de las distribuciones. Previsión con 30 % de margen. 16 AWG fijo, cobre estañado y ETFE, Ø nominal 1,73 mm, envolvente CAD Ø1,90 mm. Estimación para el prototipo. Pendiente de cerrar la longitud de los ramales y el nuevo ramal de la boca.
+TE 55A0111-16-2 rojo;m;0.386;0.6 m;Incluye cables de enlace H de las distribuciones. Previsión con 30 % de margen. 16 AWG fijo, cobre estañado y ETFE, Ø nominal 1,73 mm, envolvente CAD Ø1,90 mm. Estimación para el prototipo. Pendiente de cerrar la longitud de los ramales y el nuevo ramal de la boca.
+Cobre estañado para distribución de 2.5 × 0.8 mm;mm de banda;17.1;23 mm;2 recortes aislados independientes. Longitudes y ramales en Distribuciones_del_arnes.csv. Propuesta pendiente de validación eléctrica y de retención.
+Cobre estañado para distribución de 1.5 × 0.4 mm;mm de banda;25.2;33 mm;5 recortes aislados independientes. Longitudes y ramales en Distribuciones_del_arnes.csv. Propuesta pendiente de validación eléctrica y de retención.
+LOCTITE 435;envase;1;1 envase pequeño;Ensayo de unión P39/P34 y P38/P36. Probar con recortes de los filamentos del lote.

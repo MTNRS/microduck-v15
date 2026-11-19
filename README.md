@@ -1,5 +1,7 @@
 # Microduck V15 R2
 
+**V16 R1 G8 para Bambu Lab P2S.** La cabeza de esta revisión tiene la boca móvil. El torso sigue en ensayo de montaje. [Descargas y guía de la V16 R1 G8](revisiones/V16-R1-G8/README.md)
+
 Un robot bípedo imprimible con la carrocería redondeada V15, Raspberry Pi Zero 2 W en la cabeza y 15 MG90S **de posición**. Hay 14 articulaciones activas; el servo físico 09 de la mandíbula queda desconectado (PCA 14). Esta revisión conserva la forma aprobada y sus accesos de servicio.
 
 ![Microduck V15 R2 montada](fabricacion/DOCUMENTACION/VISTAS/V15_R2_general.png)
