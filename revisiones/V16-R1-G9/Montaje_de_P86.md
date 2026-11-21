@@ -1,0 +1,12 @@
+# Cerrar la tapa P86 del Microduck V16 R1 G9
+
+La cara inferior lleva tres alivios para los retornos de masa W106, W109 y W115. Se conservan los cuatro asientos de tornillo y el contorno superior. Para un robot que ya está impreso en G8 basta con sustituir P86 para probar esta maniobra. En el repuesto suelto, el proyecto imprime una pieza en PETG azul cielo, capa de 0,2 mm, con 11,38 g previstos y cero pausas. En la carpeta del robot, P86 comparte placa con nueve piezas y se conservan las pausas de esas piezas.
+
+1. Deja el pack desconectado. Presenta primero el cassette y los conectores. Con la tapa fuera, lleva cada ramal a su recorrido según la escena 05. Comprueba que los cuatro apoyos de P86 estén limpios.
+2. Mantén la tapa paralela a su asiento. Comienza 90 mm por detrás y 14 mm por encima. Avanza 72 mm a la misma altura. El eje +X de Blender apunta hacia la cabeza del robot en esta maniobra.
+3. Avanza los 18 mm restantes mientras bajas 4 mm. La tapa queda alineada en planta y 10 mm por encima de su posición final. Desciende esos 10 mm en vertical. Si aparece resistencia, vuelve a sacar la tapa y localiza el cable o el conector que se mueve.
+4. Con la tapa asentada coloca los cuatro M2 × 6 avellanados desde fuera, en el orden de la escena 04. Una tapa bien presentada apoya antes de apretar los tornillos. En Blender, los fotogramas 39, 75, 95 y 145 marcan los extremos de la trayectoria.
+
+La comprobación compara P86 en movimiento con los 153 conductores nominales y 782 sólidos fijos, incluidos los 24 conectores o empalmes modelados. La prueba por volúmenes barridos da como mínimo 0,73 mm hasta las fundas en la aproximación y 0,66 mm en el descenso. Otra comprobación con paso más fino y subdivisión de cada traslación da 0,71 mm durante la maniobra completa. Las cifras son cotas inferiores en milímetros con redondeo hacia abajo. P86 hace contacto con su asiento en P44. La prueba de intersección volumétrica del asiento queda por debajo de 0,000001 mm³. En la posición final el cassette P45 y P83 quedan a 0,32 mm de la tapa.
+
+El ensayo en CAD supone el cableado inmóvil en su recorrido nominal. La rigidez del mazo, las medidas del lote y el acabado de la impresión requieren presentación física. En el resto del robot persisten 29 pares de fundas solapadas, 31 avisos frente a electrónica o herrajes y contactos con algunos soportes impresos. Prueba de montaje con el pack desconectado.
