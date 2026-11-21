@@ -1,0 +1,1112 @@
+{
+ "fuente": "https://www.gobilda.com/content/step_files/3108-2827-0801.zip",
+ "sha256_STEP": "8dc4744fae5e23a725c37b0475903d0544d3cfdf102e603cdf37779e3379fbd0",
+ "sha256_ZIP": "2dbfcd8d48df8f13a7c7ce687820ef2d65238a13f35e9c91cf3c3d74751e9707",
+ "registro_mundo": "X=Z_STEP-23.9, Y=Y_STEP, Z=X_STEP+141.3",
+ "plano_local_z_mm": 7.9,
+ "pines_medidos": 48,
+ "filas": [
+  [
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     8.89,
+     125.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     6.35,
+     125.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     3.81,
+     125.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     1.27,
+     125.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -1.27,
+     125.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -3.81,
+     125.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -6.35,
+     125.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -8.89,
+     125.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   }
+  ],
+  [
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     8.89,
+     128.45
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     6.35,
+     128.45
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     3.81,
+     128.45
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     1.27,
+     128.45
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -1.27,
+     128.45
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -3.81,
+     128.45
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -6.35,
+     128.45
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -8.89,
+     128.45
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   }
+  ],
+  [
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     8.89,
+     130.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     6.35,
+     130.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     3.81,
+     130.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     1.27,
+     130.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -1.27,
+     130.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -3.81,
+     130.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -6.35,
+     130.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -8.89,
+     130.95
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   }
+  ],
+  [
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     8.89,
+     151.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     6.35,
+     151.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     3.81,
+     151.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     1.27,
+     151.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -1.27,
+     151.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -3.81,
+     151.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -6.35,
+     151.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -8.89,
+     151.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   }
+  ],
+  [
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     8.89,
+     154.15
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     6.35,
+     154.15
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     3.81,
+     154.15
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     1.27,
+     154.15
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -1.27,
+     154.15
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -3.81,
+     154.15
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -6.35,
+     154.15
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -8.89,
+     154.15
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   }
+  ],
+  [
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     8.89,
+     156.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     6.35,
+     156.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     3.81,
+     156.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     1.27,
+     156.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -1.27,
+     156.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -3.81,
+     156.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -6.35,
+     156.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   },
+   {
+    "centro_mundo_mm": [
+     -16.0,
+     -8.89,
+     156.65
+    ],
+    "seccion_mm": [
+     0.7,
+     0.7
+    ]
+   }
+  ]
+ ],
+ "caras_transversales_por_superficie_mm2": [
+  [
+   [
+    4.1,
+    43.6928
+   ],
+   [
+    1.6,
+    43.6928
+   ],
+   [
+    -1.4,
+    0.25
+   ],
+   [
+    10.1,
+    0.25
+   ]
+  ],
+  [
+   [
+    4.1,
+    43.6928
+   ],
+   [
+    1.6,
+    43.6928
+   ],
+   [
+    -1.4,
+    0.25
+   ],
+   [
+    10.1,
+    0.25
+   ]
+  ],
+  [
+   [
+    4.1,
+    43.6928
+   ],
+   [
+    1.6,
+    43.6928
+   ],
+   [
+    -1.4,
+    0.25
+   ],
+   [
+    10.1,
+    0.25
+   ]
+  ],
+  [
+   [
+    4.1,
+    43.6928
+   ],
+   [
+    1.6,
+    43.6928
+   ],
+   [
+    -1.4,
+    0.25
+   ],
+   [
+    10.1,
+    0.25
+   ]
+  ],
+  [
+   [
+    4.1,
+    43.6928
+   ],
+   [
+    1.6,
+    43.6928
+   ],
+   [
+    -1.4,
+    0.25
+   ],
+   [
+    10.1,
+    0.25
+   ]
+  ],
+  [
+   [
+    4.1,
+    43.6928
+   ],
+   [
+    1.6,
+    43.6928
+   ],
+   [
+    -1.4,
+    0.25
+   ],
+   [
+    10.1,
+    0.25
+   ]
+  ]
+ ],
+ "contactos_utilizados": [
+  {
+   "canal": "P00",
+   "red": "V+",
+   "hilo": "W072",
+   "centro_pin_yz_mm": [
+    8.89,
+    128.45
+   ],
+   "salida_G10_xyz_mm": [
+    -5.9,
+    8.89,
+    128.95
+   ],
+   "descentrado_G10_transversal_mm": 0.5
+  },
+  {
+   "canal": "P00",
+   "red": "GND",
+   "hilo": "W073",
+   "centro_pin_yz_mm": [
+    8.89,
+    125.95
+   ],
+   "salida_G10_xyz_mm": [
+    -5.9,
+    8.89,
+    126.41
+   ],
+   "descentrado_G10_transversal_mm": 0.46
+  },
+  {
+   "canal": "P01",
+   "red": "V+",
+   "hilo": "W075",
+   "centro_pin_yz_mm": [
+    6.35,
+    128.45
+   ],
+   "salida_G10_xyz_mm": [
+    -5.9,
+    6.35,
+    128.95
+   ],
+   "descentrado_G10_transversal_mm": 0.5
+  },
+  {
+   "canal": "P01",
+   "red": "GND",
+   "hilo": "W076",
+   "centro_pin_yz_mm": [
+    6.35,
+    125.95
+   ],
+   "salida_G10_xyz_mm": [
+    -5.9,
+    6.35,
+    126.41
+   ],
+   "descentrado_G10_transversal_mm": 0.46
+  },
+  {
+   "canal": "P02",
+   "red": "V+",
+   "hilo": "W078",
+   "centro_pin_yz_mm": [
+    3.81,
+    128.45
+   ],
+   "salida_G10_xyz_mm": [
+    -5.82,
+    3.81,
+    128.45
+   ],
+   "descentrado_G10_transversal_mm": 0.0
+  },
+  {
+   "canal": "P02",
+   "red": "GND",
+   "hilo": "W079",
+   "centro_pin_yz_mm": [
+    3.81,
+    125.95
+   ],
+   "salida_G10_xyz_mm": [
+    -5.82,
+    3.81,
+    125.91
+   ],
+   "descentrado_G10_transversal_mm": 0.04
+  },
+  {
+   "canal": "P03",
+   "red": "V+",
+   "hilo": "W081",
+   "centro_pin_yz_mm": [
+    1.27,
+    128.45
+   ],
+   "salida_G10_xyz_mm": [
+    -5.82,
+    1.27,
+    128.45
+   ],
+   "descentrado_G10_transversal_mm": 0.0
+  },
+  {
+   "canal": "P03",
+   "red": "GND",
+   "hilo": "W082",
+   "centro_pin_yz_mm": [
+    1.27,
+    125.95
+   ],
+   "salida_G10_xyz_mm": [
+    -5.82,
+    1.27,
+    125.91
+   ],
+   "descentrado_G10_transversal_mm": 0.04
+  },
+  {
+   "canal": "P04",
+   "red": "V+",
+   "hilo": "W084",
+   "centro_pin_yz_mm": [
+    -1.27,
+    128.45
+   ],
+   "salida_G10_xyz_mm": [
+    -5.82,
+    -1.27,
+    128.45
+   ],
+   "descentrado_G10_transversal_mm": 0.0
+  },
+  {
+   "canal": "P04",
+   "red": "GND",
+   "hilo": "W085",
+   "centro_pin_yz_mm": [
+    -1.27,
+    125.95
+   ],
+   "salida_G10_xyz_mm": [
+    -5.82,
+    -1.27,
+    125.91
+   ],
+   "descentrado_G10_transversal_mm": 0.04
+  },
+  {
+   "canal": "P05",
+   "red": "V+",
+   "hilo": "W087",
+   "centro_pin_yz_mm": [
+    -3.81,
+    128.45
+   ],
+   "salida_G10_xyz_mm": [
+    -5.82,
+    -3.81,
+    128.45
+   ],
+   "descentrado_G10_transversal_mm": 0.0
+  },
+  {
+   "canal": "P05",
+   "red": "GND",
+   "hilo": "W088",
+   "centro_pin_yz_mm": [
+    -3.81,
+    125.95
+   ],
+   "salida_G10_xyz_mm": [
+    -5.82,
+    -3.81,
+    125.91
+   ],
+   "descentrado_G10_transversal_mm": 0.04
+  },
+  {
+   "canal": "P06",
+   "red": "V+",
+   "hilo": "W090",
+   "centro_pin_yz_mm": [
+    -6.35,
+    128.45
+   ],
+   "salida_G10_xyz_mm": [
+    -5.9,
+    -6.35,
+    128.95
+   ],
+   "descentrado_G10_transversal_mm": 0.5
+  },
+  {
+   "canal": "P06",
+   "red": "GND",
+   "hilo": "W091",
+   "centro_pin_yz_mm": [
+    -6.35,
+    125.95
+   ],
+   "salida_G10_xyz_mm": [
+    -5.9,
+    -6.35,
+    126.41
+   ],
+   "descentrado_G10_transversal_mm": 0.46
+  },
+  {
+   "canal": "P07",
+   "red": "V+",
+   "hilo": "W093",
+   "centro_pin_yz_mm": [
+    -8.89,
+    128.45
+   ],
+   "salida_G10_xyz_mm": [
+    -5.9,
+    -8.89,
+    128.95
+   ],
+   "descentrado_G10_transversal_mm": 0.5
+  },
+  {
+   "canal": "P07",
+   "red": "GND",
+   "hilo": "W094",
+   "centro_pin_yz_mm": [
+    -8.89,
+    125.95
+   ],
+   "salida_G10_xyz_mm": [
+    -5.9,
+    -8.89,
+    126.41
+   ],
+   "descentrado_G10_transversal_mm": 0.46
+  },
+  {
+   "canal": "P08",
+   "red": "V+",
+   "hilo": "W096",
+   "centro_pin_yz_mm": [
+    8.89,
+    154.15
+   ],
+   "salida_G10_xyz_mm": [
+    -5.8,
+    8.89,
+    154.15
+   ],
+   "descentrado_G10_transversal_mm": 0.0
+  },
+  {
+   "canal": "P08",
+   "red": "GND",
+   "hilo": "W097",
+   "centro_pin_yz_mm": [
+    8.89,
+    156.65
+   ],
+   "salida_G10_xyz_mm": [
+    -5.8,
+    8.89,
+    156.69
+   ],
+   "descentrado_G10_transversal_mm": 0.04
+  },
+  {
+   "canal": "P09",
+   "red": "V+",
+   "hilo": "W099",
+   "centro_pin_yz_mm": [
+    6.35,
+    154.15
+   ],
+   "salida_G10_xyz_mm": [
+    -5.8,
+    6.35,
+    154.15
+   ],
+   "descentrado_G10_transversal_mm": 0.0
+  },
+  {
+   "canal": "P09",
+   "red": "GND",
+   "hilo": "W100",
+   "centro_pin_yz_mm": [
+    6.35,
+    156.65
+   ],
+   "salida_G10_xyz_mm": [
+    -5.8,
+    6.35,
+    156.69
+   ],
+   "descentrado_G10_transversal_mm": 0.04
+  },
+  {
+   "canal": "P10",
+   "red": "V+",
+   "hilo": "W102",
+   "centro_pin_yz_mm": [
+    3.81,
+    154.15
+   ],
+   "salida_G10_xyz_mm": [
+    -5.8,
+    3.81,
+    154.15
+   ],
+   "descentrado_G10_transversal_mm": 0.0
+  },
+  {
+   "canal": "P10",
+   "red": "GND",
+   "hilo": "W103",
+   "centro_pin_yz_mm": [
+    3.81,
+    156.65
+   ],
+   "salida_G10_xyz_mm": [
+    -5.8,
+    3.81,
+    156.69
+   ],
+   "descentrado_G10_transversal_mm": 0.04
+  },
+  {
+   "canal": "P11",
+   "red": "V+",
+   "hilo": "W105",
+   "centro_pin_yz_mm": [
+    1.27,
+    154.15
+   ],
+   "salida_G10_xyz_mm": [
+    -5.8,
+    1.27,
+    154.15
+   ],
+   "descentrado_G10_transversal_mm": 0.0
+  },
+  {
+   "canal": "P11",
+   "red": "GND",
+   "hilo": "W106",
+   "centro_pin_yz_mm": [
+    1.27,
+    156.65
+   ],
+   "salida_G10_xyz_mm": [
+    -5.8,
+    1.27,
+    156.69
+   ],
+   "descentrado_G10_transversal_mm": 0.04
+  },
+  {
+   "canal": "P12",
+   "red": "V+",
+   "hilo": "W108",
+   "centro_pin_yz_mm": [
+    -1.27,
+    154.15
+   ],
+   "salida_G10_xyz_mm": [
+    -5.8,
+    -1.27,
+    154.15
+   ],
+   "descentrado_G10_transversal_mm": 0.0
+  },
+  {
+   "canal": "P12",
+   "red": "GND",
+   "hilo": "W109",
+   "centro_pin_yz_mm": [
+    -1.27,
+    156.65
+   ],
+   "salida_G10_xyz_mm": [
+    -5.8,
+    -1.27,
+    156.69
+   ],
+   "descentrado_G10_transversal_mm": 0.04
+  },
+  {
+   "canal": "P13",
+   "red": "V+",
+   "hilo": "W111",
+   "centro_pin_yz_mm": [
+    -3.81,
+    154.15
+   ],
+   "salida_G10_xyz_mm": [
+    -5.8,
+    -3.81,
+    154.15
+   ],
+   "descentrado_G10_transversal_mm": 0.0
+  },
+  {
+   "canal": "P13",
+   "red": "GND",
+   "hilo": "W112",
+   "centro_pin_yz_mm": [
+    -3.81,
+    156.65
+   ],
+   "salida_G10_xyz_mm": [
+    -5.8,
+    -3.81,
+    156.69
+   ],
+   "descentrado_G10_transversal_mm": 0.04
+  },
+  {
+   "canal": "P14",
+   "red": "V+",
+   "hilo": "W114",
+   "centro_pin_yz_mm": [
+    -6.35,
+    154.15
+   ],
+   "salida_G10_xyz_mm": [
+    -5.8,
+    -6.35,
+    154.15
+   ],
+   "descentrado_G10_transversal_mm": 0.0
+  },
+  {
+   "canal": "P14",
+   "red": "GND",
+   "hilo": "W115",
+   "centro_pin_yz_mm": [
+    -6.35,
+    156.65
+   ],
+   "salida_G10_xyz_mm": [
+    -5.8,
+    -6.35,
+    156.69
+   ],
+   "descentrado_G10_transversal_mm": 0.04
+  }
+ ]
+}
