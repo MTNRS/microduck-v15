@@ -1,0 +1,87 @@
+{
+ "P45": {
+  "retirado_mm3": 338.96028,
+  "anadido_mm3": 0.0,
+  "piezas_con_volumen": 1,
+  "min_del_vaciado_a_superficie_exterior_mm": 2.0639,
+  "residuo_numerico_mm3": 0.0
+ },
+ "P83": {
+  "retirado_mm3": 471.36637,
+  "anadido_mm3": -0.0,
+  "piezas_con_volumen": 1,
+  "min_del_vaciado_a_superficie_exterior_mm": 1.7665,
+  "residuo_numerico_mm3": 0.0
+ },
+ "P65": {
+  "retirado_mm3": 36.08542,
+  "anadido_mm3": 0.0,
+  "piezas_con_volumen": 1,
+  "min_del_vaciado_a_superficie_exterior_mm": 8.0353,
+  "residuo_numerico_mm3": 0.0
+ },
+ "P03": {
+  "retirado_mm3": 87.52121,
+  "anadido_mm3": -0.0,
+  "piezas_con_volumen": 1
+ },
+ "P14": {
+  "retirado_mm3": 42.53121,
+  "anadido_mm3": 0.0,
+  "piezas_con_volumen": 1
+ },
+ "P15": {
+  "retirado_mm3": 48.40951,
+  "anadido_mm3": -0.0,
+  "piezas_con_volumen": 1
+ },
+ "P63": {
+  "retirado_mm3": 1.1186,
+  "anadido_mm3": 0.0,
+  "piezas_con_volumen": 1,
+  "min_del_vaciado_a_superficie_exterior_mm": 2.503,
+  "residuo_numerico_mm3": 0.0
+ },
+ "P04": {
+  "retirado_mm3": 56.79241,
+  "anadido_mm3": -0.0,
+  "piezas_con_volumen": 1
+ },
+ "P06": {
+  "retirado_mm3": 113.84401,
+  "anadido_mm3": -0.0,
+  "piezas_con_volumen": 1
+ },
+ "P11": {
+  "retirado_mm3": 136.40008,
+  "anadido_mm3": -0.0,
+  "piezas_con_volumen": 1
+ },
+ "P12": {
+  "retirado_mm3": 54.99268,
+  "anadido_mm3": -0.0,
+  "piezas_con_volumen": 1
+ },
+ "P23": {
+  "retirado_mm3": 71.30229,
+  "anadido_mm3": -0.0,
+  "piezas_con_volumen": 1
+ },
+ "P37": {
+  "retirado_mm3": 57.24575,
+  "anadido_mm3": 0.0,
+  "piezas_con_volumen": 1
+ },
+ "P44": {
+  "retirado_mm3": 295.85622,
+  "anadido_mm3": -0.0,
+  "piezas_con_volumen": 1,
+  "min_del_vaciado_a_superficie_exterior_mm": 1.7478,
+  "residuo_numerico_mm3": 0.0
+ },
+ "P49": {
+  "retirado_mm3": 52.62487,
+  "anadido_mm3": -0.051669,
+  "piezas_con_volumen": 1
+ }
+}

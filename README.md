@@ -1,5 +1,7 @@
 # Microduck V15 R2
 
+**Microduck V16 R1 G10.** Robot completo, P45 con canal BM, Blender, 86 STL y nueve placas para la P2S. Revisión para ensayo mecánico con el pack desconectado. [Descargas, tornillería y montaje](revisiones/V16-R1-G10/README.md)
+
 **V16 R1 G9 para Bambu Lab P2S.** Ya está disponible la tapa P86 con el cierre corregido. El arnés del torso sigue en ensayo. [Repuesto de P86 y descargas del robot entero](revisiones/V16-R1-G9/README.md)
 
 **V16 R1 G8 para Bambu Lab P2S.** La cabeza de esta revisión tiene la boca móvil. El torso sigue en ensayo de montaje. [Descargas y guía de la V16 R1 G8](revisiones/V16-R1-G8/README.md)

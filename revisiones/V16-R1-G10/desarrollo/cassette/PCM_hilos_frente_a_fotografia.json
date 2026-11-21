@@ -1,0 +1,270 @@
+{
+ "fuente": "https://mantech.co.za/datasheets/products/hx-2s-d20_250040.pdf",
+ "foto_px_cuatro_esquinas": [
+  [
+   26.5,
+   74.0
+  ],
+  [
+   194.5,
+   75.0
+  ],
+  [
+   193.5,
+   147.5
+  ],
+  [
+   26.5,
+   146.0
+  ]
+ ],
+ "centros_visuales_px": {
+  "B+": [
+   37.5,
+   84.0
+  ],
+  "B−": [
+   37.5,
+   135.0
+  ],
+  "BM": [
+   183.0,
+   136.0
+  ],
+  "P+": [
+   182.2,
+   86.8
+  ],
+  "P−": [
+   182.1,
+   110.0
+  ]
+ },
+ "hipotesis": {
+  "espesor_laminado_mm": 1.4,
+  "pelado_nominal_mm": 2.65,
+  "banda_reservada_Y_mm": [
+   -21.8,
+   15.0
+  ],
+  "paso_maximo_mm": 0.04,
+  "precision_foto_mm_por_pixel_aprox": 0.28
+ },
+ "hilos": {
+  "W001": {
+   "pad": "B+",
+   "centro_foto_xy_mm": [
+    -49.3,
+    16.966
+   ],
+   "centro_CAD_xy_mm": [
+    -49.412,
+    17.3
+   ],
+   "distancia_centros_xy_mm": 0.352,
+   "laminado_tramo_pelado": {
+    "margen_inferior_mm": 0.004,
+    "a_mm_del_pad": 0.0,
+    "centro_mundo_mm": [
+     -49.412,
+     17.3,
+     133.075
+    ]
+   },
+   "laminado_tramo_aislado": {
+    "margen_inferior_mm": 2.1398,
+    "a_mm_del_pad": 2.678,
+    "centro_mundo_mm": [
+     -48.3205,
+     17.4989,
+     135.4108
+    ]
+   },
+   "reserva_central": {
+    "margen_inferior_mm": 1.529,
+    "a_mm_del_pad": 0.0,
+    "centro_mundo_mm": [
+     -49.412,
+     17.3,
+     133.075
+    ]
+   },
+   "intervalo_afectado_por_caja_completa_mm": [
+    0.0,
+    2.718
+   ]
+  },
+  "W002": {
+   "pad": "B−",
+   "centro_foto_xy_mm": [
+    -63.459,
+    16.953
+   ],
+   "centro_CAD_xy_mm": [
+    -63.612,
+    17.3
+   ],
+   "distancia_centros_xy_mm": 0.379,
+   "laminado_tramo_pelado": {
+    "margen_inferior_mm": 0.004,
+    "a_mm_del_pad": 0.0,
+    "centro_mundo_mm": [
+     -63.612,
+     17.3,
+     133.075
+    ]
+   },
+   "laminado_tramo_aislado": {
+    "margen_inferior_mm": 0.185,
+    "a_mm_del_pad": 2.679,
+    "centro_mundo_mm": [
+     -63.7969,
+     19.9446,
+     133.456
+    ]
+   },
+   "reserva_central": {
+    "margen_inferior_mm": 1.529,
+    "a_mm_del_pad": 0.0,
+    "centro_mundo_mm": [
+     -63.612,
+     17.3,
+     133.075
+    ]
+   },
+   "intervalo_afectado_por_caja_completa_mm": [
+    0.0,
+    3.679
+   ]
+  },
+  "W003": {
+   "pad": "BM",
+   "centro_foto_xy_mm": [
+    -63.393,
+    -23.086
+   ],
+   "centro_CAD_xy_mm": [
+    -63.812,
+    -22.8
+   ],
+   "distancia_centros_xy_mm": 0.508,
+   "laminado_tramo_pelado": {
+    "margen_inferior_mm": 0.1439,
+    "a_mm_del_pad": 1.4,
+    "centro_mundo_mm": [
+     -64.2351,
+     -21.4662,
+     133.0149
+    ]
+   },
+   "laminado_tramo_aislado": {
+    "margen_inferior_mm": 0.1511,
+    "a_mm_del_pad": 4.999,
+    "centro_mundo_mm": [
+     -66.5662,
+     -18.8221,
+     133.0221
+    ]
+   },
+   "reserva_central": {
+    "margen_inferior_mm": -2.0411,
+    "a_mm_del_pad": 2.719,
+    "centro_mundo_mm": [
+     -64.8771,
+     -20.3174,
+     133.0299
+    ]
+   },
+   "intervalo_afectado_por_caja_completa_mm": [
+    0.0,
+    5.559
+   ]
+  },
+  "W004": {
+   "pad": "P+",
+   "centro_foto_xy_mm": [
+    -49.816,
+    -22.695
+   ],
+   "centro_CAD_xy_mm": [
+    -49.812,
+    -22.8
+   ],
+   "distancia_centros_xy_mm": 0.105,
+   "laminado_tramo_pelado": {
+    "margen_inferior_mm": 0.004,
+    "a_mm_del_pad": 0.0,
+    "centro_mundo_mm": [
+     -49.812,
+     -22.8,
+     133.075
+    ]
+   },
+   "laminado_tramo_aislado": {
+    "margen_inferior_mm": -0.021,
+    "a_mm_del_pad": 53.747,
+    "centro_mundo_mm": [
+     -56.56,
+     -26.95,
+     131.275
+    ]
+   },
+   "reserva_central": {
+    "margen_inferior_mm": 0.229,
+    "a_mm_del_pad": 0.0,
+    "centro_mundo_mm": [
+     -49.812,
+     -22.8,
+     133.075
+    ]
+   },
+   "intervalo_afectado_por_caja_completa_mm": [
+    0.0,
+    53.747
+   ]
+  },
+  "W009": {
+   "pad": "P−",
+   "centro_foto_xy_mm": [
+    -56.206,
+    -22.749
+   ],
+   "centro_CAD_xy_mm": [
+    -56.612,
+    -22.8
+   ],
+   "distancia_centros_xy_mm": 0.409,
+   "laminado_tramo_pelado": {
+    "margen_inferior_mm": 0.004,
+    "a_mm_del_pad": 0.0,
+    "centro_mundo_mm": [
+     -56.612,
+     -22.8,
+     133.075
+    ]
+   },
+   "laminado_tramo_aislado": {
+    "margen_inferior_mm": 0.1291,
+    "a_mm_del_pad": 5.24,
+    "centro_mundo_mm": [
+     -52.845,
+     -26.2258,
+     133.3766
+    ]
+   },
+   "reserva_central": {
+    "margen_inferior_mm": 0.229,
+    "a_mm_del_pad": 0.0,
+    "centro_mundo_mm": [
+     -56.612,
+     -22.8,
+     133.075
+    ]
+   },
+   "intervalo_afectado_por_caja_completa_mm": [
+    0.0,
+    6.159
+   ]
+  }
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "volumen_original_mm3": 16576.02609741663,
+ "retirado_mm3": 17.71217226994748,
+ "volumen_STL_mm3": 16558.313963165383,
+ "radio_herramienta_mm": 1.04,
+ "volumen_isla_suprimida_mm3": 1.7564318815936129,
+ "margen_BM_entrada_P45_mm": 0.4722937829847201,
+ "choque_BM_con_antigua_P45_mm3": 7.72999379069348,
+ "choque_BM_entrada_corregida_mm3": 0.0,
+ "margen_BM_entrada_P65_mm": 1.8000004643428724,
+ "choque_BM_entrada_P65_mm3": 0.0,
+ "margen_BM_entrada_P83_mm": 4.0,
+ "choque_BM_entrada_P83_mm3": 0.0,
+ "error_volumen_cad_STL_mm3": 3.8018697523511946e-05,
+ "piezas_impresas": 1
+}

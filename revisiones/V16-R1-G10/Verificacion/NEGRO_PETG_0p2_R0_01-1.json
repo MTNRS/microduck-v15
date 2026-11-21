@@ -1,0 +1,49 @@
+{
+ "placa": "NEGRO_PETG_0p2_R0_01-1",
+ "piezas": [
+  "P69",
+  "P49",
+  "P06",
+  "P05",
+  "P13",
+  "P04",
+  "P12",
+  "P23",
+  "P37",
+  "P02",
+  "P10",
+  "P54",
+  "P14",
+  "P15",
+  "P07",
+  "P43",
+  "P61",
+  "P50",
+  "P46",
+  "P48",
+  "P71",
+  "P84",
+  "P17",
+  "P66",
+  "P63",
+  "P62",
+  "P55"
+ ],
+ "color": "NEGRO_PETG",
+ "capas_mm": "0.2",
+ "raft": "0",
+ "gramos": 232.87,
+ "pausas": {
+  "23.2": [
+   "P06 poner 2 tuercas M1.6",
+   "P04 poner 1 tuercas M1.6",
+   "P12 poner 1 tuercas M1.6"
+  ],
+  "20.2": [
+   "P23 poner 1 tuercas M1.6"
+  ]
+ },
+ "objetos": 27,
+ "objetos_gcode": 27,
+ "sha256": "ba018e0f18252e6854b3517c31b64a2f954519d8a999b708e1c76b18c75043dd"
+}

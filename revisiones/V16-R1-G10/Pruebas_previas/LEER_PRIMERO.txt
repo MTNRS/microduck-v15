@@ -1,0 +1,22 @@
+Microduck V16 R1 C · probetas de primera unidad
+Imprimir las cinco probetas en PETG, boquilla de 0,4 mm, capas de 0,2 mm,
+cuatro perímetros, escala 100%, sin soportes. Usar el mismo filamento y la
+misma compensación de agujeros que en el robot. Registrar las medidas.
+
+01. La muesca identifica la esquina inferior izquierda. Filas desde abajo:
+    Ø1,8 / 1,9 / 2,0; Ø2,1 / 2,2 / 2,3; Ø2,4 / 2,5 / 3,2 mm.
+    Los pasos para M1,6 y M2 deben dejar pasar el tornillo sin cortar rosca
+    en el plástico. Una probeta mayor no modifica automáticamente el CAD.
+
+02. Ventana nominal del cuerpo del servo: 23,4 × 12,8 mm.
+03. La misma ventana con 0,2 mm adicionales totales.
+04. La misma ventana con 0,4 mm adicionales totales.
+    Estas variantes miden una desviación; no justifican agrandar todo el
+    robot. No forzar el cuerpo, comprimir las pestañas ni apoyar en el eje.
+
+05. Tuercas, filas desde abajo: AF3,2 / 3,35 / 3,5 y AF4,0 / 4,2 / 4,3 mm.
+    Profundidad de los huecos M1,6: 1,5 mm; de los M2: 1,8 mm.
+    Usar las tuercas del lote real. Medir su altura, no sólo su ancho.
+
+
+A continuación, presenta P14 con P46 y P15 con P50. Comprueba que cada orejeta entra en el tetón y que su tapa cierra con los cables fuera de la junta.

@@ -1,0 +1,15 @@
+{
+ "placa": "NARANJA_TPU95A_0p2_R0_01",
+ "piezas": [
+  "P38",
+  "P39"
+ ],
+ "color": "NARANJA_TPU95A",
+ "capas_mm": "0.2",
+ "raft": "0",
+ "gramos": 15.24,
+ "pausas": {},
+ "objetos": 2,
+ "objetos_gcode": 2,
+ "sha256": "8c663e7b5a1fe523d3159d73c6f63a81388dc07184f7b549d5e2f0d3ff41bf30"
+}

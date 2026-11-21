@@ -1,0 +1,649 @@
+{
+ "intervalo_grados": [
+  0,
+  22
+ ],
+ "paso": 0.25,
+ "conductores": 153,
+ "radio_exterior_sobre_eje_mm": 61.29422067274349,
+ "deduccion_rotacion_mm": 0.13372321887810884,
+ "deduccion_entre_muestras_mm": 0.1,
+ "umbral_de_informe_mm": 2.5,
+ "piezas_moviles": [
+  "P36",
+  "P38",
+  "MG09_brazo_original_recortado",
+  "MG09_cubo_estriado_de_referencia",
+  "MG09_tornillo_original",
+  "Casquillo_igus_GSM_0405_04"
+ ],
+ "incidencias": {},
+ "proximidades": {
+  "W001": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W002": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W003": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W004": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W005": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W006": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W007": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W008": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W009": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W010": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W011": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W012": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W013": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W014": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W015": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W016": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W017": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W018": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W019": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W022": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W023": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W024": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W025": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W027": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W028": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W029": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W030": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W031": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W032": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W033": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W034": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W035": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W037": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W038": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W042": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W044": {
+   "cota_inferior_mm": 0.4684,
+   "pose_y_punto": [
+    22.0,
+    [
+     29.8691,
+     6.6482,
+     204.4304
+    ]
+   ]
+  },
+  "W045": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W046": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W047": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W048": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W050": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W051": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W052": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W053": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W058": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W059": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W060": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W062": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W063": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W064": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W065": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W070": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W071": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W072": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W073": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W074": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W075": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W076": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W077": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W078": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W079": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W080": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W081": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W082": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W083": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W084": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W085": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W086": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W087": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W088": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W089": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W090": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W091": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W092": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W093": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W094": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W095": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W096": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W097": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W098": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W099": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W100": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W101": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W102": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W103": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W104": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W105": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W106": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W107": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W108": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W109": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W110": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W111": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W112": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W113": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM00-1": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM00-2": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM00-3": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM01-1": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM01-2": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM01-3": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM02-1": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM02-2": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM02-3": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM03-1": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM03-2": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM03-3": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM04-1": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM04-2": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM04-3": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM05-1": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM05-2": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM05-3": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM06-1": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM06-2": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM06-3": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM07-1": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM07-2": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM07-3": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM08-1": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM08-2": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM08-3": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM09-1": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM09-2": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM09-3": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM10-1": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM10-2": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM10-3": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM11-1": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM11-2": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM11-3": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM12-1": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM12-2": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM12-3": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM13-1": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM13-2": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM13-3": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM14-1": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM14-2": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "OEM14-3": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "BAT01": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "BAT02": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "BAT03": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "BAT04": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "BAT05": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "H001": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "H002": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "H003": {
+   "cota_inferior_mm": 0.486,
+   "pose_y_punto": [
+    22.0,
+    [
+     0.4869,
+     41.7713,
+     228.3873
+    ]
+   ]
+  },
+  "H004": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "H005": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W114": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W115": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  },
+  "W116": {
+   "cota_inferior_mm": 2.5,
+   "pose_y_punto": null
+  }
+ }
+}

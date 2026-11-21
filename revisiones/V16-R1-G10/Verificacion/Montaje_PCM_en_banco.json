@@ -1,0 +1,70 @@
+{
+ "P45": {
+  "trayectoria_relativa": [
+   [
+    0.0,
+    0.0,
+    0.0
+   ],
+   [
+    0.0,
+    4.0,
+    -1.0
+   ],
+   [
+    0,
+    28,
+    -62
+   ]
+  ],
+  "interferencias_mm3": {},
+  "holguras_con_geometrias_proximas_mm": {
+   "B+ / P45": 0.491,
+   "P+ / P45": 0.495,
+   "P+ / V15_FUSE_MINI_01530007Z_0297005": 2.0,
+   "P− / P45": 0.489,
+   "P− / V15_FUSE_MINI_01530007Z_0297005": 0.62,
+   "P− / V15_FUSE_FR4_CARRIER": 0.618,
+   "BM / P45": 0.511,
+   "envolvente PCM / P45": 0.25,
+   "envolvente PCM / V15_FUSE_MINI_01530007Z_0297005": 1.8
+  }
+ },
+ "P83": {
+  "trayectoria_relativa": [
+   [
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    -68,
+    0
+   ]
+  ],
+  "interferencias_mm3": {},
+  "holguras_con_geometrias_proximas_mm": {
+   "B+ / P83": 2.0,
+   "envolvente PCM / P83": 2.0
+  }
+ },
+ "B− y bandeja G5": {
+  "ensayo": "B_menos_con_bandeja_validada.json",
+  "holguras_de_asiento_con_bandeja_final_mm": 0.3784,
+  "recorrido_P65_mm": [
+   [
+    0,
+    0,
+    -22
+   ],
+   [
+    0,
+    0,
+    0
+   ]
+  ],
+  "observacion": "El solape listado frente a P65 en el asiento del fichero de desarrollo mide el material de la bandeja anterior. El ensayo de entrada con la pieza definitiva mide la holgura tras retirar ese material."
+ },
+ "XT30_G5": "Barrido_XT30_G5.json"
+}

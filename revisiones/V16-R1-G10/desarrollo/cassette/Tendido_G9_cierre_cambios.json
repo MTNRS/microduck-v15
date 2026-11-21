@@ -1,0 +1,13 @@
+[
+ {
+  "hilo": "W115",
+  "obstaculo": "barrido_vertical",
+  "intervalo_desde_origen_mm": [
+   49.650974868005406,
+   69.36071881182797
+  ],
+  "antes": 0.19422742245859986,
+  "despues": 0.4654850771888371,
+  "desplazamiento_maximo_mm": 0.9111542356644616
+ }
+]

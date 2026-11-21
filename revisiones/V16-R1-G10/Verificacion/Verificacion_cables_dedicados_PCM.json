@@ -1,0 +1,84 @@
+{
+ "fuente": "https://www.te.com/en/product-216120-005.html",
+ "referencia": "55A0111-16-0, 16 AWG, cobre estañado, diámetro nominal 1,73 mm. Selección de montaje OD exterior máximo de 1,90 mm.",
+ "placa": {
+  "laminado_hipotesis_mm": 1.4,
+  "altura_total_ficha_mm": 3.6
+ },
+ "etapas": {
+  "B+": {
+   "asiento": {
+    "min_mm": 0.025,
+    "vecino": "laminado",
+    "solapes": {}
+   },
+   "entrada_en_P45": {
+    "min_mm": 0.81675,
+    "vecino": "P45",
+    "solapes": {}
+   },
+   "entrada_de_P83": {
+    "min_mm": 2.0,
+    "vecino": "P83",
+    "solapes": {}
+   }
+  },
+  "B−": {
+   "perfil_y_etapas": "B_menos_con_bandeja_validada.json",
+   "recorrido_mm": 9.0297,
+   "separacion_funda_a_PCM_mm": 0.191,
+   "margen_barrido_con_bandeja_G5_mm": 0.3784
+  },
+  "P+": {
+   "asiento": {
+    "min_mm": 0.025,
+    "vecino": "laminado",
+    "solapes": {}
+   },
+   "entrada_en_P45": {
+    "min_mm": 0.88389,
+    "vecino": "P45",
+    "solapes": {}
+   },
+   "entrada_de_P83": {
+    "min_mm": 5,
+    "vecino": null,
+    "solapes": {}
+   }
+  },
+  "P−": {
+   "asiento": {
+    "min_mm": 0.025,
+    "vecino": "laminado",
+    "solapes": {}
+   },
+   "entrada_en_P45": {
+    "min_mm": 0.53788,
+    "vecino": "P45",
+    "solapes": {}
+   },
+   "entrada_de_P83": {
+    "min_mm": 5,
+    "vecino": null,
+    "solapes": {}
+   }
+  },
+  "BM": {
+   "asiento": {
+    "min_mm": 0.16176,
+    "vecino": "laminado",
+    "solapes": {}
+   },
+   "entrada_en_P45": {
+    "min_mm": 0.46003,
+    "vecino": "P45",
+    "solapes": {}
+   },
+   "entrada_de_P83": {
+    "min_mm": 5,
+    "vecino": null,
+    "solapes": {}
+   }
+  }
+ }
+}

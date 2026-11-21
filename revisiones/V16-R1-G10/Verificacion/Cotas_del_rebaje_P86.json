@@ -1,0 +1,39 @@
+{
+ "volumen_inicial_mm3": 6843.812334895189,
+ "volumen_retirado_mm3": 1.3936524564078474,
+ "cierre_un_solo_solido": [
+  6842.418682438781
+ ],
+ "limites_del_corte": [
+  [
+   -3.547365939864661,
+   -5.889838102288637,
+   159.0
+  ],
+  [
+   1.0,
+   1.7128251907273542,
+   159.72
+  ]
+ ],
+ "margenes_antes": {
+  "W106": 0.336,
+  "W109": 0.3297,
+  "W115": 0.3638
+ },
+ "margenes_despues_estado_cerrado": {
+  "W106": 0.8634,
+  "W109": 0.9079,
+  "W115": 0.8008
+ },
+ "holgura_material_retirado_a_tornillos_mm": {
+  "F_M2x6_1": 16.1446,
+  "F_M2x6_2": 18.9679,
+  "F_M2x6_3": 9.5891,
+  "F_M2x6_4": 13.6952
+ },
+ "espesor_en_columnas_afectadas_min_mm": 2.270790844539505,
+ "profundidad_min_bajo_piel_superior_mm": 7.1696465331782235,
+ "cambio_maximo_perfil_superior_mm": 0,
+ "muestras_de_columnas": 641
+}

@@ -1,0 +1,65 @@
+{
+ "redes_verificadas": {
+  "3V3": [
+   "BASE_PULLUP.2",
+   "OE_PULLUP.2",
+   "Q1.1",
+   "W019"
+  ],
+  "GND": [
+   "DIV_LOWER.1",
+   "OFF_PULLDOWN.1",
+   "W025"
+  ],
+  "VSW": [
+   "DIV_UPPER.2",
+   "W034"
+  ],
+  "AIN0": [
+   "DIV_LOWER.2",
+   "DIV_UPPER.1",
+   "W035"
+  ],
+  "ALERT": [
+   "ALERT_BASE.2",
+   "W037",
+   "W038"
+  ],
+  "OFF": [
+   "COLLECTOR_OFF.2",
+   "OFF_PULLDOWN.2",
+   "W042"
+  ],
+  "OE": [
+   "OE_PULLUP.1",
+   "W044",
+   "W045"
+  ],
+  "COL": [
+   "COLLECTOR_OFF.1",
+   "Q1.3"
+  ],
+  "BASE": [
+   "ALERT_BASE.1",
+   "BASE_PULLUP.1",
+   "Q1.2"
+  ]
+ },
+ "contactos": 26,
+ "taladros_de_montaje": 2,
+ "vias": 8,
+ "minimo_entre_redes_mm": 0.275,
+ "minimo_cobre_al_borde_mm": 0.305,
+ "minimo_al_taladro_M2_mm": 2.7022,
+ "uniones_sustituidas_por_pistas": [
+  "W020",
+  "W021",
+  "W026",
+  "W036",
+  "W039",
+  "W040",
+  "W041",
+  "W043"
+ ],
+ "alcance": "Conectividad geométrica de los Gerber y los dos archivos de taladro leídos de vuelta. Pendientes de contrastar las nueve llegadas de cable en el robot y la prueba eléctrica de banco."
+}

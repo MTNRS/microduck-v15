@@ -1,0 +1,18 @@
+{
+ "placa": "AMARILLO_PETG_0p2_R0_01",
+ "piezas": [
+  "P40"
+ ],
+ "color": "AMARILLO_PETG",
+ "capas_mm": "0.2",
+ "raft": "0",
+ "gramos": 3.88,
+ "pausas": {},
+ "objetos": 1,
+ "objetos_gcode": 1,
+ "sha256": "4164c927ed7eb2539218d601773f0f1692a27b9cd6c888c3de46c7105ff3bc1d",
+ "objetos_confirmados_por_laminador": [
+  "P40"
+ ],
+ "fuente_recuento": "result.json de Bambu Studio tras laminar el 3MF"
+}

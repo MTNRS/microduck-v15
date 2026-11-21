@@ -1,0 +1,79 @@
+{
+ "tapa": {
+  "volumen_retirado_mm3": 13.300131073175857,
+  "porcentaje_retirado": 3.1192500372542633,
+  "carrera_de_colocacion_del_cable_mm": [
+   0.0,
+   0.0,
+   -7.0
+  ],
+  "distancia_a_herrajes_mm": {
+   "V12_HW_CASE_CLOSURE_03": 3.2059476045613353,
+   "V15_HW_BM_SSH_M2x8": 1.869928045849564
+  },
+  "distancia_a_piel_exterior_mm": 5.0,
+  "holgura_del_cable_durante_la_colocacion_mm": 0.4853899149656247,
+  "solidos_resultantes": 1
+ },
+ "control_de_los_tramos_nuevos": {
+  "W003": {
+   "solidos": {
+    "P66": 0.4057,
+    "V8_BALANCE_XHP3_NOMINAL": 0.2288,
+    "V15_BM_CUSTOM_FR4": 0.2285,
+    "P83": 0.4171
+   },
+   "fundas": {},
+   "puerto": [
+    -49.0,
+    32.0,
+    159.85
+   ]
+  },
+  "BAT03": {
+   "solidos": {
+    "V8_BALANCE_XHP3_NOMINAL": 0.178
+   },
+   "fundas": {
+    "BAT04": 0.3609,
+    "BAT05": 0.5692
+   },
+   "puerto": [
+    -47.45,
+    20.6,
+    157.35
+   ]
+  },
+  "BAT04": {
+   "solidos": {
+    "V8_BALANCE_XHP3_NOMINAL": 0.1786,
+    "G4_XT30_cuerpo_XT30U_acoplado": 0.423
+   },
+   "fundas": {
+    "BAT01": 0.7081,
+    "BAT03": 0.3609,
+    "BAT05": 0.351
+   },
+   "puerto": [
+    -47.45,
+    20.6,
+    159.85
+   ]
+  },
+  "BAT05": {
+   "solidos": {
+    "V8_BALANCE_XHP3_NOMINAL": 0.1782,
+    "G4_XT30_manga_BAT01": 0.4108
+   },
+   "fundas": {
+    "BAT01": 0.4659,
+    "BAT03": 0.5692
+   },
+   "puerto": [
+    -47.45,
+    20.6,
+    162.35
+   ]
+  }
+ }
+}

@@ -1,0 +1,431 @@
+{
+ "angulo": 22.0,
+ "trayectoria_mm": [
+  0,
+  0,
+  45
+ ],
+ "elementos_rigidos": {
+  "P36 / P07": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 5
+  },
+  "P36 / P23": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / P30": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / P33": {
+   "separacion_certificada_mm": 0.33596,
+   "intervalos": 15
+  },
+  "P36 / P34": {
+   "separacion_certificada_mm": 0.1447,
+   "intervalos": 235
+  },
+  "P36 / P35": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / P39": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / P48": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / P49": {
+   "separacion_certificada_mm": 0.14844,
+   "intervalos": 49
+  },
+  "P36 / P54": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / P69": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 9
+  },
+  "P36 / P79": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / P80": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HW_MG08_F_M1p6x6": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HW_MG08_F_WASHER": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HW_MG08_F_NUT": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HW_MG08_R_M1p6x6": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / V7_HW_MG08_R_WASHER": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / V7_HW_MG08_R_NUT": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / V7_HW_MG09_F_M1p6x6": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 7
+  },
+  "P36 / V7_HW_MG09_F_WASHER": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 7
+  },
+  "P36 / V7_HW_MG09_F_NUT": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 5
+  },
+  "P36 / V7_HW_MG09_R_M1p6x6": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / V7_HW_MG09_R_WASHER": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / V7_HW_MG09_R_NUT": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / V7_HW_CAP10_0_M2x6": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HW_CAP10_0_WASHER": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HW_CAP10_1_M2x6": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HW_CAP10_1_WASHER": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HW_PASSIVE_HEAD10_M2x10": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HW_PASSIVE_HEAD10_WASHER": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HW_PASSIVE_HEAD10_HARD_SHIM": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HW_PASSIVE_HEAD10_NUT": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HEAD_HW_TOP_2": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HEAD_HW_TOP_3": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HEAD_HW_FACE_0": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HEAD_HW_FACE_1": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HEAD_HW_CORE_1": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / V7_HEAD_HW_CORE_2": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HEAD_HW_PI_CORE_0": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HEAD_HW_PI_CORE_1": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HEAD_HW_PI_CORE_2": {
+   "separacion_certificada_mm": 0.53799,
+   "intervalos": 1
+  },
+  "P36 / V7_HW_PCB_PI_1_M2x10": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_HW_PCB_PI_3_M2x10": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_SRC_V4_MD_neck_pitch__seeed_bearing__configuration__22x16x4": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_SRC_V4_MD_yaw_roll_motion__seeed_bearing__configura_0c367e2a": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_SRC_V4_MD_08_eje_metal": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_SRC_V4_MD_08_MG90S_CUERPO": {
+   "separacion_certificada_mm": 0.33902,
+   "intervalos": 1
+  },
+  "P36 / V7_SRC_V4_MD_08_pestana": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_SRC_V4_MD_08_pestana.001": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / V7_SRC_V4_MD_08_tapa": {
+   "separacion_certificada_mm": 0.30218,
+   "intervalos": 1
+  },
+  "P36 / V7_SRC_V4_MD_08_tornillo_tapa": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_SRC_V4_MD_08_tornillo_tapa.001": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_SRC_V4_MD_08_tornillo_tapa.002": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_SRC_V4_MD_08_tornillo_tapa.003": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_SRC_V4_MD_08_torre_auxiliar": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_SRC_V4_MD_08_torre_salida": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V7_SRC_V4_MD_09_eje_metal": {
+   "separacion_certificada_mm": 0.14325,
+   "intervalos": 67
+  },
+  "P36 / V7_SRC_V4_MD_09_MG90S_CUERPO": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 9
+  },
+  "P36 / V7_SRC_V4_MD_09_pestana": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 7
+  },
+  "P36 / V7_SRC_V4_MD_09_pestana.001": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 5
+  },
+  "P36 / V7_SRC_V4_MD_09_tapa": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 9
+  },
+  "P36 / V7_SRC_V4_MD_09_tornillo_tapa": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 7
+  },
+  "P36 / V7_SRC_V4_MD_09_tornillo_tapa.001": {
+   "separacion_certificada_mm": 0.17315,
+   "intervalos": 7
+  },
+  "P36 / V7_SRC_V4_MD_09_tornillo_tapa.002": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / V7_SRC_V4_MD_09_tornillo_tapa.003": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 5
+  },
+  "P36 / V7_SRC_V4_MD_09_torre_auxiliar": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 11
+  },
+  "P36 / V7_SRC_V4_MD_09_torre_salida": {
+   "separacion_certificada_mm": 0.40373,
+   "intervalos": 15
+  },
+  "P36 / V15_HW_SERVICE_MG08_0_BOLT_M2x8": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / V15_HW_SERVICE_MG08_0_WASHER": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / V15_HW_SERVICE_MG08_0_NUT": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / V15_HW_SERVICE_MG08_1_BOLT_M2x8": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / V15_HW_SERVICE_MG08_1_WASHER": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / V15_HW_SERVICE_MG08_1_NUT": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 3
+  },
+  "P36 / V15_EYE_REAR_WASHER_0": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V15_EYE_REAR_NUT_0": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V15_EYE_REAR_WASHER_1": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V15_EYE_REAR_NUT_1": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V15_HW_ETCLAMP_08F_0_M2x12_ASSY": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V15_HW_ETCLAMP_08F_1_M2x12_ASSY": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V15_HW_6701CLAMP_10R_0_M2x11_ASSY": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / V15_HW_6701CLAMP_10R_1_M2x11_ASSY": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 1
+  },
+  "P36 / MG07 · enchufe OEM y hembra Y": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 5
+  },
+  "P36 / Arandela_M3": {
+   "separacion_certificada_mm": 0.17693,
+   "intervalos": 119
+  },
+  "P36 / Tuerca_M3": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 11
+  },
+  "P38 / P34": {
+   "separacion_certificada_mm": 0.18431,
+   "intervalos": 1
+  },
+  "P38 / V7_HEAD_HW_CORE_1": {
+   "separacion_certificada_mm": 0.29789,
+   "intervalos": 1
+  },
+  "Casquillo_igus_GSM_0405_04 / P33": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 5
+  },
+  "Casquillo_igus_GSM_0405_04 / P34": {
+   "separacion_certificada_mm": 0.16435,
+   "intervalos": 57
+  },
+  "Casquillo_igus_GSM_0405_04 / P49": {
+   "separacion_certificada_mm": 0.55,
+   "intervalos": 5
+  },
+  "Casquillo_igus_GSM_0405_04 / Arandela_M3": {
+   "separacion_certificada_mm": 0.29844,
+   "intervalos": 27
+  }
+ },
+ "no_resueltos": [],
+ "ramales_con_menos_de_1_mm": {
+  "W044": [
+   -1.2073,
+   [
+    31.499,
+    6.446,
+    197.462
+   ],
+   7.6
+  ],
+  "W087": [
+   -2.3226,
+   [
+    32.995,
+    -15.376,
+    162.445
+   ],
+   44.8
+  ],
+  "W096": [
+   -1.0743,
+   [
+    30.797,
+    14.965,
+    160.159
+   ],
+   44.8
+  ],
+  "OEM06-1": [
+   -1.7899,
+   [
+    33.67,
+    -12.294,
+    159.914
+   ],
+   44.8
+  ],
+  "OEM06-3": [
+   -1.7857,
+   [
+    33.811,
+    -7.009,
+    160.626
+   ],
+   44.0
+  ],
+  "H003": [
+   -1.5312,
+   [
+    1.069,
+    41.565,
+    222.2
+   ],
+   13.2
+  ]
+ }
+}

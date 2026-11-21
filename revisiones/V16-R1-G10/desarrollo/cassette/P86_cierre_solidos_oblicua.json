@@ -1,0 +1,114 @@
+{
+ "total_solidos": 782,
+ "envolventes_de_empalmes_y_conectores": 24,
+ "excluidos": [
+  "P86",
+  "barrido_vertical",
+  "barrido_horizontal",
+  "F_M2x6_1",
+  "F_M2x6_2",
+  "F_M2x6_3",
+  "F_M2x6_4",
+  "F_M2x6_1 punta y varilla",
+  "F_M2x6_1 mango",
+  "F_M2x6_1 entrada del tornillo",
+  "F_M2x6_2 punta y varilla",
+  "F_M2x6_2 mango",
+  "F_M2x6_2 entrada del tornillo",
+  "F_M2x6_3 punta y varilla",
+  "F_M2x6_3 mango",
+  "F_M2x6_3 entrada del tornillo",
+  "F_M2x6_4 punta y varilla",
+  "F_M2x6_4 mango",
+  "F_M2x6_4 entrada del tornillo"
+ ],
+ "tramos": [
+  {
+   "desde": [
+    -90.0,
+    0.0,
+    14.0
+   ],
+   "hasta": [
+    -18.0,
+    0.0,
+    14.0
+   ],
+   "proximidades": {}
+  },
+  {
+   "desde": [
+    -18.0,
+    0.0,
+    14.0
+   ],
+   "hasta": [
+    0.0,
+    0.0,
+    8.0
+   ],
+   "proximidades": {
+    "P44": {
+     "margen_inferior_mm": 0.2384,
+     "interseccion": null,
+     "evaluaciones": 335
+    },
+    "P45": {
+     "margen_inferior_mm": 0.9633,
+     "interseccion": null,
+     "evaluaciones": 7
+    }
+   }
+  },
+  {
+   "desde": [
+    0.0,
+    0.0,
+    8.0
+   ],
+   "hasta": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "proximidades": {
+    "P44": {
+     "margen_inferior_mm": -0.0156,
+     "interseccion": null,
+     "evaluaciones": 329
+    },
+    "P45": {
+     "margen_inferior_mm": 0.3044,
+     "interseccion": null,
+     "evaluaciones": 376
+    },
+    "V7_ELEC_PCA9685_REV_C_PCB": {
+     "margen_inferior_mm": 0.9,
+     "interseccion": null,
+     "evaluaciones": 2
+    },
+    "V15_PDB_3108_2827_0801_ENVOLVENTE": {
+     "margen_inferior_mm": 0.4,
+     "interseccion": null,
+     "evaluaciones": 24
+    },
+    "P83": {
+     "margen_inferior_mm": 0.3044,
+     "interseccion": null,
+     "evaluaciones": 376
+    },
+    "P84": {
+     "margen_inferior_mm": 0.4644,
+     "interseccion": null,
+     "evaluaciones": 116
+    },
+    "P85": {
+     "margen_inferior_mm": 0.4644,
+     "interseccion": null,
+     "evaluaciones": 116
+    }
+   }
+  }
+ ],
+ "metodo": "Distancia entre mallas con poda por cajas y por distancia de Hausdorff de cada traslaci\u00f3n. Se resta el semidesplazamiento del intervalo; intersecci\u00f3n de volumen calculada si la distancia es cero. Las cuatro fijaciones de la propia tapa se ponen despu\u00e9s."
+}

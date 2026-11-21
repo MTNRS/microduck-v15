@@ -1,0 +1,1172 @@
+[
+ {
+  "pieza": "P04",
+  "direccion": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "silueta_pieza_mm2": 3.07313,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P06",
+  "direccion": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "silueta_pieza_mm2": 3.25508,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P11",
+  "direccion": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P12",
+  "direccion": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "silueta_pieza_mm2": 3.13475,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P23",
+  "direccion": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "silueta_pieza_mm2": 6.16118,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P37",
+  "direccion": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "silueta_pieza_mm2": 0.22651,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P44",
+  "direccion": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P49",
+  "direccion": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "silueta_pieza_mm2": 0.68725,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P65",
+  "direccion": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P04",
+  "direccion": [
+   0.0,
+   0.707107,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 0.01691,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P06",
+  "direccion": [
+   0.0,
+   0.707107,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 2.0044,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P11",
+  "direccion": [
+   0.0,
+   0.707107,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P12",
+  "direccion": [
+   0.0,
+   0.707107,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P23",
+  "direccion": [
+   0.0,
+   0.707107,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 5.82296,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P37",
+  "direccion": [
+   0.0,
+   0.707107,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P44",
+  "direccion": [
+   0.0,
+   0.707107,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P49",
+  "direccion": [
+   0.0,
+   0.707107,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P65",
+  "direccion": [
+   0.0,
+   0.707107,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 3.47777,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P04",
+  "direccion": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.02392,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P06",
+  "direccion": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P11",
+  "direccion": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.00017,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P12",
+  "direccion": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.10617,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P23",
+  "direccion": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 9.23849,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P37",
+  "direccion": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 8.85976,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P44",
+  "direccion": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P49",
+  "direccion": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 4.8369,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P65",
+  "direccion": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 4.31841,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P04",
+  "direccion": [
+   0.0,
+   0.707107,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P06",
+  "direccion": [
+   0.0,
+   0.707107,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 2.83205,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P11",
+  "direccion": [
+   0.0,
+   0.707107,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P12",
+  "direccion": [
+   0.0,
+   0.707107,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P23",
+  "direccion": [
+   0.0,
+   0.707107,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 11.13521,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P37",
+  "direccion": [
+   0.0,
+   0.707107,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 1e-05,
+  "cambio_del_contorno_montado_mm2": 1e-05
+ },
+ {
+  "pieza": "P44",
+  "direccion": [
+   0.0,
+   0.707107,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P49",
+  "direccion": [
+   0.0,
+   0.707107,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P65",
+  "direccion": [
+   0.0,
+   0.707107,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P04",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P06",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 7.17569,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P11",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P12",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 0.01704,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P23",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 1.4851,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P37",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 1.63363,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P44",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P49",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P65",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P04",
+  "direccion": [
+   0.707107,
+   -0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P06",
+  "direccion": [
+   0.707107,
+   -0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 1.20367,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P11",
+  "direccion": [
+   0.707107,
+   -0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P12",
+  "direccion": [
+   0.707107,
+   -0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.59744,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P23",
+  "direccion": [
+   0.707107,
+   -0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P37",
+  "direccion": [
+   0.707107,
+   -0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 9.61638,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P44",
+  "direccion": [
+   0.707107,
+   -0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P49",
+  "direccion": [
+   0.707107,
+   -0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0735,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P65",
+  "direccion": [
+   0.707107,
+   -0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.89061,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P04",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 1.45161,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P06",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 0.70377,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P11",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P12",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 0.02735,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P23",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 1.0735,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P37",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 0.24885,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P44",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 5.64209,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P49",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 0.26962,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P65",
+  "direccion": [
+   0.57735,
+   -0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 1.84278,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P04",
+  "direccion": [
+   0.707107,
+   0.0,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 0.63419,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P06",
+  "direccion": [
+   0.707107,
+   0.0,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 12.88189,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P11",
+  "direccion": [
+   0.707107,
+   0.0,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P12",
+  "direccion": [
+   0.707107,
+   0.0,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P23",
+  "direccion": [
+   0.707107,
+   0.0,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P37",
+  "direccion": [
+   0.707107,
+   0.0,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P44",
+  "direccion": [
+   0.707107,
+   0.0,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P49",
+  "direccion": [
+   0.707107,
+   0.0,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 0.73744,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P65",
+  "direccion": [
+   0.707107,
+   0.0,
+   -0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P04",
+  "direccion": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.02114,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P06",
+  "direccion": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P11",
+  "direccion": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P12",
+  "direccion": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P23",
+  "direccion": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.13148,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P37",
+  "direccion": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 4.96423,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P44",
+  "direccion": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P49",
+  "direccion": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 2.19791,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P65",
+  "direccion": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P04",
+  "direccion": [
+   0.707107,
+   0.0,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P06",
+  "direccion": [
+   0.707107,
+   0.0,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 0.07159,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P11",
+  "direccion": [
+   0.707107,
+   0.0,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P12",
+  "direccion": [
+   0.707107,
+   0.0,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 0.03575,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P23",
+  "direccion": [
+   0.707107,
+   0.0,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P37",
+  "direccion": [
+   0.707107,
+   0.0,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P44",
+  "direccion": [
+   0.707107,
+   0.0,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 4.75559,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P49",
+  "direccion": [
+   0.707107,
+   0.0,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 1.07337,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P65",
+  "direccion": [
+   0.707107,
+   0.0,
+   0.707107
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P04",
+  "direccion": [
+   0.57735,
+   0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 0.17178,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P06",
+  "direccion": [
+   0.57735,
+   0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P11",
+  "direccion": [
+   0.57735,
+   0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P12",
+  "direccion": [
+   0.57735,
+   0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P23",
+  "direccion": [
+   0.57735,
+   0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 1.32321,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P37",
+  "direccion": [
+   0.57735,
+   0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 1.93029,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P44",
+  "direccion": [
+   0.57735,
+   0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P49",
+  "direccion": [
+   0.57735,
+   0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 3.25941,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P65",
+  "direccion": [
+   0.57735,
+   0.57735,
+   -0.57735
+  ],
+  "silueta_pieza_mm2": 1.67138,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P04",
+  "direccion": [
+   0.707107,
+   0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 2.98265,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P06",
+  "direccion": [
+   0.707107,
+   0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 1.53103,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P11",
+  "direccion": [
+   0.707107,
+   0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P12",
+  "direccion": [
+   0.707107,
+   0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P23",
+  "direccion": [
+   0.707107,
+   0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P37",
+  "direccion": [
+   0.707107,
+   0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 5.49661,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P44",
+  "direccion": [
+   0.707107,
+   0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P49",
+  "direccion": [
+   0.707107,
+   0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 7.42789,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P65",
+  "direccion": [
+   0.707107,
+   0.707107,
+   0.0
+  ],
+  "silueta_pieza_mm2": 0.00084,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P04",
+  "direccion": [
+   0.57735,
+   0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P06",
+  "direccion": [
+   0.57735,
+   0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 1.01959,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P11",
+  "direccion": [
+   0.57735,
+   0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P12",
+  "direccion": [
+   0.57735,
+   0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 0.32564,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P23",
+  "direccion": [
+   0.57735,
+   0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P37",
+  "direccion": [
+   0.57735,
+   0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 2.26243,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P44",
+  "direccion": [
+   0.57735,
+   0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 0.01772,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P49",
+  "direccion": [
+   0.57735,
+   0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ },
+ {
+  "pieza": "P65",
+  "direccion": [
+   0.57735,
+   0.57735,
+   0.57735
+  ],
+  "silueta_pieza_mm2": 0.0,
+  "cambio_del_contorno_montado_mm2": 0.0
+ }
+]

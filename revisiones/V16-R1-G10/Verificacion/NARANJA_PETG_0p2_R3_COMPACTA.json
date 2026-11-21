@@ -1,0 +1,15 @@
+{
+ "placa": "NARANJA_PETG_0p2_R3_COMPACTA",
+ "piezas": [
+  "P36",
+  "P34"
+ ],
+ "color": "NARANJA_PETG",
+ "capas_mm": "0.2",
+ "raft": "3",
+ "gramos": 59.12,
+ "pausas": {},
+ "objetos": 2,
+ "objetos_gcode": 2,
+ "sha256": "0c686e11c8337d3f32287545208ff43c086eb59e9a826c746daf34b6085cf93b"
+}

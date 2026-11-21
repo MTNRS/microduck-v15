@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<link rel="icon" type="image/png" href="https://a.pololu-files.com/assets/favicon_32x32-f40058cd34e1fec5906522ec0c9eb39b303192067c0e353a30796e859ce41106.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://a.pololu-files.com/assets/favicon_192x192-52532413e1c353491bfa0a2dd977aacf020e8ca4104064094121739bad21c4bf.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="https://a.pololu-files.com/assets/favicon_96x96-fcf7f6d6568f76d479e5ae1822ded335e0bbd75ab7efd0de7e010bb41fd83e41.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="https://a.pololu-files.com/assets/favicon_16x16-13632635dc6dd0e11ba9a38071e8218d26d62e71f8ebafacd9929c3136117372.png" sizes="16x16" />
+<link rel="apple-touch-icon" type="image/png" href="https://a.pololu-files.com/assets/favicon_96x96-fcf7f6d6568f76d479e5ae1822ded335e0bbd75ab7efd0de7e010bb41fd83e41.png" />
+<link crossorigin='anonymous' href='https://a.pololu-files.com/mirror/maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' integrity='sha256-AIodEDkC8V/bHBkfyxzolUMw57jeQ9CauwhVW6YJ9CA=' media='all' rel='stylesheet'>
+<link crossorigin='anonymous' href='https://a.pololu-files.com/mirror/cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css' integrity='sha256-2RdmDD1veq0y68SwASxtC7hKE+IBoBLjNLzKS59Ghsk=' media='all' rel='stylesheet'>
+<link crossorigin='anonymous' href='https://a.pololu-files.com/mirror/cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css' integrity='sha256-etrwgFLGpqD4oNAFW08ZH9Bzif5ByXK2lXNHKy7LQGo=' media='all' rel='stylesheet'>
+<link rel="stylesheet" crossorigin="anonymous" href="https://a.pololu-files.com/assets/application-6c47e7bbf8b1d7a9273536f8219c3ef577a02e79df7e2ff8ba23d96132a74463.css" media="all" integrity="sha256-BhRmp00yDGd0h0qY3chly5KMMh6pKFhr4dCg9F/+SnM=" />
+<script crossorigin='anonymous' integrity='sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=' src='https://a.pololu-files.com/mirror/code.jquery.com/jquery-1.12.4.min.js'></script>
+<script crossorigin='anonymous' integrity='sha256-4Cr335oZDYg4Di3OwgUOyqSTri0jUm2+7Gf2kH3zp1I=' src='https://a.pololu-files.com/mirror/cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js'></script>
+<script crossorigin='anonymous' integrity='sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=' src='https://a.pololu-files.com/mirror/code.jquery.com/ui/1.12.1/jquery-ui.min.js'></script>
+<link crossorigin='anonymous' href='https://a.pololu-files.com/mirror/code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css' integrity='sha256-RPilbUJ5F7X6DdeTO6VFZ5vl5rO5MJnmSk4pwhWfV8A' media='all' rel='stylesheet'>
+<script class='braintree-gateway' src='https://js.braintreegateway.com/web/3.88.4/js/client.min.js'></script>
+<script class='braintree-gateway' src='https://js.braintreegateway.com/web/3.88.4/js/hosted-fields.min.js'></script>
+<script src="https://a.pololu-files.com/assets/application-e66fa754e0b8e9eae8aee5400dcc87c5ee1d32ff5bab89453abb5e6c323cf188.js" crossorigin="anonymous" integrity="sha256-cxg73x+CuJ9fbknOm5DiNGrnSQBhfh1wqgIN0YnEqoE="></script>
+<script type="importmap" data-turbo-track="reload">{
+  "integrity":
+{"https://a.pololu-files.com/assets/application_module-765f0f526c59caa9c9857c01889e68833710c17121ab6f9093f3a0a809af7bd4.js":"sha256-s+WZHcA06TsuXtPz2xeDSGgG6j+QSXvT2ghPYhJLLow=","https://a.pololu-files.com/assets/price_notification-e46ad505e4a01eb1a311cfc2e3e1bcc1fb6b1df47904cd3266d1c604e186aeef.js":"sha256-dMqQKgrJg+aoe44ZPYCTOrmXPQmzk+4dG1qmmdt6iSA=","https://a.pololu-files.com/assets/stock_notification-f27d00b99405c410cf3c23f1f151c5701276c2577449e2123ab34938e82d92d6.js":"sha256-TXG5Dvr05BAeQMNdQcyJS5Z5IQtw4aqM0HM1/m/QxoE=","https://a.pololu-files.com/assets/email_verification_send_handler-c06bf3ee7010809c6f7e62c9ae106d071a9373dce8c9e6c324c07aeacd069db2.js":"sha256-Rjuw+y6QuyfBGxpXeTICO2/PJRg4iMfzzleu7n7XUz8=","https://a.pololu-files.com/assets/payment_handler-49a20512068cb88565bc275464d6002af52baec06430fbdc9480f530a2c5b9a7.js":"sha256-PmVdEt5BorGjsZxOo7BfGw8aes3BCxnDQvw55paraHo="},
+  "imports": {
+    "application": "https://a.pololu-files.com/assets/application_module-765f0f526c59caa9c9857c01889e68833710c17121ab6f9093f3a0a809af7bd4.js",
+    "price_notification": "https://a.pololu-files.com/assets/price_notification-e46ad505e4a01eb1a311cfc2e3e1bcc1fb6b1df47904cd3266d1c604e186aeef.js",
+    "stock_notification": "https://a.pololu-files.com/assets/stock_notification-f27d00b99405c410cf3c23f1f151c5701276c2577449e2123ab34938e82d92d6.js",
+    "email_verification_send_handler": "https://a.pololu-files.com/assets/email_verification_send_handler-c06bf3ee7010809c6f7e62c9ae106d071a9373dce8c9e6c324c07aeacd069db2.js",
+    "payment_handler": "https://a.pololu-files.com/assets/payment_handler-49a20512068cb88565bc275464d6002af52baec06430fbdc9480f530a2c5b9a7.js",
+    "braintree": "https://js.braintreegateway.com/web/dropin/1.46.1/js/dropin.js"
+  }
+}</script>
+
+<script type="module">import "application"</script>
+<script>
+  if(document.domain.indexOf("pololu-files.com") == -1) {
+    $.ajax({
+    url: "https://www.googletagmanager.com/gtag/js?id=G-G4ENPJ5RV1",
+    dataType: "script"
+    });
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', "G-G4ENPJ5RV1");
+  }
+</script>
+
+<link rel="stylesheet" href="https://a.pololu-files.com/assets/print-ac5d562ac93a31ac3e5c942e261bf17032bf5da61b940dea46300fe83f1e72dc.css" media="print" />
+
+<title>Pololu - Big Pushbutton Power Switch with Reverse Voltage Protection, HP</title>
+
+<meta name="description" content="The Pololu Pushbutton Power Switches are sophisticated power control alternatives to bulky mechanical switches.  The main function is pushbutton-based latching power control, where one push turns on power and another push turns it off.  Additional control inputs allow advanced applications such as automatic shutdown by the device being powered.  This HP version operates from 4.5 V to 40 V and can deliver continuous currents up to around 16 A." />
+<meta name="keywords" content="Pololu,robotics,robot electronics,robot kits,robot parts,ir beacon,servo controller,motor controller,robot sensors,robot chassis,robot gearboxes,robot tires, ball casters, tamiya parts,elenco kits" />
+<meta property="og:url" content="https://www.pololu.com/product/2813" />
+<meta property="og:title" content="Pololu - Big Pushbutton Power Switch with Reverse Voltage Protection, HP" />
+<meta property="og:description" content="The Pololu Pushbutton Power Switches are sophisticated power control alternatives to bulky mechanical switches.  The main function is pushbutton-based latching power control, where one push turns on power and another push turns it off.  Additional control inputs allow advanced applications such as automatic shutdown by the device being powered.  This HP version operates from 4.5 V to 40 V and can deliver continuous currents up to around 16 A." />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="627" />
+<meta property="og:image" content="https://a.pololu-files.com/picture/0J6925.1200x627.jpg?8e2ae8ec11c6f8335c6470266db32fde" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@Pololu" />
+<meta name="twitter:title" content="Pololu - Big Pushbutton Power Switch with Reverse Voltage Protection, HP" />
+<meta name="twitter:description" content="The Pololu Pushbutton Power Switches are sophisticated power control alternatives to bulky mechanical switches.  The main function is pushbutton-based latching power control, where one push turns on power and another push turns it off.  Additional control inputs allow advanced applications such as automatic shutdown by the device being powered.  This HP version operates from 4.5 V to 40 V and can deliver continuous currents up to around 16 A." />
+<meta name="twitter:image" content="https://a.pololu-files.com/picture/0J6925.1200x627.jpg?8e2ae8ec11c6f8335c6470266db32fde" />
+<script class='structured_data' type='application/ld+json'>
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Electronics Prototyping","item":"https://www.pololu.com/category/14/electronics-prototyping"},{"@type":"ListItem","position":2,"name":"Switches, Buttons, and Relays","item":"https://www.pololu.com/category/81/switches-buttons-and-relays"},{"@type":"ListItem","position":3,"name":"Pololu Power Switches","item":"https://www.pololu.com/category/121/pololu-power-switches"}]}
+</script>
+<script class='structured_data' type='application/ld+json'>
+{"@context":"https://schema.org","@type":"Product","image":"https://a.pololu-files.com/picture/0J6925.600x480.jpg?8e2ae8ec11c6f8335c6470266db32fde","name":"Big Pushbutton Power Switch with Reverse Voltage Protection, HP","description":"The Pololu Pushbutton Power Switches are sophisticated power control alternatives to bulky mechanical switches.  The main function is pushbutton-based latching power control, where one push turns on power and another push turns it off.  Additional control inputs allow advanced applications such as automatic shutdown by the device being powered.  This HP version operates from 4.5 V to 40 V and can deliver continuous currents up to around 16 A.","sku":2813,"brand":"Pololu","offers":{"@type":"Offer","price":"8.95","priceCurrency":"USD","URL":"https://www.pololu.com/product/2813","availability":"InStock"}}
+</script>
+
+<script src="https://a.pololu-files.com/assets/syntaxhighlight-91017fb9868118fd42306075e0164112dd3d3e16331dc462f55ad4497e7fca3d.js" defer="defer"></script>
+</head>
+
+<body class='math_ignore' onload='externalLinksNewWindow(); if(document.onLoadHandler){document.onLoadHandler();}  productInit(&#39;/product/2813&#39;);'>
+
+<div id='main'>
+<h2 id="breadcrumbs"><a href="/category/14/electronics-prototyping">Electronics Prototyping</a> &raquo; <a href="/category/81/switches-buttons-and-relays">Switches, Buttons, and Relays</a> &raquo; <a href="/category/121/pololu-power-switches">Pololu Power Switches</a> &raquo;</h2>
+<h1 id="page_title">Big Pushbutton Power Switch with Reverse Voltage Protection, HP</h1>
+<div data-url='/product/2813' id='contents'>
+<!-- CONTENTS_BEGIN /product/2813 -->
+<div data-javascript-not-loaded-message='&lt;!-- javascript_not_loaded_message --&gt;&lt;strong&gt;Warning:&lt;/strong&gt; Your browser failed to load our JavaScript files, which are required for checkout.  Please check that you are not blocking or disabling our scripts and &lt;a href=&quot;/contact&quot;&gt;contact us&lt;/a&gt; if you are still unable to proceed.' id='javascript_not_loaded_message' style='display:none;'></div>
+<div data-braintree-not-loaded-message='&lt;!-- braintree_not_loaded_message --&gt;&lt;p&gt;&lt;strong&gt;Warning:&lt;/strong&gt; Your browser failed to connect to our secure payment processor, Braintree Payments.  You will be unable to enter your credit card information at  the payment step of checkout unless this is fixed.&lt;/p&gt;
+&lt;p&gt;Some things to try:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Check for network problems or things like script blockers that could be blocking &lt;a href=&quot;https://js.braintreegateway.com/web/3.58.0/js/client.min.js&quot;&gt;this file&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;Try completing checkout on a device on a different network, such as a phone with Wi-Fi disabled.&lt;/li&gt;
+	&lt;li&gt;Select the option to pay with PayPal and enter your credit card on their site. (You don&amp;#8217;t need a PayPal account.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please &lt;a href=&quot;/contact&quot;&gt;contact us&lt;/a&gt; if you continue to have trouble with checkout!&lt;/p&gt;' id='braintree_not_loaded_message' style='display:none;'></div>
+
+<div class='product_top'><span class='product_top_pictures'>
+<div>
+<a class="noscript-fallback" href="https://a.pololu-files.com/picture/0J6925.1200.jpg?8e2ae8ec11c6f8335c6470266db32fde"><img alt="" title="Click to zoom" id="main_picture_img" class="zoomable" data-gallery-pictures="[{&quot;id&quot;:&quot;0J6925&quot;,&quot;caption&quot;:&quot;\u003cp\u003eBig Pushbutton Power Switch with Reverse Voltage Protection, HP.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6925.98x98.jpg?8e2ae8ec11c6f8335c6470266db32fde&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6925.600x480.jpg?8e2ae8ec11c6f8335c6470266db32fde&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6925.1200.jpg?8e2ae8ec11c6f8335c6470266db32fde&quot;,&quot;longest_side&quot;:1200},{&quot;id&quot;:&quot;0J6926&quot;,&quot;caption&quot;:&quot;\u003cp\u003eBig Pushbutton Power Switch with Reverse Voltage Protection, HP.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6926.98x98.jpg?10b62940ee3720f2a4f2bdd5116f4c1a&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6926.600x480.jpg?10b62940ee3720f2a4f2bdd5116f4c1a&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6926.1200.jpg?10b62940ee3720f2a4f2bdd5116f4c1a&quot;,&quot;longest_side&quot;:1500},{&quot;id&quot;:&quot;0J6927&quot;,&quot;caption&quot;:&quot;\u003cp\u003eBig Pushbutton Power Switch with Reverse Voltage Protection, bottom view with dimensions.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6927.98x98.jpg?377e757a6d1641cb8da9e69d158e304d&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6927.600x480.jpg?377e757a6d1641cb8da9e69d158e304d&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6927.1200.jpg?377e757a6d1641cb8da9e69d158e304d&quot;,&quot;longest_side&quot;:1102},{&quot;id&quot;:&quot;0J6928&quot;,&quot;caption&quot;:&quot;\u003cp\u003eBig Pushbutton Power Switch with Reverse Voltage Protection, shown with included hardware.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6928.98x98.jpg?059daa272d7b1de1738666662a11c614&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6928.600x480.jpg?059daa272d7b1de1738666662a11c614&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6928.1200.jpg?059daa272d7b1de1738666662a11c614&quot;,&quot;longest_side&quot;:1200},{&quot;id&quot;:&quot;0J6929&quot;,&quot;caption&quot;:&quot;\u003cp\u003eBig Pushbutton Power Switches showing two assembly options for use with a breadboard.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6929.98x98.jpg?879e9c11ad928ddc6f2e540ebeb1dac4&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6929.600x480.jpg?879e9c11ad928ddc6f2e540ebeb1dac4&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6929.1200.jpg?879e9c11ad928ddc6f2e540ebeb1dac4&quot;,&quot;longest_side&quot;:1351},{&quot;id&quot;:&quot;0J6930&quot;,&quot;caption&quot;:&quot;\u003cp\u003eBig Pushbutton Power Switch with Reverse Voltage Protection, assembled with wires soldered directly to the board.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6930.98x98.jpg?4c42094c82d8af524d5b2c9a198c4965&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6930.600x480.jpg?4c42094c82d8af524d5b2c9a198c4965&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6930.1200.jpg?4c42094c82d8af524d5b2c9a198c4965&quot;,&quot;longest_side&quot;:1200},{&quot;id&quot;:&quot;0J6931&quot;,&quot;caption&quot;:&quot;\u003cp\u003ePinout diagram of the Big Pushbutton Power Switch with Reverse Voltage Protection.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6931.98x98.jpg?dc3bbb8fc4153cbc3e09a3edeaf7f5bd&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6931.600x480.jpg?dc3bbb8fc4153cbc3e09a3edeaf7f5bd&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6931.1200.jpg?dc3bbb8fc4153cbc3e09a3edeaf7f5bd&quot;,&quot;longest_side&quot;:1200},{&quot;id&quot;:&quot;0J6932&quot;,&quot;caption&quot;:&quot;\u003cp\u003eSide-by-side comparison of the Mini and Big Pushbutton Power Switches.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6932.98x98.jpg?9b21a88137adc43d6e7323afd05eff86&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6932.600x480.jpg?9b21a88137adc43d6e7323afd05eff86&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6932.1200.jpg?9b21a88137adc43d6e7323afd05eff86&quot;,&quot;longest_side&quot;:1200},{&quot;id&quot;:&quot;0J6945&quot;,&quot;caption&quot;:&quot;\u003cp\u003eBlock diagram of the Big Pushbutton Power Switch with Reverse Voltage Protection.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6945.98x98.jpg?6cf697f09038c571de6eda54720b6a55&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6945.600x480.jpg?6cf697f09038c571de6eda54720b6a55&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6945.1200.png?6cf697f09038c571de6eda54720b6a55&quot;,&quot;longest_side&quot;:800},{&quot;id&quot;:&quot;0J6763&quot;,&quot;caption&quot;:&quot;\u003cp\u003eOFF and CTRL input structures of Pushbutton Power Switch with Reverse Voltage Protection.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6763.98x98.jpg?34ff6effa9d393da6a586917a87439e9&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6763.600x480.jpg?34ff6effa9d393da6a586917a87439e9&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6763.1200.png?34ff6effa9d393da6a586917a87439e9&quot;,&quot;longest_side&quot;:800},{&quot;id&quot;:&quot;0J6764&quot;,&quot;caption&quot;:&quot;\u003cp\u003eON input structure of Pushbutton Power Switch with Reverse Voltage Protection.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6764.98x98.jpg?0259d3d25977e19b6eae0da0ce0ca7e1&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6764.600x480.jpg?0259d3d25977e19b6eae0da0ce0ca7e1&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6764.1200.png?0259d3d25977e19b6eae0da0ce0ca7e1&quot;,&quot;longest_side&quot;:450}]" data-picture-id="0J6925" data-picture-longest-side="1200" data-gallery-id="main-pictures" src="https://a.pololu-files.com/picture/0J6925.600x480.jpg?8e2ae8ec11c6f8335c6470266db32fde" /></a>
+<div id='related_pictures_gallery'></div>
+</div>
+
+</span><span class='order_form_section'>
+<div class='order_form_with_price_notification'>
+<form action='/cart/add' data-product-id='2813' data-product-ui='short_order_form' enctype='multipart/form-data' method='post'>
+<fieldset class='hidden'>
+<input type="hidden" name="session_id" value="cd8cb9e4e73a9420b1af6d14bebfe814" />
+<input name='product[id]' type='hidden' value='2813'>
+</fieldset>
+<div>
+<div>
+<span data-product-ui='short_order_form_on_sale' style='display: none'></span>
+<span class='message_positive' data-product-ui='short_order_form_new' style='display: none'>
+<!-- product_recently_added_to_website -->New!
+</span>
+</div>
+<table class='part_number_and_stock text_left'>
+<tr>
+<td class='part_number' style='white-space: nowrap'>
+<span class='label'>Pololu item #:</span>
+<span class='value'>2813</span>
+</td>
+<td class="td_right" data-product-ui="order_form_stock"><span></span></td>
+</tr>
+<tr>
+<td style='white-space: nowrap'>
+<span class='label'>Brand:</span>
+<span class='value'><a href="/brands/pololu">Pololu</a></span>
+</td>
+<td class='td_right'>
+<a data-lightbox-link="true" data-lightbox-height="25rem" data-lightbox-width="34rem" href="/product/2813/supply-outlook">supply outlook</a>
+</td>
+</tr>
+<tr>
+<td colspan='2'>
+<div class='stock-notification-display-div'>
+<div class='stock-notification-label-and-button-div' data-available-stock='288' data-product-id='0J2813'>
+<span class='label'>
+</span>
+<button class='enable-stock-notification-button btn-small btn-link' data-logged-in='false' type='button'>
+Get stock notification
+</button>
+<a class="fa fa-question-circle" data-lightbox-link="true" data-lightbox-height="21rem" data-lightbox-width="27rem" href="/ordering/stock-notifications"></a>
+</div>
+</div>
+
+<tr>
+<td colspan='2'>
+<div class='stock-notification-form-div' style='display: none;'>
+<hr>
+<div class='spaced-row'>
+<div>
+<label>Notify me when stock is at least</label>
+<input class='stock_quantity' name='wishlist_product[notify_stock_quantity]' size='2' type='text'>
+</div>
+<button class='disable-stock-notification-button btn-small btn-link' style='display: none; margin-left: 8px;' type='button'>Cancel</button>
+</div>
+<div>
+<label>Optional: desired quantity</label>
+<input class='desired_quantity' name='wishlist_product[quantity_desired]' size='2' type='text'>
+</div>
+<div class='spaced-row'>
+<div>
+<button class='remove-stock-notification-button btn-small btn-red' type='button'>Remove</button>
+</div>
+<button class='save-stock-notification-button btn-small btn-green' type='button'>Save</button>
+</div>
+<hr>
+</div>
+
+</td>
+</tr>
+
+</td>
+</tr>
+<tr>
+<td colspan='2'>
+<span class='label'>Status:</span>
+<span class='value'>Rationed (Active and Preferred)&nbsp;<a class="fa fa-question-circle" data-lightbox-link="true" data-lightbox-height="21rem" data-lightbox-width="27rem" href="/product-status-overview"></a></span>
+</td>
+</tr>
+<tr>
+<td>
+<a title="RoHS 3 compliant" data-lightbox-link="true" data-lightbox-height="17rem" data-lightbox-width="25rem" href="/compliance/rohs3-compliant"><img style="width: 76px; height: 16px; min-width: 76px;" alt="RoHS 3 compliant" src="https://a.pololu-files.com/assets/rohs3_compliant_yes-cde9d1a22538fcb174660dfa52f6fb93f93fcdfcf99e282ad9cf792ffa8f3124.png" /></a>
+</td>
+<td class='td_right'></td>
+</tr>
+</table>
+
+
+</div>
+<hr>
+<table class='pricing'>
+<tr>
+<th>
+Price break
+</th>
+<th>
+Unit price (US$)
+</th>
+</tr>
+<tr>
+<td>
+1
+</td>
+<td class=''>
+8.95
+</td>
+</tr>
+</table>
+<hr>
+
+<table class='add_to_cart'>
+<tr>
+<td class='add_to_cart'>
+<label for='product_quantity'>Quantity:</label>
+<input id='product_quantity' name='product[quantity]' size='2' type='text' value='1'>
+<br>
+<span class='allow_backorders'><!-- allow_backorders --><a href="/ordering#backorders">backorders</a> allowed</span>
+</td>
+<td class='td_right'>
+<div>
+<button alt="Add to cart" name="submit" value="add_to_cart" title="Adds Big Pushbutton Power Switch with Reverse Voltage Protection, HP to your cart." data-add-to-cart="true" data-freeze-cart="false" class="btn-medium btn-green">Add to cart</button><br/>
+<button alt="Add to list" name="submit" value="add_to_list" title="Adds Big Pushbutton Power Switch with Reverse Voltage Protection, HP to your list." class="btn-small btn-link">Add to list</button>
+</div>
+</td>
+
+</tr>
+</table>
+</form>
+<div>
+<div class='price-notification-container'>
+<div class='price-notification-display-div' style='display: flex; align-items: center;
+margin-top: 0.3em; margin-bottom: 0.3em;'>
+<span class='label price-notification-label'>
+</span>
+<span class='right-span'>
+<button class='enable-price-notification-button btn-small btn-link' data-logged-in='false' type='button'>
+Get price notification
+</button>
+<a class="fa fa-question-circle" data-lightbox-link="true" data-lightbox-height="21rem" data-lightbox-width="27rem" href="/ordering/price-change-notifications"></a>
+</span>
+</div>
+<div class='price-notification-form-div' style='display: none;'>
+<form action='https://www.pololu.com/wishlist_product/set_price_notification' enctype='multipart/form-data' method='post' style='width: 100%'>
+<input type="hidden" name="wishlist_product[id]" id="wishlist_product_id" autocomplete="off" />
+<input type="hidden" name="product_id" id="product_id" value="0J2813" autocomplete="off" />
+<input type="hidden" name="session_id" value="cd8cb9e4e73a9420b1af6d14bebfe814" />
+<hr>
+<div class='spaced-row'>
+<label>Notify me</label>
+<button class='disable-price-notification-button btn-small btn-link' type='button'>Cancel</button>
+</div>
+<div class='align-center indent-radio'>
+<input checked class='notify-any-price-change' id='notify-any-price-change' name='wishlist_product[price_notification]' type='radio' value='notify-any-price-change'>
+<label for='notify-any-price-change'>&nbspon any price change</label>
+</div>
+<div class='align-center indent-radio'>
+<input class='notify-any-price-drop' id='notify-any-price-drop' name='wishlist_product[price_notification]' type='radio' value='notify-any-price-drop'>
+<label for='notify-any-price-drop'>&nbspon any price drop</label>
+</div>
+<div class='align-center indent-radio'>
+<input class='notify-at-target-price' id='notify-at-target-price' name='wishlist_product[price_notification]' type='radio' value='notify-at-target-price'>
+<label for='notify-at-target-price'>&nbspat or below $</label>
+<input class='target-price' name='wishlist_product[target_price]' placeholder='price' size='3' type='text' value=''>
+<label for='notify-at-target-price'>&nbspat qty&nbsp</label>
+<input class='quantity' name='wishlist_product[target_quantity]' placeholder='qty' size='2' type='text' value=''>
+</div>
+<div class='spaced-row'>
+<div>
+</div>
+<button class='save-price-notification-button btn-small btn-green' type='submit'>Save</button>
+</div>
+</form>
+</div>
+
+</div>
+</div>
+</div>
+<script type='module'>
+import {PriceNotification} from 'price_notification'
+new PriceNotification();
+import {StockNotification} from 'stock_notification'
+new StockNotification();
+</script>
+
+</span>
+<div id='short_description'>
+<p>The Pololu Pushbutton Power Switches are sophisticated power control alternatives to bulky mechanical switches.  The main function is pushbutton-based latching power control, where one push turns on power and another push turns it off.  Additional control inputs allow advanced applications such as automatic shutdown by the device being powered.  This HP version operates from <strong>4.5&nbsp;V to 40&nbsp;V</strong> and can deliver continuous currents up to around <strong>16&nbsp;A</strong>.</p>
+
+</div>
+<p class='compare_link'>
+<span class="compare"><a href="/search/compare/121"><img alt="" src="https://a.pololu-files.com/assets/compare-cd658e4a1effbb8bf041401c86b9bef3949f6946b740d13b04703d381ec5594b.png" /></a><a title="Compare all products in Pololu Power Switches" href="/search/compare/121">Compare all products in Pololu Power Switches</a></span>.
+</p></div>
+
+<a name="tabs"></a><table class="tabs"><tr><td>&nbsp;</td><th class="selected "><span id="name">Description</span></th><td>&nbsp;</td><th class=""><a onclick="saveScrollPosition(&#39;/product/2813/specs&#39;);" href="/product/2813/specs"><span id="name">Specs</span> <span id="count">(8)</span></a></th><td>&nbsp;</td><th class=""><a onclick="saveScrollPosition(&#39;/product/2813/pictures&#39;);" href="/product/2813/pictures"><span id="name">Pictures</span> <span id="count">(11)</span></a></th><td>&nbsp;</td><th class=""><a onclick="saveScrollPosition(&#39;/product/2813/resources&#39;);" href="/product/2813/resources"><span id="name">Resources</span> <span id="count">(4)</span></a></th><td>&nbsp;</td><th class="empty"><span id="name">FAQs</span> <span id="count">(0)</span></th><td>&nbsp;</td><th class=""><a onclick="saveScrollPosition(&#39;/product/2813/blog&#39;);" href="/product/2813/blog"><span id="name">On the blog</span> <span id="count">(2)</span></a></th><td>&nbsp;</td><th class=""><a onclick="saveScrollPosition(&#39;/product/2813/distributors&#39;);" href="/product/2813/distributors"><span id="name">Distributors</span> <span id="count">(80)</span></a></th><td class="last">&nbsp;</td></tr></table><div class="tab_page"><table class="picture_with_caption right"><tr><td><a href="https://a.pololu-files.com/picture/0J6927.1200.jpg?377e757a6d1641cb8da9e69d158e304d" class="noscript-fallback"><img alt="" class="zoomable" data-gallery-pictures="[{&quot;id&quot;:&quot;0J6927&quot;,&quot;caption&quot;:&quot;\u003cp\u003eBig Pushbutton Power Switch with Reverse Voltage Protection, bottom view with dimensions.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6927.98x98.jpg?377e757a6d1641cb8da9e69d158e304d&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6927.600x480.jpg?377e757a6d1641cb8da9e69d158e304d&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6927.1200.jpg?377e757a6d1641cb8da9e69d158e304d&quot;,&quot;longest_side&quot;:1102}]" data-picture-id="0J6927" data-picture-longest_side="1102" src="https://a.pololu-files.com/picture/0J6927.250.jpg?377e757a6d1641cb8da9e69d158e304d" /></a></td><p></tr></table></p>
+<h2>Overview</h2>
+<p>The Pololu Pushbutton Power Switch is a compact, solid-state power switch that features built-in reverse-voltage protection and is controlled by a momentary pushbutton: one push turns on power and another push turns it off.  This is a patented design initially created for use in our own products as an alternative to bulky mechanical switches.  Because the switched current does not flow through the mechanical switch, a large variety of small, low-power switches can be used to control a substantial amount of power.  The use of momentary switches also allows multiple switches to be used in parallel to control the power to one load.</p>
+<p>The board has a small pushbutton already installed and offers convenient points for connecting external pushbutton or tactile switches in parallel.  It also offers several alternate pushbutton connection options that result in push-on-only or push-off-only operation, and additional inputs enable further power control options like allowing the load to turn off its own power, which can be beneficial when used with battery chemistries sensitive to over-discharging.</p>
+<p class="note_warning"><strong>Warning:</strong> Do not use this switch as an emergency cutoff or similar safety disconnect in applications where failure to cut power could lead to injury or property damage.</p>
+<table class="picture_with_caption right"><tr><td style="max-width: 350px"><a href="https://a.pololu-files.com/picture/0J6945.1200.png?6cf697f09038c571de6eda54720b6a55" class="noscript-fallback"><img alt="" class="zoomable" data-gallery-pictures="[{&quot;id&quot;:&quot;0J6945&quot;,&quot;caption&quot;:&quot;\u003cp\u003eBlock diagram of the Big Pushbutton Power Switch with Reverse Voltage Protection.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6945.98x98.jpg?6cf697f09038c571de6eda54720b6a55&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6945.600x480.jpg?6cf697f09038c571de6eda54720b6a55&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6945.1200.png?6cf697f09038c571de6eda54720b6a55&quot;,&quot;longest_side&quot;:800}]" data-picture-id="0J6945" data-picture-longest_side="800" src="https://a.pololu-files.com/picture/0J6945.350.jpg?6cf697f09038c571de6eda54720b6a55" /></a></td><p></tr><tr><th style="max-width: 350px"><p>Block diagram of the Big Pushbutton Power Switch with Reverse Voltage Protection.</p></th></tr></table></p>
+<p>The switch and control inputs control the state of a latching circuit that in turn controls a pair of power MOSFETs through which the main current flows. Four versions of the Pololu Pushbutton Power Switches are available:</p>
+<ul>
+	<li><a href="/product/2808">Mini Pushbutton Power Switch LV</a></li>
+	<li><a href="/product/2809">Mini Pushbutton Power Switch SV</a></li>
+	<li><a href="/product/2812">Big Pushbutton Power Switch MP</a></li>
+	<li><a href="/product/2813">Big Pushbutton Power Switch HP</a></li>
+</ul>
+<p>The two Mini Pushbutton Power Switches are smaller, lower-current versions that are useful for applications with tight size constraints or lower power requirements.  Also, the the Mini LV is the only one of the four that works below 4.5&nbsp;V; since it can operate down to 2.2&nbsp;V, this version can be used with a single lithium cell battery.</p>
+<table class="picture_with_caption center"><tr><td><a href="https://a.pololu-files.com/picture/0J6932.1200.jpg?9b21a88137adc43d6e7323afd05eff86" class="noscript-fallback"><img alt="" class="zoomable" data-gallery-pictures="[{&quot;id&quot;:&quot;0J6932&quot;,&quot;caption&quot;:&quot;\u003cp\u003eSide-by-side comparison of the Mini and Big Pushbutton Power Switches.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6932.98x98.jpg?9b21a88137adc43d6e7323afd05eff86&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6932.600x480.jpg?9b21a88137adc43d6e7323afd05eff86&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6932.1200.jpg?9b21a88137adc43d6e7323afd05eff86&quot;,&quot;longest_side&quot;:1200}]" data-picture-id="0J6932" data-picture-longest_side="1200" src="https://a.pololu-files.com/picture/0J6932.350.jpg?9b21a88137adc43d6e7323afd05eff86" /></a></td><p></tr></table></p>
+<p>The pinout of the Big version is the same as the pinout of the Mini version with several additional redundant connection points for convenience, including main power connections that are compatible with 5&nbsp;mm terminal blocks.</p>
+<p>The primary functional difference between the each of the units arises from the MOSFET used, which sets the operating range and performance of the units:</p>
+<table class="active_controller_comparison">
+	<tr>
+		<td> </td>
+		<th><img src="/picture/0J6754.100.jpg" alt=""/><br/><a href="/product/2808">LV</a></th>
+		<th><img src="/picture/0J6755.100.jpg" alt=""/><br/><a href="/product/2809">SV</a></th>
+		<th><img src="/picture/0J6923.100.jpg" alt=""/><br/><a href="/product/2812">MP</a></th>
+		<th><img src="/picture/0J6925.100.jpg" alt=""/><br/><a href="/product/2813">HP</a></th>
+	</tr>
+	<tr>
+		<th>Absolute max voltage:</th>
+		<td>20&nbsp;V</td>
+		<td colspan="3">40&nbsp;V</td>
+	</tr>
+	<tr>
+		<th>Recommended operating voltage:</th>
+		<td>2.2&nbsp;V to 16&nbsp;V</td>
+		<td colspan="3">4.5&nbsp;V to 32&nbsp;V</td>
+	</tr>
+	<tr>
+		<th rowspan="3">MOSFET combined on resistance (max)</th>
+		<td>26&nbsp;mΩ @ 1.8&nbsp;V</td>
+		<td colspan="3"></td>
+	</tr>
+	<tr>
+		<td>16&nbsp;mΩ @ 4.5&nbsp;V</td>
+		<td>90&nbsp;mΩ @ 4.5&nbsp;V</td>
+		<td>40&nbsp;mΩ @ 4.5&nbsp;V</td>
+		<td>13&nbsp;mΩ @ 4.5&nbsp;V</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>50&nbsp;mΩ @ 10&nbsp;V</td>
+		<td>30&nbsp;mΩ @ 10&nbsp;V</td>
+		<td>8.6&nbsp;mΩ @ 10&nbsp;V</td>
+	</tr>
+	<tr>
+		<th>Continuous current at 55°C<sup><strong>(1)</strong></sup></th>
+		<td> 3.0&nbsp;A</td>
+		<td>2.0&nbsp;A </td>
+		<td>4.0&nbsp;A</td>
+		<td>6.0&nbsp;A </td>
+	</tr>
+	<tr>
+		<th>Continuous current at 150°C<sup><strong>(1)</strong></sup></th>
+		<td>6.0&nbsp;A </td>
+		<td>4.3&nbsp;A </td>
+		<td>8.0&nbsp;A </td>
+		<td>16&nbsp;A </td>
+	</tr>
+	<tr>
+		<th>Maximum current</th>
+		<td>12&nbsp;A </td>
+		<td>7.2&nbsp;A </td>
+		<td>40&nbsp;A </td>
+		<td>90&nbsp;A </td>
+	</tr>
+	<tr>
+		<th>Current consumption in on state<sup><strong>(2)</strong></sup></th>
+		<td>~210&nbsp;&mu;A/V </td>
+		<td colspan="3">~120&nbsp;&mu;A/V </td>
+	</tr>
+	<tr>
+		<th>Current consumption in off state</th>
+		<td>~0.01&nbsp;&mu;A </td>
+		<td>&lt;&nbsp;0.01&nbsp;&mu;A </td>
+		<td>&lt;&nbsp;0.01&nbsp;&mu;A </td>
+		<td>&lt;&nbsp;0.2&nbsp;&mu;A </td>
+	</tr>
+	<tr>
+		<th>LED color</th>
+		<td>red</td>
+		<td colspan="3">green</td>
+	</tr>
+	<tr>
+		<th>Size</th>
+		<td colspan="2">0.6″ × 0.7″ × 0.12″</td>
+		<td colspan="2">0.8″ × 1.0″ × 0.16″</td>
+	</tr>
+	<tr>
+		<th>Weight</th>
+		<td colspan="2">0.6&nbsp;g</td>
+		<td colspan="2">2.7&nbsp;g</td>
+	</tr>
+</table>
+<p class="small"><strong>1</strong> At 12&nbsp;V with ambient temperature of 22°C in still air.</p>
+<p class="small"><strong>2</strong> On state current is dominated by indicator LED; current is approximately proportional to input voltage.</p>
+<p>Please note that this switch has several drawbacks when compared to mechanical switches, so please be sure you fully understand this product before using it in your system.</p>
+<p>Compared to the <a href="/product/750">previous versions</a> of the Pololu pushbutton power switches, the new versions have substantially expanded operating voltage ranges along with reverse-voltage protection and more control options.  The size and pinout has changed, so the new versions cannot be used as direct drop-in replacements for the old ones.</p>
+<h2>Benefits and limitations</h2>
+<p>The Pololu Pushbutton Power Switch works well in its intended application as a DC power switch for small robots, but because it is fundamentally different from a mechanical power switch, the benefits and drawbacks of the components must be fully considered.</p>
+<p>Benefits over mechanical switches:</p>
+<ul>
+	<li>Compact size</li>
+	<li>Reverse-voltage protection</li>
+	<li>Allows multiple (parallel) switches for improved user interface</li>
+	<li>Better turn-on characteristics than a bouncing mechanical switch</li>
+	<li><a href="/docs/0J16">Limited LC spikes for low-resistance loads</a></li>
+	<li>Allows self-shutoff (OFF input)</li>
+	<li>Allows external digital device to control the power state (ON and CTRL inputs)</li>
+	<li>Breadboard and perfboard compatible (0.1″-pitch)</li>
+</ul>
+<p>Drawbacks compared to mechanical switches:</p>
+<ul>
+	<li>Switch is one-directional (power applied to VOUT cannot be switched to VIN)</li>
+	<li>Limited operating voltage range</li>
+	<li>Switch can lose its state when power is disconnected (the switch typically defaults to being off when power is first applied, but it can default to being on near the upper end of the operating range)</li>
+	<li>Switches DC only (does not maintain state through power disruptions or excessive noise)</li>
+	<li>No complete isolation in off state</li>
+</ul>
+<p>We also offer a <a href="/product/2814">MOSFET Slide Switch with Reverse Voltage Protection</a> that avoids several of these drawbacks.</p>
+<h2>Using the Pushbutton Power Switch</h2>
+<table class="picture_with_caption center"><tr><td><a href="https://a.pololu-files.com/picture/0J6931.1200.jpg?dc3bbb8fc4153cbc3e09a3edeaf7f5bd" class="noscript-fallback"><img alt="" class="zoomable" data-gallery-pictures="[{&quot;id&quot;:&quot;0J6931&quot;,&quot;caption&quot;:&quot;\u003cp\u003ePinout diagram of the Big Pushbutton Power Switch with Reverse Voltage Protection.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6931.98x98.jpg?dc3bbb8fc4153cbc3e09a3edeaf7f5bd&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6931.600x480.jpg?dc3bbb8fc4153cbc3e09a3edeaf7f5bd&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6931.1200.jpg?dc3bbb8fc4153cbc3e09a3edeaf7f5bd&quot;,&quot;longest_side&quot;:1200}]" data-picture-id="0J6931" data-picture-longest_side="1200" src="https://a.pololu-files.com/picture/0J6931.350.jpg?dc3bbb8fc4153cbc3e09a3edeaf7f5bd" /></a></td><p></tr></table></p>
+<p>The simplest way to control the Pushbutton Power Switch is via its installed pushbutton: one push turns on power and another turns it off.  Alternatively, a separate pushbutton, such as a remote panel-mounted unit, can be connected to the <em>A</em> and <em>B</em> pins and used instead.  Multiple pushbuttons can be wired in parallel for multiple control points, and each of the parallel pushbuttons, including the one on the board itself, will be able to turn the switch on or off.  <strong>The latching circuit performs some button debouncing, but pushbuttons with excessive bouncing (several ms) might not function well with this product.</strong></p>
+<p>More advanced control options are available through the button connection pins and three control inputs:</p>
+<table class="specifications">
+	<tr>
+		<th>PIN</th>
+		<th>Description</th>
+	</tr>
+	<tr class="odd">
+		<td>A</td>
+		<td>Connect through momentary switch to pin &#8220;B&#8221; for standard push-on/push-off operation. Connect through momentary switch to ground for on-only operation.</td>
+	</tr>
+	<tr>
+		<td>B</td>
+		<td>Connect through momentary switch to pin &#8220;A&#8221; for standard push-on/push-off operation.</td>
+	</tr>
+	<tr class="odd">
+		<td>ON</td>
+		<td>A high pulse (&gt; 1&nbsp;V) on this pin turns on the switch.</td>
+	</tr>
+	<tr>
+		<td>OFF</td>
+		<td>A high pulse (&gt; 1&nbsp;V) on this pin turns off the switch (e.g. allowing the target device to shut off its own power).</td>
+	</tr>
+	<tr class="odd">
+		<td>CTRL</td>
+		<td>This pin directly determines the state of the switch.  A high pulse  (&gt; 1&nbsp;V) on this pin turns on the switch; a low pulse (e.g. driving the pin low with a microcontroller output line or pushing a button connected from this pin to ground) turns the switch off.  Leave this pin disconnected or floating when not trying to set the switch state.  <ins>Note that this pin should not be driven high at the same time the &#8220;OFF&#8221; pin is driven high.</ins></td>
+	</tr>
+</table>
+<p>The ON, OFF, and CTRL pins on the pushbutton power switch do not require a pulse to operate, but leaving any of them in a high state could interfere with the switch’s other control methods, so we generally recommend using pulsed signals with them. The input structures for the three control inputs are shown below:</p>
+<table class="side_by_side_pics">
+	<tr>
+		<td><table class="picture_with_caption center"><tr><td><a href="https://a.pololu-files.com/picture/0J6763.1200.png?34ff6effa9d393da6a586917a87439e9" class="noscript-fallback"><img alt="" class="zoomable" data-gallery-pictures="[{&quot;id&quot;:&quot;0J6763&quot;,&quot;caption&quot;:&quot;\u003cp\u003eOFF and CTRL input structures of Pushbutton Power Switch with Reverse Voltage Protection.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6763.98x98.jpg?34ff6effa9d393da6a586917a87439e9&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6763.600x480.jpg?34ff6effa9d393da6a586917a87439e9&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6763.1200.png?34ff6effa9d393da6a586917a87439e9&quot;,&quot;longest_side&quot;:800}]" data-picture-id="0J6763" data-picture-longest_side="800" src="https://a.pololu-files.com/picture/0J6763.320.jpg?34ff6effa9d393da6a586917a87439e9" /></a></td></tr></table></td>
+		<td><table class="picture_with_caption center"><tr><td><a href="https://a.pololu-files.com/picture/0J6764.1200.png?0259d3d25977e19b6eae0da0ce0ca7e1" class="noscript-fallback"><img alt="" class="zoomable" data-gallery-pictures="[{&quot;id&quot;:&quot;0J6764&quot;,&quot;caption&quot;:&quot;\u003cp\u003eON input structure of Pushbutton Power Switch with Reverse Voltage Protection.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6764.98x98.jpg?0259d3d25977e19b6eae0da0ce0ca7e1&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6764.600x480.jpg?0259d3d25977e19b6eae0da0ce0ca7e1&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6764.1200.png?0259d3d25977e19b6eae0da0ce0ca7e1&quot;,&quot;longest_side&quot;:450}]" data-picture-id="0J6764" data-picture-longest_side="450" src="https://a.pololu-files.com/picture/0J6764.180.jpg?0259d3d25977e19b6eae0da0ce0ca7e1" /></a></td></tr></table></td>
+	</tr>
+</table>
+<p>Each power node can be accessed through a large hole along the top side of the board or two smaller 0.1″-spaced holes along the sides of the board.  For applications drawing more than 5&nbsp;A, you should either use the large holes or both 0.1″-spaced holes for each power connection.</p>
+<h2>Included Hardware</h2>
+<table class="side_by_side_pics">
+	<tr>
+		<td><table class="picture_with_caption center"><tr><td><a href="https://a.pololu-files.com/picture/0J6928.1200.jpg?059daa272d7b1de1738666662a11c614" class="noscript-fallback"><img alt="" class="zoomable" data-gallery-pictures="[{&quot;id&quot;:&quot;0J6928&quot;,&quot;caption&quot;:&quot;\u003cp\u003eBig Pushbutton Power Switch with Reverse Voltage Protection, shown with included hardware.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6928.98x98.jpg?059daa272d7b1de1738666662a11c614&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6928.600x480.jpg?059daa272d7b1de1738666662a11c614&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6928.1200.jpg?059daa272d7b1de1738666662a11c614&quot;,&quot;longest_side&quot;:1200}]" data-picture-id="0J6928" data-picture-longest_side="1200" src="https://a.pololu-files.com/picture/0J6928.250.jpg?059daa272d7b1de1738666662a11c614" /></a></td></tr></table></td>
+		<td><table class="picture_with_caption center"><tr><td><a href="https://a.pololu-files.com/picture/0J6929.1200.jpg?879e9c11ad928ddc6f2e540ebeb1dac4" class="noscript-fallback"><img alt="" class="zoomable" data-gallery-pictures="[{&quot;id&quot;:&quot;0J6929&quot;,&quot;caption&quot;:&quot;\u003cp\u003eBig Pushbutton Power Switches showing two assembly options for use with a breadboard.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6929.98x98.jpg?879e9c11ad928ddc6f2e540ebeb1dac4&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6929.600x480.jpg?879e9c11ad928ddc6f2e540ebeb1dac4&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6929.1200.jpg?879e9c11ad928ddc6f2e540ebeb1dac4&quot;,&quot;longest_side&quot;:1351}]" data-picture-id="0J6929" data-picture-longest_side="1351" src="https://a.pololu-files.com/picture/0J6929.250.jpg?879e9c11ad928ddc6f2e540ebeb1dac4" /></a></td></tr></table></td>
+	</tr>
+</table>
+<p>Two 8-pin <a href="/product/965">straight breakaway male headers</a> and two <a href="/product/2440">2-pin 5mm terminal blocks</a> are included with each switch, and you can choose which of these components, if any, to solder to the board.  The terminal blocks work with the four large holes, and the header strips allow the switch to be used with <a href="/category/28/solderless-breadboards">solderless breadboards</a> and perforated circuit boards with standard 0.1″ spacing.  If you want to use the terminal blocks, we recommend you install them on the side of the board without components, as shown in the above breadboard picture.  The terminal blocks will cover one of each of the smaller VIN and VOUT holes, so you should not solder header pins into those holes if you plan on using terminal blocks.</p>
+<p>Note that the terminal blocks are only rated for 16&nbsp;A, so for higher-power applications, thick wires should be soldered directly to the board.</p>
+<table class="picture_with_caption center"><tr><td><a href="https://a.pololu-files.com/picture/0J6930.1200.jpg?4c42094c82d8af524d5b2c9a198c4965" class="noscript-fallback"><img alt="" class="zoomable" data-gallery-pictures="[{&quot;id&quot;:&quot;0J6930&quot;,&quot;caption&quot;:&quot;\u003cp\u003eBig Pushbutton Power Switch with Reverse Voltage Protection, assembled with wires soldered directly to the board.\u003c/p\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J6930.98x98.jpg?4c42094c82d8af524d5b2c9a198c4965&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J6930.600x480.jpg?4c42094c82d8af524d5b2c9a198c4965&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J6930.1200.jpg?4c42094c82d8af524d5b2c9a198c4965&quot;,&quot;longest_side&quot;:1200}]" data-picture-id="0J6930" data-picture-longest_side="1200" src="https://a.pololu-files.com/picture/0J6930.350.jpg?4c42094c82d8af524d5b2c9a198c4965" /></a></td><p></tr></table></p>
+<h2>Thermal and power dissipation considerations</h2>
+<p>Because MOSFETs in the on state are effectively resistive, the power heating the board is proportional to the square of the current flowing through it.  The comparison table near the top of this page shows typical currents that heat the MOSFETs to 55°C, where the MOSFETs start being noticeably warm but are still generally safe to touch, and currents that heat the MOSFETs to 150°C, the absolute limit for the MOSFETs.  With adequate cooling, or for brief periods if the MOSFETs are not hot to begin with, currents up to the listed maximums are attainable.</p>
+<h2>Transient protection</h2>
+<p>Interrupting large currents can cause voltage spikes (positive on the input side and negative on the output side) that depend on the inductance of the power connections and that can exceed the limits of the device.  Appropriate measures to limit the size of these spikes include minimizing lengths of wires, placing capacitors at the power switch to smooth the spikes and absorb some of the energy, placing a schottky diode across the power output to absorb negative spikes, and placing a transient voltage suppressor (TVS) across the power input to absorb positive spikes.</p>
+<h2>Characteristics at limits of operating range</h2>
+<p>The switch operating range is limited by the ability to change state reliably.  At low voltages, the switch is difficult to turn on, and the switch will turn itself off once the voltage falls far enough (this shutoff point can be as high as 4.5 V).  At high voltages, the switches are more likely to turn on when power is initially applied.  The reliability of turning off is affected by a combination of the supply voltage, the amount of bouncing on the pushbutton switch, and the amount of noise on the supply line.  For applications at the high end of the operating range, tests should be performed to ensure that the device can properly turn off.</p>
+
+</div>
+
+
+<div id="small_related_items"><div><h2>Related products</h2>
+<div>
+<table class='linkable_item_list'>
+<tr>
+<td class='img'>
+<a href="/product/2809"><img alt="" src="https://a.pololu-files.com/picture/0J6790.50x40.jpg?7e4b267e642a5afbf9f2803d2b9c360b" /></a>
+</td>
+<td><a href="/product/2809">Mini Pushbutton Power Switch with Reverse Voltage Protection, SV</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/product/2808"><img alt="" src="https://a.pololu-files.com/picture/0J6789.50x40.jpg?a4cf523daa68a0fc751c6ff85fb0ffc6" /></a>
+</td>
+<td><a href="/product/2808">Mini Pushbutton Power Switch with Reverse Voltage Protection, LV</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/product/2811"><img alt="" src="https://a.pololu-files.com/picture/0J6788.50x40.jpg?34f26e02960944a8582850887b92b4c8" /></a>
+</td>
+<td><a href="/product/2811">Mini MOSFET Slide Switch with Reverse Voltage Protection, SV</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/product/2810"><img alt="" src="https://a.pololu-files.com/picture/0J6787.50x40.jpg?d04456a91c8ade58351c82c74b33ce89" /></a>
+</td>
+<td><a href="/product/2810">Mini MOSFET Slide Switch with Reverse Voltage Protection, LV</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/product/1400"><img alt="" src="https://a.pololu-files.com/picture/0J1997.50x40.jpg?41c40dcc118272f8fc907ceeda512a93" /></a>
+</td>
+<td><a href="/product/1400">Mini Pushbutton Switch: PCB-Mount, 2-Pin, SPST, 50mA (5-Pack)</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/product/1406"><img alt="" src="https://a.pololu-files.com/picture/0J2204.50x40.jpg?b3ba248216e714c82039603a96d16ed5" /></a>
+</td>
+<td><a href="/product/1406">Rocker Switch: 3-Pin, SPDT, 10A</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/product/2594"><img alt="" src="https://a.pololu-files.com/picture/0J5100.50x40.jpg?02297030789f016a7eeb1a06acd8bedd" /></a>
+</td>
+<td><a href="/product/2594">FPF1320 Power Multiplexer Carrier with USB Micro-B Connector</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/product/2596"><img alt="" src="https://a.pololu-files.com/picture/0J5492.50x40.jpg?a67eb2612201bcb0753fdec17b0de2ea" /></a>
+</td>
+<td><a href="/product/2596">TPS2113A Power Multiplexer Carrier with USB Micro-B Connector</a></td>
+</tr>
+</table>
+</div>
+</div><div><h2>Related categories</h2>
+<div>
+<table class='linkable_item_list'>
+<tr>
+<td class='img'>
+<a href="/category/121/pololu-power-switches"><img alt="" src="https://a.pololu-files.com/picture/0J6925.50x40.jpg?8e2ae8ec11c6f8335c6470266db32fde" /></a>
+</td>
+<td><a href="/category/121/pololu-power-switches">Pololu Power Switches</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/81/switches-buttons-and-relays"><img alt="" src="https://a.pololu-files.com/picture/0J2204.50x40.jpg?b3ba248216e714c82039603a96d16ed5" /></a>
+</td>
+<td><a href="/category/81/switches-buttons-and-relays">Switches, Buttons, and Relays</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/329/reverse-voltage-protection-and-ideal-diodes"><img alt="" src="https://a.pololu-files.com/picture/0J14047.50x40.jpg?79491ff2539273ddd0c7e12819eb8a7c" /></a>
+</td>
+<td><a href="/category/329/reverse-voltage-protection-and-ideal-diodes">Reverse Voltage Protection and Ideal Diodes</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/14/electronics-prototyping"><img alt="" src="https://a.pololu-files.com/picture/0J3668.50x40.jpg?5c1ec9e09f79441c54ab11e0a91b9772" /></a>
+</td>
+<td><a href="/category/14/electronics-prototyping">Electronics Prototyping</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/84/voltage-regulators-and-power-supplies"><img alt="" src="https://a.pololu-files.com/picture/0J2600.50x40.jpg?8be114e9f4083cc8a086cb2fe450d453" /></a>
+</td>
+<td><a href="/category/84/voltage-regulators-and-power-supplies">Voltage Regulators and Power Supplies</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/54/batteries"><img alt="" src="https://a.pololu-files.com/picture/0J3231.50x40.jpg?8722944d6f6a762d7d2e32c4a550577a" /></a>
+</td>
+<td><a href="/category/54/batteries">Batteries</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/55/battery-holders"><img alt="" src="https://a.pololu-files.com/picture/0J1040.50x40.jpg?5e38db440c535ab82074b6a75e9cd342" /></a>
+</td>
+<td><a href="/category/55/battery-holders">Battery Holders</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/28/solderless-breadboards"><img alt="" src="https://a.pololu-files.com/picture/0J10450.50x40.jpg?5982ae89594735acb521388debe5512f" /></a>
+</td>
+<td><a href="/category/28/solderless-breadboards">Solderless Breadboards</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/65/premium-jumper-wires"><img alt="" src="https://a.pololu-files.com/picture/0J11599.50x40.jpg?7f829c2badab1ad82f4da395e4a46cb8" /></a>
+</td>
+<td><a href="/category/65/premium-jumper-wires">Premium Jumper Wires</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/71/wires-with-pre-crimped-terminals"><img alt="" src="https://a.pololu-files.com/picture/0J11614.50x40.jpg?0c44e46f7c16b54a162ac2f0a59b3c6f" /></a>
+</td>
+<td><a href="/category/71/wires-with-pre-crimped-terminals">Wires with Pre-Crimped Terminals</a></td>
+</tr>
+</table>
+</div>
+</div></div>
+<script>
+product_ui.update();
+</script>
+
+
+<!-- CONTENTS_END -->
+<div id='footer'>
+<p class='share'>
+<span class="image_text_link"><a href="/product/2813?print=1"><img alt="" src="https://a.pololu-files.com/assets/printer-448cebb2a5016700db2565421ada6e98f90fabe5885d8cd3cca1a3854748e146.png" /></a><a href="/product/2813?print=1">Print</a></span>
+<span class="image_text_link"><a href="mailto:?body=https%3A%2F%2Fwww.pololu.com%2Fproduct%2F2813&amp;subject"><img alt="" src="https://a.pololu-files.com/assets/email-f2957b324fa09a7d81ed64679a6b9454647ad40514cd7b1ce501aefd946f5593.png" /></a><a href="mailto:?body=https%3A%2F%2Fwww.pololu.com%2Fproduct%2F2813&amp;subject">Email a friend</a></span>
+<span class="image_text_link"><a href="/feeds"><img alt="" src="https://a.pololu-files.com/assets/feed-icon-12x12-ad0e7f1965647f9414a76a1f32fb46dc73c1b2d295201b0abb56f2b2cf88bfb2.png" /></a><a href="/feeds">Feeds</a></span>
+</p>
+<p class='links'>
+<a href="/">Home</a>
+|
+<a href="https://forum.pololu.com/">Forum</a>
+|
+<a href="/blog">Blog</a>
+|
+<a href="/support">Support</a>
+|
+<a href="/ordering">Ordering Information</a>
+|
+<a href="/list">Lists</a>
+|
+<a href="/distributors">Distributors</a>
+|
+<a href="/catalog/bigorderform">BIG Order Form</a>
+|
+<a href="/about">About</a>
+|
+<a href="/contact">Contact</a>
+</p>
+<p id='copyright'>&copy; 2001<a rel="nofollow" style="text-decoration: none; color: inherit;" href="/pot/0?from=https%3A%2F%2Fwww.pololu.com%2Fproduct%2F2813">–</a>2026 Pololu Corporation</p>
+</div>
+</div>
+</div>
+<div id='right_col'>
+<div class='menu' data-my-quotes='1'></div>
+<script>quote.display_list()</script>
+<div class='menu' data-mini-cart='1'></div>
+<script>cart.display_mini_cart_content()</script>
+<div><h2>Related Products</h2>
+<div>
+<table class='linkable_item_list'>
+<tr>
+<td class='img'>
+<a href="/product/2809"><img alt="" src="https://a.pololu-files.com/picture/0J6790.50x40.jpg?7e4b267e642a5afbf9f2803d2b9c360b" /></a>
+</td>
+<td><a href="/product/2809">Mini Pushbutton Power Switch with Reverse Voltage Protection, SV</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/product/2808"><img alt="" src="https://a.pololu-files.com/picture/0J6789.50x40.jpg?a4cf523daa68a0fc751c6ff85fb0ffc6" /></a>
+</td>
+<td><a href="/product/2808">Mini Pushbutton Power Switch with Reverse Voltage Protection, LV</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/product/2811"><img alt="" src="https://a.pololu-files.com/picture/0J6788.50x40.jpg?34f26e02960944a8582850887b92b4c8" /></a>
+</td>
+<td><a href="/product/2811">Mini MOSFET Slide Switch with Reverse Voltage Protection, SV</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/product/2810"><img alt="" src="https://a.pololu-files.com/picture/0J6787.50x40.jpg?d04456a91c8ade58351c82c74b33ce89" /></a>
+</td>
+<td><a href="/product/2810">Mini MOSFET Slide Switch with Reverse Voltage Protection, LV</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/product/1400"><img alt="" src="https://a.pololu-files.com/picture/0J1997.50x40.jpg?41c40dcc118272f8fc907ceeda512a93" /></a>
+</td>
+<td><a href="/product/1400">Mini Pushbutton Switch: PCB-Mount, 2-Pin, SPST, 50mA (5-Pack)</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/product/1406"><img alt="" src="https://a.pololu-files.com/picture/0J2204.50x40.jpg?b3ba248216e714c82039603a96d16ed5" /></a>
+</td>
+<td><a href="/product/1406">Rocker Switch: 3-Pin, SPDT, 10A</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/product/2594"><img alt="" src="https://a.pololu-files.com/picture/0J5100.50x40.jpg?02297030789f016a7eeb1a06acd8bedd" /></a>
+</td>
+<td><a href="/product/2594">FPF1320 Power Multiplexer Carrier with USB Micro-B Connector</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/product/2596"><img alt="" src="https://a.pololu-files.com/picture/0J5492.50x40.jpg?a67eb2612201bcb0753fdec17b0de2ea" /></a>
+</td>
+<td><a href="/product/2596">TPS2113A Power Multiplexer Carrier with USB Micro-B Connector</a></td>
+</tr>
+</table>
+</div>
+</div><div><h2>Related Categories</h2>
+<div>
+<table class='linkable_item_list'>
+<tr>
+<td class='img'>
+<a href="/category/121/pololu-power-switches"><img alt="" src="https://a.pololu-files.com/picture/0J6925.50x40.jpg?8e2ae8ec11c6f8335c6470266db32fde" /></a>
+</td>
+<td><a href="/category/121/pololu-power-switches">Pololu Power Switches</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/81/switches-buttons-and-relays"><img alt="" src="https://a.pololu-files.com/picture/0J2204.50x40.jpg?b3ba248216e714c82039603a96d16ed5" /></a>
+</td>
+<td><a href="/category/81/switches-buttons-and-relays">Switches, Buttons, and Relays</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/329/reverse-voltage-protection-and-ideal-diodes"><img alt="" src="https://a.pololu-files.com/picture/0J14047.50x40.jpg?79491ff2539273ddd0c7e12819eb8a7c" /></a>
+</td>
+<td><a href="/category/329/reverse-voltage-protection-and-ideal-diodes">Reverse Voltage Protection and Ideal Diodes</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/14/electronics-prototyping"><img alt="" src="https://a.pololu-files.com/picture/0J3668.50x40.jpg?5c1ec9e09f79441c54ab11e0a91b9772" /></a>
+</td>
+<td><a href="/category/14/electronics-prototyping">Electronics Prototyping</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/84/voltage-regulators-and-power-supplies"><img alt="" src="https://a.pololu-files.com/picture/0J2600.50x40.jpg?8be114e9f4083cc8a086cb2fe450d453" /></a>
+</td>
+<td><a href="/category/84/voltage-regulators-and-power-supplies">Voltage Regulators and Power Supplies</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/54/batteries"><img alt="" src="https://a.pololu-files.com/picture/0J3231.50x40.jpg?8722944d6f6a762d7d2e32c4a550577a" /></a>
+</td>
+<td><a href="/category/54/batteries">Batteries</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/55/battery-holders"><img alt="" src="https://a.pololu-files.com/picture/0J1040.50x40.jpg?5e38db440c535ab82074b6a75e9cd342" /></a>
+</td>
+<td><a href="/category/55/battery-holders">Battery Holders</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/28/solderless-breadboards"><img alt="" src="https://a.pololu-files.com/picture/0J10450.50x40.jpg?5982ae89594735acb521388debe5512f" /></a>
+</td>
+<td><a href="/category/28/solderless-breadboards">Solderless Breadboards</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/65/premium-jumper-wires"><img alt="" src="https://a.pololu-files.com/picture/0J11599.50x40.jpg?7f829c2badab1ad82f4da395e4a46cb8" /></a>
+</td>
+<td><a href="/category/65/premium-jumper-wires">Premium Jumper Wires</a></td>
+</tr>
+<tr>
+<td class='img'>
+<a href="/category/71/wires-with-pre-crimped-terminals"><img alt="" src="https://a.pololu-files.com/picture/0J11614.50x40.jpg?0c44e46f7c16b54a162ac2f0a59b3c6f" /></a>
+</td>
+<td><a href="/category/71/wires-with-pre-crimped-terminals">Wires with Pre-Crimped Terminals</a></td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+
+<div id='lightbox_holder'>
+<div id='lightbox_gray_screen'></div>
+<div id='lightbox'>
+<div id='lightbox_gallery'></div>
+<div id='lightbox_content'></div>
+<div id='lightbox_right'><i class="fa fa-chevron-right" aria-hidden="true"></i></div>
+<div id='lightbox_left'><i class="fa fa-chevron-left" aria-hidden="true"></i></div>
+<div id='lightbox_close'>
+<a href='#' title='Close'><i class="fa fa-times" aria-hidden="true"></i></a>
+</div>
+<div id='lightbox_full'>
+<a href='#' title='View image'><i class="fa fa-expand" aria-hidden="true"></i></a>
+</div>
+</div>
+</div>
+
+<div id='header_small_top'>
+<!-- / this has to go first since it takes up 100% of the width and would block clicking on other parts -->
+<div id='header_center_right'>
+<span data-login-ui='login'>
+<a href="/account/login?account%5Burl%5D=https%3A%2F%2Fwww.pololu.com%2Fproduct%2F2813">Log In</a>
+</span>
+<span data-login-ui='my_account'>
+<a title="My account" data-login-ui="my_account_link" href="/account"></a>
+</span>
+
+</div>
+<div id='header_small_left'>
+<a href="/"><img width="118" height="30" alt="Pololu Robotics &amp; Electronics" class="logo_pololu_only" src="https://a.pololu-files.com/assets/header_pololu_only-fff6349c8769e6b2e59624d6dceacac4422156c5ac8b8b23532f0e93678bb981.png" /></a>
+</div>
+<div id='header_small_right'>
+<a href="/cart"><img width="30" height="30" alt="Shopping cart" src="https://a.pololu-files.com/assets/cart-bf4bf66669c9b9288e6e972718067855ecdcdfc80622cfea29ac04b29478f873.png" /></a>
+</div>
+</div>
+<div id='header_small_bottom'>
+<div id='header_small_right'>
+(702) 262-6648<br/>
+<a href="/ordering">Same-day shipping, worldwide</a>
+</div>
+<div id='header_small_left'>
+<a id="menu_button" onclick="return false;" href="/catalog/menu"><img width="30" height="30" alt="Menu" src="https://a.pololu-files.com/assets/menu-2023bba099d8fd2a25d8e1803c5bdf0aa0a024d9d585000ff9aec2c8a436b29a.png" /></a>
+</div>
+</div>
+<div id='header_small_menu'>
+<div class='header_small_menu_columns'>
+<a href="/catalog/menu">Shop</a>
+<a href="/blog">Blog</a>
+<a href="https://forum.pololu.com/">Forum</a>
+<a href="/support">Support</a>
+</div>
+<!-- / specify local variable id to set an id for the form, mainly for use with testing -->
+<form action='/search' id='header_small_search'>
+<div class='search'><input autocomplete='off' class='search_input mini_search_input' data-autocomplete-search='true' id='header_small_search_input' name='query' placeholder='Search' type='text'><input alt='' class='search_button' src='https://a.pololu-files.com/assets/magglass-d28c6b7b9d1f35858a702b71e13b678bfdee962d795c7ad2426ed9b19ccac5e8.png' type='image' value='go'>
+</div>
+</form>
+
+<a title="My account" href="/account">My account</a>
+<a data-feedback="true" href="/feedback/new?account%5Burl%5D=https%3A%2F%2Fwww.pololu.com%2Fproduct%2F2813">Comments or questions?</a>
+<a href="/about">About Pololu</a>
+<a href="/contact">Contact</a>
+<a href="/ordering">Ordering information</a>
+<a href="/distributors">Distributors</a>
+</div>
+<div id='gray_screen'></div>
+<script>
+menuInit();
+</script>
+
+<div id='header_holder'>
+<table id='header'>
+<tr id='header_top'>
+<td id='header_logo' rowspan='2'>
+<a href="/"><img width="219" height="69" alt="Pololu Robotics and Electronics" class="logo" style="max-width: 230px;" src="https://a.pololu-files.com/assets/header_pololu_no_padding-e37eb899d2ec2ded9153a53ad9e0e6e12861f762e2c3bafb4ca40e79a85d149e.png" /></a>
+</td>
+<td colspan='16' id='header_address'>
+<div id='header_account_links'>
+<span data-login-ui='login'>
+<a href="/account/login?account%5Burl%5D=https%3A%2F%2Fwww.pololu.com%2Fproduct%2F2813">Log In</a>
+</span>
+<span data-login-ui='my_account'>
+<a title="My account" data-login-ui="my_account_link" href="/account"></a>
+|
+<a href="/account">My Account</a>
+|
+</span>
+<div data-login-ui='logout'>
+<form data-login-ui="logout" action="https://www.pololu.com/account/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="session_id" value="**SESSION_ID_STUB**" /><button class="btn-link" name="log-out-button">Log Out</button></form>
+</div>
+
+|
+<a href="/cart">Shopping Cart <img width="16" height="16" alt="" src="https://a.pololu-files.com/assets/cart-bf4bf66669c9b9288e6e972718067855ecdcdfc80622cfea29ac04b29478f873.png" /></a>
+<script>dynamic_user_login.init()</script>
+</div>
+<p class='phone_number'>
+US toll free: 1-877-7-POLOLU ~
+(702) 262-6648<br/>
+<a href="/ordering">Same-day shipping, worldwide</a>
+</p>
+</td>
+</tr>
+<tr id='header_links'>
+<th class='selected'>
+<a href="/">Catalog</a>
+</th>
+<td>&nbsp;</td>
+<th>
+<a href="https://forum.pololu.com/">Forum</a>
+</th>
+<td>&nbsp;</td>
+<th class=''>
+<a href="/blog">Blog</a>
+</th>
+<td>&nbsp;</td>
+<th class=''>
+<a href="/support">Support</a>
+</th>
+<td>&nbsp;</td>
+<th class=''>
+<a href="/ordering">Ordering</a>
+</th>
+<td>&nbsp;</td>
+<th class=''>
+<a href="/distributors">Distributors</a>
+</th>
+<td>&nbsp;</td>
+<th class=''>
+<a href="/about">About</a>
+</th>
+<td>&nbsp;</td>
+<th class=''>
+<a href="/contact">Contact</a>
+</th>
+<td class='last'></td>
+</tr>
+</table>
+</div>
+<div id='left_col'>
+<div class='menu' id='menu_search'>
+<div>
+<!-- / specify local variable id to set an id for the form, mainly for use with testing -->
+<form action='/search' id='sidebar_search'>
+<div class='search'><input autocomplete='off' class='search_input mini_search_input' data-autocomplete-search='true' id='sidebar_search_input' name='query' placeholder='Search' type='text'><input alt='' class='search_button' src='https://a.pololu-files.com/assets/magglass-d28c6b7b9d1f35858a702b71e13b678bfdee962d795c7ad2426ed9b19ccac5e8.png' type='image' value='go'>
+</div>
+</form>
+
+</div>
+</div>
+<div class='menu'>
+<h2><a data-feedback="true" href="">Feedback</a></h2>
+<div>
+<a class="menu_visible_link" data-feedback="true" href="">Comments or questions?</a>
+</div>
+</div>
+<div class='menu'>
+<h2><a href="/category/31/services">Services</a></h2>
+<div>
+<ul>
+<li>
+<a href="/product/749">Custom Laser Cutting</a>
+</li>
+<li>
+<a href="/product/446">SMT Stencils</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='menu'>
+<h2><a href="/">Products</a></h2>
+<div>
+<!-- sidebar_categories --><h3><a href="/category/42/new-products">New Products</a></h3>
+<h3><span class="specials_category"><a href="/specials">Specials!</a></span></h3>
+<hr />
+<h3><a href="/category/2/robot-kits">Robots</a></h3>
+<ul>
+	<li><a href="/category/76/3pi-robots-and-accessories">3pi</a></li>
+	<li><a href="/category/210/balboa-robot-and-accessories">Balboa</a></li>
+	<li><a href="/category/327/collaborative-robots">Cobot</a></li>
+	<li><a href="/category/202/romi-chassis-and-accessories">Romi</a></li>
+	<li><a href="/category/129/zumo-robots-and-accessories">Zumo</a></li>
+	<li><a href="/category/3/robot-kits-with-soldering">Kits, Soldering</a></li>
+	<li><a href="/category/4/robot-kits-without-soldering">Kits, No Soldering</a></li>
+</ul>
+<h3><a href="/category/6/electronics">Electronics</a></h3>
+<ul>
+	<li><a href="/category/125/arduino-compatible">Arduino</a></li>
+	<li><a href="/category/39/cables-and-wire">Cables and Wires</a></li>
+	<li><a href="/category/13/computer-interface">Computer Interface</a></li>
+	<li><a href="/category/19/connectors">Connectors</a></li>
+	<li><a href="/category/64/development-boards-programmable-controllers">Development Boards</a></li>
+	<li><a href="/category/334/isolation">Isolation</a></li>
+	<li><a href="/category/20/leds">LEDs</a></li>
+	<li><a href="/category/9/motion-control-modules">Motor Control</a></li>
+	<li><a href="/category/321/power">Power</a></li>
+	<li><a href="/category/14/electronics-prototyping">Prototyping</a></li>
+	<li><a href="/category/150/raspberry-pi">Raspberry Pi</a></li>
+	<li><a href="/category/135/relay-modules">Relays</a></li>
+	<li><a href="/category/7/sensors">Sensors</a></li>
+	<li><a href="/category/102/maestro-usb-servo-controllers">Servo Control</a></li>
+	<li><a href="/category/136/voltage-regulators">Voltage Regulators</a></li>
+</ul>
+<h3><a href="/category/21/mechanical-components">Mechanical</a></h3>
+<ul>
+	<li><a href="/category/231/ball-casters">Ball Casters</a></li>
+	<li><a href="/category/230/brackets">Brackets</a></li>
+	<li><a href="/category/26/chassis">Chassis</a></li>
+	<li><a href="/category/25/hardware">Hardware</a></li>
+	<li><a href="/category/127/linear-actuators">Linear Actuators</a></li>
+	<li><a href="/category/22/motors-and-gearboxes">Motors</a></li>
+	<li><a href="/category/179/motor-shaft-adapters">Motor Shaft Adapters</a></li>
+	<li><a href="/category/205/servos">Servos</a></li>
+	<li><a href="/category/87/stepper-motors">Stepper Motors</a></li>
+	<li><a href="/category/61/tamiya-products">Tamiya Products</a></li>
+	<li><a href="/category/5/tools">Tools</a></li>
+	<li><a href="/category/232/tracks">Tracks</a></li>
+	<li><a href="/category/234/wheels">Wheels</a></li>
+</ul>
+<h3><a href="/category/109/shirts">Shirts</a></h3>
+<ul>
+	<li><a href="/category/237/pololu-balboa-t-shirts">Balboa T-Shirts</a></li>
+	<li><a href="/category/194/pololu-zumo-t-shirts">Zumo T-Shirts</a></li>
+	<li><a href="/category/193/pololu-circuit-logo-t-shirts">Logo T-Shirts</a></li>
+</ul>
+</div>
+</div>
+
+<div class='menu'>
+<h2>Community</h2>
+<div>
+<ul>
+<li>
+<a data-lightbox-link="true" data-lightbox-height="34rem" data-lightbox-width="36rem" href="/account/communication-preferences">Mailing list</a>
+</li>
+<li>
+<a href="/blog">Pololu Blog</a>
+</li>
+<li>
+<a href="/blog/engage-your-brain">Engage Your Brain</a>
+</li>
+<li>
+<a href="/blog/community-projects">Community Projects</a>
+</li>
+<li>
+<span class="image_text_link"><a href="/feeds"><img alt="" src="https://a.pololu-files.com/assets/feed-icon-12x12-ad0e7f1965647f9414a76a1f32fb46dc73c1b2d295201b0abb56f2b2cf88bfb2.png" /></a><a href="/feeds">Feeds</a></span>
+</li>
+<li>
+<span class="image_text_link"><a href="mailto:?body=https%3A%2F%2Fwww.pololu.com%2Fproduct%2F2813&amp;subject"><img alt="" src="https://a.pololu-files.com/assets/email-f2957b324fa09a7d81ed64679a6b9454647ad40514cd7b1ce501aefd946f5593.png" /></a><a href="mailto:?body=https%3A%2F%2Fwww.pololu.com%2Fproduct%2F2813&amp;subject">Email a friend</a></span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id='mathjax'></div>
+</body>
+</html>

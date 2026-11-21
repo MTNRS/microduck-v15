@@ -1,0 +1,26 @@
+{
+ "P14": {
+  "carrera_de_colocacion_del_mazo_mm": [
+   -8.485281374238571,
+   0.0,
+   8.485281374238571
+  ],
+  "material_retirado_mm3": 51.25016617039315,
+  "porcentaje_retirado": 0.8547223075551167,
+  "distancia_minima_a_herrajes_mm": 2.6158684498598586,
+  "holgura_en_toda_la_entrada_mm": 0.4349259896254411,
+  "solidos": 1
+ },
+ "P15": {
+  "carrera_de_colocacion_del_mazo_mm": [
+   0.0,
+   0.0,
+   6.0
+  ],
+  "material_retirado_mm3": 40.15466169154608,
+  "porcentaje_retirado": 0.6703346269986415,
+  "distancia_minima_a_herrajes_mm": 1.6220301742255199,
+  "holgura_en_toda_la_entrada_mm": 0.4380206978899137,
+  "solidos": 1
+ }
+}

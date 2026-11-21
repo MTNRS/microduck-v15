@@ -1,0 +1,11 @@
+{
+ "herramienta": "Gerbonara + Shapely",
+ "islas_de_cobre": 2,
+ "contactos_soldables": 4,
+ "distancia_entre_redes_mm": 1.96,
+ "distancia_minima_cobre_borde_mm": 0.22,
+ "cota_exterior_entre_islas_de_reed_mm": 16.88,
+ "centros_de_islas_reed_mm": 14.85,
+ "ancho_de_pista_mm": 0.35,
+ "area_mm2": 65.209
+}

@@ -1,0 +1,159 @@
+{
+ "AMARILLO_PETG_0p2_R0_01": {
+  "vertices_STL_a_proyecto_error_maximo_mm": {
+   "P40": 0.0
+  },
+  "archivo_laminado": "AMARILLO_PETG_0p2_R0_01.gcode.3mf",
+  "sha256_gcode": "84e4f9dc51e1f2b27452efb97292f3927f5b9df4bbacf8f8f5379ff38af2788b",
+  "pausas_mm": []
+ },
+ "AZUL_CIELO_PETG_0p1_R3_COMPACTA": {
+  "vertices_STL_a_proyecto_error_maximo_mm": {
+   "P33": 3e-06,
+   "P45": 2e-06,
+   "P83": 1e-06,
+   "P65": 2e-06
+  },
+  "archivo_laminado": "AZUL_CIELO_PETG_0p1_R3_COMPACTA.gcode.3mf",
+  "sha256_gcode": "67ddb1ee71be874fcd05a18ed6daee8e26d471549016517d41942ff9d12da4e2",
+  "pausas_mm": []
+ },
+ "AZUL_CIELO_PETG_0p2_R0_01": {
+  "vertices_STL_a_proyecto_error_maximo_mm": {
+   "P44": 3e-06,
+   "P51": 1e-06,
+   "P47": 1e-06,
+   "P11": 2e-06,
+   "P03": 2e-06,
+   "P86": 0.0,
+   "P53": 1e-06,
+   "P52": 1e-06,
+   "P20": 0.0,
+   "P28": 1e-06
+  },
+  "archivo_laminado": "AZUL_CIELO_PETG_0p2_R0_01.gcode.3mf",
+  "sha256_gcode": "1bc08cb27ce5f306cb1d862411d513163f172ef1a44e0d80c00d2208afd45796",
+  "pausas_mm": [
+   23.4,
+   24.4,
+   45.2,
+   46.2
+  ]
+ },
+ "GRIS_PETG_0p2_R0_01": {
+  "vertices_STL_a_proyecto_error_maximo_mm": {
+   "P35": 0.0
+  },
+  "archivo_laminado": "GRIS_PETG_0p2_R0_01.gcode.3mf",
+  "sha256_gcode": "8d2203fb36aea8f61213b73a4314bbd76438010f731ac935905e7804f83794d8",
+  "pausas_mm": []
+ },
+ "NARANJA_PETG_0p2_R3_COMPACTA": {
+  "vertices_STL_a_proyecto_error_maximo_mm": {
+   "P34": 2e-06,
+   "P36": 3e-06
+  },
+  "archivo_laminado": "NARANJA_PETG_0p2_R3_COMPACTA.gcode.3mf",
+  "sha256_gcode": "606bd1e72873716b304de9e16276ce16e00a24aa81ab5c53ebe32415f7f70135",
+  "pausas_mm": []
+ },
+ "NARANJA_TPU95A_0p2_R0_01": {
+  "vertices_STL_a_proyecto_error_maximo_mm": {
+   "P39": 1e-06,
+   "P38": 2e-06
+  },
+  "archivo_laminado": "NARANJA_TPU95A_0p2_R0_01.gcode.3mf",
+  "sha256_gcode": "719a28c77f582e1cce06a8e4f5e5c32fe37d4019bf5ad05613976f91fc3f34ef",
+  "pausas_mm": []
+ },
+ "NEGRO_PETG_0p1_R0_COMPACTA": {
+  "vertices_STL_a_proyecto_error_maximo_mm": {
+   "P64": 1e-06,
+   "P82": 1e-06,
+   "P81": 1e-06,
+   "P08": 1e-06,
+   "P01": 1e-06,
+   "P09": 1e-06,
+   "P24": 1e-06,
+   "P16": 1e-06,
+   "P78": 1e-06,
+   "P75": 1e-06,
+   "P76": 1e-06,
+   "P73": 1e-06,
+   "P70": 1e-06,
+   "P72": 1e-06,
+   "P74": 1e-06,
+   "P85": 0.0,
+   "P77": 1e-06,
+   "P79": 1e-06,
+   "P25": 0.0,
+   "P26": 1e-06,
+   "P27": 1e-06,
+   "P22": 0.0,
+   "P19": 0.0,
+   "P21": 0.0,
+   "P18": 0.0,
+   "P80": 1e-06,
+   "P60": 0.0,
+   "P59": 0.0,
+   "P30": 0.0,
+   "P68": 0.0,
+   "P32": 0.0,
+   "P31": 0.0,
+   "P56": 0.0,
+   "P57": 0.0,
+   "P58": 0.0,
+   "P67": 0.0,
+   "P29": 0.0
+  },
+  "archivo_laminado": "NEGRO_PETG_0p1_R0_COMPACTA.gcode.3mf",
+  "sha256_gcode": "a6262bf9ecc36ecad10c9b6053d7acb92c0b6eed205a020a08a9a54a5072e13a",
+  "pausas_mm": []
+ },
+ "NEGRO_PETG_0p2_R0_01-1": {
+  "vertices_STL_a_proyecto_error_maximo_mm": {
+   "P69": 1e-06,
+   "P49": 2e-06,
+   "P06": 2e-06,
+   "P05": 1e-06,
+   "P13": 1e-06,
+   "P04": 1e-06,
+   "P12": 1e-06,
+   "P23": 1e-06,
+   "P37": 1e-06,
+   "P02": 1e-06,
+   "P10": 1e-06,
+   "P54": 1e-06,
+   "P14": 1e-06,
+   "P15": 1e-06,
+   "P07": 1e-06,
+   "P43": 1e-06,
+   "P61": 2e-06,
+   "P50": 1e-06,
+   "P46": 1e-06,
+   "P48": 1e-06,
+   "P71": 1e-06,
+   "P84": 0.0,
+   "P17": 1e-06,
+   "P66": 1e-06,
+   "P63": 0.0,
+   "P62": 0.0,
+   "P55": 0.0
+  },
+  "archivo_laminado": "NEGRO_PETG_0p2_R0_01-1.gcode.3mf",
+  "sha256_gcode": "231ffa807b506d406d9a71ad5f7260e2efd7744439293e2cf236292624fd547b",
+  "pausas_mm": [
+   20.2,
+   23.2
+  ]
+ },
+ "NEGRO_TPU_95A_0p2_R0_01": {
+  "vertices_STL_a_proyecto_error_maximo_mm": {
+   "P42": 1e-06,
+   "P41": 1e-06
+  },
+  "archivo_laminado": "NEGRO_TPU_95A_0p2_R0_01.gcode.3mf",
+  "sha256_gcode": "f9fe2b837d05427186110e3a3aaf25300e1e57f440939c203f9dbf3a5e3a5534",
+  "pausas_mm": []
+ }
+}

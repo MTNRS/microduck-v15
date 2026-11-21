@@ -1,0 +1,124 @@
+{
+ "P45": {
+  "desplazamiento_relativo_mm": [
+   0,
+   64,
+   0
+  ],
+  "resultado": {
+   "cuerpo_XT30U_acoplado": {
+    "solape_mm3": 0.0,
+    "margen_mm": 4.1915
+   },
+   "cazoleta_W001": {
+    "solape_mm3": 0.0,
+    "margen_mm": 10.396
+   },
+   "manga_W001": {
+    "solape_mm3": 0.0,
+    "margen_mm": 11.0473
+   },
+   "cazoleta_W002": {
+    "solape_mm3": 0.0,
+    "margen_mm": 6.1048
+   },
+   "manga_W002": {
+    "solape_mm3": 0.0,
+    "margen_mm": 6.7707
+   },
+   "cazoleta_BAT01": {
+    "solape_mm3": 0.0,
+    "margen_mm": 12.0
+   },
+   "manga_BAT01": {
+    "solape_mm3": 0.0,
+    "margen_mm": 12.0
+   },
+   "cazoleta_BAT02": {
+    "solape_mm3": 0.0,
+    "margen_mm": 9.1563
+   },
+   "manga_BAT02": {
+    "solape_mm3": 0.0,
+    "margen_mm": 10.4258
+   },
+   "W001": {
+    "solape_mm3": 0.0,
+    "margen_mm": 12.0
+   },
+   "W002": {
+    "solape_mm3": 0.0,
+    "margen_mm": 8.369
+   },
+   "BAT01": {
+    "solape_mm3": 0.0,
+    "margen_mm": 12.0
+   },
+   "BAT02": {
+    "solape_mm3": 0.0,
+    "margen_mm": 12.0
+   }
+  }
+ },
+ "P83": {
+  "desplazamiento_relativo_mm": [
+   0,
+   -68,
+   0
+  ],
+  "resultado": {
+   "cuerpo_XT30U_acoplado": {
+    "solape_mm3": 0.0,
+    "margen_mm": 0.7537
+   },
+   "cazoleta_W001": {
+    "solape_mm3": 0.0,
+    "margen_mm": 0.8746
+   },
+   "manga_W001": {
+    "solape_mm3": 0.0,
+    "margen_mm": 0.8445
+   },
+   "cazoleta_W002": {
+    "solape_mm3": 0.0,
+    "margen_mm": 3.38
+   },
+   "manga_W002": {
+    "solape_mm3": 0.0,
+    "margen_mm": 2.6207
+   },
+   "cazoleta_BAT01": {
+    "solape_mm3": 0.0,
+    "margen_mm": 2.5962
+   },
+   "manga_BAT01": {
+    "solape_mm3": 0.0,
+    "margen_mm": 2.893
+   },
+   "cazoleta_BAT02": {
+    "solape_mm3": 0.0,
+    "margen_mm": 7.5953
+   },
+   "manga_BAT02": {
+    "solape_mm3": 0.0,
+    "margen_mm": 5.6209
+   },
+   "W001": {
+    "solape_mm3": 0.0,
+    "margen_mm": 0.805
+   },
+   "W002": {
+    "solape_mm3": 0.0,
+    "margen_mm": 0.251
+   },
+   "BAT01": {
+    "solape_mm3": 0.0,
+    "margen_mm": 0.1855
+   },
+   "BAT02": {
+    "solape_mm3": 0.0,
+    "margen_mm": 2.8203
+   }
+  }
+ }
+}

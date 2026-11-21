@@ -1,0 +1,55 @@
+{
+ "servos": {
+  "MG00": "corrección geométrica por ajustar",
+  "MG01": "corrección geométrica por ajustar",
+  "MG02": "corrección geométrica por ajustar",
+  "MG03": "puente ya medido",
+  "MG04": "corrección geométrica por ajustar",
+  "MG05": "corrección geométrica por ajustar",
+  "MG06": "puente ya medido",
+  "MG07": "puente ya medido",
+  "MG08": "puente ya medido",
+  "MG10": "puente ya medido",
+  "MG11": "corrección geométrica por ajustar",
+  "MG12": "corrección geométrica por ajustar",
+  "MG13": "corrección geométrica por ajustar",
+  "MG14": "corrección geométrica por ajustar"
+ },
+ "placa_D36": {
+  "W007": {
+   "pad": "IN",
+   "eje": [
+    9.89,
+    -1.3276,
+    120.75
+   ]
+  },
+  "W013": {
+   "pad": "GND2",
+   "eje": [
+    7.35,
+    -1.3276,
+    120.75
+   ]
+  },
+  "W015": {
+   "pad": "GND1",
+   "eje": [
+    4.81,
+    -2.9024,
+    120.75
+   ]
+  },
+  "H005": {
+   "pad": "OUT",
+   "eje": [
+    2.27,
+    -2.9024,
+    120.75
+   ]
+  }
+ },
+ "minima_distancia_inicial_entre_aislamientos_D36": -1.232,
+ "soldadura_de_S14": "Pad posterior de la PCA, fila de 2.54 mm.",
+ "fuente_PDB": "https://www.gobilda.com/servo-power-distribution-board-8-channel/"
+}

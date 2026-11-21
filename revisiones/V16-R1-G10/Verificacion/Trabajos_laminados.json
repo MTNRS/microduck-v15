@@ -1,0 +1,159 @@
+{
+ "AMARILLO_PETG_0p2_R0_01": {
+  "piezas": [
+   "P40"
+  ],
+  "pausas_mm": [],
+  "sha256_gcode": "84e4f9dc51e1f2b27452efb97292f3927f5b9df4bbacf8f8f5379ff38af2788b",
+  "sha256_3mf": "b791495aa9ae4d387478c338c742a2d95d80be77498efeac94b4e51b25c4454e"
+ },
+ "AZUL_CIELO_PETG_0p1_R3_COMPACTA": {
+  "piezas": [
+   "P33",
+   "P45",
+   "P83",
+   "P65"
+  ],
+  "pausas_mm": [],
+  "sha256_gcode": "67ddb1ee71be874fcd05a18ed6daee8e26d471549016517d41942ff9d12da4e2",
+  "sha256_3mf": "2e58eb9a2a01db552cdbfb890fe70cd81dcaee5549e437fce3bad293b36037ae"
+ },
+ "AZUL_CIELO_PETG_0p2_R0_01": {
+  "piezas": [
+   "P44",
+   "P51",
+   "P47",
+   "P11",
+   "P03",
+   "P86",
+   "P53",
+   "P52",
+   "P20",
+   "P28"
+  ],
+  "pausas_mm": [
+   23.4,
+   24.4,
+   45.2,
+   46.2
+  ],
+  "sha256_gcode": "1bc08cb27ce5f306cb1d862411d513163f172ef1a44e0d80c00d2208afd45796",
+  "sha256_3mf": "f53e7d3c34c8f9a5155861c88dbf2d8f7718e12be257d71a056fd872bd9b952e"
+ },
+ "GRIS_PETG_0p2_R0_01": {
+  "piezas": [
+   "P35"
+  ],
+  "pausas_mm": [],
+  "sha256_gcode": "8d2203fb36aea8f61213b73a4314bbd76438010f731ac935905e7804f83794d8",
+  "sha256_3mf": "b18e1f7e91a334e837ecca71903c5b2ce61a94b2cde60240c49362686d65d7d5"
+ },
+ "NARANJA_PETG_0p2_R3_COMPACTA": {
+  "piezas": [
+   "P34",
+   "P36"
+  ],
+  "pausas_mm": [],
+  "sha256_gcode": "606bd1e72873716b304de9e16276ce16e00a24aa81ab5c53ebe32415f7f70135",
+  "sha256_3mf": "aa7b447af77912448149bed6bbecbdbcad356f027324f2d091005489041d3c2f"
+ },
+ "NARANJA_TPU95A_0p2_R0_01": {
+  "piezas": [
+   "P39",
+   "P38"
+  ],
+  "pausas_mm": [],
+  "sha256_gcode": "719a28c77f582e1cce06a8e4f5e5c32fe37d4019bf5ad05613976f91fc3f34ef",
+  "sha256_3mf": "8c6a9d17a8b4b4ea7afb2d1646624701841516cc63192ff512e2c118c161a41c"
+ },
+ "NEGRO_PETG_0p1_R0_COMPACTA": {
+  "piezas": [
+   "P64",
+   "P82",
+   "P81",
+   "P08",
+   "P01",
+   "P09",
+   "P24",
+   "P16",
+   "P78",
+   "P75",
+   "P76",
+   "P73",
+   "P70",
+   "P72",
+   "P74",
+   "P85",
+   "P77",
+   "P79",
+   "P25",
+   "P26",
+   "P27",
+   "P22",
+   "P19",
+   "P21",
+   "P18",
+   "P80",
+   "P60",
+   "P59",
+   "P30",
+   "P68",
+   "P32",
+   "P31",
+   "P56",
+   "P57",
+   "P58",
+   "P67",
+   "P29"
+  ],
+  "pausas_mm": [],
+  "sha256_gcode": "a6262bf9ecc36ecad10c9b6053d7acb92c0b6eed205a020a08a9a54a5072e13a",
+  "sha256_3mf": "70e31d4a8f40ef2e6ae5614d365a0c5e55d788b6f4618c86f0f881e236bc0842"
+ },
+ "NEGRO_PETG_0p2_R0_01-1": {
+  "piezas": [
+   "P69",
+   "P49",
+   "P06",
+   "P05",
+   "P13",
+   "P04",
+   "P12",
+   "P23",
+   "P37",
+   "P02",
+   "P10",
+   "P54",
+   "P14",
+   "P15",
+   "P07",
+   "P43",
+   "P61",
+   "P50",
+   "P46",
+   "P48",
+   "P71",
+   "P84",
+   "P17",
+   "P66",
+   "P63",
+   "P62",
+   "P55"
+  ],
+  "pausas_mm": [
+   20.2,
+   23.2
+  ],
+  "sha256_gcode": "231ffa807b506d406d9a71ad5f7260e2efd7744439293e2cf236292624fd547b",
+  "sha256_3mf": "43d395c91c7a3883fb83207b7d3917a01ce33ebf0c7cf020521590da93071184"
+ },
+ "NEGRO_TPU_95A_0p2_R0_01": {
+  "piezas": [
+   "P42",
+   "P41"
+  ],
+  "pausas_mm": [],
+  "sha256_gcode": "f9fe2b837d05427186110e3a3aaf25300e1e57f440939c203f9dbf3a5e3a5534",
+  "sha256_3mf": "b6f968fb8cee5e031c16ad7f40269c0a0e9db48403a8724d37886c9181e4dc26"
+ }
+}

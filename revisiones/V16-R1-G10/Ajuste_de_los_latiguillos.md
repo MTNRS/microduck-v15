@@ -1,0 +1,9 @@
+# Longitud del cable de cada servo
+
+La columna «recorrido CAD» de `Ramales_y_sobrantes.csv` sigue cada conductor desde el pasacables del motor hasta la entrada de su contacto. Las quince filas de `Latiguillos_de_los_15_MG90S.csv` agrupan las tres vías de cada motor. En el arnés de ensayo las tres vías pueden separarse después del pasacables y seguir trayectorias distintas. Cuenta una sola cinta de tres vías al comprar cada servo.
+
+**Qué cabe en la pose de montaje.** Las longitudes por vía de MG09 y MG14 figuran en la tabla actualizada de esta revisión. Estas medidas excluyen el tramo pelado dentro del contacto. Las curvas de reserva que ya están modeladas forman parte de esas longitudes. El embalaje del servo no determina la longitud real ni el diámetro de su lote.
+
+**Cómo comprobar el sobrante.** Con el pack desconectado, presenta los latiguillos sin tensarlos. Mide cada vía desde la salida del pasacables hasta la entrada de su contacto. Resta el recorrido de la tabla. Un resultado positivo es cable adicional que necesita un sitio real. Uno negativo indica cuánto falta en esa pose. La tabla no contiene un hueco reservado para guardar todo el cable de fábrica de cualquier versión del MG90S.
+
+**Antes de preparar el arnés definitivo.** Comprueba el recorrido de cada articulación con el mazo presentado, deja margen para la flexión y comprueba el movimiento de la tapa. Mantén tanto el radio de curvatura del cable elegido como el alivio de tracción en el motor y el enchufe. Marca cada vía a la longitud medida. Un latiguillo confeccionado a medida requiere contactos compatibles con la carcasa, el calibre y su crimpadora. La referencia de dichos contactos depende del conector real del lote. Si una vía queda corta, vuelve a dimensionar el ramal antes de montarlo. La longitud de los cables de este lote y su movimiento en las quince articulaciones siguen pendientes de prueba física.

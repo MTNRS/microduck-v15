@@ -1,0 +1,154 @@
+﻿hilo;ramal;red;origen;destino;recorrido CAD mm;diámetro exterior mm;exceso geométrico localizado mm;centro de la curva XYZ mm;montaje y tolerancia
+W001;Potencia;B+ crudo;Pack XT30 +;PCM B+;33.41;1.9;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W002;Potencia;B− crudo;Pack XT30 −;PCM B−;34.47;1.9;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W003;Potencia;BM crudo;Isla BM de la cara de cobre (+Y) del FR4, comunicada solo con el pin 2 de B3B-XH-A;PCM BM por B3B-XH-A pin 2;111.67;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W004;Potencia;P+ protegido;PCM P+;MINI terminal IN;53.75;1.9;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W005;Potencia;P+ con fusible;MINI terminal OUT;HP2813 VIN;78.29;1.9;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W006;Potencia;VSW conmutada;HP2813 VOUT;D24 VIN;21.38;1.9;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W007;Potencia;VSW conmutada;HP2813 VOUT;D36 VIN;305.15;1.38;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W008;Potencia;5V_SERVOS;D24 VOUT 5 V;PDB XT30 +;105.19;1.9;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W009;Potencia;P− protegido;PCM P−;Distribución P− principal;137.35;1.9;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W010;Potencia;P− protegido;Distribución P− principal;HP2813 GND;74.17;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W011;Potencia;P− protegido;Distribución P− principal;D24 GND;191.34;1.9;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W012;Potencia;P− protegido;Distribución P− principal;PDB XT30 −;8.57;1.9;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W013;Potencia;P− protegido;Distribución P− principal;D36 GND;213.56;1.38;0.40;-11.347, -13.894, 153.135;Curva localizada entre sus puntos de entrada y salida. Confirmar sobre la impresión.
+W014;Potencia;5V_LÓGICA;D36 VOUT 5 V;Pi J8 pin físico 2 (5V);180.31;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W015;Potencia;P− protegido;D36 GND (P−);Pi J8 pin físico 6 (GND);216.64;1.15;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W016;Lógica y control;3V3 lógica;Pi J8 pin físico 1 (3V3);PCA815 VCC;26.62;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W017;Lógica y control;3V3 lógica;Pi J8 pin físico 1 (3V3);BNO055 VIN;71.52;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W018;Lógica y control;3V3 lógica;Pi J8 pin físico 1 (3V3);ADS1115 VDD;24.89;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W019;Lógica y control;3V3 lógica;Pi J8 pin físico 1 (3V3);Q1 2N3906 emisor;56.45;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W022;Lógica y control;P− protegido;Distribución P− lógica;PCA815 GND;90.14;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W023;Lógica y control;P− protegido;Distribución P− lógica;BNO055 GND;37.15;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W024;Lógica y control;P− protegido;Distribución P− lógica;ADS1115 GND;103.28;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W025;Lógica y control;P− protegido;Distribución P− lógica;R_DIV_LOWER 10k lado GND;106.70;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W027;Lógica y control;P− protegido;Distribución P− principal;Distribución P− lógica;71.11;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W028;Lógica y control;SDA;Pi J8 pin físico 3 (SDA);PCA815 SDA;21.01;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W029;Lógica y control;SDA;Pi J8 pin físico 3 (SDA);BNO055 SDA;127.93;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W030;Lógica y control;SDA;Pi J8 pin físico 3 (SDA);ADS1115 SDA;61.40;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W031;Lógica y control;SCL;Pi J8 pin físico 5 (SCL);PCA815 SCL;15.93;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W032;Lógica y control;SCL;Pi J8 pin físico 5 (SCL);BNO055 SCL;133.63;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W033;Lógica y control;SCL;Pi J8 pin físico 5 (SCL);ADS1115 SCL;81.63;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W034;Lógica y control;VSW conmutada;HP2813 VOUT;R_DIV_UPPER 20k lado alto;48.37;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W035;Lógica y control;AIN0;R_DIV_UPPER 20k lado bajo;ADS1115 AIN0;36.26;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W037;Lógica y control;ALERT activo LOW;ADS1115 ALERT/RDY;Pi J8 pin físico 11 (BCM17);293.65;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W038;Lógica y control;ALERT activo LOW;ADS1115 ALERT/RDY;R_ALERT_BASE 10k lado ALERT;29.07;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W042;Lógica y control;OFF activo HIGH;R_COLLECTOR_OFF 4.7k lado HP;HP2813 OFF;70.49;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W044;Lógica y control;OE HIGH deshabilita;Pi J8 pin físico 29 (BCM5);PCA815 OE;339.08;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W045;Lógica y control;OE HIGH deshabilita;R_OE_PULLUP 10k lado OE;PCA815 OE;69.15;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W046;Lógica y control;A (contacto seco);HP2813 A;Reed 59170-1-S-00-C terminal 1;26.43;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W047;Lógica y control;B (contacto seco);HP2813 B;Reed 59170-1-S-00-C terminal 2;24.75;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W048;Pie L;5V_LÓGICA;D36 VOUT 5 V;Placa plantar L · TRONCO_5V;267.40;0.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W050;Pie L;S pie;Placa plantar L · TALON_NO;V15_FOOT_L_HEEL_OMRON_SS01E · NO;18.17;0.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W051;Pie L;P− protegido;V15_FOOT_L_HEEL_OMRON_SS01E · COM;Placa plantar L · TALON_COM;16.25;0.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W052;Pie L;S pie;Placa plantar L · PUNTA_NO;V15_FOOT_L_TOE_OMRON_SS01E · NO;85.73;0.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W053;Pie L;P− protegido;V15_FOOT_L_TOE_OMRON_SS01E · COM;Placa plantar L · PUNTA_COM;83.07;0.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W058;Pie L;P− protegido;Placa plantar L · TRONCO_GND;Distribución P− lógica;185.35;0.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W059;Pie L;GPIO pie activo LOW;Placa plantar L · TRONCO_GPIO;Pi J8 pin físico 15 (BCM22);386.25;0.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W060;Pie R;5V_LÓGICA;D36 VOUT 5 V;Placa plantar R · TRONCO_5V;173.35;0.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W062;Pie R;S pie;Placa plantar R · TALON_NO;V15_FOOT_R_HEEL_OMRON_SS01E · NO;18.28;0.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W063;Pie R;P− protegido;V15_FOOT_R_HEEL_OMRON_SS01E · COM;Placa plantar R · TALON_COM;16.39;0.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W064;Pie R;S pie;Placa plantar R · PUNTA_NO;V15_FOOT_R_TOE_OMRON_SS01E · NO;71.28;0.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W065;Pie R;P− protegido;V15_FOOT_R_TOE_OMRON_SS01E · COM;Placa plantar R · PUNTA_COM;87.52;0.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W070;Pie R;P− protegido;Placa plantar R · TRONCO_GND;Distribución P− lógica;179.50;0.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W071;Pie R;GPIO pie activo LOW;Placa plantar R · TRONCO_GPIO;Pi J8 pin físico 13 (BCM27);337.51;0.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W072;S00 · MG00;5V_SERVOS;PDB toma P00, V+;Y S00→MG00 V+;39.94;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W073;S00 · MG00;P− servo;PDB toma P00, GND;Y S00→MG00 GND;45.23;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W074;S00 · MG00;PWM independiente;PCA pad S00 (cara posterior);Y S00→MG00 S;86.43;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W075;S01 · MG02;5V_SERVOS;PDB toma P01, V+;Y S01→MG02 V+;42.29;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W076;S01 · MG02;P− servo;PDB toma P01, GND;Y S01→MG02 GND;73.30;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W077;S01 · MG02;PWM independiente;PCA pad S01 (cara posterior);Y S01→MG02 S;78.38;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W078;S02 · MG04;5V_SERVOS;PDB toma P02, V+;Y S02→MG04 V+;71.43;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W079;S02 · MG04;P− servo;PDB toma P02, GND;Y S02→MG04 GND;77.19;1.6;1.63;20.647, -12.996, 140.770;Curva localizada entre sus puntos de entrada y salida. Confirmar sobre la impresión.
+W080;S02 · MG04;PWM independiente;PCA pad S02 (cara posterior);Y S02→MG04 S;79.57;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W081;S03 · MG03;5V_SERVOS;PDB toma P03, V+;Y S03→MG03 V+;108.69;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W082;S03 · MG03;P− servo;PDB toma P03, GND;Y S03→MG03 GND;84.86;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W083;S03 · MG03;PWM independiente;PCA pad S03 (cara posterior);Y S03→MG03 S;92.23;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W084;S04 · MG05;5V_SERVOS;PDB toma P04, V+;Y S04→MG05 V+;26.46;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W085;S04 · MG05;P− servo;PDB toma P04, GND;Y S04→MG05 GND;65.31;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W086;S04 · MG05;PWM independiente;PCA pad S04 (cara posterior);Y S04→MG05 S;83.73;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W087;S05 · MG06;5V_SERVOS;PDB toma P05, V+;Y S05→MG06 V+;234.89;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W088;S05 · MG06;P− servo;PDB toma P05, GND;Y S05→MG06 GND;221.38;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W089;S05 · MG06;PWM independiente;PCA pad S05 (cara posterior);Y S05→MG06 S;283.68;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W090;S06 · MG07;5V_SERVOS;PDB toma P06, V+;Y S06→MG07 V+;195.34;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W091;S06 · MG07;P− servo;PDB toma P06, GND;Y S06→MG07 GND;169.07;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W092;S06 · MG07;PWM independiente;PCA pad S06 (cara posterior);Y S06→MG07 S;224.43;1.2;0.12;27.306, 3.979, 198.362;Curva localizada entre sus puntos de entrada y salida. Confirmar sobre la impresión.
+W093;S07 · MG08;5V_SERVOS;PDB toma P07, V+;Y S07→MG08 V+;225.80;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W094;S07 · MG08;P− servo;PDB toma P07, GND;Y S07→MG08 GND;236.91;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W095;S07 · MG08;PWM independiente;PCA pad S07 (cara posterior);Y S07→MG08 S;253.96;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W096;S08 · MG10;5V_SERVOS;PDB toma P08, V+;Y S08→MG10 V+;218.8;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W097;S08 · MG10;P− servo;PDB toma P08, GND;Y S08→MG10 GND;165.29;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W098;S08 · MG10;PWM independiente;PCA pad S08 (cara posterior);Y S08→MG10 S;253.71;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W099;S09 · MG01;5V_SERVOS;PDB toma P09, V+;Y S09→MG01 V+;62.23;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W100;S09 · MG01;P− servo;PDB toma P09, GND;Y S09→MG01 GND;56.33;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W101;S09 · MG01;PWM independiente;PCA pad S09 (cara posterior);Y S09→MG01 S;96.73;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W102;S10 · MG11;5V_SERVOS;PDB toma P10, V+;Y S10→MG11 V+;77.40;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W103;S10 · MG11;P− servo;PDB toma P10, GND;Y S10→MG11 GND;84.67;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W104;S10 · MG11;PWM independiente;PCA pad S10 (cara posterior);Y S10→MG11 S;102.76;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W105;S11 · MG13;5V_SERVOS;PDB toma P11, V+;Y S11→MG13 V+;37.56;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W106;S11 · MG13;P− servo;PDB toma P11, GND;Y S11→MG13 GND;107.54;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W107;S11 · MG13;PWM independiente;PCA pad S11 (cara posterior);Y S11→MG13 S;99.01;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W108;S12 · MG12;5V_SERVOS;PDB toma P12, V+;Y S12→MG12 V+;63.38;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W109;S12 · MG12;P− servo;PDB toma P12, GND;Y S12→MG12 GND;67.87;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W110;S12 · MG12;PWM independiente;PCA pad S12 (cara posterior);Y S12→MG12 S;80.37;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W111;S13 · MG14;5V_SERVOS;PDB toma P13, V+;Y S13→MG14 V+;18.30;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W112;S13 · MG14;P− servo;PDB toma P13, GND;Y S13→MG14 GND;14.24;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W113;S13 · MG14;PWM independiente;PCA pad S13 (cara posterior);Y S13→MG14 S;85.72;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+OEM00-1;MG00 · latiguillo OEM;P− servo;Enchufe Y de servo;MG00 · salida de carcasa;45.05;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM00-2;MG00 · latiguillo OEM;5V_SERVOS;Enchufe Y de servo;MG00 · salida de carcasa;16.78;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM00-3;MG00 · latiguillo OEM;PWM independiente;Enchufe Y de servo;MG00 · salida de carcasa;25.84;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM01-1;MG01 · latiguillo OEM;P− servo;Enchufe Y de servo;MG01 · salida de carcasa;47.74;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM01-2;MG01 · latiguillo OEM;5V_SERVOS;Enchufe Y de servo;MG01 · salida de carcasa;38.30;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM01-3;MG01 · latiguillo OEM;PWM independiente;Enchufe Y de servo;MG01 · salida de carcasa;13.74;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM02-1;MG02 · latiguillo OEM;P− servo;Enchufe Y de servo;MG02 · salida de carcasa;113.30;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM02-2;MG02 · latiguillo OEM;5V_SERVOS;Enchufe Y de servo;MG02 · salida de carcasa;123.62;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM02-3;MG02 · latiguillo OEM;PWM independiente;Enchufe Y de servo;MG02 · salida de carcasa;148.66;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM03-1;MG03 · latiguillo OEM;P− servo;Enchufe Y de servo;MG03 · salida de carcasa;208.23;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM03-2;MG03 · latiguillo OEM;5V_SERVOS;Enchufe Y de servo;MG03 · salida de carcasa;212.01;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM03-3;MG03 · latiguillo OEM;PWM independiente;Enchufe Y de servo;MG03 · salida de carcasa;167.84;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM04-1;MG04 · latiguillo OEM;P− servo;Enchufe Y de servo;MG04 · salida de carcasa;209.23;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM04-2;MG04 · latiguillo OEM;5V_SERVOS;Enchufe Y de servo;MG04 · salida de carcasa;143.84;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM04-3;MG04 · latiguillo OEM;PWM independiente;Enchufe Y de servo;MG04 · salida de carcasa;149.47;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM05-1;MG05 · latiguillo OEM;P− servo;Enchufe Y de servo;MG05 · salida de carcasa;189.94;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM05-2;MG05 · latiguillo OEM;5V_SERVOS;Enchufe Y de servo;MG05 · salida de carcasa;173.19;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM05-3;MG05 · latiguillo OEM;PWM independiente;Enchufe Y de servo;MG05 · salida de carcasa;190.86;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM06-1;MG06 · latiguillo OEM;P− servo;Enchufe Y de servo;MG06 · salida de carcasa;127.68;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM06-2;MG06 · latiguillo OEM;5V_SERVOS;Enchufe Y de servo;MG06 · salida de carcasa;137.79;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM06-3;MG06 · latiguillo OEM;PWM independiente;Enchufe Y de servo;MG06 · salida de carcasa;159.08;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM07-1;MG07 · latiguillo OEM;P− servo;Enchufe Y de servo;MG07 · salida de carcasa;76.65;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM07-2;MG07 · latiguillo OEM;5V_SERVOS;Enchufe Y de servo;MG07 · salida de carcasa;91.33;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM07-3;MG07 · latiguillo OEM;PWM independiente;Enchufe Y de servo;MG07 · salida de carcasa;97.33;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM08-1;MG08 · latiguillo OEM;P− servo;Enchufe Y de servo;MG08 · salida de carcasa;68.15;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM08-2;MG08 · latiguillo OEM;5V_SERVOS;Enchufe Y de servo;MG08 · salida de carcasa;65.52;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM08-3;MG08 · latiguillo OEM;PWM independiente;Enchufe Y de servo;MG08 · salida de carcasa;71.80;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM09-1;MG09 · latiguillo OEM;P− servo;Enchufe aparcado;MG09 · salida de carcasa;104.95;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM09-2;MG09 · latiguillo OEM;5V_SERVOS;Enchufe aparcado;MG09 · salida de carcasa;93.71;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM09-3;MG09 · latiguillo OEM;PWM independiente;Enchufe aparcado;MG09 · salida de carcasa;77.66;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM10-1;MG10 · latiguillo OEM;P− servo;Enchufe Y de servo;MG10 · salida de carcasa;100.69;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM10-2;MG10 · latiguillo OEM;5V_SERVOS;Enchufe Y de servo;MG10 · salida de carcasa;132.79;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM10-3;MG10 · latiguillo OEM;PWM independiente;Enchufe Y de servo;MG10 · salida de carcasa;110.47;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM11-1;MG11 · latiguillo OEM;P− servo;Enchufe Y de servo;MG11 · salida de carcasa;50.58;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM11-2;MG11 · latiguillo OEM;5V_SERVOS;Enchufe Y de servo;MG11 · salida de carcasa;56.18;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM11-3;MG11 · latiguillo OEM;PWM independiente;Enchufe Y de servo;MG11 · salida de carcasa;90.82;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM12-1;MG12 · latiguillo OEM;P− servo;Enchufe Y de servo;MG12 · salida de carcasa;143.03;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM12-2;MG12 · latiguillo OEM;5V_SERVOS;Enchufe Y de servo;MG12 · salida de carcasa;147.56;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM12-3;MG12 · latiguillo OEM;PWM independiente;Enchufe Y de servo;MG12 · salida de carcasa;161.20;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM13-1;MG13 · latiguillo OEM;P− servo;Enchufe Y de servo;MG13 · salida de carcasa;112.78;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM13-2;MG13 · latiguillo OEM;5V_SERVOS;Enchufe Y de servo;MG13 · salida de carcasa;113.18;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM13-3;MG13 · latiguillo OEM;PWM independiente;Enchufe Y de servo;MG13 · salida de carcasa;146.65;1.25;0.48;27.489, -40.618, 106.485;Curva localizada entre sus puntos de entrada y salida. Confirmar sobre la impresión. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM14-1;MG14 · latiguillo OEM;P− servo;Enchufe Y de servo;MG14 · salida de carcasa;243.62;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM14-2;MG14 · latiguillo OEM;5V_SERVOS;Enchufe Y de servo;MG14 · salida de carcasa;284.12;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+OEM14-3;MG14 · latiguillo OEM;PWM independiente;Enchufe Y de servo;MG14 · salida de carcasa;239.23;1.25;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo. Longitud del latiguillo del lote pendiente. El sobrante físico depende de la medida desde el cuerpo del servo hasta el crimp.
+BAT01;Latiguillos del pack;XT30 +;Salida nominal de la envoltura K10;XT30 +;84.62;2.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+BAT02;Latiguillos del pack;XT30 −;Salida nominal de la envoltura K10;XT30 −;53.93;2.8;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+BAT03;Latiguillos del pack;XH 1;Salida nominal de la envoltura K10;XH 1;52.02;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+BAT04;Latiguillos del pack;XH 2;Salida nominal de la envoltura K10;XH 2;81.08;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+BAT05;Latiguillos del pack;XH 3;Salida nominal de la envoltura K10;XH 3;75.17;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+H001;Lógica y control;3V3 lógica;Pi J8 pin físico 1 (3V3);Empalme EG03;282.95;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+H002;Potencia;VSW conmutada;HP2813 VOUT;Empalme EG04;93.84;1.9;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+H003;Lógica y control;SDA;Pi J8 pin físico 3 (SDA);Empalme EG05;330.36;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+H004;Lógica y control;SCL;Pi J8 pin físico 5 (SCL);Empalme EG06;262.99;1.1;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+H005;Potencia;5V_LÓGICA;D36 VOUT 5 V;Empalme EG07;43.62;1.15;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W114;S14 · MG09;5V_SERVOS;PDB toma P14, V+;Y S14→MG09 V+ central;399.42;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W115;S14 · MG09;P− servo;PDB toma P14, GND;Y S14→MG09 masa lateral;224.68;1.6;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.
+W116;S14 · MG09;PWM independiente;PCA pad S14 (cara posterior);Y S14→MG09 señal lateral;263.03;1.2;;;Hilo ajustado al recorrido. Cortar después de presentar el mazo.

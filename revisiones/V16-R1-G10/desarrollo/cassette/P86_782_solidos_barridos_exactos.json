@@ -1,0 +1,31 @@
+[
+ {
+  "tramo": 1,
+  "solidos_comprobados": 782,
+  "candidatos_tras_caja": 0,
+  "proximidades_inferiores_a_1p5_mm": {},
+  "intersecciones_superiores_a_1e_6_mm3": {}
+ },
+ {
+  "tramo": 2,
+  "solidos_comprobados": 782,
+  "candidatos_tras_caja": 8,
+  "proximidades_inferiores_a_1p5_mm": {},
+  "intersecciones_superiores_a_1e_6_mm3": {}
+ },
+ {
+  "tramo": 3,
+  "solidos_comprobados": 782,
+  "candidatos_tras_caja": 21,
+  "proximidades_inferiores_a_1p5_mm": {
+   "P44": 0.0,
+   "P45": 0.32,
+   "V7_ELEC_PCA9685_REV_C_PCB": 0.9,
+   "V15_PDB_3108_2827_0801_ENVOLVENTE": 0.4,
+   "P83": 0.32,
+   "P84": 0.48,
+   "P85": 0.48
+  },
+  "intersecciones_superiores_a_1e_6_mm3": {}
+ }
+]

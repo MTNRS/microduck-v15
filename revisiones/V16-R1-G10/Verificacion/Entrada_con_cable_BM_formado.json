@@ -1,0 +1,41 @@
+{
+ "entrada_placa_en_cassette": {
+  "P45": {
+   "holgura_mm": 0.47229,
+   "interseccion_mm3": 0.0
+  }
+ },
+ "presentacion_de_P83": {},
+ "entrada_de_P65": {
+  "P65": {
+   "holgura_mm": 1.8,
+   "interseccion_mm3": 0.0
+  }
+ },
+ "asiento_con_otros_solidos": {
+  "P45": {
+   "holgura_mm": 0.47229,
+   "interseccion_mm3": 0.0
+  },
+  "P65": {
+   "holgura_mm": 1.8,
+   "interseccion_mm3": 0.0
+  },
+  "V7_ELEC_D24V150F5_PCB": {
+   "holgura_mm": 4.0,
+   "interseccion_mm3": 0.0
+  },
+  "V15_CELL_VAPCELL_K10_0": {
+   "holgura_mm": 2.79139,
+   "interseccion_mm3": 0.0
+  },
+  "V15_HW_HP_GATE_M2x8": {
+   "holgura_mm": 2.1633,
+   "interseccion_mm3": 0.0
+  },
+  "K10_env": {
+   "holgura_mm": 0.76588,
+   "interseccion_mm3": 0.0
+  }
+ }
+}

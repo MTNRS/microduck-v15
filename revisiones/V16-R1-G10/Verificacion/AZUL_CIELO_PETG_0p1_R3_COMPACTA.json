@@ -1,0 +1,17 @@
+{
+ "placa": "AZUL_CIELO_PETG_0p1_R3_COMPACTA",
+ "piezas": [
+  "P45",
+  "P83",
+  "P33",
+  "P65"
+ ],
+ "color": "AZUL_CIELO_PETG",
+ "capas_mm": "0.1",
+ "raft": "3",
+ "gramos": 138.68,
+ "pausas": {},
+ "objetos": 4,
+ "objetos_gcode": 4,
+ "sha256": "4b8937026ab183d1ae22b672a35c6b93d2e434386df75554fa4bafc4aa6084f4"
+}

@@ -1,0 +1,63 @@
+{
+ "escenas": [
+  "01 · Boca móvil y robot entero",
+  "04 · Cierre del pecho y destornillador",
+  "07 · Despiece de las 86 piezas"
+ ],
+ "fotogramas_verificados": 145,
+ "error_maximo_trayectoria_mm": 8.529922407464181e-07,
+ "volumen_Blender_mm3": 6842.424554862501,
+ "volumen_STL_mm3": 6842.418780393331,
+ "vertices_de_P86": 8686,
+ "poses": [
+  [
+   1,
+   [
+    -90,
+    0,
+    14
+   ]
+  ],
+  [
+   39,
+   [
+    -90,
+    0,
+    14
+   ]
+  ],
+  [
+   75,
+   [
+    -18,
+    0,
+    14
+   ]
+  ],
+  [
+   95,
+   [
+    0,
+    0,
+    10
+   ]
+  ],
+  [
+   110,
+   [
+    0,
+    0,
+    10
+   ]
+  ],
+  [
+   145,
+   [
+    0,
+    0,
+    0
+   ]
+  ]
+ ],
+ "conductores_completos_en_la_escena_de_cierre": 153
+}

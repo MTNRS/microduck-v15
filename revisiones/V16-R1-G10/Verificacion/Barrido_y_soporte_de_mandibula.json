@@ -1,0 +1,143 @@
+{
+ "paso_angular_grados": 0.4,
+ "intervalo_de_trabajo_grados": [
+  0,
+  22
+ ],
+ "intervalo_ensayado": [
+  0,
+  24.6
+ ],
+ "cotas": {
+  "P36 / P33": {
+   "grados": 0.0,
+   "cota_inferior_mm": 0.25434,
+   "separacion_en_pose_mm": 0.4683,
+   "deduccion_por_angulo_mm": 0.21396,
+   "interseccion_mm3": 0.0
+  },
+  "P36 / P34": {
+   "grados": 0.0,
+   "cota_inferior_mm": 0.19262,
+   "separacion_en_pose_mm": 0.40658,
+   "deduccion_por_angulo_mm": 0.21396,
+   "interseccion_mm3": 0.0
+  },
+  "P36 / P39": {
+   "grados": 0.0,
+   "cota_inferior_mm": 0.19524,
+   "separacion_en_pose_mm": 0.4092,
+   "deduccion_por_angulo_mm": 0.21396,
+   "interseccion_mm3": 0.0
+  },
+  "P36 / P49": {
+   "grados": 0.0,
+   "cota_inferior_mm": 0.28604,
+   "separacion_en_pose_mm": 0.5,
+   "deduccion_por_angulo_mm": 0.21396,
+   "interseccion_mm3": 0.0
+  },
+  "P36 / V7_HEAD_HW_CORE_1": {
+   "grados": 2.8,
+   "cota_inferior_mm": 0.28034,
+   "separacion_en_pose_mm": 0.4943,
+   "deduccion_por_angulo_mm": 0.21396,
+   "interseccion_mm3": 0.0
+  },
+  "P36 / Arandela_M3": {
+   "grados": 0.0,
+   "cota_inferior_mm": 0.08604,
+   "separacion_en_pose_mm": 0.3,
+   "deduccion_por_angulo_mm": 0.21396,
+   "interseccion_mm3": 0.0
+  },
+  "P36 / Pivote_M3_ISO7379_4x5": {
+   "grados": 0.0,
+   "cota_inferior_mm": 0.03604,
+   "separacion_en_pose_mm": 0.25,
+   "deduccion_por_angulo_mm": 0.21396,
+   "interseccion_mm3": 0.0
+  },
+  "P38 / P34": {
+   "grados": 0.0,
+   "cota_inferior_mm": 0.49951,
+   "separacion_en_pose_mm": 0.70728,
+   "deduccion_por_angulo_mm": 0.20777,
+   "interseccion_mm3": 0.0
+  },
+  "P38 / P39": {
+   "grados": 0.0,
+   "cota_inferior_mm": -0.20777,
+   "separacion_en_pose_mm": 0.0,
+   "deduccion_por_angulo_mm": 0.20777,
+   "interseccion_mm3": 1.98434
+  },
+  "P38 / V7_HEAD_HW_TOP_2": {
+   "grados": 1.2,
+   "cota_inferior_mm": 0.2878,
+   "separacion_en_pose_mm": 0.49557,
+   "deduccion_por_angulo_mm": 0.20777,
+   "interseccion_mm3": 0.0
+  },
+  "P38 / V7_HEAD_HW_TOP_3": {
+   "grados": 1.2,
+   "cota_inferior_mm": 0.2878,
+   "separacion_en_pose_mm": 0.49557,
+   "deduccion_por_angulo_mm": 0.20777,
+   "interseccion_mm3": 0.0
+  },
+  "P38 / V7_HEAD_HW_CORE_2": {
+   "grados": 1.6,
+   "cota_inferior_mm": 0.28949,
+   "separacion_en_pose_mm": 0.49726,
+   "deduccion_por_angulo_mm": 0.20777,
+   "interseccion_mm3": 0.0
+  },
+  "P38 / V7_HEAD_HW_CORE_1": {
+   "grados": 14.4,
+   "cota_inferior_mm": 0.29078,
+   "separacion_en_pose_mm": 0.49855,
+   "deduccion_por_angulo_mm": 0.20777,
+   "interseccion_mm3": 0.0
+  },
+  "MG09_brazo_original_recortado / V7_SRC_V4_MD_09_eje_metal": {
+   "grados": 24.4,
+   "cota_inferior_mm": 0.27547,
+   "separacion_en_pose_mm": 0.29994,
+   "deduccion_por_angulo_mm": 0.02447,
+   "interseccion_mm3": 0.0
+  },
+  "MG09_cubo_estriado_de_referencia / V7_SRC_V4_MD_09_torre_salida": {
+   "grados": 24.4,
+   "cota_inferior_mm": 0.78916,
+   "separacion_en_pose_mm": 0.79998,
+   "deduccion_por_angulo_mm": 0.01082,
+   "interseccion_mm3": 0.0
+  },
+  "Casquillo_igus_GSM_0405_04 / Arandela_M3": {
+   "grados": 0.0,
+   "cota_inferior_mm": 0.6404,
+   "separacion_en_pose_mm": 0.65,
+   "deduccion_por_angulo_mm": 0.0096,
+   "interseccion_mm3": 0.0
+  }
+ },
+ "interferencias": {
+  "P38 / P39": {
+   "grados": 0.0,
+   "volumen": 1.9843353353549495,
+   "local": [
+    [
+     58.973,
+     -11.867,
+     225.657
+    ],
+    [
+     62.077,
+     11.867,
+     225.76
+    ]
+   ]
+  }
+ }
+}

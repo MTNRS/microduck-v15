@@ -1,0 +1,37 @@
+{
+ "eje": [
+  8.998989506810382,
+  5.372605734521547e-06,
+  235.59924665540655
+ ],
+ "direccion": [
+  -4.004204470772559e-15,
+  1.0,
+  1.4210847938941657e-14
+ ],
+ "pasos_de_montaje": {
+  "tuerca": "Introducir desde +Y en P34 con la cabeza abierta.",
+  "casquillo": "Escariar el piloto de P36 a 5,500–5,512 mm antes de introducir el GSM-0405-04.",
+  "hombro": "ISO 7379-4-M3-5 entra por -Y con llave hexagonal de 2 mm.",
+  "motor": "Acoplar el brazo doble desde +Y sobre el estriado original y montar el tornillo original."
+ },
+ "radio_alojamiento_activo": 8.6,
+ "ancho_brazo_preparado_mm": 13.0,
+ "profundidad_fondo_de_chaveta_y": 42.06,
+ "recorrido_propuesto_grados": [
+  0,
+  22
+ ],
+ "rango_de_comprobacion": [
+  0,
+  24.5
+ ],
+ "cota_eje_mm": 4.0,
+ "cota_casquillo_mm": [
+  4,
+  5.5,
+  4
+ ],
+ "ajuste_fisico_del_lote": "Pendiente",
+ "uso": "Prototipo de banco"
+}

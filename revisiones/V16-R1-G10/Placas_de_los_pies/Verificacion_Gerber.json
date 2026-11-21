@@ -1,0 +1,73 @@
+{
+ "redes_por_continuidad": {
+  "5V": [
+   [
+    1.55,
+    1.7
+   ],
+   [
+    8.59,
+    7.04
+   ]
+  ],
+  "S": [
+   [
+    10.25,
+    1.7
+   ],
+   [
+    1.55,
+    4.0
+   ],
+   [
+    8.84,
+    0.97
+   ],
+   [
+    4.8,
+    0.97
+   ]
+  ],
+  "GPIO": [
+   [
+    10.25,
+    4.0
+   ],
+   [
+    10.25,
+    6.3
+   ],
+   [
+    6.0,
+    7.04
+   ]
+  ],
+  "GND": [
+   [
+    1.55,
+    6.3
+   ],
+   [
+    7.08,
+    0.97
+   ],
+   [
+    2.98,
+    0.97
+   ],
+   [
+    3.26,
+    7.04
+   ]
+  ]
+ },
+ "distancia_minima_de_cobre_de_distinta_red_mm": 0.2436,
+ "cobre_a_contorno_mm": 0.31,
+ "taladros_por_diametro_mm": {
+  "0.8": 6,
+  "0.3": 6
+ },
+ "objetos_de_cobre_conectados": 14,
+ "origen": "Gerber y Excellon del ZIP. Continuidad por unión de cobre y barriles metalizados.",
+ "partes_fabricadas": 0
+}

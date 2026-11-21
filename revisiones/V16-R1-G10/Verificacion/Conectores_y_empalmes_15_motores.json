@@ -1,0 +1,122 @@
+{
+ "XT30 del pack": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.754,
+  "vecino": "P83"
+ },
+ "D36 · desconexión de dos vías": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.7,
+  "vecino": "P45"
+ },
+ "MG00 · enchufe OEM y hembra Y": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 2.1,
+  "vecino": "P44"
+ },
+ "MG01 · enchufe OEM y hembra Y": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 1.677,
+  "vecino": "P44"
+ },
+ "MG02 · enchufe OEM y hembra Y": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 1.95,
+  "vecino": "V7_HW_PCB_BNO_1_M2x10"
+ },
+ "MG03 · enchufe OEM y hembra Y": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 1.319,
+  "vecino": "P44"
+ },
+ "MG04 · enchufe OEM y hembra Y": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 1.25,
+  "vecino": "MG02 · enchufe OEM y hembra Y"
+ },
+ "MG05 · enchufe OEM y hembra Y": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.9,
+  "vecino": "V15_PDB_3108_2827_0801_ENVOLVENTE"
+ },
+ "MG06 · enchufe OEM y hembra Y": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.796,
+  "vecino": "P33"
+ },
+ "MG07 · enchufe OEM y hembra Y": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.829,
+  "vecino": "P33"
+ },
+ "MG08 · enchufe OEM y hembra Y": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.45,
+  "vecino": "V7_SRC_V4_PI_ZERO_2W_PCB"
+ },
+ "MG09 · enchufe OEM y adaptador S14": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.45,
+  "vecino": "V7_SRC_V4_PI_ZERO_2W_PCB"
+ },
+ "MG10 · enchufe OEM y hembra Y": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.45,
+  "vecino": "V7_SRC_V4_PI_ZERO_2W_PCB"
+ },
+ "MG11 · enchufe OEM y hembra Y": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.894,
+  "vecino": "P52"
+ },
+ "MG12 · enchufe OEM y hembra Y": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.634,
+  "vecino": "P44"
+ },
+ "MG13 · enchufe OEM y hembra Y": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.671,
+  "vecino": "P44"
+ },
+ "MG14 · enchufe OEM y hembra Y": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.388,
+  "vecino": "P44"
+ },
+ "EG01": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.492,
+  "vecino": "P44"
+ },
+ "EG02": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.1,
+  "vecino": "P44"
+ },
+ "EG03": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.9,
+  "vecino": "V15_PDB_3108_2827_0801_ENVOLVENTE"
+ },
+ "EG04": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.314,
+  "vecino": "P65"
+ },
+ "EG05": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.9,
+  "vecino": "V15_PDB_3108_2827_0801_ENVOLVENTE"
+ },
+ "EG06": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.9,
+  "vecino": "V15_PDB_3108_2827_0801_ENVOLVENTE"
+ },
+ "EG07": {
+  "interferencias_mm3": {},
+  "holgura_min_mm": 0.634,
+  "vecino": "P06"
+ }
+}

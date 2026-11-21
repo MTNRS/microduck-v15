@@ -1,0 +1,12 @@
+# Presentar el cassette P45 y el hilo de equilibrado BM
+
+Con el pack desconectado, abre la escena 10 para ver la curva amarilla de W003 en el canal azul. En la escena 06 puedes reproducir la entrada completa de la placa de protección. La escena 07 muestra el despiece de las 86 piezas.
+
+1. Identifica el pad BM por la serigrafía de la HX-2S-D20. La foto de Mantech lo sitúa en la esquina del mismo borde corto que P+ y P−. Los centros de soldadura en el CAD son estimaciones sobre la foto. El fabricante indica 46 × 20 × 3,6 mm.
+2. Prepara la salida de W003 con funda de diámetro exterior máximo de 1,10 mm según el diseño nominal. Desde el pad, forma el cable hacia el borde lateral más cercano de la PCB. El tramo modelado hasta que vuelve al mazo mide 11,70 mm. La curva tiene un radio mínimo aproximado de 2,77 mm. Presenta el hilo en el canal con el resto del ramal libre.
+3. Con la placa de protección y P45 aún en el banco, inicia la entrada de la placa a +28 mm en Y y −62 mm en Z respecto del asiento. Acércala a +4 mm en Y y −1 mm en Z, y termina de asentarla. Los ejes corresponden a Blender. La funda pasa a 0,47 mm de P45 en el barrido nominal. Comprueba que la placa asienta sin empujar el hilo con una herramienta.
+4. Presenta P83 desde el lateral y después P65 desde abajo. El tramo formado de W003 conserva al menos 4,00 mm ante P83 y 1,80 mm ante P65 durante sus entradas. Conecta el otro extremo de W003 al adaptador de equilibrado una vez colocadas las piezas. Consulta Montaje_del_cassette.md para el resto de componentes.
+
+El canal y el recorte de la pestaña interior liberan 17,71 mm³. La pieza queda en un solo sólido cerrado. Todo el material retirado está a más de 5,73 mm de la envolvente exterior aprobada. Esa distancia se midió hasta el contorno exterior del robot. El muestreo conserva el 99,996 % del apoyo entre P45 y P65 y el 100 % del apoyo muestreado con P83. Las medidas son de CAD. La rigidez del mazo y la posición del estaño dependen del montaje físico.
+
+La foto y las medidas exteriores proceden de la [ficha Mantech de la HX-2S-D20 250040](https://mantech.co.za/datasheets/products/hx-2s-d20_250040.pdf). El espesor nominal de laminado de 1,4 mm y la posición de los pads son hipótesis del modelo. El informe Comprobacion_de_cinco_pads_PCM.json documenta ambas. W004 llega al portafusible junto al borde de la placa, con holgura nominal nula en el extremo al representar la funda completa. Este punto requiere corrección o verificación de la terminación real.

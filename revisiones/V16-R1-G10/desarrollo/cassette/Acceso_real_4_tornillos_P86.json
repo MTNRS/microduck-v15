@@ -1,0 +1,78 @@
+{
+ "F_M2x6_1": {
+  "varilla": {
+   "interferencia_mm3": {},
+   "vecino": "P86",
+   "margen_mm": 0.124
+  },
+  "mango": {
+   "interferencia_mm3": {},
+   "vecino": "P34",
+   "margen_mm": 2.1263
+  },
+  "entrada_tornillo": {
+   "interferencia_mm3": {
+    "P86": 8.15467
+   },
+   "vecino": "P86",
+   "margen_mm": 0.0
+  }
+ },
+ "F_M2x6_2": {
+  "varilla": {
+   "interferencia_mm3": {},
+   "vecino": "P86",
+   "margen_mm": 0.124
+  },
+  "mango": {
+   "interferencia_mm3": {},
+   "vecino": "P34",
+   "margen_mm": 2.1262
+  },
+  "entrada_tornillo": {
+   "interferencia_mm3": {
+    "P86": 8.22416
+   },
+   "vecino": "P86",
+   "margen_mm": 0.0
+  }
+ },
+ "F_M2x6_3": {
+  "varilla": {
+   "interferencia_mm3": {},
+   "vecino": "P86",
+   "margen_mm": 0.124
+  },
+  "mango": {
+   "interferencia_mm3": {},
+   "vecino": "P34",
+   "margen_mm": 0.448
+  },
+  "entrada_tornillo": {
+   "interferencia_mm3": {
+    "P86": 10.56608
+   },
+   "vecino": "P86",
+   "margen_mm": 0.0
+  }
+ },
+ "F_M2x6_4": {
+  "varilla": {
+   "interferencia_mm3": {},
+   "vecino": "P86",
+   "margen_mm": 0.124
+  },
+  "mango": {
+   "interferencia_mm3": {},
+   "vecino": "P34",
+   "margen_mm": 0.448
+  },
+  "entrada_tornillo": {
+   "interferencia_mm3": {
+    "P86": 10.6581
+   },
+   "vecino": "P86",
+   "margen_mm": 0.0
+  }
+ }
+}

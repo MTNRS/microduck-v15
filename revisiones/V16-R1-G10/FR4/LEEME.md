@@ -1,0 +1,1 @@
+Las plantillas BM y MINI pertenecen a esta revisión. La placa de control se fabrica con los Gerber de Placa_de_control_G5. Para cada pie usa Placas_de_los_pies.

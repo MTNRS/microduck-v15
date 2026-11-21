@@ -1,0 +1,184 @@
+{
+ "P14": {
+  "ventana": 0,
+  "conductores": {
+   "OEM02-2": {
+    "espacio_frente_a_soporte_en_todo_el_ramal": 0.3344283267667711,
+    "solidos_locales": {
+     "P01": 0.397,
+     "P14": 0.334,
+     "V7_SRC_V4_MD_02_MG90S_CUERPO": 0.142
+    },
+    "posiciones": {
+     "P01": [
+      -6.35,
+      17.56,
+      110.96
+     ],
+     "P14": [
+      -6.45,
+      17.56,
+      110.94
+     ],
+     "V7_SRC_V4_MD_02_MG90S_CUERPO": [
+      -3.75,
+      17.5,
+      109.02
+     ]
+    },
+    "fundas_locales": {
+     "OEM02-1": 0.088,
+     "OEM02-3": 0.088
+    }
+   },
+   "OEM02-1": {
+    "espacio_frente_a_soporte_en_todo_el_ramal": 0.31037211903090095,
+    "solidos_locales": {
+     "P01": 0.397,
+     "P14": 0.31,
+     "V7_SRC_V4_MD_02_MG90S_CUERPO": 0.142
+    },
+    "posiciones": {
+     "P01": [
+      -6.35,
+      19.01,
+      110.96
+     ],
+     "P14": [
+      -4.39,
+      18.96,
+      110.45
+     ],
+     "V7_SRC_V4_MD_02_MG90S_CUERPO": [
+      -3.75,
+      18.95,
+      109.02
+     ]
+    },
+    "fundas_locales": {
+     "OEM02-2": 0.088,
+     "OEM02-3": 0.087
+    }
+   },
+   "OEM02-3": {
+    "espacio_frente_a_soporte_en_todo_el_ramal": 0.31251061277624276,
+    "solidos_locales": {
+     "P01": 0.397,
+     "P14": 0.313,
+     "V7_SRC_V4_MD_02_MG90S_CUERPO": 0.142
+    },
+    "posiciones": {
+     "P01": [
+      -6.35,
+      16.11,
+      110.96
+     ],
+     "P14": [
+      -4.39,
+      16.06,
+      110.45
+     ],
+     "V7_SRC_V4_MD_02_MG90S_CUERPO": [
+      -3.75,
+      16.05,
+      109.02
+     ]
+    },
+    "fundas_locales": {
+     "OEM02-1": 0.186,
+     "OEM02-2": 0.088
+    }
+   }
+  }
+ },
+ "P15": {
+  "ventana": 7,
+  "conductores": {
+   "OEM11-1": {
+    "espacio_frente_a_soporte_en_todo_el_ramal": 0.31908015959598285,
+    "solidos_locales": {
+     "P09": 0.356,
+     "P15": 0.319,
+     "V7_SRC_V4_MD_11_MG90S_CUERPO": 0.139
+    },
+    "posiciones": {
+     "P09": [
+      -6.96,
+      -15.98,
+      110.99
+     ],
+     "P15": [
+      -5.2,
+      -16.02,
+      110.69
+     ],
+     "V7_SRC_V4_MD_11_MG90S_CUERPO": [
+      -3.77,
+      -16.05,
+      109.01
+     ]
+    },
+    "fundas_locales": {
+     "OEM11-2": 0.053
+    }
+   },
+   "OEM11-2": {
+    "espacio_frente_a_soporte_en_todo_el_ramal": 0.3381538525098415,
+    "solidos_locales": {
+     "P09": 0.356,
+     "P15": 0.338,
+     "V7_SRC_V4_MD_11_MG90S_CUERPO": 0.139
+    },
+    "posiciones": {
+     "P09": [
+      -6.96,
+      -17.43,
+      110.99
+     ],
+     "P15": [
+      -5.77,
+      -17.46,
+      110.87
+     ],
+     "V7_SRC_V4_MD_11_MG90S_CUERPO": [
+      -3.77,
+      -17.5,
+      109.01
+     ]
+    },
+    "fundas_locales": {
+     "OEM11-1": 0.088,
+     "OEM11-3": 0.088
+    }
+   },
+   "OEM11-3": {
+    "espacio_frente_a_soporte_en_todo_el_ramal": 0.3152310498383551,
+    "solidos_locales": {
+     "P09": 0.356,
+     "P15": 0.315,
+     "V7_SRC_V4_MD_11_MG90S_CUERPO": 0.139
+    },
+    "posiciones": {
+     "P09": [
+      -6.96,
+      -18.88,
+      110.99
+     ],
+     "P15": [
+      -3.82,
+      -18.95,
+      109.21
+     ],
+     "V7_SRC_V4_MD_11_MG90S_CUERPO": [
+      -3.77,
+      -18.95,
+      109.01
+     ]
+    },
+    "fundas_locales": {
+     "OEM11-2": 0.088
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,4515 @@
+{
+ "01 · Boca móvil y robot entero": {
+  "V7_Y_POWER_HOUSING_14": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P05_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P05_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P05_Tuerca_M2_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P05_Tuerca_M2_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P13_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P13_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P13_Tuerca_M2_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P13_Tuerca_M2_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V12_HW_CASE_CLOSURE_00": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V12_HW_CASE_CLOSURE_01": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V12_HW_CASE_CLOSURE_02": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V12_HW_CASE_CLOSURE_03": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_ADC_DRIVER_FR4_ISLAND_BOARD": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_ADC_OFF_PNP_2N3906": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_BM_CUSTOM_FR4": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_CELL_VAPCELL_K10_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_CELL_VAPCELL_K10_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_ELEC_ADS1115_1085": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_EYE_REAR_NUT_0": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_EYE_REAR_NUT_1": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_EYE_REAR_WASHER_0": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_EYE_REAR_WASHER_1": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_FUSE_FR4_CARRIER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_FUSE_MINI_01530007Z_0297005": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_6701CLAMP_10R_0_M2x11_ASSY": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_6701CLAMP_10R_1_M2x11_ASSY": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ADC_DRIVER_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ADC_DRIVER_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ADS1115_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ADS1115_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ADS1115_M2x8_2": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ADS1115_M2x8_3": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_BM_SSH_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_D24_TRAY_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_D24_TRAY_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ETCLAMP_00F_0_M2x12_ASSY": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ETCLAMP_00F_1_M2x12_ASSY": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ETCLAMP_01F_0_M2x12_ASSY": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ETCLAMP_01F_1_M2x12_ASSY": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ETCLAMP_02F_0_M2x12_ASSY": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_ETCLAMP_02F_1_M2x12_ASSY": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_ETCLAMP_03F_0_M2x12_ASSY": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V15_HW_ETCLAMP_03F_1_M2x12_ASSY": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V15_HW_ETCLAMP_04F_0_M2x12_ASSY": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_ETCLAMP_04F_1_M2x12_ASSY": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ETCLAMP_08F_0_M2x12_ASSY": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ETCLAMP_08F_1_M2x12_ASSY": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ETCLAMP_10F_0_M2x12_ASSY": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ETCLAMP_10F_1_M2x12_ASSY": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ETCLAMP_11F_0_M2x12_ASSY": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_ETCLAMP_11F_1_M2x12_ASSY": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_ETCLAMP_12F_0_M2x12_ASSY": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V15_HW_ETCLAMP_12F_1_M2x12_ASSY": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_ETCLAMP_13F_0_M2x12_ASSY": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V15_HW_ETCLAMP_13F_1_M2x12_ASSY": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V15_HW_FOOT_L_CIRCUITO_0": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_FOOT_L_CIRCUITO_1": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_FOOT_L_HEEL_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_FOOT_L_HEEL_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_FOOT_L_TOE_0": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_FOOT_L_TOE_1": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_FOOT_R_CIRCUITO_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_FOOT_R_CIRCUITO_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_FOOT_R_HEEL_0": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_FOOT_R_HEEL_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_FOOT_R_TOE_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_FOOT_R_TOE_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_HEAD_CHEEK_SSH_M2x10_R": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_HEAD_CHEEK_SSH_M2x8_L": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_HP_GATE_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_K10_GATE_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_K10_GATE_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_MINI_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_MINI_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_MINI_M2x8_2": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_MINI_M2x8_3": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_PCM_GATE_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_PCM_GATE_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_PDB_LOWER_M2x18_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_PDB_LOWER_M2x18_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_REED_CAP_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG00_0_BOLT_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG00_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG00_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG00_1_BOLT_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG00_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG00_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG01_0_BOLT_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG01_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG01_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG01_1_BOLT_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG01_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG01_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG02_0_BOLT_M2x8": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG02_0_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG02_0_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG02_1_BOLT_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG02_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG02_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG03_0_BOLT_M2x8": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V15_HW_SERVICE_MG03_0_NUT": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V15_HW_SERVICE_MG03_0_WASHER": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V15_HW_SERVICE_MG03_1_BOLT_M2x8": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V15_HW_SERVICE_MG03_1_NUT": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V15_HW_SERVICE_MG03_1_WASHER": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V15_HW_SERVICE_MG04_0_BOLT_M2x8": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V15_HW_SERVICE_MG04_0_NUT": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V15_HW_SERVICE_MG04_0_WASHER": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V15_HW_SERVICE_MG04_1_BOLT_M2x8": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V15_HW_SERVICE_MG04_1_NUT": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V15_HW_SERVICE_MG04_1_WASHER": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V15_HW_SERVICE_MG08_0_BOLT_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG08_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG08_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG08_1_BOLT_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG08_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG08_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG10_0_BOLT_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG10_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG10_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG10_1_BOLT_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG10_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG10_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG11_0_BOLT_M2x8": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG11_0_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG11_0_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG11_1_BOLT_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG11_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG11_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG12_0_BOLT_M2x8": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG12_0_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG12_0_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG12_1_BOLT_M2x8": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG12_1_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG12_1_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG13_0_BOLT_M2x8": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG13_0_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG13_0_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG13_1_BOLT_M2x8": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG13_1_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_HW_SERVICE_MG13_1_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V15_PCM_250040_MAX": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_PDB_3108_2827_0801_ENVOLVENTE": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_RES_ALERT_TO_BASE": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_RES_COLLECTOR_OFF": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_RES_DIV_LOWER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_RES_DIV_UPPER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_RES_OFF_PULLDOWN": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_RES_PCA_OE_PULLUP": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_RES_PNP_BASE_PULLUP": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_ELEC_D24V150F5_PCB": {
+   "error_antes_mm": 7.9976,
+   "error_despues_mm": 0.0
+  },
+  "V7_ELEC_D36V28F5_PCB": {
+   "error_antes_mm": 6.1024,
+   "error_despues_mm": 0.0
+  },
+  "V7_ELEC_PCA9685_REV_C_PCB": {
+   "error_antes_mm": 2.6,
+   "error_despues_mm": 1e-05
+  },
+  "V7_ELEC_SWITCH_2813_PCB": {
+   "error_antes_mm": 2.3924,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HEAD_HW_CORE_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HEAD_HW_CORE_1": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HEAD_HW_CORE_2": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HEAD_HW_FACE_0": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HEAD_HW_FACE_1": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HEAD_HW_FACE_2": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HEAD_HW_FACE_3": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HEAD_HW_PI_CORE_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HEAD_HW_PI_CORE_1": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HEAD_HW_PI_CORE_2": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HEAD_HW_TOP_0": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HEAD_HW_TOP_1": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HEAD_HW_TOP_2": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HEAD_HW_TOP_3": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_CAP00_0_M2x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_CAP00_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP00_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP00_1_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP00_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP00_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP01_0_M2x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_CAP01_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP01_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP01_1_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP01_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP01_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP02_0_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP02_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP02_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP02_1_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP02_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP02_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP03_0_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP03_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP03_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP03_1_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP03_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP03_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP04_0_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP04_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP04_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP04_1_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP04_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP04_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP05_0_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP05_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP05_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP05_1_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP05_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP05_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP06_0_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP06_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP06_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP06_1_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP06_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP06_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP07_0_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP07_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP07_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP07_1_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP07_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP07_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP08_0_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP08_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP08_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP08_1_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP08_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP08_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP10_0_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP10_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP10_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP10_1_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP10_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP10_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP11_0_M2x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_CAP11_0_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_CAP11_0_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_CAP11_1_M2x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_CAP11_1_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_CAP11_1_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_CAP12_0_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP12_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP12_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP12_1_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP12_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP12_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP13_0_M2x6": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HW_CAP13_0_NUT": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HW_CAP13_0_WASHER": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HW_CAP13_1_M2x6": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HW_CAP13_1_NUT": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HW_CAP13_1_WASHER": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HW_CAP14_0_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP14_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP14_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP14_1_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP14_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP14_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG00_F_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG00_F_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG00_F_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG00_R_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG00_R_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG00_R_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG01_F_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG01_F_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG01_F_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG01_R_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG01_R_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG01_R_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG02_R_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG02_R_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG02_R_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG03_F_M1p6x6": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V7_HW_MG03_F_NUT": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V7_HW_MG03_F_WASHER": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V7_HW_MG03_R_M1p6x6": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HW_MG03_R_NUT": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HW_MG03_R_WASHER": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HW_MG04_F_M1p6x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG04_F_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG04_F_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG04_R_M1p6x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG04_R_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG04_R_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG05_F_M1p6x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG05_F_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG05_F_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG05_R_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG05_R_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG05_R_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG06_F_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG06_F_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG06_F_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG06_R_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG06_R_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG06_R_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG07_F_M1p6x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG07_F_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG07_F_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG07_R_M1p6x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG07_R_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG07_R_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG08_F_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG08_F_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG08_F_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG08_R_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG08_R_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG08_R_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG09_F_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG09_F_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG09_F_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG09_R_M1p6x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG09_R_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG09_R_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG10_F_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG10_F_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG10_F_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG10_R_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG10_R_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG10_R_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG11_R_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG11_R_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG11_R_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG12_F_M1p6x6": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HW_MG12_F_NUT": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HW_MG12_F_WASHER": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HW_MG12_R_M1p6x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG12_R_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG12_R_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG13_F_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG13_F_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG13_F_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG13_R_M1p6x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG13_R_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG13_R_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG14_F_M1p6x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG14_F_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG14_F_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG14_R_M1p6x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG14_R_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_MG14_R_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_NECK_623ZZ": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_AXLE_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_AXLE_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_AXLE_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_BEARING_0_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_BEARING_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_BEARING_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_BEARING_1_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_BEARING_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_BEARING_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_SLEEVE": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_OEM_HORN_TRIMMED_00": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_OEM_HORN_TRIMMED_01": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_OEM_HORN_TRIMMED_02": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_OEM_HORN_TRIMMED_03": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_OEM_HORN_TRIMMED_04": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_OEM_HORN_TRIMMED_05": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_OEM_HORN_TRIMMED_06": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_OEM_HORN_TRIMMED_07": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_OEM_HORN_TRIMMED_08": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_OEM_HORN_TRIMMED_10": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_OEM_HORN_TRIMMED_11": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_OEM_HORN_TRIMMED_12": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_OEM_HORN_TRIMMED_13": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_HW_OEM_HORN_TRIMMED_14": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PASSIVE_ANKLE05_HARD_SHIM": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PASSIVE_ANKLE05_M2x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PASSIVE_ANKLE05_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PASSIVE_ANKLE05_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PASSIVE_ANKLE14_HARD_SHIM": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PASSIVE_ANKLE14_M2x6": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PASSIVE_ANKLE14_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PASSIVE_ANKLE14_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PASSIVE_HEAD10_HARD_SHIM": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PASSIVE_HEAD10_M2x10": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PASSIVE_HEAD10_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PASSIVE_HEAD10_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_0_M2x10": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_0_PCB_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_0_TRAY_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_1_M2x10": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_1_PCB_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_1_TRAY_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_2_M2x10": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_2_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_2_PCB_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_2_TRAY_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_3_M2x10": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_3_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_3_PCB_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_3_TRAY_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_PI_0_M2x10": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_PI_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_PI_0_PCB_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_PI_0_TRAY_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_PI_1_M2x10": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PCB_PI_1_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PCB_PI_1_PCB_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PCB_PI_1_TRAY_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PCB_PI_2_M2x10": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_PI_2_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_PI_2_PCB_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_PI_2_TRAY_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_PI_3_M2x10": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PCB_PI_3_NUT": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PCB_PI_3_PCB_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_PCB_PI_3_TRAY_WASHER": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_BNO055_TRONCO_PCB": {
+   "error_antes_mm": 2.64508,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_MG90S_CUERPO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_centro_brazo": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_eje_metal": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_pestana": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_pestana.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_tornillo_central": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_tornillo_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_tornillo_tapa.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_tornillo_tapa.002": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_tornillo_tapa.003": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_torre_auxiliar": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_torre_salida": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_MG90S_CUERPO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_centro_brazo": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_eje_metal": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_pestana": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_pestana.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_tornillo_central": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_tornillo_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_tornillo_tapa.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_tornillo_tapa.002": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_tornillo_tapa.003": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_torre_auxiliar": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_torre_salida": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_02_MG90S_CUERPO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_02_centro_brazo": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_02_eje_metal": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_02_pestana": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_02_pestana.001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_02_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_02_tornillo_central": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_02_tornillo_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_02_tornillo_tapa.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_02_tornillo_tapa.002": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_02_tornillo_tapa.003": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_02_torre_auxiliar": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_02_torre_salida": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_03_MG90S_CUERPO": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V7_SRC_V4_MD_03_centro_brazo": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_03_eje_metal": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_SRC_V4_MD_03_pestana": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V7_SRC_V4_MD_03_pestana.001": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V7_SRC_V4_MD_03_tapa": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V7_SRC_V4_MD_03_tornillo_central": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_03_tornillo_tapa": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_SRC_V4_MD_03_tornillo_tapa.001": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V7_SRC_V4_MD_03_tornillo_tapa.002": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_SRC_V4_MD_03_tornillo_tapa.003": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V7_SRC_V4_MD_03_torre_auxiliar": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_SRC_V4_MD_03_torre_salida": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_SRC_V4_MD_04_MG90S_CUERPO": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_04_centro_brazo": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_04_eje_metal": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_04_pestana": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_04_pestana.001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_04_tapa": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_04_tornillo_central": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_04_tornillo_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_04_tornillo_tapa.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_04_tornillo_tapa.002": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_04_tornillo_tapa.003": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_04_torre_auxiliar": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_04_torre_salida": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_05_MG90S_CUERPO": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_05_centro_brazo": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_05_eje_metal": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_05_pestana": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_05_pestana.001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_05_tapa": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_05_tornillo_central": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_05_tornillo_tapa": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_05_tornillo_tapa.001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_05_tornillo_tapa.002": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_05_tornillo_tapa.003": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_05_torre_auxiliar": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_05_torre_salida": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_06_MG90S_CUERPO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_centro_brazo": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_eje_metal": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_pestana": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_pestana.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_tornillo_central": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_tornillo_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_tornillo_tapa.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_tornillo_tapa.002": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_tornillo_tapa.003": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_torre_auxiliar": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_torre_salida": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_07_MG90S_CUERPO": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_07_centro_brazo": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_07_eje_metal": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_07_pestana": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_07_pestana.001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_07_tapa": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_07_tornillo_central": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_07_tornillo_tapa": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_07_tornillo_tapa.001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_07_tornillo_tapa.002": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_07_tornillo_tapa.003": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_07_torre_auxiliar": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_07_torre_salida": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_08_MG90S_CUERPO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_08_centro_brazo": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_08_eje_metal": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_08_pestana": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_08_pestana.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_08_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_08_tornillo_central": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_08_tornillo_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_08_tornillo_tapa.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_08_tornillo_tapa.002": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_08_tornillo_tapa.003": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_08_torre_auxiliar": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_08_torre_salida": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_09_MG90S_CUERPO": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_eje_metal": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_09_pestana": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_09_pestana.001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_tapa": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_tornillo_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_09_tornillo_tapa.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_09_tornillo_tapa.002": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_tornillo_tapa.003": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_torre_auxiliar": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_torre_salida": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_10_MG90S_CUERPO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_10_centro_brazo": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_10_eje_metal": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_10_pestana": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_10_pestana.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_10_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_10_tornillo_central": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_10_tornillo_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_10_tornillo_tapa.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_10_tornillo_tapa.002": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_10_tornillo_tapa.003": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_10_torre_auxiliar": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_10_torre_salida": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_11_MG90S_CUERPO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_11_centro_brazo": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_11_eje_metal": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_11_pestana": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_11_pestana.001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_11_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_11_tornillo_central": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_11_tornillo_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_11_tornillo_tapa.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_11_tornillo_tapa.002": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_11_tornillo_tapa.003": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_11_torre_auxiliar": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_11_torre_salida": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_12_MG90S_CUERPO": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_12_centro_brazo": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_12_eje_metal": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_SRC_V4_MD_12_pestana": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_SRC_V4_MD_12_pestana.001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_12_tapa": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_SRC_V4_MD_12_tornillo_central": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_12_tornillo_tapa": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_SRC_V4_MD_12_tornillo_tapa.001": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_SRC_V4_MD_12_tornillo_tapa.002": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_12_tornillo_tapa.003": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_12_torre_auxiliar": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_12_torre_salida": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_SRC_V4_MD_13_MG90S_CUERPO": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_13_centro_brazo": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_SRC_V4_MD_13_eje_metal": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_13_pestana": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_13_pestana.001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_13_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_13_tornillo_central": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_SRC_V4_MD_13_tornillo_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_13_tornillo_tapa.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_13_tornillo_tapa.002": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_13_tornillo_tapa.003": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_13_torre_auxiliar": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_13_torre_salida": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_14_MG90S_CUERPO": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_14_centro_brazo": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_14_eje_metal": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_14_pestana": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_14_pestana.001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_14_tapa": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_14_tornillo_central": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_14_tornillo_tapa": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_14_tornillo_tapa.001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_14_tornillo_tapa.002": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_14_tornillo_tapa.003": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_14_torre_auxiliar": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_14_torre_salida": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_ankle_left__seeed_bearing__configuration_default": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_ankle_right__seeed_bearing__configuration_default": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_bearing_roll__seeed_bearing__configuratio_005ded7b": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_hip_l_2__seeed_bearing__configuration__22x16x4": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_SRC_V4_MD_hip_l__seeed_bearing__configuration__22x16x4": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_neck_pitch__seeed_bearing__configuration__22x16x4": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_trunk_base__seeed_bearing__configuration__2100455f": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_trunk_base__seeed_bearing__configuration__22x16x4": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_upper_leg_left__seeed_bearing__configurat_5adb0bbf": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "V7_SRC_V4_MD_upper_leg_right__seeed_bearing__configura_9644d2e7": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "V7_SRC_V4_MD_yaw2roll__seeed_bearing__configuration__22x16x4": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_yaw_roll_motion__seeed_bearing__configura_0c367e2a": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_yaw_roll_motion__seeed_bearing__configura_fa19e6f9": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_PI_ZERO_2W_PCB": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_PI_ZERO_GPIO": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_PI_ZERO_MINI_HDMI": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_PI_ZERO_USB_ALIMENTACION": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_PI_ZERO_USB_DATOS": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_Y_POWER_HOUSING_00": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_01": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_02": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_03": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_04": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_05": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_06": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_07": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_08": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_09": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_10": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_11": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_12": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_13": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_BALANCE_XHP3_NOMINAL": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_D24_HW_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_D24_HW_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_D24_HW_M2x8_2": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_D24_HW_M2x8_3": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_D36_HW_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_D36_HW_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_PCA_HW_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_PCA_HW_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_PCA_HW_M2x8_2": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_PCA_HW_M2x8_3": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V9_PDB_INPUT_XT30U_F_MATE": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P33": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "P39": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "P35": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "P40": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "P54": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "P37": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P43": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P49": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P06": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P07": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P08": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P20": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P28": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P29": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P21": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P22": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P23": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P30": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P48": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P69": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P77": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P79": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P80": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P45": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P52": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P53": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P61": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P62": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P68": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P63": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P64": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P65": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P66": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 1e-05
+  },
+  "P67": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P83": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P84": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P85": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "E_UNION_M2x4_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "E_TUERCA_AF4_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P01": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P02": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P03": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P04": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P14": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P16": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P17": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P18": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P46": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P47": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "P70": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P72": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P73": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "P76": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P09": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P10": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "P11": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P12": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P15": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P24": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P25": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P26": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "P50": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P51": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P71": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P74": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P75": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "P78": {
+   "error_antes_mm": 3e-05,
+   "error_despues_mm": 3e-05
+  },
+  "P05": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P19": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P31": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P41": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P55": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P56": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P59": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P81": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P13": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P27": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P32": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P42": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P57": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P58": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P60": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P82": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P44": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "D36 · desconexión de dos vías": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG00 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG01 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG02 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG03 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG04 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG05 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG06 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG07 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "MG08 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG09 · enchufe OEM aparcado": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG10 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG11 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG12 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG13 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG14 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Reed_base_FPC": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Reed_cuerpo": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Reed_estano0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Reed_estano1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Reed_lengueta_FPC": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "Reed_patilla-1": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "Reed_patilla1": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "G4_XT30_cazoleta_BAT01": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "G4_XT30_cazoleta_BAT02": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "G4_XT30_cazoleta_W001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "G4_XT30_cazoleta_W002": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "G4_XT30_cuerpo_XT30U_acoplado": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "G4_XT30_manga_BAT01": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "G4_XT30_manga_BAT02": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "G4_XT30_manga_W001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "G4_XT30_manga_W002": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "EG01": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "EG02": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "EG03": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "EG04": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "EG05": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "EG06": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "EG07": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P86": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "FOOT_L_PLACA": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_L_PUNTA_COM": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_L_PUNTA_NO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_L_R10000": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_L_R20000": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_L_R2200": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_L_TALON_COM": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_L_TALON_NO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_L_TRONCO_5V": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_L_TRONCO_GND": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_L_TRONCO_GPIO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_FOOT_L_HEEL_OMRON_SS01E": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_FOOT_L_TOE_OMRON_SS01E": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_R_PLACA": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_R_PUNTA_COM": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_R_PUNTA_NO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_R_R10000": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_R_R20000": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_R_R2200": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_R_TALON_COM": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_R_TALON_NO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_R_TRONCO_5V": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_R_TRONCO_GND": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "FOOT_R_TRONCO_GPIO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_FOOT_R_HEEL_OMRON_SS01E": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_FOOT_R_TOE_OMRON_SS01E": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P34": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Arandela_M3": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Tuerca_M3": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Pivote_M3_ISO7379_4x5": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  }
+ },
+ "02 · Accionamiento y apoyo": {
+  "V7_SRC_V4_MD_09_MG90S_CUERPO": {
+   "error_antes_mm": 264.59923,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_eje_metal": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_09_pestana": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_09_pestana.001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_tapa": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_tornillo_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_09_tornillo_tapa.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_09_tornillo_tapa.002": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_tornillo_tapa.003": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_torre_auxiliar": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_torre_salida": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P39": {
+   "error_antes_mm": 2e-05,
+   "error_despues_mm": 2e-05
+  },
+  "P49": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Arandela_M3": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Tuerca_M3": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Pivote_M3_ISO7379_4x5": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  }
+ },
+ "03 · Montaje de la boca a mano": {
+  "P37": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P49": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P23": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P34": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Arandela_M3": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Tuerca_M3": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Pivote_M3_ISO7379_4x5": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  }
+ },
+ "04 · Cierre del pecho y destornillador": {
+  "V7_Y_POWER_HOUSING_14": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V12_HW_CASE_CLOSURE_00": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V12_HW_CASE_CLOSURE_01": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V12_HW_CASE_CLOSURE_02": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V12_HW_CASE_CLOSURE_03": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_ADC_DRIVER_FR4_ISLAND_BOARD": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_ADC_OFF_PNP_2N3906": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_BM_CUSTOM_FR4": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_CELL_VAPCELL_K10_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_CELL_VAPCELL_K10_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_ELEC_ADS1115_1085": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_FUSE_FR4_CARRIER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_FUSE_MINI_01530007Z_0297005": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ADC_DRIVER_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ADC_DRIVER_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ADS1115_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ADS1115_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ADS1115_M2x8_2": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ADS1115_M2x8_3": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_BM_SSH_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_D24_TRAY_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_D24_TRAY_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ETCLAMP_00F_0_M2x12_ASSY": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ETCLAMP_00F_1_M2x12_ASSY": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ETCLAMP_01F_0_M2x12_ASSY": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_ETCLAMP_01F_1_M2x12_ASSY": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_HP_GATE_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_K10_GATE_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_K10_GATE_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_MINI_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_MINI_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_MINI_M2x8_2": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_MINI_M2x8_3": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_PCM_GATE_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_PCM_GATE_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_PDB_LOWER_M2x18_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_PDB_LOWER_M2x18_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_REED_CAP_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG00_0_BOLT_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG00_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG00_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG00_1_BOLT_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG00_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG00_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG01_0_BOLT_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG01_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG01_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG01_1_BOLT_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG01_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_HW_SERVICE_MG01_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_PCM_250040_MAX": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_PDB_3108_2827_0801_ENVOLVENTE": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_RES_ALERT_TO_BASE": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_RES_COLLECTOR_OFF": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_RES_DIV_LOWER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_RES_DIV_UPPER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_RES_OFF_PULLDOWN": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_RES_PCA_OE_PULLUP": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_RES_PNP_BASE_PULLUP": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_ELEC_D24V150F5_PCB": {
+   "error_antes_mm": 7.9976,
+   "error_despues_mm": 0.0
+  },
+  "V7_ELEC_D36V28F5_PCB": {
+   "error_antes_mm": 6.1024,
+   "error_despues_mm": 0.0
+  },
+  "V7_ELEC_PCA9685_REV_C_PCB": {
+   "error_antes_mm": 2.6,
+   "error_despues_mm": 1e-05
+  },
+  "V7_ELEC_SWITCH_2813_PCB": {
+   "error_antes_mm": 2.3924,
+   "error_despues_mm": 1e-05
+  },
+  "V7_HW_CAP06_0_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP06_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP06_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP06_1_M2x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP06_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_CAP06_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG00_F_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG00_F_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG00_F_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG00_R_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG00_R_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG00_R_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG01_F_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG01_F_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG01_F_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG01_R_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG01_R_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG01_R_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG06_F_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG06_F_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG06_F_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG06_R_M1p6x6": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG06_R_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_MG06_R_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_623ZZ": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_AXLE_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_AXLE_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_AXLE_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_BEARING_0_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_BEARING_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_BEARING_0_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_BEARING_1_M2x8": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_BEARING_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_BEARING_1_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_NECK_SLEEVE": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_OEM_HORN_TRIMMED_06": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_0_M2x10": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_0_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_0_PCB_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_0_TRAY_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_1_M2x10": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_1_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_1_PCB_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_1_TRAY_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_2_M2x10": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_2_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_2_PCB_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_2_TRAY_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_3_M2x10": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_3_NUT": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_3_PCB_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_HW_PCB_BNO_3_TRAY_WASHER": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_BNO055_TRONCO_PCB": {
+   "error_antes_mm": 2.64508,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_MG90S_CUERPO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_eje_metal": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_pestana": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_pestana.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_tornillo_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_tornillo_tapa.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_tornillo_tapa.002": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_tornillo_tapa.003": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_torre_auxiliar": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_00_torre_salida": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_MG90S_CUERPO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_eje_metal": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_pestana": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_pestana.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_tornillo_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_tornillo_tapa.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_tornillo_tapa.002": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_tornillo_tapa.003": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_torre_auxiliar": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_01_torre_salida": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_MG90S_CUERPO": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_centro_brazo": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_eje_metal": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_pestana": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_pestana.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_tornillo_central": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_tornillo_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_tornillo_tapa.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_tornillo_tapa.002": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_tornillo_tapa.003": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_torre_auxiliar": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_06_torre_salida": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_trunk_base__seeed_bearing__configuration__2100455f": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_trunk_base__seeed_bearing__configuration__22x16x4": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_00": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_01": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_02": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_03": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_04": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_05": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_06": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_07": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_08": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_09": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_10": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_11": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_12": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_Y_POWER_HOUSING_13": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_BALANCE_XHP3_NOMINAL": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_D24_HW_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_D24_HW_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_D24_HW_M2x8_2": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_D24_HW_M2x8_3": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_D36_HW_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_D36_HW_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_PCA_HW_M2x8_0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_PCA_HW_M2x8_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_PCA_HW_M2x8_2": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V8_PCA_HW_M2x8_3": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V9_PDB_INPUT_XT30U_F_MATE": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P45": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P52": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P53": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P83": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P84": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P85": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "E_UNION_M2x4_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "E_TUERCA_AF4_1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P44": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "D36 · desconexión de dos vías": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG00 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG01 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG02 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG03 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG04 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG05 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG11 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG12 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG13 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG14 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Reed_base_FPC": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Reed_cuerpo": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Reed_estano0": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Reed_estano1": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "Reed_lengueta_FPC": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "Reed_patilla-1": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "Reed_patilla1": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "G4_XT30_cazoleta_BAT01": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "G4_XT30_cazoleta_BAT02": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "G4_XT30_cazoleta_W001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "G4_XT30_cazoleta_W002": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "G4_XT30_cuerpo_XT30U_acoplado": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "G4_XT30_manga_BAT01": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "G4_XT30_manga_BAT02": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "G4_XT30_manga_W001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "G4_XT30_manga_W002": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "EG01": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "EG02": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "EG03": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "EG04": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "EG05": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "EG06": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "EG07": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P86": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  }
+ },
+ "05 · Arnés completo y ramal de la boca": {
+  "V7_Y_POWER_HOUSING_14": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V15_PDB_3108_2827_0801_ENVOLVENTE": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_ELEC_D36V28F5_PCB": {
+   "error_antes_mm": 6.1024,
+   "error_despues_mm": 0.0
+  },
+  "V7_ELEC_PCA9685_REV_C_PCB": {
+   "error_antes_mm": 2.6,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_MG90S_CUERPO": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_eje_metal": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_09_pestana": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_09_pestana.001": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_tapa": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_tornillo_tapa": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_09_tornillo_tapa.001": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_MD_09_tornillo_tapa.002": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_tornillo_tapa.003": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_torre_auxiliar": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_MD_09_torre_salida": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_PI_ZERO_2W_PCB": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_PI_ZERO_GPIO": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_PI_ZERO_MINI_HDMI": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "V7_SRC_V4_PI_ZERO_USB_ALIMENTACION": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "V7_SRC_V4_PI_ZERO_USB_DATOS": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "P45": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "P83": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "D36 · desconexión de dos vías": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG00 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG01 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG02 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG03 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG04 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG05 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG06 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG07 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "MG08 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG09 · enchufe OEM aparcado": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG10 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG11 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG12 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG13 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "MG14 · enchufe OEM y hembra Y": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "EG01": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "EG02": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "EG03": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "EG04": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "EG05": {
+   "error_antes_mm": 1e-05,
+   "error_despues_mm": 1e-05
+  },
+  "EG06": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  },
+  "EG07": {
+   "error_antes_mm": 0.0,
+   "error_despues_mm": 0.0
+  }
+ },
+ "Cabeza en banco · piezas restituidas": [
+  "V15_EYE_REAR_NUT_0",
+  "V15_EYE_REAR_NUT_1",
+  "V15_EYE_REAR_WASHER_0",
+  "V15_EYE_REAR_WASHER_1",
+  "V15_HW_6701CLAMP_10R_0_M2x11_ASSY",
+  "V15_HW_6701CLAMP_10R_1_M2x11_ASSY",
+  "V15_HW_ETCLAMP_08F_0_M2x12_ASSY",
+  "V15_HW_ETCLAMP_08F_1_M2x12_ASSY",
+  "V15_HW_ETCLAMP_10F_0_M2x12_ASSY",
+  "V15_HW_ETCLAMP_10F_1_M2x12_ASSY",
+  "V15_HW_HEAD_CHEEK_SSH_M2x10_R",
+  "V15_HW_HEAD_CHEEK_SSH_M2x8_L",
+  "V15_HW_SERVICE_MG08_0_BOLT_M2x8",
+  "V15_HW_SERVICE_MG08_0_NUT",
+  "V15_HW_SERVICE_MG08_0_WASHER",
+  "V15_HW_SERVICE_MG08_1_BOLT_M2x8",
+  "V15_HW_SERVICE_MG08_1_NUT",
+  "V15_HW_SERVICE_MG08_1_WASHER",
+  "V15_HW_SERVICE_MG10_0_BOLT_M2x8",
+  "V15_HW_SERVICE_MG10_0_NUT",
+  "V15_HW_SERVICE_MG10_0_WASHER",
+  "V15_HW_SERVICE_MG10_1_BOLT_M2x8",
+  "V15_HW_SERVICE_MG10_1_NUT",
+  "V15_HW_SERVICE_MG10_1_WASHER",
+  "V7_HEAD_HW_CORE_0",
+  "V7_HEAD_HW_CORE_1",
+  "V7_HEAD_HW_CORE_2",
+  "V7_HEAD_HW_FACE_0",
+  "V7_HEAD_HW_FACE_1",
+  "V7_HEAD_HW_FACE_2",
+  "V7_HEAD_HW_FACE_3",
+  "V7_HEAD_HW_PI_CORE_0",
+  "V7_HEAD_HW_PI_CORE_1",
+  "V7_HEAD_HW_PI_CORE_2",
+  "V7_HEAD_HW_TOP_0",
+  "V7_HEAD_HW_TOP_1",
+  "V7_HEAD_HW_TOP_2",
+  "V7_HEAD_HW_TOP_3",
+  "V7_HW_CAP08_0_NUT",
+  "V7_HW_CAP08_1_NUT",
+  "V7_HW_CAP10_0_M2x6",
+  "V7_HW_CAP10_0_NUT",
+  "V7_HW_CAP10_0_WASHER",
+  "V7_HW_CAP10_1_M2x6",
+  "V7_HW_CAP10_1_NUT",
+  "V7_HW_CAP10_1_WASHER",
+  "V7_HW_MG08_F_M1p6x6",
+  "V7_HW_MG08_F_NUT",
+  "V7_HW_MG08_F_WASHER",
+  "V7_HW_MG08_R_M1p6x6",
+  "V7_HW_MG08_R_NUT",
+  "V7_HW_MG08_R_WASHER",
+  "V7_HW_MG09_F_M1p6x6",
+  "V7_HW_MG09_F_NUT",
+  "V7_HW_MG09_F_WASHER",
+  "V7_HW_MG09_R_M1p6x6",
+  "V7_HW_MG09_R_NUT",
+  "V7_HW_MG09_R_WASHER",
+  "V7_HW_MG10_F_M1p6x6",
+  "V7_HW_MG10_F_NUT",
+  "V7_HW_MG10_F_WASHER",
+  "V7_HW_MG10_R_M1p6x6",
+  "V7_HW_MG10_R_NUT",
+  "V7_HW_MG10_R_WASHER",
+  "V7_HW_OEM_HORN_TRIMMED_08",
+  "V7_HW_OEM_HORN_TRIMMED_10",
+  "V7_HW_PASSIVE_HEAD10_HARD_SHIM",
+  "V7_HW_PASSIVE_HEAD10_M2x10",
+  "V7_HW_PASSIVE_HEAD10_NUT",
+  "V7_HW_PASSIVE_HEAD10_WASHER",
+  "V7_HW_PCB_PI_0_M2x10",
+  "V7_HW_PCB_PI_0_NUT",
+  "V7_HW_PCB_PI_0_PCB_WASHER",
+  "V7_HW_PCB_PI_0_TRAY_WASHER",
+  "V7_HW_PCB_PI_1_M2x10",
+  "V7_HW_PCB_PI_1_NUT",
+  "V7_HW_PCB_PI_1_PCB_WASHER",
+  "V7_HW_PCB_PI_1_TRAY_WASHER",
+  "V7_HW_PCB_PI_2_M2x10",
+  "V7_HW_PCB_PI_2_NUT",
+  "V7_HW_PCB_PI_2_PCB_WASHER",
+  "V7_HW_PCB_PI_2_TRAY_WASHER",
+  "V7_HW_PCB_PI_3_M2x10",
+  "V7_HW_PCB_PI_3_NUT",
+  "V7_HW_PCB_PI_3_PCB_WASHER",
+  "V7_HW_PCB_PI_3_TRAY_WASHER",
+  "V7_SRC_V4_MD_08_MG90S_CUERPO",
+  "V7_SRC_V4_MD_08_centro_brazo",
+  "V7_SRC_V4_MD_08_eje_metal",
+  "V7_SRC_V4_MD_08_pestana",
+  "V7_SRC_V4_MD_08_pestana.001",
+  "V7_SRC_V4_MD_08_tapa",
+  "V7_SRC_V4_MD_08_tornillo_central",
+  "V7_SRC_V4_MD_08_tornillo_tapa",
+  "V7_SRC_V4_MD_08_tornillo_tapa.001",
+  "V7_SRC_V4_MD_08_tornillo_tapa.002",
+  "V7_SRC_V4_MD_08_tornillo_tapa.003",
+  "V7_SRC_V4_MD_08_torre_auxiliar",
+  "V7_SRC_V4_MD_08_torre_salida",
+  "V7_SRC_V4_MD_09_MG90S_CUERPO",
+  "V7_SRC_V4_MD_09_eje_metal",
+  "V7_SRC_V4_MD_09_pestana",
+  "V7_SRC_V4_MD_09_pestana.001",
+  "V7_SRC_V4_MD_09_tapa",
+  "V7_SRC_V4_MD_09_tornillo_tapa",
+  "V7_SRC_V4_MD_09_tornillo_tapa.001",
+  "V7_SRC_V4_MD_09_tornillo_tapa.002",
+  "V7_SRC_V4_MD_09_tornillo_tapa.003",
+  "V7_SRC_V4_MD_09_torre_auxiliar",
+  "V7_SRC_V4_MD_09_torre_salida",
+  "V7_SRC_V4_MD_10_MG90S_CUERPO",
+  "V7_SRC_V4_MD_10_centro_brazo",
+  "V7_SRC_V4_MD_10_eje_metal",
+  "V7_SRC_V4_MD_10_pestana",
+  "V7_SRC_V4_MD_10_pestana.001",
+  "V7_SRC_V4_MD_10_tapa",
+  "V7_SRC_V4_MD_10_tornillo_central",
+  "V7_SRC_V4_MD_10_tornillo_tapa",
+  "V7_SRC_V4_MD_10_tornillo_tapa.001",
+  "V7_SRC_V4_MD_10_tornillo_tapa.002",
+  "V7_SRC_V4_MD_10_tornillo_tapa.003",
+  "V7_SRC_V4_MD_10_torre_auxiliar",
+  "V7_SRC_V4_MD_10_torre_salida",
+  "V7_SRC_V4_MD_neck_pitch__seeed_bearing__configuration__22x16x4",
+  "V7_SRC_V4_MD_yaw_roll_motion__seeed_bearing__configura_0c367e2a",
+  "V7_SRC_V4_MD_yaw_roll_motion__seeed_bearing__configura_fa19e6f9",
+  "V7_SRC_V4_PI_ZERO_2W_PCB",
+  "V7_SRC_V4_PI_ZERO_GPIO",
+  "V7_SRC_V4_PI_ZERO_MINI_HDMI",
+  "V7_SRC_V4_PI_ZERO_USB_ALIMENTACION",
+  "V7_SRC_V4_PI_ZERO_USB_DATOS",
+  "P33",
+  "P39",
+  "P35",
+  "P40",
+  "P54",
+  "P43",
+  "P08",
+  "P30",
+  "P48",
+  "P69",
+  "P77",
+  "P79",
+  "P80"
+ ],
+ "Metodo": "Coordenadas XYZ de montaje analizadas por vértices, en milímetros. Para cuerpos articulados se comprueba su pose de referencia y se conservan las pistas de giro."
+}

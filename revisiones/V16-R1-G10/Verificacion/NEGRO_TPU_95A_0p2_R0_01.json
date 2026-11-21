@@ -1,0 +1,20 @@
+{
+ "placa": "NEGRO_TPU_95A_0p2_R0_01",
+ "piezas": [
+  "P41",
+  "P42"
+ ],
+ "color": "NEGRO_TPU_95A",
+ "capas_mm": "0.2",
+ "raft": "0",
+ "gramos": 23.28,
+ "pausas": {},
+ "objetos": 2,
+ "objetos_gcode": 2,
+ "sha256": "c5465af8b2964248edf11fd11c89ef988beca3ca014266824668bbd11ec9a249",
+ "objetos_confirmados_por_laminador": [
+  "P42",
+  "P41"
+ ],
+ "fuente_recuento": "result.json de Bambu Studio tras laminar el 3MF"
+}

@@ -1,0 +1,37 @@
+[
+ {
+  "radio": 0.92,
+  "recorte_mm3": 15.954615433317196,
+  "holgura_barrido_mm": 0.06514417436085171,
+  "interseccion_mm3": 0.0,
+  "componentes": 1
+ },
+ {
+  "radio": 0.97,
+  "recorte_mm3": 16.676611031736133,
+  "holgura_barrido_mm": 0.0,
+  "interseccion_mm3": 7.562310153086393e-18,
+  "componentes": 1
+ },
+ {
+  "radio": 1.02,
+  "recorte_mm3": 17.412136022782413,
+  "holgura_barrido_mm": 0.0,
+  "interseccion_mm3": 5.880712583561376e-16,
+  "componentes": 1
+ },
+ {
+  "radio": 1.07,
+  "recorte_mm3": 18.161808711941344,
+  "holgura_barrido_mm": 0.0,
+  "interseccion_mm3": 1.1102230246251565e-16,
+  "componentes": 1
+ },
+ {
+  "radio": 1.12,
+  "recorte_mm3": 18.926895074935437,
+  "holgura_barrido_mm": 0.330844987236397,
+  "interseccion_mm3": 0.0,
+  "componentes": 1
+ }
+]

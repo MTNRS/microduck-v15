@@ -1,0 +1,45 @@
+{
+ "escenas_con_P45": [
+  [
+   "01 · Boca móvil y robot entero",
+   "P45 · Robot.001"
+  ],
+  [
+   "04 · Cierre del pecho y destornillador",
+   "P45 · Cierre"
+  ],
+  [
+   "05 · Arnés completo y ramal de la boca",
+   "P45 · Robot.002"
+  ],
+  [
+   "06 · Protección y cassette P45",
+   "P45 · sección de inspección"
+  ],
+  [
+   "07 · Despiece de las 86 piezas",
+   "P45 · 12CASE_TAPA_TRASERA_ENRASADA"
+  ]
+ ],
+ "escenas_con_153_hilos_comprobados": [
+  "01",
+  "04",
+  "05"
+ ],
+ "cables_actualizados": [
+  "OEM04-1",
+  "OEM05-1",
+  "OEM06-2",
+  "OEM06-3",
+  "OEM09-2",
+  "OEM14-1",
+  "OEM14-2",
+  "OEM14-3",
+  "W003",
+  "W096",
+  "W098",
+  "W114"
+ ],
+ "volumen_STL": 16558.313963165383,
+ "volumen_Blender": 16558.31392514723
+}

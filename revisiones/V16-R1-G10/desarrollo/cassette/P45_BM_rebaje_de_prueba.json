@@ -1,0 +1,64 @@
+{
+ "registro_con_stl_publicado_mm": 5.116186698767025e-06,
+ "volumen_original_mm3": 16576.02609741663,
+ "retirado_mm3": 17.11728210305331,
+ "extremos_del_rebaje_mm": [
+  [
+   -70.59816,
+   -23.887925791461004,
+   129.6999994184385
+  ],
+  [
+   -66.95600032806396,
+   -10.644942195908067,
+   134.93158819555936
+  ]
+ ],
+ "cuerpos_con_volumen": [
+  16557.35680626094,
+  1.5520090526363282
+ ],
+ "estado": "Error.NoError",
+ "barrido_cable_con_cassette_anterior_mm3": 7.729993790693483,
+ "barrido_cable_con_cassette_corregido_mm3": 0.0,
+ "holgura_barrido_cassette_mm": 0.5227379573312635,
+ "trayectoria_relativa_mm": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   4,
+   -1
+  ],
+  [
+   0,
+   28,
+   -62
+  ]
+ ],
+ "ejes_para_stl": [
+  [
+   -0.0,
+   -0.0,
+   -1.0
+  ],
+  [
+   0.0,
+   1.0,
+   0.0
+  ],
+  [
+   1.0,
+   0.0,
+   0.0
+  ]
+ ],
+ "traslacion_para_stl": [
+  170.90263995188576,
+  44.11013371123233,
+  77.99818848003633
+ ]
+}

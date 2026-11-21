@@ -1,0 +1,18 @@
+{
+ "placa": "GRIS_PETG_0p2_R0_01",
+ "piezas": [
+  "P35"
+ ],
+ "color": "GRIS_PETG",
+ "capas_mm": "0.2",
+ "raft": "0",
+ "gramos": 6.87,
+ "pausas": {},
+ "objetos": 1,
+ "objetos_gcode": 1,
+ "sha256": "e0e07bf53f30b731ae2d7f1b1ad29f5bf4dd8e40225b1aeb681963107bff8cd0",
+ "objetos_confirmados_por_laminador": [
+  "P35"
+ ],
+ "fuente_recuento": "result.json de Bambu Studio tras laminar el 3MF"
+}

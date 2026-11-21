@@ -1,0 +1,307 @@
+{
+ "intervalo_grados": [
+  0,
+  22
+ ],
+ "paso": 0.25,
+ "incidencias": {},
+ "proximidades": {
+  "W014": {
+   "cota_inferior_mm": 24.7272,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    -4.9189,
+    13.755,
+    218.3555
+   ]
+  },
+  "W015": {
+   "cota_inferior_mm": 21.6271,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    -5.7508,
+    17.4573,
+    217.5049
+   ]
+  },
+  "W037": {
+   "cota_inferior_mm": 10.2499,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    19.9532,
+    14.4436,
+    207.0315
+   ]
+  },
+  "W044": {
+   "cota_inferior_mm": 0.2542,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    30.0481,
+    6.5592,
+    204.5259
+   ]
+  },
+  "W059": {
+   "cota_inferior_mm": 9.9111,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    20.5552,
+    12.3563,
+    206.8848
+   ]
+  },
+  "W071": {
+   "cota_inferior_mm": 26.6122,
+   "angulo_peor_grados": 3.5,
+   "posicion": [
+    -1.2262,
+    -13.7738,
+    247.1287
+   ]
+  },
+  "W087": {
+   "cota_inferior_mm": 21.6207,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    -4.3176,
+    -18.0964,
+    231.9595
+   ]
+  },
+  "W088": {
+   "cota_inferior_mm": 24.5026,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    -4.2222,
+    -13.6978,
+    217.3733
+   ]
+  },
+  "W090": {
+   "cota_inferior_mm": 3.8143,
+   "angulo_peor_grados": 14.75,
+   "posicion": [
+    17.3724,
+    -35.1898,
+    233.3988
+   ]
+  },
+  "W091": {
+   "cota_inferior_mm": 5.7387,
+   "angulo_peor_grados": 0.0,
+   "posicion": [
+    30.6831,
+    -24.9118,
+    228.1673
+   ]
+  },
+  "W092": {
+   "cota_inferior_mm": 3.3923,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    26.8861,
+    -1.787,
+    204.2564
+   ]
+  },
+  "W093": {
+   "cota_inferior_mm": 9.0083,
+   "angulo_peor_grados": 8.0,
+   "posicion": [
+    11.1653,
+    -29.4854,
+    238.276
+   ]
+  },
+  "W094": {
+   "cota_inferior_mm": 11.6042,
+   "angulo_peor_grados": 17.75,
+   "posicion": [
+    2.093,
+    -27.1316,
+    238.4846
+   ]
+  },
+  "W095": {
+   "cota_inferior_mm": 25.5118,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    4.0959,
+    -14.5041,
+    249.4148
+   ]
+  },
+  "W096": {
+   "cota_inferior_mm": 10.5242,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    19.6578,
+    11.033,
+    207.2489
+   ]
+  },
+  "W097": {
+   "cota_inferior_mm": 25.9635,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    -1.8109,
+    11.383,
+    215.9587
+   ]
+  },
+  "W098": {
+   "cota_inferior_mm": 7.1869,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    22.9076,
+    13.2861,
+    205.8247
+   ]
+  },
+  "OEM06-1": {
+   "cota_inferior_mm": 6.9038,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    23.1465,
+    -13.5082,
+    205.8032
+   ]
+  },
+  "OEM06-2": {
+   "cota_inferior_mm": 14.3678,
+   "angulo_peor_grados": 0.0,
+   "posicion": [
+    -1.986,
+    -25.5546,
+    242.2305
+   ]
+  },
+  "OEM06-3": {
+   "cota_inferior_mm": 4.3225,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    25.8175,
+    -9.4844,
+    204.6872
+   ]
+  },
+  "OEM07-1": {
+   "cota_inferior_mm": 12.3115,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    18.8116,
+    -10.0342,
+    209.7329
+   ]
+  },
+  "OEM07-2": {
+   "cota_inferior_mm": 6.9796,
+   "angulo_peor_grados": 0.0,
+   "posicion": [
+    30.9123,
+    -22.7667,
+    228.3385
+   ]
+  },
+  "OEM07-3": {
+   "cota_inferior_mm": 4.2318,
+   "angulo_peor_grados": 9.25,
+   "posicion": [
+    20.7197,
+    -36.7851,
+    233.698
+   ]
+  },
+  "OEM08-1": {
+   "cota_inferior_mm": 29.4389,
+   "angulo_peor_grados": 6.5,
+   "posicion": [
+    8.1658,
+    10.0583,
+    245.5822
+   ]
+  },
+  "OEM08-2": {
+   "cota_inferior_mm": 19.3541,
+   "angulo_peor_grados": 0.0,
+   "posicion": [
+    35.3006,
+    -11.0735,
+    244.6342
+   ]
+  },
+  "OEM08-3": {
+   "cota_inferior_mm": 28.4654,
+   "angulo_peor_grados": 6.0,
+   "posicion": [
+    10.4781,
+    10.5589,
+    242.8071
+   ]
+  },
+  "OEM09-1": {
+   "cota_inferior_mm": 12.7913,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    6.4268,
+    27.9907,
+    248.471
+   ]
+  },
+  "OEM09-2": {
+   "cota_inferior_mm": 15.451,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    2.9597,
+    26.0785,
+    249.8544
+   ]
+  },
+  "OEM09-3": {
+   "cota_inferior_mm": 22.6926,
+   "angulo_peor_grados": 0.0,
+   "posicion": [
+    22.5089,
+    10.284,
+    239.9247
+   ]
+  },
+  "OEM10-1": {
+   "cota_inferior_mm": 38.6006,
+   "angulo_peor_grados": 14.25,
+   "posicion": [
+    6.8105,
+    -0.6809,
+    247.1532
+   ]
+  },
+  "H001": {
+   "cota_inferior_mm": 24.0054,
+   "angulo_peor_grados": 21.25,
+   "posicion": [
+    -5.227,
+    16.8892,
+    229.3347
+   ]
+  },
+  "H003": {
+   "cota_inferior_mm": 0.4598,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    0.463,
+    41.7674,
+    228.5372
+   ]
+  },
+  "H004": {
+   "cota_inferior_mm": 25.5115,
+   "angulo_peor_grados": 22.0,
+   "posicion": [
+    -2.4974,
+    12.8071,
+    222.2631
+   ]
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+  "F_M2x6_1": {
+    "P44": {
+      "barrido_mm3": 0.0,
+      "asiento_mm3": 0.0,
+      "margen_mm": 0.8260569342213312
+    },
+    "P86": {
+      "barrido_mm3": 0.0,
+      "asiento_mm3": 0.0,
+      "margen_mm": 0.13420623007913604
+    }
+  },
+  "F_M2x6_2": {
+    "P44": {
+      "barrido_mm3": 0.0,
+      "asiento_mm3": 0.0,
+      "margen_mm": 0.8260707795402273
+    },
+    "P86": {
+      "barrido_mm3": 0.0,
+      "asiento_mm3": 0.0,
+      "margen_mm": 0.13420623007913007
+    }
+  },
+  "F_M2x6_3": {
+    "P44": {
+      "barrido_mm3": 0.0,
+      "asiento_mm3": 0.0,
+      "margen_mm": 0.355752869498275
+    },
+    "P86": {
+      "barrido_mm3": 0.0,
+      "asiento_mm3": 0.0,
+      "margen_mm": 0.13420623007912108
+    }
+  },
+  "F_M2x6_4": {
+    "P44": {
+      "barrido_mm3": 0.0,
+      "asiento_mm3": 0.0,
+      "margen_mm": 0.3557963963560269
+    },
+    "P86": {
+      "barrido_mm3": 0.0,
+      "asiento_mm3": 0.0,
+      "margen_mm": 0.13420623007912177
+    }
+  }
+}

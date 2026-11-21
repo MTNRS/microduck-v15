@@ -1,0 +1,16 @@
+﻿motor;canal;articulación;masa CAD mm;positivo CAD mm;señal CAD mm;mayor recorrido CAD mm;intervalo de longitudes entre las tres vías mm;montaje
+MG00;S00;left_hip_yaw;45.0;16.8;25.8;45.0;28.3;Medidas entre salida del motor y entrada del enchufe, en pose de montaje. Comprobar desplazamiento y engaste con el lote antes de cortar.
+MG02;S01;left_hip_roll;113.3;123.6;148.7;148.7;35.4;Medidas entre salida del motor y entrada del enchufe, en pose de montaje. Comprobar desplazamiento y engaste con el lote antes de cortar.
+MG04;S02;left_hip_pitch;209.2;143.8;149.5;209.2;65.4;Medidas entre salida del motor y entrada del enchufe, en pose de montaje. Comprobar desplazamiento y engaste con el lote antes de cortar.
+MG03;S03;left_knee;208.2;212.0;167.8;212.0;44.2;Medidas entre salida del motor y entrada del enchufe, en pose de montaje. Comprobar desplazamiento y engaste con el lote antes de cortar.
+MG05;S04;left_ankle;189.9;173.2;190.9;190.9;17.7;Medidas entre salida del motor y entrada del enchufe, en pose de montaje. Comprobar desplazamiento y engaste con el lote antes de cortar.
+MG06;S05;neck_pitch;127.7;137.8;159.1;159.1;31.4;Medidas entre salida del motor y entrada del enchufe, en pose de montaje. Comprobar desplazamiento y engaste con el lote antes de cortar.
+MG07;S06;head_pitch;76.6;91.3;97.3;97.3;20.7;Medidas entre salida del motor y entrada del enchufe, en pose de montaje. Comprobar desplazamiento y engaste con el lote antes de cortar.
+MG08;S07;head_yaw;68.1;65.5;71.8;71.8;6.3;Medidas entre salida del motor y entrada del enchufe, en pose de montaje. Comprobar desplazamiento y engaste con el lote antes de cortar.
+MG10;S08;head_roll;100.7;132.8;110.5;132.8;32.1;Medidas entre salida del motor y entrada del enchufe, en pose de montaje. Comprobar desplazamiento y engaste con el lote antes de cortar.
+MG01;S09;right_hip_yaw;47.7;38.3;13.7;47.7;34.0;Medidas entre salida del motor y entrada del enchufe, en pose de montaje. Comprobar desplazamiento y engaste con el lote antes de cortar.
+MG11;S10;right_hip_roll;50.6;56.2;90.8;90.8;40.2;Medidas entre salida del motor y entrada del enchufe, en pose de montaje. Comprobar desplazamiento y engaste con el lote antes de cortar.
+MG13;S11;right_hip_pitch;112.8;113.2;146.6;146.6;33.9;Medidas entre salida del motor y entrada del enchufe, en pose de montaje. Comprobar desplazamiento y engaste con el lote antes de cortar.
+MG12;S12;right_knee;143.0;147.6;161.2;161.2;18.2;Medidas entre salida del motor y entrada del enchufe, en pose de montaje. Comprobar desplazamiento y engaste con el lote antes de cortar.
+MG14;S13;right_ankle;243.6;284.1;239.2;284.1;44.9;Medidas entre salida del motor y entrada del enchufe, en pose de montaje. Comprobar desplazamiento y engaste con el lote antes de cortar.
+MG09;S14;jaw;105.0;93.7;77.7;105.0;27.3;Medidas entre salida del motor y entrada del enchufe, en pose de montaje. Comprobar desplazamiento y engaste con el lote antes de cortar.

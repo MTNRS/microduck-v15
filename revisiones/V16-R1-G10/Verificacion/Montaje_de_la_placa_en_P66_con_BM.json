@@ -1,0 +1,13 @@
+{
+ "carreras_continuas_rectas_aceptadas": [
+  {
+   "direccion_extraccion": [
+    0.0,
+    0.0,
+    -24.0
+   ],
+   "volumen_interseccion_placa_y_cabecera_mm3": 0.0,
+   "volumen_interseccion_cable_mm3": 0.0
+  }
+ ]
+}

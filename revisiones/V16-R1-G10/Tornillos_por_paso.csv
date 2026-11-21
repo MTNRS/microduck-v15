@@ -1,0 +1,210 @@
+﻿Paso y fotograma;Operación;Piezas o servo;Referencia CAD;Tornillo;Lado de entrada CAD;Vástago libre;Herraje agrupado en la referencia;Montaje
+1;Fijar el regulador D36;P44;V8_D36_HW_M2x8_1;M2x8;−Y;45 mm;1 × M2 AF4 h1.6 + 2 × OD4.3 ID2.2 h0.3;
+2;Fijar el regulador D36;P44;V8_D36_HW_M2x8_0;M2x8;−Y;45 mm;1 × M2 AF4 h1.6 + 2 × OD4.3 ID2.2 h0.3;
+3;Montar el D24 en su bandeja;P65;V8_D24_HW_M2x8_3;M2x8;−Z;50 mm;1 × M2 AF4 h1.6 + 2 × OD4.3 ID2.2 h0.3;
+4;Montar el D24 en su bandeja;P65;V8_D24_HW_M2x8_2;M2x8;−Z;50 mm;1 × M2 AF4 h1.6 + 2 × OD4.3 ID2.2 h0.3;
+5;Montar el D24 en su bandeja;P65;V8_D24_HW_M2x8_1;M2x8;−Z;50 mm;1 × M2 AF4 h1.6 + 2 × OD4.3 ID2.2 h0.3;
+6;Montar el D24 en su bandeja;P65;V8_D24_HW_M2x8_0;M2x8;−Z;50 mm;1 × M2 AF4 h1.6 + 2 × OD4.3 ID2.2 h0.3;
+7;Cerrar el soporte partido del rodamiento;P10, P78;V15_HW_ETCLAMP_13F_1_M2x12_ASSY;M2x12;−X 0.9 · +Y 0.04 · −Z 0.44;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+8;Cerrar el soporte partido del rodamiento;P10, P78;V15_HW_ETCLAMP_13F_0_M2x12_ASSY;M2x12;−X 0.9 · +Y 0.04 · −Z 0.44;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+9;Cerrar el soporte partido del rodamiento;P08, P77;V15_HW_ETCLAMP_10F_1_M2x12_ASSY;M2x11;−Z;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+10;Cerrar el soporte partido del rodamiento;P08, P77;V15_HW_ETCLAMP_10F_0_M2x12_ASSY;M2x11;−Z;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+11;Cerrar el soporte partido del rodamiento;P07, P79;V15_HW_ETCLAMP_08F_1_M2x12_ASSY;M2x11;−X;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+12;Cerrar el soporte partido del rodamiento;P07, P79;V15_HW_ETCLAMP_08F_0_M2x12_ASSY;M2x11;−X;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+13;Cerrar el soporte partido del rodamiento;P02, P76;V15_HW_ETCLAMP_04F_1_M2x12_ASSY;M2x12;−X 0.9 · −Y 0.04 · −Z 0.44;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+14;Cerrar el soporte partido del rodamiento;P02, P76;V15_HW_ETCLAMP_04F_0_M2x12_ASSY;M2x12;−X 0.9 · −Y 0.04 · −Z 0.44;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+15;Atornillar la orejeta del servo;P37, Servo10;V7_HW_MG10_R_M1p6x6;M1.6x6;+X;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × OD4 ID1.8 h0.4;
+16;Atornillar la orejeta del servo;P37, Servo10;V7_HW_MG10_F_M1p6x6;M1.6x6;+X;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × OD4 ID1.8 h0.4;
+17;Cerrar la tapa del brazo;Brazo10, P08, P23;V7_HW_CAP10_1_M2x6;M2x6;+X;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;Con el cartucho en banco, introduce el tornillo por el acceso axial nuevo.
+18;Cerrar la tapa del brazo;Brazo10, P08, P23;V7_HW_CAP10_0_M2x6;M2x6;+X;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;Con el cartucho en banco, introduce el tornillo por el acceso axial nuevo.
+19;Cerrar la tapa de servicio del servo;P37, P49;V15_HW_SERVICE_MG10_1_BOLT_M2x8;M2x8;+X;45 mm;1 × M2 AF4 h1.6 + 1 × WASHER;
+20;Cerrar la tapa de servicio del servo;P37, P49;V15_HW_SERVICE_MG10_0_BOLT_M2x8;M2x8;+X;45 mm;1 × M2 AF4 h1.6 + 1 × WASHER;
+21;Fijar el brazo al eje del MG90S;Brazo10, Servo10;V7_SRC_V4_MD_10_tornillo_central;OEM MG90S;+X;45 mm;;Centra el servo sin carga y alinea el brazo en el estriado. Utiliza la punta y el tornillo del fabricante.
+22;Introducir tuerca, retén P30 y calce;P23, P30;Precargar P30;Operación a mano;Según la guía;—;;En la mano, carga la M2 AF4 en la cara hexagonal de P30. Con P80, el 6701 y P69 fuera, presenta P30 y el calce de 0,2 mm desde +X. Sujeta el conjunto hasta iniciar la rosca.
+23;Cerrar el soporte del 6701;P23, P80;V15_HW_6701CLAMP_10R_1_M2x11_ASSY;M2x11;−Y 0.75 · −Z 0.66;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;Con P30 colocado, presenta el 6701 y luego P80 desde +X. Retén alineados P30 y el calce.
+24;Cerrar el soporte del 6701;P23, P80;V15_HW_6701CLAMP_10R_0_M2x11_ASSY;M2x11;−Y 0.75 · −Z 0.66;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;Con P30 colocado, presenta el 6701 y luego P80 desde +X. Retén alineados P30 y el calce.
+25;Fijar el apoyo pasivo por fuera de P69;P23, P30, P69;V7_HW_PASSIVE_HEAD10_M2x10;M2x10;+X;45 mm;1 × OD5 ID2.2 h0.3;M2×10 con arandela Ø5 × 0,3 bajo la cabeza. Introduce P69 desde +X y aprieta desde fuera.
+26;Fijar la mejilla de la cabeza;P49, P69;V15_HW_HEAD_CHEEK_SSH_M2x8_L;M2x8 NBK SSH-M2-8;+Y;45 mm;1 × M2 AF4 h1.6 + 1 × M2 smallseries flatwasher DIN433 nominalOD4.5 ID2.2 h0.3;
+27;Fijar la mejilla de la cabeza;P49, P69;V15_HW_HEAD_CHEEK_SSH_M2x10_R;M2x10 NBK SSH-M2-10;−Y;45 mm;1 × M2 AF4 h1.6 + 1 × M2 smallseries flatwasher DIN433 nominalOD4.5 ID2.2 h0.3;
+28;Fijar la bandeja de la Raspberry Pi;P43, P69;V7_HEAD_HW_PI_CORE_2;M2x25;+Z;45 mm;1 × M2 AF4 h1.6 + 2 × OD5 ID2.2 h0.3;
+29;Fijar la bandeja de la Raspberry Pi;P43, P49;V7_HEAD_HW_PI_CORE_1;M2x8;+Z;45 mm;1 × M2 AF4 h1.6 + 2 × OD5 ID2.2 h0.3;
+30;Fijar la bandeja de la Raspberry Pi;P43, P49;V7_HEAD_HW_PI_CORE_0;M2x8;+Z;45 mm;1 × M2 AF4 h1.6 + 2 × OD5 ID2.2 h0.3;
+31;Fijar la Pi Zero 2 W;P43;V7_HW_PCB_PI_3_M2x10;M2x10;+Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;
+32;Fijar la Pi Zero 2 W;P43;V7_HW_PCB_PI_2_M2x10;M2x10;+Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;
+33;Fijar la Pi Zero 2 W;P43;V7_HW_PCB_PI_1_M2x10;M2x10;+Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;
+34;Fijar la Pi Zero 2 W;P43;V7_HW_PCB_PI_0_M2x10;M2x10;+Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;
+35;Fijar la IMU BNO055;P44;V7_HW_PCB_BNO_3_M2x10;M2x10;+Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;
+36;Fijar la IMU BNO055;P44;V7_HW_PCB_BNO_2_M2x10;M2x10;+Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;
+37;Fijar la IMU BNO055;P44;V7_HW_PCB_BNO_1_M2x10;M2x10;+Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;
+38;Fijar la IMU BNO055;P44;V7_HW_PCB_BNO_0_M2x10;M2x10;+Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;
+39;Atornillar la orejeta del servo;P12, Servo14;V7_HW_MG14_R_M1p6x6;M1.6x6;−Y 1.0 · −Z 0.09;45 mm;1 × OD4 ID1.8 h0.4;
+40;Atornillar la orejeta del servo;P12, Servo14;V7_HW_MG14_F_M1p6x6;M1.6x6;−Y 1.0 · −Z 0.09;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × OD4 ID1.8 h0.4;
+41;Montar el interruptor de puntera;P13;V15_HW_FOOT_R_TOE_1;M2x10;−X;45 mm;1 × M2 AF4 h1.6 + 1 × M2 washer OD4.3 ID2.2 thickness0.3;
+42;Montar el interruptor de puntera;P13;V15_HW_FOOT_R_TOE_0;M2x10;−X;45 mm;1 × M2 AF4 h1.6 + 1 × M2 washer OD4.3 ID2.2 thickness0.3;
+43;Montar el interruptor de talón;P13;V15_HW_FOOT_R_HEEL_1;M2x11;+X;45 mm;1 × M2 AF4 h1.6 + 2 × M2 washer OD4.3 ID2.2 thickness0.3;
+44;Montar el interruptor de talón;P13;V15_HW_FOOT_R_HEEL_0;M2x11;+X;45 mm;1 × M2 AF4 h1.6 + 2 × M2 washer OD4.3 ID2.2 thickness0.3;
+45;Introducir la espinilla en el pie abierto;P12, P13;Introducir espinilla P12;Operación a mano;Según la guía;—;;Desplaza 2,75 mm hacia el puente abierto, baja la espinilla y recupera los 2,75 mm.
+46;Colocar el 6700 en el puente;P82;Colocar rodamiento P82;Operación a mano;Según la guía;—;;Introduce el 6700 por la cara interior del puente, presenta ambos juntos desde el lateral y apoya el escalón.
+47;Atornillar el puente del tobillo;P13, P82;P13_M2x8_1;M2x8 NBK SSH-M2-8 ultra-low profile;+Y 1.0 · +Z 0.09;45 mm;;
+48;Atornillar el puente del tobillo;P13, P82;P13_M2x8_0;M2x8 NBK SSH-M2-8 ultra-low profile;+Y 1.0 · +Z 0.09;45 mm;;
+49;Fijar el retén pasivo del tobillo;P12, P32, P82;V7_HW_PASSIVE_ANKLE14_M2x6;M2x6;+Y 1.0 · +Z 0.09;45 mm;1 × OD5 ID2.2 h0.35 + 1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3;La tuerca se precarga en la espinilla antes del MG90S. Coloca calce, retén y arandela por fuera.
+50;Atornillar la orejeta del servo;P04, Servo05;V7_HW_MG05_R_M1p6x6;M1.6x6;+Y 1.0 · −Z 0.09;45 mm;1 × OD4 ID1.8 h0.4;
+51;Atornillar la orejeta del servo;P04, Servo05;V7_HW_MG05_F_M1p6x6;M1.6x6;+Y 1.0 · −Z 0.09;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × OD4 ID1.8 h0.4;
+52;Montar el interruptor de puntera;P05;V15_HW_FOOT_L_TOE_1;M2x10;−X;45 mm;1 × M2 AF4 h1.6 + 1 × M2 washer OD4.3 ID2.2 thickness0.3;
+53;Montar el interruptor de puntera;P05;V15_HW_FOOT_L_TOE_0;M2x10;−X;45 mm;1 × M2 AF4 h1.6 + 1 × M2 washer OD4.3 ID2.2 thickness0.3;
+54;Montar el interruptor de talón;P05;V15_HW_FOOT_L_HEEL_1;M2x11;+X;45 mm;1 × M2 AF4 h1.6 + 2 × M2 washer OD4.3 ID2.2 thickness0.3;
+55;Montar el interruptor de talón;P05;V15_HW_FOOT_L_HEEL_0;M2x11;+X;45 mm;1 × M2 AF4 h1.6 + 2 × M2 washer OD4.3 ID2.2 thickness0.3;
+56;Introducir la espinilla en el pie abierto;P04, P05;Introducir espinilla P04;Operación a mano;Según la guía;—;;Desplaza 2,75 mm hacia el puente abierto, baja la espinilla y recupera los 2,75 mm.
+57;Colocar el 6700 en el puente;P81;Colocar rodamiento P81;Operación a mano;Según la guía;—;;Introduce el 6700 por la cara interior del puente, presenta ambos juntos desde el lateral y apoya el escalón.
+58;Atornillar el puente del tobillo;P05, P81;P05_M2x8_1;M2x8 NBK SSH-M2-8 ultra-low profile;−Y 1.0 · +Z 0.09;45 mm;;
+59;Atornillar el puente del tobillo;P05, P81;P05_M2x8_0;M2x8 NBK SSH-M2-8 ultra-low profile;−Y 1.0 · +Z 0.09;45 mm;;
+60;Fijar el retén pasivo del tobillo;P04, P31, P81;V7_HW_PASSIVE_ANKLE05_M2x6;M2x6;−Y 1.0 · +Z 0.09;45 mm;1 × OD5 ID2.2 h0.35 + 1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3;La tuerca se precarga en la espinilla antes del MG90S. Coloca calce, retén y arandela por fuera.
+61;Fijar la tapa del rodamiento del cuello;P28, P44;V7_HW_NECK_BEARING_1_M2x8;M2x8 NBK SSH-M2-8 ultra-low profile;−Y;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.3;
+62;Fijar la tapa del rodamiento del cuello;P28, P44;V7_HW_NECK_BEARING_0_M2x8;M2x8;−Y;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.3;
+63;Fijar el eje del cuello;P06, P29;V7_HW_NECK_AXLE_M2x8;M2x8;−Y;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+64;Atornillar la orejeta del servo;P11, Servo13;V7_HW_MG13_R_M1p6x6;M1.6x6;+Y 1.0 · +Z 0.09;45 mm;1 × OD4 ID1.8 h0.4;
+65;Atornillar la orejeta del servo;P11, Servo13;V7_HW_MG13_F_M1p6x6;M1.6x6;+Y 1.0 · +Z 0.09;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × OD4 ID1.8 h0.4;
+66;Atornillar la orejeta del servo;P11, Servo12;V7_HW_MG12_R_M1p6x6;M1.6x6;+Y 1.0 · +Z 0.09;45 mm;1 × OD4 ID1.8 h0.4;
+67;Atornillar la orejeta del servo;P11, Servo12;V7_HW_MG12_F_M1p6x6;M1.6x6;+Y 1.0 · +Z 0.09;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × OD4 ID1.8 h0.4;
+68;Atornillar la orejeta del servo;P44, Servo01;V7_HW_MG01_F_M1p6x6;M1.6x6;−Z;45 mm;1 × OD4 ID1.8 h0.4;
+69;Cerrar la tapa del brazo;Brazo01, P09, P15;V7_HW_CAP01_1_M2x6;M2x5.8;−Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;Con el cartucho en banco, introduce el tornillo por el acceso axial nuevo.
+70;Cerrar la tapa del brazo;Brazo01, P09, P15;V7_HW_CAP01_0_M2x6;M2x5.8;−Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;Con el cartucho en banco, introduce el tornillo por el acceso axial nuevo.
+71;Fijar el brazo al eje del MG90S;Brazo01, Servo01;V7_SRC_V4_MD_01_tornillo_central;OEM MG90S;−Z;45 mm;;Centra el servo sin carga y alinea el brazo en el estriado. Utiliza la punta y el tornillo del fabricante.
+72;Atornillar la orejeta del servo;P15, Servo11;V7_HW_MG11_R_M1p6x6;M1.6x6;+X;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × OD4 ID1.8 h0.4;
+73;Atornillar la orejeta del servo;P69, Servo09;V7_HW_MG09_R_M1p6x6;M1.6x6;+Y;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × OD4 ID1.8 h0.4;
+74;Atornillar la orejeta del servo;P49, Servo09;V7_HW_MG09_F_M1p6x6;M1.6x6;+Y;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × OD4 ID1.8 h0.4;
+75;Atornillar la orejeta del servo;P23, Servo08;V7_HW_MG08_R_M1p6x6;M1.6x6;−Z;45 mm;1 × OD4 ID1.8 h0.4;
+76;Atornillar la orejeta del servo;P23, Servo08;V7_HW_MG08_F_M1p6x6;M1.6x6;−Z;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × OD4 ID1.8 h0.4;
+77;Atornillar la orejeta del servo;P06, Servo07;V7_HW_MG07_R_M1p6x6;M1.6x6;+Y;45 mm;1 × OD4 ID1.8 h0.4;
+78;Atornillar la orejeta del servo;P06, Servo07;V7_HW_MG07_F_M1p6x6;M1.6x6;+Y;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × OD4 ID1.8 h0.4;
+79;Atornillar la orejeta del servo;P06, Servo06;V7_HW_MG06_R_M1p6x6;M1.6x6;+Y;45 mm;1 × OD4 ID1.8 h0.4;
+80;Atornillar la orejeta del servo;P06, Servo06;V7_HW_MG06_F_M1p6x6;M1.6x6;+Y;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × OD4 ID1.8 h0.4;
+81;Atornillar la orejeta del servo;P03, Servo04;V7_HW_MG04_R_M1p6x6;M1.6x6;−Y 1.0 · +Z 0.09;45 mm;1 × OD4 ID1.8 h0.4;
+82;Atornillar la orejeta del servo;P03, Servo04;V7_HW_MG04_F_M1p6x6;M1.6x6;−Y 1.0 · +Z 0.09;45 mm;1 × OD4 ID1.8 h0.4;
+83;Atornillar la orejeta del servo;P03, Servo03;V7_HW_MG03_R_M1p6x6;M1.6x6;−Y 1.0 · +Z 0.09;45 mm;1 × OD4 ID1.8 h0.4;
+84;Atornillar la orejeta del servo;P03, Servo03;V7_HW_MG03_F_M1p6x6;M1.6x6;−Y 1.0 · +Z 0.09;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × OD4 ID1.8 h0.4;
+85;Atornillar la orejeta del servo;P44, Servo00;V7_HW_MG00_F_M1p6x6;M1.6x6;−Z;45 mm;1 × OD4 ID1.8 h0.4;
+86;Cerrar la tapa del brazo;Brazo00, P01, P14;V7_HW_CAP00_1_M2x6;M2x5.8;−Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;Con el cartucho en banco, introduce el tornillo por el acceso axial nuevo.
+87;Cerrar la tapa del brazo;Brazo00, P01, P14;V7_HW_CAP00_0_M2x6;M2x5.8;−Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;Con el cartucho en banco, introduce el tornillo por el acceso axial nuevo.
+88;Fijar el brazo al eje del MG90S;Brazo00, Servo00;V7_SRC_V4_MD_00_tornillo_central;OEM MG90S;−Z;45 mm;;Centra el servo sin carga y alinea el brazo en el estriado. Utiliza la punta y el tornillo del fabricante.
+89;Atornillar la orejeta del servo;P14, Servo02;V7_HW_MG02_R_M1p6x6;M1.6x6;+X;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × OD4 ID1.8 h0.4;
+90;Atornillar la orejeta del servo;P44, Servo01;V7_HW_MG01_R_M1p6x6;M1.6x6;−Z;45 mm;1 × OD4 ID1.8 h0.4;
+91;Atornillar la orejeta del servo;P44, Servo00;V7_HW_MG00_R_M1p6x6;M1.6x6;−Z;45 mm;1 × OD4 ID1.8 h0.4;
+92;Fijar el brazo al eje del MG90S;Brazo14, Servo14;V7_SRC_V4_MD_14_tornillo_central;OEM MG90S;−Y 1.0 · −Z 0.09;45 mm;;Centra el servo sin carga y alinea el brazo en el estriado. Utiliza la punta y el tornillo del fabricante.
+93;Cerrar la tapa del brazo;Brazo14, P13, P27;V7_HW_CAP14_1_M2x6;M2x6;−Y 1.0 · −Z 0.09;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+94;Cerrar la tapa del brazo;Brazo14, P13, P27;V7_HW_CAP14_0_M2x6;M2x6;−Y 1.0 · −Z 0.09;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+95;Cerrar la tapa del brazo;Brazo13, P10, P26;V7_HW_CAP13_1_M2x6;M2x6;+Y 1.0 · +Z 0.09;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+96;Cerrar la tapa del brazo;Brazo13, P10, P26;V7_HW_CAP13_0_M2x6;M2x6;+Y 1.0 · +Z 0.09;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+97;Cerrar la tapa del brazo;Brazo12, P12, P25;V7_HW_CAP12_1_M2x6;M2x5.8;+Y 1.0 · +Z 0.09;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+98;Cerrar la tapa del brazo;Brazo12, P12, P25;V7_HW_CAP12_0_M2x6;M2x5.8;+Y 1.0 · +Z 0.09;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+99;Cerrar la tapa del brazo;Brazo11, P10, P24;V7_HW_CAP11_1_M2x6;M2x5.8;+X;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+100;Cerrar la tapa del brazo;Brazo11, P10, P24;V7_HW_CAP11_0_M2x6;M2x5.8;+X;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+101;Cerrar la tapa del brazo;Brazo08, P07, P22;V7_HW_CAP08_1_M2x6;M2x6;−Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+102;Cerrar la tapa del brazo;Brazo08, P07, P22;V7_HW_CAP08_0_M2x6;M2x6;−Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+103;Cerrar la tapa del brazo;Brazo07, P07, P21;V7_HW_CAP07_1_M2x6;M2x6;+Y;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+104;Cerrar la tapa del brazo;Brazo07, P07, P21;V7_HW_CAP07_0_M2x6;M2x6;+Y;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+105;Cerrar la tapa del brazo;Brazo06, P20, P44;V7_HW_CAP06_1_M2x6;M2x6 NBK SSHS-M2-6-SD ultra-low small-head screw;+Y;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+106;Cerrar la tapa del brazo;Brazo06, P20, P44;V7_HW_CAP06_0_M2x6;M2x6;+Y;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+107;Fijar el brazo al eje del MG90S;Brazo05, Servo05;V7_SRC_V4_MD_05_tornillo_central;OEM MG90S;+Y 1.0 · −Z 0.09;45 mm;;Centra el servo sin carga y alinea el brazo en el estriado. Utiliza la punta y el tornillo del fabricante.
+108;Cerrar la tapa del brazo;Brazo05, P05, P19;V7_HW_CAP05_1_M2x6;M2x6;+Y 1.0 · −Z 0.09;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+109;Cerrar la tapa del brazo;Brazo05, P05, P19;V7_HW_CAP05_0_M2x6;M2x6;+Y 1.0 · −Z 0.09;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+110;Cerrar la tapa del brazo;Brazo04, P02, P18;V7_HW_CAP04_1_M2x6;M2x6;−Y 1.0 · +Z 0.09;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+111;Cerrar la tapa del brazo;Brazo04, P02, P18;V7_HW_CAP04_0_M2x6;M2x6;−Y 1.0 · +Z 0.09;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+112;Cerrar la tapa del brazo;Brazo03, P04, P17;V7_HW_CAP03_1_M2x6;M2x5.8;−Y 1.0 · +Z 0.09;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+113;Cerrar la tapa del brazo;Brazo03, P04, P17;V7_HW_CAP03_0_M2x6;M2x5.8;−Y 1.0 · +Z 0.09;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+114;Cerrar la tapa del brazo;Brazo02, P02, P16;V7_HW_CAP02_1_M2x6;M2x5.8;+X;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+115;Cerrar la tapa del brazo;Brazo02, P02, P16;V7_HW_CAP02_0_M2x6;M2x5.8;+X;45 mm;1 × M2 AF4 h1.6 + 1 × OD4.2 ID2.2 h0.4;
+116;Fijar el frontal de la cabeza;P33, P35;V7_HEAD_HW_FACE_3;M2x8;+X;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;
+117;Fijar el frontal de la cabeza;P33, P35;V7_HEAD_HW_FACE_2;M2x8;+X;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;
+118;Fijar el frontal de la cabeza;P33, P35, P40, P54;V7_HEAD_HW_FACE_1;M2x10;+X;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;
+119;Fijar el frontal de la cabeza;P33, P35, P40, P54;V7_HEAD_HW_FACE_0;M2x10;+X;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;
+120;Unir el núcleo y la carcasa inferior;P34, P69;V7_HEAD_HW_CORE_2;M2x20;−Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;Antes de unir el núcleo, presenta la tuerca M3 desde dentro de P34 según Montaje_de_la_boca.md. 
+121;Unir el núcleo y la carcasa inferior;P34, P69;V7_HEAD_HW_CORE_1;M2x18;−Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;
+122;Unir el núcleo y la carcasa inferior;P34, P49;V7_HEAD_HW_CORE_0;M2x18;−Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;
+123;Cerrar la cubierta superior;P33, P34;V7_HEAD_HW_TOP_3;M2x8;−Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;Mantén P36 y P38 fuera hasta apretar los cuatro cierres de P33.
+124;Cerrar la cubierta superior;P33, P34;V7_HEAD_HW_TOP_2;M2x8;−Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;Mantén P36 y P38 fuera hasta apretar los cuatro cierres de P33.
+125;Cerrar la cubierta superior;P33, P34;V7_HEAD_HW_TOP_1;M2x8;−Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;Mantén P36 y P38 fuera hasta apretar los cuatro cierres de P33.
+126;Cerrar la cubierta superior;P33, P34;V7_HEAD_HW_TOP_0;M2x10;−Z;45 mm;1 × M2 AF4 h1.6 + 1 × OD5 ID2.2 h0.3 + 1 × OD5 ID2.2 h0.3;Mantén P36 y P38 fuera hasta apretar los cuatro cierres de P33.
+127;Montar el hombro pasivo;P34, P36;Pivote_M3_ISO7379_4x5;ISO 7379-4-M3-5;+Y;desde -Y;Tuerca M3 y arandela M3;Con la cabeza suelta, presenta P36 desde abajo a 22° antes de colocar los seis ramales indicados en Montaje_de_la_boca.md. Entra desde fuera con la Allen de 2 mm.
+128;Montar el brazo original del MG09;P36, MG09;MG09_tornillo_original;Tornillo original;−Y;desde +Y;Brazo OEM a 13 mm;Usa la punta de cruz correspondiente al lote.
+129;Cerrar el soporte partido del rodamiento;P51, P75;V15_HW_ETCLAMP_12F_1_M2x12_ASSY;M2x12;−X 0.44 · −Y 0.08 · +Z 0.89;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+130;Cerrar la tapa de servicio del servo;P11, P51;V15_HW_SERVICE_MG13_1_BOLT_M2x8;M2x8;+Y 1.0 · +Z 0.09;45 mm;1 × WASHER;
+131;Cerrar la tapa de servicio del servo;P11, P51;V15_HW_SERVICE_MG13_0_BOLT_M2x8;M2x8;+Y 1.0 · +Z 0.09;45 mm;1 × WASHER;
+132;Cerrar la tapa de servicio del servo;P11, P51;V15_HW_SERVICE_MG12_1_BOLT_M2x8;M2x8;+Y 1.0 · +Z 0.09;45 mm;1 × WASHER;
+133;Cerrar la tapa de servicio del servo;P11, P51;V15_HW_SERVICE_MG12_0_BOLT_M2x8;M2x8;+Y 1.0 · +Z 0.09;45 mm;1 × M2 AF4 h1.6 + 1 × WASHER;
+134;Cerrar la tapa de servicio del servo;P15, P50;V15_HW_SERVICE_MG11_1_BOLT_M2x8;M2x8;+X;45 mm;1 × M2 AF4 h1.6 + 1 × WASHER;
+135;Cerrar la tapa de servicio del servo;P15, P50;V15_HW_SERVICE_MG11_0_BOLT_M2x8;M2x8;+X;45 mm;1 × M2 AF4 h1.6 + 1 × WASHER;
+136;Cerrar la tapa de servicio del servo;P23, P48;V15_HW_SERVICE_MG08_1_BOLT_M2x8;M2x8 NBK SSH-M2-8 ultra-low profile;−Z;45 mm;1 × M2 AF4 h1.6 + 1 × WASHER;
+137;Cerrar la tapa de servicio del servo;P23, P48;V15_HW_SERVICE_MG08_0_BOLT_M2x8;M2x8 NBK SSH-M2-8 ultra-low profile;−Z;45 mm;1 × M2 AF4 h1.6 + 1 × WASHER;
+138;Cerrar el soporte partido del rodamiento;P47, P73;V15_HW_ETCLAMP_03F_0_M2x12_ASSY;M2x12;−X 0.44 · +Y 0.08 · +Z 0.89;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+139;Cerrar la tapa de servicio del servo;P03, P47;V15_HW_SERVICE_MG04_1_BOLT_M2x8;M2x8;−Y 1.0 · +Z 0.09;45 mm;1 × WASHER;
+140;Cerrar la tapa de servicio del servo;P03, P47;V15_HW_SERVICE_MG04_0_BOLT_M2x8;M2x8;−Y 1.0 · +Z 0.09;45 mm;1 × WASHER;
+141;Cerrar la tapa de servicio del servo;P03, P47;V15_HW_SERVICE_MG03_1_BOLT_M2x8;M2x8;−Y 1.0 · +Z 0.09;45 mm;1 × M2 AF4 h1.6 + 1 × WASHER;
+142;Cerrar la tapa de servicio del servo;P03, P47;V15_HW_SERVICE_MG03_0_BOLT_M2x8;M2x8;−Y 1.0 · +Z 0.09;45 mm;1 × WASHER;
+143;Cerrar la tapa de servicio del servo;P14, P46;V15_HW_SERVICE_MG02_1_BOLT_M2x8;M2x8;+X;45 mm;1 × M2 AF4 h1.6 + 1 × WASHER;
+144;Cerrar la tapa de servicio del servo;P14, P46;V15_HW_SERVICE_MG02_0_BOLT_M2x8;M2x8;+X;45 mm;1 × M2 AF4 h1.6 + 1 × WASHER;
+145;Cerrar el soporte partido del rodamiento;P52, P71;V15_HW_ETCLAMP_01F_1_M2x12_ASSY;M2x12;−X;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+146;Cerrar el soporte partido del rodamiento;P52, P71;V15_HW_ETCLAMP_01F_0_M2x12_ASSY;M2x12;−X;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+147;Cerrar la tapa de servicio del servo;P44, P52;V15_HW_SERVICE_MG01_1_BOLT_M2x8;M2x8;−Z;45 mm;1 × WASHER;
+148;Cerrar la tapa de servicio del servo;P44, P52;V15_HW_SERVICE_MG01_0_BOLT_M2x8;M2x8;−Z;45 mm;1 × WASHER;
+149;Cerrar el soporte partido del rodamiento;P53, P70;V15_HW_ETCLAMP_00F_1_M2x12_ASSY;M2x12;−X;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+150;Cerrar el soporte partido del rodamiento;P53, P70;V15_HW_ETCLAMP_00F_0_M2x12_ASSY;M2x12;−X;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+151;Cerrar la tapa de servicio del servo;P44, P53;V15_HW_SERVICE_MG00_1_BOLT_M2x8;M2x8;−Z;45 mm;1 × WASHER;
+152;Cerrar la tapa de servicio del servo;P44, P53;V15_HW_SERVICE_MG00_0_BOLT_M2x8;M2x8;−Z;45 mm;1 × WASHER;
+153;Fijar la tapa del interruptor magnético;P83, P63;V15_HW_REED_CAP_M2x8;M2x8;+Z;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;Una arandela Ø4,3 × 0,3 bajo la cabeza, la otra junto a la tuerca. Apoya la primera sobre el nuevo asiento.
+154;Fijar el portafusibles MINI;P45;V15_HW_MINI_M2x8_3;M2x8;+Y;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;
+155;Fijar el portafusibles MINI;P45;V15_HW_MINI_M2x8_2;M2x8;+Y;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;
+156;Fijar el portafusibles MINI;P45;V15_HW_MINI_M2x8_1;M2x8;+Y;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;
+157;Fijar el portafusibles MINI;P45;V15_HW_MINI_M2x8_0;M2x8;+Y;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;
+158;Fijar el soporte del conector de balance;P83, P66, P67;V15_HW_BM_SSH_M2x8;M2x8 NBK SSH-M2-8;−Y;50 mm;1 × M2 AF4 h1.6 + 1 × M2washerOD4.3h0.3;
+159;Cargar tuerca de la junta;P45, E_TUERCA_AF4_1;Cargar tuerca de la junta;Operación a mano;Guía de cassette;—;Tuerca M2 AF4 × 1,6 mm;Introduce la M2 AF4 en P45 desde la junta.
+160;Tender los dos ramales;P45, P83;Tender los dos ramales;Operación a mano;Guía de cassette;—;;Dos ramales de hasta 18 × 2,6 mm. Presenta cada uno con su corredera fuera.
+161;Deslizar P84;P45, P84;Deslizar P84;Operación a mano;Guía de cassette;—;;Lado portafusibles. Cierra las ranuras hasta la posición de retención.
+162;Deslizar P85;P83, P85;Deslizar P85;Operación a mano;Guía de cassette;—;;Lado balance. Comprueba que el cable queda enteramente dentro.
+163;Unir las mitades P45 y P83;P45, P83;Unir las mitades P45 y P83;Operación a mano;Guía de cassette;—;;Ofrece los tetones traseros y lleva la oreja de P83 bajo P45.
+164;Atornillar las dos mitades;P45, P83;E_UNION_M2x4_1;M2×4 avellanado a 90°, ranura en cruz, Ø de cabeza ≤4 mm, 4 mm de longitud total;−Z;50 mm;;Desde debajo. Cabeza enrasada. Tornillo de 4 mm de longitud total.
+165;Fijar la placa de control FR4;P83;V15_HW_ADC_DRIVER_M2x8_1;M2x8;−X;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;
+166;Fijar la placa de control FR4;P45;V15_HW_ADC_DRIVER_M2x8_0;M2x8;−X;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;
+167;Fijar el retén de batería;P83, P61;V15_HW_K10_GATE_M2x8_1;M2x8;+X;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;Una arandela Ø4,3 × 0,3 bajo la cabeza, la otra junto a la tuerca. Apoya la primera sobre el nuevo asiento.
+168;Fijar el retén de batería;P45, P61;V15_HW_K10_GATE_M2x8_0;M2x8;+X;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;Una arandela Ø4,3 × 0,3 bajo la cabeza, la otra junto a la tuerca. Apoya la primera sobre el nuevo asiento.
+169;Fijar la placa ADS1115;P83, P64;V15_HW_ADS1115_M2x8_3;M2x8;+X;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;
+170;Fijar la placa ADS1115;P45, P64;V15_HW_ADS1115_M2x8_2;M2x8;+X;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;
+171;Fijar la placa ADS1115;P64;V15_HW_ADS1115_M2x8_1;M2x8;+X;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;
+172;Fijar la placa ADS1115;P64;V15_HW_ADS1115_M2x8_0;M2x8;+X;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;
+173;Cerrar el clip de protección del pack;P83, P68;V15_HW_PCM_GATE_M2x8_1;M2x8;+X;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;
+174;Cerrar el clip de protección del pack;P45, P62;V15_HW_PCM_GATE_M2x8_0;M2x8;+X;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;
+175;Fijar el cierre del interruptor HP;P45, P65;V15_HW_HP_GATE_M2x8;M2x8;−Z;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;
+176;Cerrar la tapa del circuito del pie;P13, P60;V15_HW_FOOT_R_CIRCUITO_1;M1.6x6;−Y 0.09 · +Z 1.0;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × M1.6 washer OD3.5 ID1.8 thickness0.3;
+177;Cerrar la tapa del circuito del pie;P13, P60;V15_HW_FOOT_R_CIRCUITO_0;M1.6x6;−Y 0.09 · +Z 1.0;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × M1.6 washer OD3.5 ID1.8 thickness0.3;
+178;Cerrar la tapa del circuito del pie;P05, P59;V15_HW_FOOT_L_CIRCUITO_1;M1.6x6;+Y 0.09 · +Z 1.0;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × M1.6 washer OD3.5 ID1.8 thickness0.3;
+179;Cerrar la tapa del circuito del pie;P05, P59;V15_HW_FOOT_L_CIRCUITO_0;M1.6x6;+Y 0.09 · +Z 1.0;45 mm;1 × M1.6 AF3.2 h1.3 + 1 × M1.6 washer OD3.5 ID1.8 thickness0.3;
+180;Cerrar el soporte partido del rodamiento;P51, P75;V15_HW_ETCLAMP_12F_0_M2x12_ASSY;M2x12;−X 0.44 · −Y 0.08 · +Z 0.89;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+181;Cerrar el soporte partido del rodamiento;P50, P74;V15_HW_ETCLAMP_11F_1_M2x12_ASSY;M2x12;−Z;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+182;Cerrar el soporte partido del rodamiento;P50, P74;V15_HW_ETCLAMP_11F_0_M2x12_ASSY;M2x12;−Z;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+183;Cerrar el soporte partido del rodamiento;P47, P73;V15_HW_ETCLAMP_03F_1_M2x12_ASSY;M2x12;−X 0.44 · +Y 0.08 · +Z 0.89;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+184;Cerrar el soporte partido del rodamiento;P46, P72;V15_HW_ETCLAMP_02F_1_M2x12_ASSY;M2x12;−Z;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+185;Cerrar el soporte partido del rodamiento;P46, P72;V15_HW_ETCLAMP_02F_0_M2x12_ASSY;M2x12;−Z;45 mm;1 × M2 AF4 h1.6 + 2 × washer OD4.3 ID2.2 h0.3;
+186;Fijar la bandeja D24;P83, P65;V15_HW_D24_TRAY_M2x8_1;M2x8;−Z;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;
+187;Fijar la bandeja D24;P45, P65;V15_HW_D24_TRAY_M2x8_0;M2x8;−Z;50 mm;1 × M2 AF4 h1.6 + 2 × washer_OD4p3_ID2p15_h0p3;
+188;Fijar el brazo al eje del MG90S;Brazo13, Servo13;V7_SRC_V4_MD_13_tornillo_central;OEM MG90S;+Y 1.0 · +Z 0.09;45 mm;;Centra el servo sin carga y alinea el brazo en el estriado. Utiliza la punta y el tornillo del fabricante.
+189;Fijar el brazo al eje del MG90S;Brazo12, Servo12;V7_SRC_V4_MD_12_tornillo_central;OEM MG90S;+Y 1.0 · +Z 0.09;45 mm;;Centra el servo sin carga y alinea el brazo en el estriado. Utiliza la punta y el tornillo del fabricante.
+190;Fijar el brazo al eje del MG90S;Brazo11, Servo11;V7_SRC_V4_MD_11_tornillo_central;OEM MG90S;+X;45 mm;;Centra el servo sin carga y alinea el brazo en el estriado. Utiliza la punta y el tornillo del fabricante.
+191;Fijar el brazo al eje del MG90S;Brazo08, Servo08;V7_SRC_V4_MD_08_tornillo_central;OEM MG90S;−Z;45 mm;;Centra el servo sin carga y alinea el brazo en el estriado. Utiliza la punta y el tornillo del fabricante.
+192;Fijar el brazo al eje del MG90S;Brazo07, Servo07;V7_SRC_V4_MD_07_tornillo_central;OEM MG90S;+Y;45 mm;;Centra el servo sin carga y alinea el brazo en el estriado. Utiliza la punta y el tornillo del fabricante.
+193;Fijar el brazo al eje del MG90S;Brazo06, Servo06;V7_SRC_V4_MD_06_tornillo_central;OEM MG90S;+Y;45 mm;;Centra el servo sin carga y alinea el brazo en el estriado. Utiliza la punta y el tornillo del fabricante.
+194;Fijar el brazo al eje del MG90S;Brazo04, Servo04;V7_SRC_V4_MD_04_tornillo_central;OEM MG90S;−Y 1.0 · +Z 0.09;45 mm;;Centra el servo sin carga y alinea el brazo en el estriado. Utiliza la punta y el tornillo del fabricante.
+195;Fijar el brazo al eje del MG90S;Brazo03, Servo03;V7_SRC_V4_MD_03_tornillo_central;OEM MG90S;−Y 1.0 · +Z 0.09;45 mm;;Centra el servo sin carga y alinea el brazo en el estriado. Utiliza la punta y el tornillo del fabricante.
+196;Fijar el brazo al eje del MG90S;Brazo02, Servo02;V7_SRC_V4_MD_02_tornillo_central;OEM MG90S;+X;45 mm;;Centra el servo sin carga y alinea el brazo en el estriado. Utiliza la punta y el tornillo del fabricante.
+197;Fijar la controladora PCA9685;P83;V8_PCA_HW_M2x8_3;M2x8;+X;50 mm;1 × M2 AF4 h1.6 + 2 × OD4.3 ID2.2 h0.3;
+198;Fijar la controladora PCA9685;P45;V8_PCA_HW_M2x8_2;M2x8;+X;50 mm;1 × M2 AF4 h1.6 + 2 × OD4.3 ID2.2 h0.3;
+199;Fijar la controladora PCA9685;P83;V8_PCA_HW_M2x8_1;M2x8;+X;50 mm;1 × M2 AF4 h1.6 + 2 × OD4.3 ID2.2 h0.3;
+200;Fijar la controladora PCA9685;P45;V8_PCA_HW_M2x8_0;M2x8;+X;50 mm;1 × M2 AF4 h1.6 + 2 × OD4.3 ID2.2 h0.3;
+201;Fijar la distribución de alimentación;P83;V15_HW_PDB_LOWER_M2x18_1;M2x18;+X;50 mm;1 × M2 AF4 h1.6 + 2 × fenderwasher_OD6_ID2p2_h0p5;
+202;Fijar la distribución de alimentación;P45;V15_HW_PDB_LOWER_M2x18_0;M2x18;+X;50 mm;1 × M2 AF4 h1.6 + 2 × fenderwasher_OD6_ID2p2_h0p5;
+203;Presentar cassette en P44;P45, P83, P44;Presentar cassette en P44;Operación a mano;Guía de cassette;—;;Alinea ambas ventanas de P44 y guía la holgura del arnés durante la entrada.
+204;Cerrar el cassette contra el pecho;P44, P83;V12_HW_CASE_CLOSURE_03;M2x25;−X;50 mm;1 × M2 AF4 h1.6 + 1 × OD4.3 ID2.2 h0.3;Con el pack desconectado, conecta y aparta el arnés de la junta. Presenta el cassette y aprieta en cruz.
+205;Cerrar el cassette contra el pecho;P44, P83;V12_HW_CASE_CLOSURE_02;M2x25;−X;50 mm;1 × M2 AF4 h1.6 + 1 × OD4.3 ID2.2 h0.3;Con el pack desconectado, conecta y aparta el arnés de la junta. Presenta el cassette y aprieta en cruz.
+206;Cerrar el cassette contra el pecho;P44, P45;V12_HW_CASE_CLOSURE_01;M2x25;−X;50 mm;1 × M2 AF4 h1.6 + 1 × OD4.3 ID2.2 h0.3;Con el pack desconectado, conecta y aparta el arnés de la junta. Presenta el cassette y aprieta en cruz.
+207;Cerrar el cassette contra el pecho;P44, P45;V12_HW_CASE_CLOSURE_00;M2x25;−X;50 mm;1 × M2 AF4 h1.6 + 1 × OD4.3 ID2.2 h0.3;Con el pack desconectado, conecta y aparta el arnés de la junta. Presenta el cassette y aprieta en cruz.
+208;Encajar actuadores y suela;P13, P42;Encajar P42;Operación a mano;Según la guía;—;;Inserta los dos actuadores y encaja la suela TPU. Verifica por separado puntera y talón.
+209;Encajar actuadores y suela;P05, P41;Encajar P41;Operación a mano;Según la guía;—;;Inserta los dos actuadores y encaja la suela TPU. Verifica por separado puntera y talón.

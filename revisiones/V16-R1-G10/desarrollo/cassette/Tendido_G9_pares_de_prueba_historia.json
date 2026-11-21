@@ -1,0 +1,66 @@
+[
+ {
+  "par": [
+   "OEM14-1",
+   "OEM14-2"
+  ],
+  "antes_mm": -0.8887,
+  "despues_mm": -0.7717
+ },
+ {
+  "par": [
+   "OEM06-2",
+   "OEM06-3"
+  ],
+  "antes_mm": -0.3734,
+  "despues_mm": -0.1577
+ },
+ {
+  "par": [
+   "W096",
+   "W114"
+  ],
+  "antes_mm": -0.1999,
+  "despues_mm": 0.0839
+ },
+ {
+  "par": [
+   "OEM09-2",
+   "OEM09-3"
+  ],
+  "antes_mm": -0.1967,
+  "despues_mm": 0.0032
+ },
+ {
+  "par": [
+   "W090",
+   "OEM14-3"
+  ],
+  "antes_mm": -0.1883,
+  "despues_mm": -0.1071
+ },
+ {
+  "par": [
+   "W098",
+   "W114"
+  ],
+  "antes_mm": -0.1687,
+  "despues_mm": 0.184
+ },
+ {
+  "par": [
+   "W091",
+   "OEM14-3"
+  ],
+  "antes_mm": -0.1289,
+  "despues_mm": -0.0675
+ },
+ {
+  "par": [
+   "OEM04-1",
+   "OEM05-1"
+  ],
+  "antes_mm": -0.0689,
+  "despues_mm": -0.0056
+ }
+]

@@ -1,0 +1,21 @@
+{
+ "distancia_inferior_al_contorno_exterior_mm": 5.739,
+ "metodo_exterior": "Distancia firmada a envolvente exterior nominal sobre todas las caras del volumen retirado. Triángulos de lado máximo 0,18 mm y descuento adicional de 0,18 mm.",
+ "apoyos": {
+  "P65": {
+   "superficie_previa_de_contacto_muestreada_mm2": 492.447,
+   "superficie_conservada_muestreada_mm2": 492.429,
+   "porcentaje": 99.9963
+  },
+  "P83": {
+   "superficie_previa_de_contacto_muestreada_mm2": 33.932,
+   "superficie_conservada_muestreada_mm2": 33.932,
+   "porcentaje": 100.0
+  }
+ },
+ "metodo_apoyos": "Área de los triángulos de la pieza vecina a menos de 0,015 mm de la superficie de P45, muestreo de lado máximo 0,50 mm. El área de contacto es aproximada.",
+ "distancias_a_herrajes_mm": {
+  "V8_D24_HW_M2x8_3": 1.8704,
+  "V15_HW_HP_GATE_M2x8": 1.6869
+ }
+}
