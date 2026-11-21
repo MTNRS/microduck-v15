@@ -7,3 +7,5 @@ El paquete principal incluye el montaje y el despiece en Blender, los 86 STL por
 La revisión está publicada para ensayos de montaje con el pack desconectado. El canal deja 0,47 mm de paso durante la inserción nominal. En el conjunto quedan 24 pares de fundas con solapamiento y 31 avisos frente a electrónica o herrajes. Falta validar el montaje físico. Las fuentes de desarrollo incluyen ensayos descartados. Los nueve proyectos de la descarga principal identifican la geometría de la G10.
 
 ![Canal para la salida BM](Canal_BM_de_P45.png)
+
+[Restaurar el proyecto, la simulación de Isaac y el historial completo](respaldo/README.md)
